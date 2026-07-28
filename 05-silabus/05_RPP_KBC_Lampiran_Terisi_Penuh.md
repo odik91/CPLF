@@ -1,6 +1,6 @@
 # Lampiran RPP Terisi Penuh — Flagship KBC (Kickoff · Peer · Etika · Refleksi)
 
-**Version:** 0.1 (Draft)  
+**Version:** 0.2 (Draft)  
 **Template:** [05_RPP_KBC_Template_CPLF.md](./05_RPP_KBC_Template_CPLF.md) (Blok A–G)  
 **Modul CPLF:** [06-modules](../06-modules/kelas-x/)  
 **Dalil usulan:** [05_Mapping_Kurikulum_Berbasis_Cinta.md §6](./05_Mapping_Kurikulum_Berbasis_Cinta.md#6-titik-kait-materi-cplf--usulan-dalil-al-quran--sunnah) — verifikasi tim agama.
@@ -24,6 +24,12 @@
 | 9 | XII-S6-P06 | Etika AI (wajib capstone) | §9 |
 | 10 | X-S1-P18 | Showcase + refleksi S1 | §10 |
 | 11 | XII-S6-P18 | Refleksi lulusan | §11 |
+| 12 | X-S2-P18 | Portofolio & refleksi tahun X | §12 |
+| 13 | XI-S3-P15 | Demo project + peer feedback S3 | §13 |
+| 14 | XI-S3-P16 | Code review (peer kualitas) S3 | §14 |
+| 15 | XI-S3-P18 | Showcase semester 3 | §15 |
+| 16 | XI-S4-P18 | Portofolio tahun XI | §16 |
+| 17 | XII-S5-P18 | Showcase + refleksi S5 (ML) | §17 |
 
 RPP lain (S5-P08 + BRG-08, fetch, dll.): [05_RPP_KBC_Lampiran_Flagship_dan_Jalur.md](./05_RPP_KBC_Lampiran_Flagship_dan_Jalur.md)
 
@@ -452,6 +458,216 @@ Progress Card final · bukan ujian TEC · dokumentasi arsip madrasah.
 
 ---
 
+## §12 — X-S2-P18 Portofolio & Refleksi Tahun X
+
+### Blok A
+
+| Kode | X-S2-P18 · 2 JP · [modul](../06-modules/kelas-x/semester-2/X-S2-P18_portofolio-tahun-x.md) |
+| Unit | X2.8 — penutup **tahun X** |
+
+### Blok B
+
+| CP | BK, AP, LD (integrasi) |
+| Capability | CX-* via [Progress Card](../09-rubrik/09_Progress_Card.md) |
+| Transformasi | Problem solver → web sederhana — **identitas belajar**, bukan profesi |
+| Formatif | TRF, REA · arsip portofolio |
+
+### Blok C
+
+| Panca | **Diri** (identitas sehat) · **Allah** (syukur ilmu) |
+| Indikator | Murid sejahtera — **tanpa ranking** |
+| Tema | Growth over competition · rendah hati |
+| Momen | Reflect 50–70 · optional gallery 70–85 |
+
+### Blok D
+
+| Dalil | QS Ta-Ha 20:114 · QS Ali Imran 3:190–191 |
+| Refleksi | “Apa yang berubah dalam cara berpikir?” + 1 contoh klarifikasi |
+| Bukti | Portofolio S1+S2 · Progress Card · narasi 1 halaman |
+
+### Blok E
+
+0–10 opening identitas · 10–30 susun portofolio · 30–50 Progress Card · 50–70 3 MM · 70–85 gallery opsional · 85–90 teaser XI
+
+### Blok F
+
+Progress Card + narasi — arsip CPLF; hindari nilai ranking kecepatan.
+
+### Blok G
+
+| BRG-02 | Assign PR liburan ES6 sebelum kelas XI |
+| Preview | Halaman → **sistem** (XI S3) |
+
+---
+
+## §13 — XI-S3-P15 Demo Project & Peer Feedback
+
+### Blok A
+
+| Kode | XI-S3-P15 · 2 JP · [modul](../06-modules/kelas-xi/semester-3/XI-S3-P15_project-s3-demo-peer.md) |
+
+### Blok B
+
+| Capability | CXI-T1, COM, REA |
+| Transformasi | “Jalan di laptopku” → **demo + reasoning** yang bisa diuji teman |
+
+### Blok C
+
+| Panca | **Sesama** |
+| Tema | Apresiasi + pertanyaan — bukan mengejek demo gagal |
+| Momen | Peer sticky 50–70 · 1 revisi untuk P16 |
+
+### Blok D
+
+| Dalil | QS Al-Hujurat 49:11 (larangan ejek) · QS 49:10 |
+| Bukti | Catatan 1 revisi wajib · demo script |
+
+### Blok E
+
+0–5 format demo · 5–50 rotasi 3–4 menit · 50–70 peer +1 kuat +1 tanya · 70–85 backlog revisi · 85–90 exit
+
+### Blok G
+
+Jembatan ke **P16 code review** formal · BRG-03 setelah P10.
+
+---
+
+## §14 — XI-S3-P16 Code Review Kualitas (Peer)
+
+### Blok A
+
+| Kode | XI-S3-P16 · 2 JP · [modul](../06-modules/kelas-xi/semester-3/XI-S3-P16_code-review-kualitas.md) |
+
+### Blok B
+
+| Capability | CXI-C1 |
+| Transformasi | “Yang penting jalan” → **kualitas** terbaca & maintainable |
+| Formatif | COM, ITR |
+
+### Blok C
+
+| Panca | **Sesama** |
+| Indikator | Madrasah ramah anak — feedback **SBI** (situasi–perilaku–dampak) |
+| Tema | Santun · amanah · tidak menjatuhkan |
+| Momen | Model guru 1 komentar konstruktif · Practice review 35–60 |
+
+### Blok D
+
+| Dalil | QS Al-Hujurat 49:11 · HR mukmin satu tubuh (verifikasi) |
+| Refleksi | “Review temanku vs review dirimu — apa bedanya?” |
+| Bukti | Rubrik peer · 1 implementasi feedback |
+
+### Blok E
+
+0–5 trap “jalan = A” · 5–15 baca 2 snippet · 15–25 rubrik review · 25–35 SBI · 35–60 review · 60–75 build fix · 75–90 reflect
+
+### Blok G
+
+Pola sama dengan X-S2-P15 / XI-S4-P16 — persiapan **Git review** S4.
+
+---
+
+## §15 — XI-S3-P18 Showcase & Refleksi Semester 3
+
+### Blok A
+
+| Kode | XI-S3-P18 · 2 JP · [modul](../06-modules/kelas-xi/semester-3/XI-S3-P18_showcase-refleksi-s3.md) |
+
+### Blok B
+
+| Transformasi | Project selesai → **bukti capability** + growth |
+| Formatif | [Rubrik Project](../09-rubrik/09_Rubrik_Project.md) — REA, ITR, COM, TEC |
+
+### Blok C
+
+| Panca | Sesama · Diri |
+| Momen | Peer: 2 pertanyaan + 1 apresiasi · Reflect X→XI |
+
+### Blok D
+
+| Dalil | QS Al-Mujadilah 58:11 |
+| Bukti | Presentasi wajib (DoD, before/after, transfer) · jurnal refleksi |
+
+### Blok E
+
+0–55 showcase 4–5 menit · 55–70 peer · 70–85 jurnal 3 perubahan · 85–90 preview S4 API/tim
+
+### Blok G
+
+| S4 | Fetch + Git — [BRG-04/05](../06-modules/materi-pendukung/jalur-kelanjutan/00_Index_Jalur_Kelanjutan.md) |
+
+---
+
+## §16 — XI-S4-P18 Portofolio Tahun XI
+
+### Blok A
+
+| Kode | XI-S4-P18 · 2 JP · [modul](../06-modules/kelas-xi/semester-4/XI-S4-P18_portofolio-tahun-xi.md) |
+| Unit | XI4.8 — penutup **tahun XI** |
+
+### Blok B
+
+| Capability | CXI-* · Progress Card |
+| Transformasi | Kumpulan file → **portofolio** siap XII |
+| Formatif | TRF, COM |
+
+### Blok C
+
+| Panca | Sesama (gallery walk sticky) · Allah (ilmu terstruktur) |
+| Tema | Kolaborasi Git = gotong royong |
+| Momen | Peer gallery 60–75 · Reflect 3 capability |
+
+### Blok D
+
+| Dalil | QS Al-Maidah 5:2 · QS An-Nisa 4:58 (refleksi Git) |
+| Bukti | S3+S4 link · 1 blueprint/ER · refleksi kolaborasi |
+
+### Blok E
+
+0–10 contoh portofolio · 10–30 Progress Card · 30–60 susun portofolio · 60–75 gallery · 75–85 reflect · 85–90 preview XII ML/etika
+
+### Blok G
+
+| Wajib XII awal | [BRG-01](../06-modules/materi-pendukung/jalur-kelanjutan/BRG-01_Prasyarat_ML_AI_Spiral.md) diagnostik |
+| Opsional ekstra | BRG-06/07 pasca lulus |
+
+---
+
+## §17 — XII-S5-P18 Showcase & Refleksi S5 (Data + Model)
+
+### Blok A
+
+| Kode | XII-S5-P18 · 2 JP · [modul](../06-modules/kelas-xii/semester-5/XII-S5-P18_showcase-refleksi-s5.md) |
+
+### Blok B
+
+| CP | AD, AP, LD |
+| Transformasi | “AI = chatbot” → **data + model + batas** |
+| Formatif | Rubrik project · batasan model wajib dibacakan |
+
+### Blok C
+
+| Panca | Allah (jujur) · Sesama (peer pada batasan) |
+| Tema | **Demo gagal** = kejujuran E1 |
+| Momen | Reflect 65–80 |
+
+### Blok D
+
+| Dalil | QS Al-Ahzab 33:70 · QS An-Nisa 4:135 |
+| Refleksi | “Satu kegagalan model yang kamu akui hari ini” |
+| Bukti | Demo live · dokumen batasan · peer rubrik |
+
+### Blok E
+
+0–50 showcase (masalah·data·demo·batas) · 50–65 peer · 65–80 reflect · 80–90 preview S6 capstone + **P06 etika**
+
+### Blok G
+
+| Wajib berikutnya | XII-S6-P06 sebelum capstone build |
+| ML | Artefak disimpan untuk P16 S6 portofolio |
+
+---
+
 ## Checklist koordinator (semua RPP flagship)
 
 - [ ] Dalil §6 mapping disetujui tim agama per semester  
@@ -459,6 +675,8 @@ Progress Card final · bukan ujian TEC · dokumentasi arsip madrasah.
 - [ ] Peer: protokol ramah anak diposter di kelas  
 - [ ] XII: P06 sebelum capstone · BRG-08 sebelum S5 training  
 - [ ] Blok G terisi di setiap RPP semester XII  
+- [ ] Setiap **penutup semester/tahun** (P18) punya refleksi + Progress Card  
+- [ ] XI S3: P15 → P16 → P18 berurutan (demo → review → showcase)
 
 ---
 
@@ -470,4 +688,4 @@ Progress Card final · bukan ujian TEC · dokumentasi arsip madrasah.
 
 ## Catatan versi
 
-v0.1 — 11 RPP terisi penuh Blok A–G; revisi setelah pilot Dapodik madrasah.
+v0.2 — **17 RPP** terisi penuh Blok A–G (§1–§17); revisi setelah pilot Dapodik madrasah.

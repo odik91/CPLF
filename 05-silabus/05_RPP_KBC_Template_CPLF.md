@@ -131,7 +131,7 @@
 
 Gunakan template penuh untuk baris di bawah; pertemuan lain cukup **Blok C–D ringkas** (3 baris) di RPP sekolah.
 
-**RPP Blok A–G terisi lengkap (11 file logis):** [05_RPP_KBC_Lampiran_Terisi_Penuh.md](../05-silabus/05_RPP_KBC_Lampiran_Terisi_Penuh.md)
+**RPP Blok A–G terisi lengkap (17 pertemuan, §1–§17):** [05_RPP_KBC_Lampiran_Terisi_Penuh.md](../05-silabus/05_RPP_KBC_Lampiran_Terisi_Penuh.md)
 
 | Kelas | Kode | Fokus KBC | Modul CPLF | Dalil (usulan — §6 mapping) |
 |-------|------|-----------|------------|------------------------------|

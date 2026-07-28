@@ -200,8 +200,8 @@ Bukti sikap        : [ refleksi / rubrik / artefak ]
 | [05_RPP_KBC_Lampiran_Flagship_dan_Jalur.md](./05_RPP_KBC_Lampiran_Flagship_dan_Jalur.md) | **Ada (v0.1)** | RPP contoh S5-P08, S4 fetch, S6 etika + jadwal BRG |
 | [05_Kaji_Ulang_Jalur_S1-S6_dan_Gap.md](./05_Kaji_Ulang_Jalur_S1-S6_dan_Gap.md) | **Ada (v0.1)** | Gate semester, gap ML/React/Node |
 | BRG `jalur-kelanjutan/` | **8 file (v0.1)** | Materi pendamping gap |
-| [05_RPP_KBC_Lampiran_Terisi_Penuh.md](./05_RPP_KBC_Lampiran_Terisi_Penuh.md) | **Ada (v0.1)** | 11 RPP Blok A–G: kickoff, peer, P06, refleksi |
-| Lampiran per kelas | **Sebagian** | Lihat terisi penuh §1–§11; sisanya pakai template |
+| [05_RPP_KBC_Lampiran_Terisi_Penuh.md](./05_RPP_KBC_Lampiran_Terisi_Penuh.md) | **Ada (v0.2)** | 17 RPP Blok A–G §1–§17 |
+| Lampiran per kelas | **Lengkap flagship** | Showcase S2/S3/S5, portofolio X/XI — lihat §12–§17 |
 | Validasi pilot | Belum | Catat di [10-research/pilot](../10-research/pilot/) apakah siswa mengaitkan dalil dengan reasoning teknis |
 
 ---
