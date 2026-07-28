@@ -27,4 +27,6 @@
 
 📘 = [materi pendukung + referensi ML](../../materi-pendukung/kelas-xii/semester-5/XII-S5_Materi_Index.md) · [Panduan ML guru](../../materi-pendukung/00_Panduan_Guru_ML_TFJS.md)
 
+**Handout siswa & materi guru lengkap:** [materi ajar S5](../../materi-ajar/kelas-xii/semester-5/00_Index_Materi_Ajar.md) · **Wajib:** [BRG-01](../../materi-ajar/jalur-kelanjutan/BRG-01_siswa.md) · [BRG-08](../../materi-ajar/jalur-kelanjutan/BRG-08_siswa.md) (sebelum P08)
+
 [← Kelas XII](../README.md) · [Semester 6 →](../semester-6/XII-S6_Index.md)

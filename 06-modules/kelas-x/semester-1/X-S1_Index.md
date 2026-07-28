@@ -27,4 +27,6 @@
 
 📘 = [materi pendukung guru](../../materi-pendukung/kelas-x/semester-1/X-S1_Materi_Index.md) (pengetahuan · skrip live · etika — **bukan untuk siswa**)
 
+**Handout siswa & materi guru lengkap (siap sampaikan):** [Indeks materi ajar S1](../../materi-ajar/kelas-x/semester-1/00_Index_Materi_Ajar.md) · [BRG pendamping](../../materi-ajar/jalur-kelanjutan/00_Index_Materi_Ajar_BRG.md)
+
 [← Kelas X](../README.md) · [Semester 2 →](../semester-2/X-S2_Index.md)

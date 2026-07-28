@@ -27,4 +27,6 @@
 
 📘 = [materi pendukung guru](../../materi-pendukung/kelas-x/semester-2/X-S2_Materi_Index.md) (**bukan untuk siswa**)
 
+**Handout siswa & materi guru lengkap:** [materi ajar S2](../../materi-ajar/kelas-x/semester-2/00_Index_Materi_Ajar.md) · [BRG](../../materi-ajar/jalur-kelanjutan/00_Index_Materi_Ajar_BRG.md) (BRG-02 di akhir tahun)
+
 [← Semester 1](../semester-1/X-S1_Index.md) · [Kelas X](../README.md)

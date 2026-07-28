@@ -1,6 +1,6 @@
 # Lampiran RPP Terisi Penuh — Flagship KBC (Kickoff · Peer · Etika · Refleksi)
 
-**Version:** 0.2 (Draft)  
+**Version:** 0.3 (Draft)  
 **Template:** [05_RPP_KBC_Template_CPLF.md](./05_RPP_KBC_Template_CPLF.md) (Blok A–G)  
 **Modul CPLF:** [06-modules](../06-modules/kelas-x/)  
 **Dalil usulan:** [05_Mapping_Kurikulum_Berbasis_Cinta.md §6](./05_Mapping_Kurikulum_Berbasis_Cinta.md#6-titik-kait-materi-cplf--usulan-dalil-al-quran--sunnah) — verifikasi tim agama.
@@ -30,6 +30,9 @@
 | 15 | XI-S3-P18 | Showcase semester 3 | §15 |
 | 16 | XI-S4-P18 | Portofolio tahun XI | §16 |
 | 17 | XII-S5-P18 | Showcase + refleksi S5 (ML) | §17 |
+| 18 | X-S2-P17 | Presentasi project S2 | §18 |
+| 19 | XI-S4-P17 | Presentasi & retrospektif tim S4 | §19 |
+| 20 | XII-S6-P17 | Showcase akhir capstone | §20 |
 
 RPP lain (S5-P08 + BRG-08, fetch, dll.): [05_RPP_KBC_Lampiran_Flagship_dan_Jalur.md](./05_RPP_KBC_Lampiran_Flagship_dan_Jalur.md)
 
@@ -668,6 +671,100 @@ Pola sama dengan X-S2-P15 / XI-S4-P16 — persiapan **Git review** S4.
 
 ---
 
+## §18 — X-S2-P17 Presentasi Project S2
+
+### Blok A
+
+| Kode | X-S2-P17 · 2 JP · [modul](../06-modules/kelas-x/semester-2/X-S2-P17_presentasi-s2.md) |
+
+### Blok B
+
+| Transformasi | Artefak → **komunikasi reasoning** |
+| Formatif | COM, REA, TEC · [Rubrik Project](../09-rubrik/09_Rubrik_Project.md) |
+
+### Blok C
+
+| Panca | Sesama (apresiasi) · Allah (jujur demo) |
+| Tema | Reasoning > demo cantik |
+
+### Blok D
+
+| Dalil | QS Al-Ahzab 33:70 |
+| Bukti | Presentasi 3–4 menit + Q&A |
+
+### Blok E
+
+0–5 rubrik · 5–60 presentasi · 60–75 Q&A mengapa · 75–85 draft 6 aspek · 85–90 preview P18
+
+### Blok G
+
+Lanjut §12 portofolio tahun X.
+
+---
+
+## §19 — XI-S4-P17 Presentasi & Retrospektif Tim
+
+### Blok A
+
+| Kode | XI-S4-P17 · 2 JP · [modul](../06-modules/kelas-xi/semester-4/XI-S4-P17_presentasi-retrospektif.md) |
+
+### Blok B
+
+| Transformasi | Produk → **cerita tim** + kolaborasi |
+| Formatif | Rubrik project + kolaborasi |
+
+### Blok C
+
+| Panca | Sesama · Bangsa (integritas tim) |
+| Tema | Gotong royong · atribusi jujur · amanah data |
+
+### Blok D
+
+| Dalil | QS Al-Maidah 5:2 · QS 4:58 |
+| Bukti | Retro tim · semua anggota bicara ≥30 detik |
+
+### Blok E
+
+0–50 presentasi 5 menit/tim · 50–65 Q&A · 65–80 retrospektif · 80–90 synthesis guru
+
+### Blok G
+
+Preview §16 portofolio XI · XII ML.
+
+---
+
+## §20 — XII-S6-P17 Showcase Akhir (Komunitas MA)
+
+### Blok A
+
+| Kode | XII-S6-P17 · 2 JP · [modul](../06-modules/kelas-xii/semester-6/XII-S6-P17_showcase-akhir.md) |
+
+### Blok B
+
+| Transformasi | Kelas → **showcase** komunitas + accountability |
+| Formatif | COM, TRF, observasi etika |
+
+### Blok C
+
+| Panca | Sesama · Bangsa · Allah (amanah demo) |
+| Tema | No data pribadi di layar · hormati pengguna |
+| Indikator | Madrasah ramah anak · toleransi visitor |
+
+### Blok D
+
+| Dalil | QS An-Nur 24:27 (izin) · QS 4:58 |
+| Bukti | Booth checklist · sticky feedback visitor |
+
+### Blok E
+
+0–5 protokol etika · 5–50 booth/demo · 50–65 visitor feedback · 65–80 synthesis 3 tahun · 80–90 apresiasi capability
+
+### Blok G
+
+Lanjut §11 refleksi lulusan P18.
+
+---
+
 ## Checklist koordinator (semua RPP flagship)
 
 - [ ] Dalil §6 mapping disetujui tim agama per semester  
@@ -688,4 +785,4 @@ Pola sama dengan X-S2-P15 / XI-S4-P16 — persiapan **Git review** S4.
 
 ## Catatan versi
 
-v0.2 — **17 RPP** terisi penuh Blok A–G (§1–§17); revisi setelah pilot Dapodik madrasah.
+v0.3 — **20 RPP** terisi penuh Blok A–G (§1–§20).

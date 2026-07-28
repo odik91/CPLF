@@ -27,6 +27,7 @@ CPLF adalah framework pembelajaran untuk menumbuhkan **problem solver**, bukan p
 | Silabus X / XI / XII | [05-silabus](../05-silabus/) |
 | Menulis modul ajar | [00_Template_Modul](../06-modules/00_Template_Modul_CPLF.md) |
 | **Materi pendukung guru** | [materi-pendukung](../06-modules/materi-pendukung/README.md) (etika live coding · pengetahuan) |
+| **Materi ajar (siswa + guru lengkap)** | [materi-ajar](../06-modules/materi-ajar/README.md) · 108+8 BRG · `scripts/generate_from_cplf.py` |
 | **Modul pertemuan Kelas X** | [kelas-x](../06-modules/kelas-x/README.md) (36 × 2 JP) |
 | **Modul pertemuan Kelas XI** | [kelas-xi](../06-modules/kelas-xi/README.md) (36 × 2 JP) |
 | **Modul pertemuan Kelas XII** | [kelas-xii](../06-modules/kelas-xii/README.md) (36 × 2 JP) |
@@ -70,7 +71,7 @@ Setiap unit idealnya punya **Cognitive Trap** (membongkar asumsi, bukan memperma
 03-framework/       ← termasuk Mental Model
 04-roadmap/         ← sumber resmi roadmap
 05-silabus/         ← capability, mapping Merdeka, mapping KBC, silabus X–XII, kaji ulang jalur, RPP KBC
-06-modules/         ← template · [kelas-x/xi/xii](./06-modules/kelas-x/) · [materi-pendukung guru](./06-modules/materi-pendukung/) · [jalur kelanjutan BRG](./06-modules/materi-pendukung/jalur-kelanjutan/)
+06-modules/         ← template · [kelas-x/xi/xii](./06-modules/kelas-x/) · [materi-pendukung guru](./06-modules/materi-pendukung/) · [materi-ajar handout+guru lengkap](./06-modules/materi-ajar/) · [jalur kelanjutan BRG](./06-modules/materi-pendukung/jalur-kelanjutan/)
 07-experience_library/  ← EXP_01–10 + 30 varian (living draft)
 08-project/             ← 20 brief project X–XII (living draft)
 09-rubrik/              ← filosofi + rubrik 6 aspek (living draft)

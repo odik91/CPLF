@@ -27,4 +27,6 @@
 
 📘 = [materi pendukung + referensi CV/etika](../../materi-pendukung/kelas-xii/semester-6/XII-S6_Materi_Index.md) · [Panduan CV](../../materi-pendukung/00_Panduan_Guru_CV_Etika.md)
 
+**Handout siswa & materi guru lengkap:** [materi ajar S6](../../materi-ajar/kelas-xii/semester-6/00_Index_Materi_Ajar.md)
+
 [← Semester 5](../semester-5/XII-S5_Index.md) · [Kelas XII](../README.md)

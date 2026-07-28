@@ -27,4 +27,6 @@
 
 📘 = [materi pendukung guru](../../materi-pendukung/kelas-xi/semester-3/XI-S3_Materi_Index.md) (**bukan untuk siswa**)
 
+**Handout siswa & materi guru lengkap:** [materi ajar S3](../../materi-ajar/kelas-xi/semester-3/00_Index_Materi_Ajar.md) · [BRG-03](../../materi-ajar/jalur-kelanjutan/BRG-03_siswa.md) (setelah P09–P10)
+
 [← Kelas XI](../README.md) · [Semester 4 →](../semester-4/XI-S4_Index.md)
