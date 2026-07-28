@@ -1,17 +1,14 @@
 # Handout Siswa — BRG-04
-**Jalur pendamping CPLF** (melengkapi modul inti, bukan pengganti silabus)
 
-**Modul CPLF terkait:** lihat bagian bawah — kerjakan setelah guru memberi arahan.
+**Jalur pendamping CPLF** — melengkapi modul inti (bukan pengganti silabus).
 
 ---
-## Materi
 
-# BRG-04 — HTTP: Fetch (Klien) → Express (Server)
-
-
-## Learning Transformation
+## 1. Tujuan
 
 Dari “fetch dapat JSON ajaib” → **permintaan HTTP punya sisi server** dengan kontrak REST.
+
+## 2. Materi & langkah
 
 ## Prasyarat CPLF
 
@@ -74,8 +71,10 @@ Stack produksi internal: [aplikasi/01_Arsitektur_Sistem.md](../../../aplikasi/01
 [← Indeks BRG](./00_Index_Jalur_Kelanjutan.md)
 
 ---
-_Kerjakan bagian PR di kelas atau rumah sesuai petunjuk guru._
 
-**Digunakan bersama modul CPLF:** `XI-S4-P04`
+_Kerjakan sesuai arahan guru._
 
-**Digunakan bersama modul CPLF:** `XI-S4-P13`
+## Modul CPLF terhubung
+
+- `XI-S4-P04` — [handout modul](../kelas-xi/semester-4/XI-S4-P04_fetch-json_siswa.md)
+- `XI-S4-P13` — [handout modul](../kelas-xi/semester-4/XI-S4-P13_project-s4-kickoff_siswa.md)

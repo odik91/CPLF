@@ -1,17 +1,14 @@
 # Handout Siswa — BRG-03
-**Jalur pendamping CPLF** (melengkapi modul inti, bukan pengganti silabus)
 
-**Modul CPLF terkait:** lihat bagian bawah — kerjakan setelah guru memberi arahan.
+**Jalur pendamping CPLF** — melengkapi modul inti (bukan pengganti silabus).
 
 ---
-## Materi
 
-# BRG-03 — SPA Vanilla → Pola Komponen (Jembatan React)
-
-
-## Learning Transformation
+## 1. Tujuan
 
 Dari multi-`section` show/hide → **fungsi render terpisah per “komponen”** (props = parameter).
+
+## 2. Materi & langkah
 
 ## Yang sudah ada di CPLF
 
@@ -54,8 +51,10 @@ Ubah project S3: minimal **2 komponen render** + router hash 2 halaman.
 [← Indeks BRG](./00_Index_Jalur_Kelanjutan.md)
 
 ---
-_Kerjakan bagian PR di kelas atau rumah sesuai petunjuk guru._
 
-**Digunakan bersama modul CPLF:** `XI-S3-P09`
+_Kerjakan sesuai arahan guru._
 
-**Digunakan bersama modul CPLF:** `XI-S3-P10`
+## Modul CPLF terhubung
+
+- `XI-S3-P09` — [handout modul](../kelas-xi/semester-3/XI-S3-P09_refactor-modul_siswa.md)
+- `XI-S3-P10` — [handout modul](../kelas-xi/semester-3/XI-S3-P10_pemisahan-tanggung-jawab_siswa.md)

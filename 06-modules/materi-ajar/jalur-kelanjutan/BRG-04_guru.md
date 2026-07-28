@@ -1,4 +1,7 @@
 # Materi Guru Lengkap — BRG-04
+
+**Handout siswa:** [BRG-04_siswa.md](./BRG-04_siswa.md)
+
 **Sumber BRG:** [BRG-04_HTTP_Fetch_ke_Express.md](../../materi-pendukung/jalur-kelanjutan/BRG-04_HTTP_Fetch_ke_Express.md)
 
 ---

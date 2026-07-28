@@ -1,4 +1,7 @@
 # Materi Guru Lengkap — BRG-02
+
+**Handout siswa:** [BRG-02_siswa.md](./BRG-02_siswa.md)
+
 **Sumber BRG:** [BRG-02_ES6_Modern_JS_dan_Modul.md](../../materi-pendukung/jalur-kelanjutan/BRG-02_ES6_Modern_JS_dan_Modul.md)
 
 ---

@@ -1,12 +1,45 @@
 # Handout Siswa — XI-S3-P18
+
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
-**Modul acuan:** [XI-S3-P18_showcase-refleksi-s3.md](../../kelas-xi/semester-3/XI-S3-P18_showcase-refleksi-s3.md)
+
+**Modul acuan:** [XI-S3-P18_showcase-refleksi-s3.md](../../../kelas-xi/semester-3/XI-S3-P18_showcase-refleksi-s3.md)
+
 ---
+
 ## 1. Tujuan pembelajaran
+
 Dari project selesai → **bukti capability** + refleksi growth.
 
 ---
-## 2. Materi
+
+## 2. Ringkasan konsep
+
+- **Transformasi hari ini:** dari project selesai → **bukti capability** + refleksi growth.
+- **Format presentasi wajib (modul):**
+  - DoD / acceptance final
+  - 1 slide reasoning (boleh kertas)
+  - Sebelum–sesudah 1 revisi
+  - Transfer: pola dipakai di mana lagi
+- **Timeline:** showcase 4–5 menit → peer 2 pertanyaan + 1 apresiasi → jurnal refleksi X→XI S3 → closing preview S4.
+- **Struktur 4–5 menit:**
+
+| Menit | Isi |
+|-------|-----|
+| 0–1 | Masalah & user |
+| 1–2 | IPO + blueprint singkat |
+| 2–4 | Demo DoD — live browser |
+| 4–5 | Iterasi (before/after) + transfer S4 |
+
+- **Rubrik:** [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md) — REA, ITR, COM, TEC — guru isi, **bukan** ranking di depan kelas.
+- **Peer Q&A:** 2 pertanyaan bernalar + 1 apresiasi spesifik — bukan roast.
+- **Jurnal refleksi:** dari Kelas X ke XI S3 — **3 perubahan cara berpikir** (bukan daftar fitur).
+- **Undang wali/OSIS opsional** — simpan link artefak untuk portofolio S4 P18 (modul).
+- **Preview S4:** API · tim · persist — fondasi S3 dipakai lagi.
+
+---
+
+## 3. Materi praktik
+
 ### Rubrik presentasi (0–5 menit — briefing siswa)
 
 Jelaskan ke siswa — **bukan** angka skor:
@@ -73,7 +106,9 @@ Guru keliling — clarifying questions: "Contoh konkret dari PRJ kamu?"
 - Apresiasi effort semester — bukan ranking
 
 ---
-## 5. Alur pertemuan (90 menit)
+
+## 4. Alur pertemuan (90 menit)
+
 | Menit | Fase | Aktivitas |
 |-------|------|-----------|
 | 0–55 | Showcase | Presentasi 4–5 menit: masalah · IPO · demo · iterasi · transfer |
@@ -83,7 +118,8 @@ Guru keliling — clarifying questions: "Contoh konkret dari PRJ kamu?"
 
 ---
 
-## 6. Lembar kerja / latihan
+## 5. Lembar kerja / latihan
+
 - [ ] DoD / acceptance final  
 - [ ] 1 slide reasoning (boleh kertas)  
 - [ ] Sebelum–sesudah 1 revisi  
@@ -91,9 +127,12 @@ Guru keliling — clarifying questions: "Contoh konkret dari PRJ kamu?"
 
 ---
 
-## 8. Refleksi
+## 6. Refleksi
+
 1. Satu asumsi yang kubongkar hari ini: …
 2. Satu hal untuk pertemuan berikutnya: …
 
+
 ---
+
 _Handout ini boleh dibawa pulang. Kode ditulis sendiri di kelas — jangan copas project jadi._

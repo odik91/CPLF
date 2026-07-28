@@ -1,12 +1,14 @@
 # Handout Siswa — BRG-01
-**Jalur pendamping CPLF** (melengkapi modul inti, bukan pengganti silabus)
 
-**Modul CPLF terkait:** lihat bagian bawah — kerjakan setelah guru memberi arahan.
+**Jalur pendamping CPLF** — melengkapi modul inti (bukan pengganti silabus).
 
 ---
-## Materi
 
-# BRG-01 — Gate Prasyarat ML/AI (Spiral Kelas X–XI)
+## 1. Tujuan
+
+_Lihat materi di bawah._
+
+## 2. Materi & langkah
 
 **Jalur:** A (wajib sebelum S5-P08)
 
@@ -61,8 +63,10 @@ Gate **bukan** ujian tulis bobot rapor — alat keputusan diferensiasi. Dokument
 [← Indeks BRG](./00_Index_Jalur_Kelanjutan.md)
 
 ---
-_Kerjakan bagian PR di kelas atau rumah sesuai petunjuk guru._
 
-**Digunakan bersama modul CPLF:** `XII-S5-P01`
+_Kerjakan sesuai arahan guru._
 
-**Digunakan bersama modul CPLF:** `XII-S5-P11`
+## Modul CPLF terhubung
+
+- `XII-S5-P01` — [handout modul](../kelas-xii/semester-5/XII-S5-P01_ai-ml-dl-peta_siswa.md)
+- `XII-S5-P11` — [handout modul](../kelas-xii/semester-5/XII-S5-P11_project-s5-kickoff_siswa.md)

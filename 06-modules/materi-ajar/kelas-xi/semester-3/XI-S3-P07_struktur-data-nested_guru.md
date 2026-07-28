@@ -1,6 +1,10 @@
 # Materi Guru Lengkap — XI-S3-P07
-**Modul:** [XI-S3-P07_struktur-data-nested.md](../../kelas-xi/semester-3/XI-S3-P07_struktur-data-nested.md)
-**Materi pendukung sumber:** [XI-S3-P07_struktur-data-nested.md](../../materi-pendukung/materi-pendukung/kelas-xi/semester-3/XI-S3-P07_struktur-data-nested.md)
+
+**Handout siswa (bagikan):** [XI-S3-P07_struktur-data-nested_siswa.md](./XI-S3-P07_struktur-data-nested_siswa.md)
+
+**Modul:** [XI-S3-P07_struktur-data-nested.md](../../../kelas-xi/semester-3/XI-S3-P07_struktur-data-nested.md)
+
+**Materi pendukung sumber:** [XI-S3-P07_struktur-data-nested.md](../../../materi-pendukung/kelas-xi/semester-3/XI-S3-P07_struktur-data-nested.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -374,4 +378,4 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [00_Panduan_Etika_Penyampaian.md](../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)

@@ -1,17 +1,14 @@
 # Handout Siswa — BRG-02
-**Jalur pendamping CPLF** (melengkapi modul inti, bukan pengganti silabus)
 
-**Modul CPLF terkait:** lihat bagian bawah — kerjakan setelah guru memberi arahan.
+**Jalur pendamping CPLF** — melengkapi modul inti (bukan pengganti silabus).
 
 ---
-## Materi
 
-# BRG-02 — ES6 Modern JS & Modul (Jembatan React / ML)
-
-
-## Learning Transformation
+## 1. Tujuan
 
 Dari “variabel acak + mutasi” → **pola data modern** (spread, destructuring, immutability) yang dipakai React & pipeline data ML.
+
+## 2. Materi & langkah
 
 ## Prasyarat CPLF
 
@@ -65,7 +62,15 @@ Panca **Diri** (growth) + **Sesama** (kode terbaca untuk tim).
 
 [← Indeks BRG](./00_Index_Jalur_Kelanjutan.md)
 
----
-_Kerjakan bagian PR di kelas atau rumah sesuai petunjuk guru._
+## Latihan / PR
 
-**Digunakan bersama modul CPLF:** `X-S2-P18`
+1. Refactor satu fungsi dari project XI jadi **export** terpisah.  
+2. Tambah item CRUD dengan spread, bukan `.push` langsung pada state global (jika pakai pattern XI-S3).
+
+---
+
+_Kerjakan sesuai arahan guru._
+
+## Modul CPLF terhubung
+
+- `X-S2-P18` — [handout modul](../kelas-x/semester-2/X-S2-P18_portofolio-tahun-x_siswa.md)

@@ -1,6 +1,10 @@
 # Materi Guru Lengkap — XII-S6-P09
-**Modul:** [XII-S6-P09_project-nilai-build-1.md](../../kelas-xii/semester-6/XII-S6-P09_project-nilai-build-1.md)
-**Materi pendukung sumber:** [XII-S6-P09_project-nilai-build-1.md](../../materi-pendukung/materi-pendukung/kelas-xii/semester-6/XII-S6-P09_project-nilai-build-1.md)
+
+**Handout siswa (bagikan):** [XII-S6-P09_project-nilai-build-1_siswa.md](./XII-S6-P09_project-nilai-build-1_siswa.md)
+
+**Modul:** [XII-S6-P09_project-nilai-build-1.md](../../../kelas-xii/semester-6/XII-S6-P09_project-nilai-build-1.md)
+
+**Materi pendukung sumber:** [XII-S6-P09_project-nilai-build-1.md](../../../materi-pendukung/kelas-xii/semester-6/XII-S6-P09_project-nilai-build-1.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -397,4 +401,4 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [00_Panduan_Etika_Penyampaian.md](../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)

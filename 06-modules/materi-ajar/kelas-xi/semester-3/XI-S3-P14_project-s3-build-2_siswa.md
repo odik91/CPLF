@@ -1,12 +1,36 @@
 # Handout Siswa — XI-S3-P14
+
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
-**Modul acuan:** [XI-S3-P14_project-s3-build-2.md](../../kelas-xi/semester-3/XI-S3-P14_project-s3-build-2.md)
+
+**Modul acuan:** [XI-S3-P14_project-s3-build-2.md](../../../kelas-xi/semester-3/XI-S3-P14_project-s3-build-2.md)
+
 ---
+
 ## 1. Tujuan pembelajaran
+
 Dari fitur utama → **polish + edge case** + refactor kecil.
 
 ---
-## 2. Materi
+
+## 2. Ringkasan konsep
+
+- **Transformasi hari ini:** dari fitur utama → **polish + edge case** + refactor kecil + self-test acceptance.
+- **Timeline:** review blocker P13 → build selesaikan acceptance → refactor 1 smell → self-test → exit % acceptance + rencana demo P15.
+- **Debug protocol S3** (dari modul):
+  1. Reproduksi bug
+  2. Hipotesis (console/log/state)
+  3. Fix minimal
+  4. Cek regresi 1 fitur lain
+- **Refactor kecil:** 1 code smell — nama fungsi, split render, hapus duplikat — **bukan** rewrite arsitektur.
+- **Edge case wajib:** empty state, input invalid, duplikat — sesuai acceptance PRJ.
+- **Self-test acceptance:** siswa centang checklist sendiri — guru spot-check 3–5 kelompok.
+- **Prep P15:** rencana demo — masalah → IPO → live 2 fitur → belum selesai (modul P15).
+- **Siswa stuck >15 menit:** minta jelaskan **alur data** dulu, baru hint syntax.
+
+---
+
+## 3. Materi praktik
+
 ### Opening — prioritization 1-2-3 (0–10 menit)
 
 Review blocker P13 — setiap kelompok sebut **3 prioritas** hari ini (numbered).
@@ -42,7 +66,6 @@ Contoh smell yang **on-scope**:
 ### Self-test acceptance (75–85 menit)
 
 Siswa jalankan checklist DoD PRJ — tandai ✅/❌.
-Guru float: "Validasi input kosong PRJ-02 — sudah?" "Ringkasan absensi PRJ-01 — edge case?"
 
 ### Exit — rencana demo P15 (85–90 menit)
 
@@ -51,7 +74,9 @@ Guru float: "Validasi input kosong PRJ-02 — sudah?" "Ringkasan absensi PRJ-01 
 - 1 item "belum selesai" (kejujuran COM)
 
 ---
-## 5. Alur pertemuan (90 menit)
+
+## 4. Alur pertemuan (90 menit)
+
 | Menit | Fase | Aktivitas |
 |-------|------|-----------|
 | 0–10 | Opening | Review blocker P13 — prioritization 1-2-3 |
@@ -62,7 +87,8 @@ Guru float: "Validasi input kosong PRJ-02 — sudah?" "Ringkasan absensi PRJ-01 
 
 ---
 
-## 6. Lembar kerja / latihan
+## 5. Lembar kerja / latihan
+
 Latihan **self-test + edge case** — snippet proyeksi, siswa identifikasi gap DoD:
 
 ```javascript
@@ -98,9 +124,18 @@ function render() {
 
 ---
 
-## 8. Refleksi
+## 6. Exit ticket
+
+1. % acceptance + rencana demo P15
+2. …
+
+
+## 7. Refleksi
+
 1. Satu asumsi yang kubongkar hari ini: …
 2. Satu hal untuk pertemuan berikutnya: …
 
+
 ---
+
 _Handout ini boleh dibawa pulang. Kode ditulis sendiri di kelas — jangan copas project jadi._

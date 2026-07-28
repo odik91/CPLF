@@ -1,6 +1,10 @@
 # Materi Guru Lengkap — XII-S5-P14
-**Modul:** [XII-S5-P14_project-s5-demo-batasan.md](../../kelas-xii/semester-5/XII-S5-P14_project-s5-demo-batasan.md)
-**Materi pendukung sumber:** [XII-S5-P14_project-s5-demo-batasan.md](../../materi-pendukung/materi-pendukung/kelas-xii/semester-5/XII-S5-P14_project-s5-demo-batasan.md)
+
+**Handout siswa (bagikan):** [XII-S5-P14_project-s5-demo-batasan_siswa.md](./XII-S5-P14_project-s5-demo-batasan_siswa.md)
+
+**Modul:** [XII-S5-P14_project-s5-demo-batasan.md](../../../kelas-xii/semester-5/XII-S5-P14_project-s5-demo-batasan.md)
+
+**Materi pendukung sumber:** [XII-S5-P14_project-s5-demo-batasan.md](../../../materi-pendukung/kelas-xii/semester-5/XII-S5-P14_project-s5-demo-batasan.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -329,4 +333,4 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [00_Panduan_Etika_Penyampaian.md](../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)

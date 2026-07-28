@@ -1,6 +1,10 @@
 # Materi Guru Lengkap — XI-S3-P05
-**Modul:** [XI-S3-P05_event-user-flow.md](../../kelas-xi/semester-3/XI-S3-P05_event-user-flow.md)
-**Materi pendukung sumber:** [XI-S3-P05_event-user-flow.md](../../materi-pendukung/materi-pendukung/kelas-xi/semester-3/XI-S3-P05_event-user-flow.md)
+
+**Handout siswa (bagikan):** [XI-S3-P05_event-user-flow_siswa.md](./XI-S3-P05_event-user-flow_siswa.md)
+
+**Modul:** [XI-S3-P05_event-user-flow.md](../../../kelas-xi/semester-3/XI-S3-P05_event-user-flow.md)
+
+**Materi pendukung sumber:** [XI-S3-P05_event-user-flow.md](../../../materi-pendukung/kelas-xi/semester-3/XI-S3-P05_event-user-flow.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -377,4 +381,4 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [00_Panduan_Etika_Penyampaian.md](../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)

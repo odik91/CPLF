@@ -1,6 +1,10 @@
 # Materi Guru Lengkap — XI-S4-P10
-**Modul:** [XI-S4-P10_skema-er-mini.md](../../kelas-xi/semester-4/XI-S4-P10_skema-er-mini.md)
-**Materi pendukung sumber:** [XI-S4-P10_skema-er-mini.md](../../materi-pendukung/materi-pendukung/kelas-xi/semester-4/XI-S4-P10_skema-er-mini.md)
+
+**Handout siswa (bagikan):** [XI-S4-P10_skema-er-mini_siswa.md](./XI-S4-P10_skema-er-mini_siswa.md)
+
+**Modul:** [XI-S4-P10_skema-er-mini.md](../../../kelas-xi/semester-4/XI-S4-P10_skema-er-mini.md)
+
+**Materi pendukung sumber:** [XI-S4-P10_skema-er-mini.md](../../../materi-pendukung/kelas-xi/semester-4/XI-S4-P10_skema-er-mini.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -337,4 +341,4 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [00_Panduan_Etika_Penyampaian.md](../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)

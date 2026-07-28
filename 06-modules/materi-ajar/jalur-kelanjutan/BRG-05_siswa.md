@@ -1,17 +1,14 @@
 # Handout Siswa — BRG-05
-**Jalur pendamping CPLF** (melengkapi modul inti, bukan pengganti silabus)
 
-**Modul CPLF terkait:** lihat bagian bawah — kerjakan setelah guru memberi arahan.
+**Jalur pendamping CPLF** — melengkapi modul inti (bukan pengganti silabus).
 
 ---
-## Materi
 
-# BRG-05 — npm & Toolchain FE (Vite intro)
-
-
-## Learning Transformation
+## 1. Tujuan
 
 Dari `<script>` CDN di HTML → **proyek npm** dengan script `dev` / `build`.
+
+## 2. Materi & langkah
 
 ## Mengapa setelah Git
 
@@ -51,9 +48,16 @@ S5+ bisa pakai `npm install @tensorflow/tfjs` alih-alih CDN — opsional, bukan 
 
 [← Indeks BRG](./00_Index_Jalur_Kelanjutan.md)
 
+## Latihan / PR
+
+1. Inisialisasi Vite vanilla; pindahkan 1 halaman project X ke `src/`.  
+2. Commit tanpa `node_modules`.
+
 ---
-_Kerjakan bagian PR di kelas atau rumah sesuai petunjuk guru._
 
-**Digunakan bersama modul CPLF:** `XI-S4-P04`
+_Kerjakan sesuai arahan guru._
 
-**Digunakan bersama modul CPLF:** `XI-S4-P11`
+## Modul CPLF terhubung
+
+- `XI-S4-P04` — [handout modul](../kelas-xi/semester-4/XI-S4-P04_fetch-json_siswa.md)
+- `XI-S4-P11` — [handout modul](../kelas-xi/semester-4/XI-S4-P11_git-dasar_siswa.md)

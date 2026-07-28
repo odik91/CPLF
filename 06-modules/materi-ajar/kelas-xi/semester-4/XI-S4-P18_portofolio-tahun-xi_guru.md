@@ -1,6 +1,10 @@
 # Materi Guru Lengkap — XI-S4-P18
-**Modul:** [XI-S4-P18_portofolio-tahun-xi.md](../../kelas-xi/semester-4/XI-S4-P18_portofolio-tahun-xi.md)
-**Materi pendukung sumber:** [XI-S4-P18_portofolio-tahun-xi.md](../../materi-pendukung/materi-pendukung/kelas-xi/semester-4/XI-S4-P18_portofolio-tahun-xi.md)
+
+**Handout siswa (bagikan):** [XI-S4-P18_portofolio-tahun-xi_siswa.md](./XI-S4-P18_portofolio-tahun-xi_siswa.md)
+
+**Modul:** [XI-S4-P18_portofolio-tahun-xi.md](../../../kelas-xi/semester-4/XI-S4-P18_portofolio-tahun-xi.md)
+
+**Materi pendukung sumber:** [XI-S4-P18_portofolio-tahun-xi.md](../../../materi-pendukung/kelas-xi/semester-4/XI-S4-P18_portofolio-tahun-xi.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -373,4 +377,4 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [00_Panduan_Etika_Penyampaian.md](../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)

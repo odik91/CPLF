@@ -1,12 +1,34 @@
 # Handout Siswa — X-S1-P15
+
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
-**Modul acuan:** [X-S1-P15_project-s1-kickoff.md](../../kelas-x/semester-1/X-S1-P15_project-s1-kickoff.md)
+
+**Modul acuan:** [X-S1-P15_project-s1-kickoff.md](../../../kelas-x/semester-1/X-S1-P15_project-s1-kickoff.md)
+
 ---
+
 ## 1. Tujuan pembelajaran
+
 Dari latihan terpisah → **artefak integratif** dengan reasoning.
 
 ---
-## 2. Materi
+
+## 2. Ringkasan konsep
+
+- **Transformasi inti:** dari latihan terpisah → **artefak integratif** dengan reasoning yang bisa dijelaskan.
+- **Tiga opsi PRJ S1:**
+  - **PRJ-X-S1-01** — Algoritma Kegiatan Harian (flowchart + pseudocode; JS opsional)
+  - **PRJ-X-S1-02** — Simulasi Antrian (if + loop + data)
+  - **PRJ-X-S1-03** — Kalkulator Logika Zakat (kondisi + perhitungan)
+- **Definition of Done (DoD):** lihat file PRJ masing-masing — guru paham checklist, bukan solusi kode.
+- **Deliverable kickoff hari ini:** spec 5 poin + acceptance 3 checkbox + flowchart/outline — **bukan** project jadi.
+- **Rubrik project:** [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md) — presentasi ringkas ke siswa (capability, bukan angka).
+- **Varian rotasi:** kelas paralel beda PRJ/varian agar tidak copy antar kelas.
+- **AI policy:** log klarifikasi jika dipakai — protokol MM-00.
+
+---
+
+## 3. Materi praktik
+
 ### Kickoff ≠ build penuh
 
 90 menit hari ini fokus **perencanaan yang bisa diuji**:
@@ -44,7 +66,9 @@ Contoh yang **boleh** guru tulis di papan (generic, bukan solusi PRJ):
 Setiap siswa/kelompok tulis 1 target build + 1 blocker yang dikhawatirkan.
 
 ---
-## 5. Alur pertemuan (90 menit)
+
+## 4. Alur pertemuan (90 menit)
+
 | Menit | Fase | Aktivitas |
 |-------|------|-----------|
 | 0–10 | Opening | Presentasi 3 opsi PRJ + varian rotasi kelas |
@@ -57,7 +81,8 @@ Setiap siswa/kelompok tulis 1 target build + 1 blocker yang dikhawatirkan.
 
 ---
 
-## 6. Lembar kerja / latihan
+## 5. Lembar kerja / latihan
+
 - [ ] PRJ & varian dipilih  
 - [ ] Spec + acceptance  
 - [ ] Flowchart atau outline code  
@@ -65,9 +90,18 @@ Setiap siswa/kelompok tulis 1 target build + 1 blocker yang dikhawatirkan.
 
 ---
 
-## 8. Refleksi
+## 6. Exit ticket
+
+1. Target minggu P16
+2. …
+
+
+## 7. Refleksi
+
 1. Satu asumsi yang kubongkar hari ini: …
 2. Satu hal untuk pertemuan berikutnya: …
 
+
 ---
+
 _Handout ini boleh dibawa pulang. Kode ditulis sendiri di kelas — jangan copas project jadi._

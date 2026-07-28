@@ -1,12 +1,34 @@
 # Handout Siswa — XI-S3-P16
+
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
-**Modul acuan:** [XI-S3-P16_code-review-kualitas.md](../../kelas-xi/semester-3/XI-S3-P16_code-review-kualitas.md)
+
+**Modul acuan:** [XI-S3-P16_code-review-kualitas.md](../../../kelas-xi/semester-3/XI-S3-P16_code-review-kualitas.md)
+
 ---
+
 ## 1. Tujuan pembelajaran
+
 Dari “yang penting jalan” → **kualitas** terbaca & maintainable.
 
 ---
-## 2. Materi
+
+## 2. Ringkasan konsep
+
+- **Transformasi hari ini:** dari "yang penting jalan" → **kualitas** terbaca & maintainable.
+- **Cognitive trap (modul):** asumsi review = cari salah / menghina → counter dengan model 1 komentar konstruktif guru.
+- **Timeline:** trap opening → baca 2 snippet → rubrik review → SPD feedback → practice review teman → implement 1 feedback → reflect.
+- **Rubrik peer:** [09_Rubrik_Peer_Review](../../../09-rubrik/09_Rubrik_Peer_Review.md) — 2 pujian spesifik + 2 saran dapat ditindak + pertanyaan klarifikasi opsional.
+- **SPD feedback:** **S**ituasi–**P**erilaku–**D**ampak — bukan gaya pribadi ("kodenya jelek").
+- **Review fokus:** nama · struktur modul · edge case · readability — **bukan** preferensi warna/font.
+- **Implement 1 feedback wajib** — bukti before/after (commit/screenshot).
+- **Revisi dari P15:** 1 item backlog wajib masuk implementasi hari ini.
+- **Guru wajib modelkan** 1 peer review sehat sebelum siswa review project teman.
+- **Nilai MA:** santun · amanah · tidak menjatuhkan.
+
+---
+
+## 3. Materi praktik
+
 ### Opening — cognitive trap (0–5 menit)
 
 Tulis di papan: **"Code jalan = A?"**
@@ -37,7 +59,6 @@ Model 2 kalimat SPD di papan — siswa latih rewrite 1 feedback toxic jadi SPD.
 ### Practice — review project teman (35–60 menit)
 
 Pasangan silang — hindari teman dekat yang selalu copas.
-Worksheet rubrik lengkap — guru float, dengar COM level reviewer.
 
 ### Build — implement 1 feedback (60–75 menit)
 
@@ -49,13 +70,16 @@ Bukti: screenshot/commit before/after.
 2 kalimat: apa yang diubah & **mengapa** — link ke rubrik reviewee.
 
 ---
-## 3. Yang sering salah dipikir (Cognitive Trap)
+
+## 4. Yang sering salah dipikir (Cognitive Trap)
+
 **Asumsi:** Review = cari salah · menghina.  
 **Aman:** Model 1 komentar konstruktif guru di depan kelas.
 
 ---
 
 ## 5. Alur pertemuan (90 menit)
+
 | Menit | Fase | Aktivitas |
 |-------|------|-----------|
 | 0–5 | Opening | Trap: “code jalan = A” — counter example |
@@ -69,6 +93,7 @@ Bukti: screenshot/commit before/after.
 ---
 
 ## 6. Lembar kerja / latihan
+
 Latihan **code review via membaca** — proyeksi snippet, siswa isi rubrik **tanpa fix**:
 
 ### Snippet A vs B (maintainable)
@@ -115,9 +140,12 @@ export function setStatus(id, status) {
 
 ---
 
-## 8. Refleksi
+## 7. Refleksi
+
 1. Satu asumsi yang kubongkar hari ini: …
 2. Satu hal untuk pertemuan berikutnya: …
 
+
 ---
+
 _Handout ini boleh dibawa pulang. Kode ditulis sendiri di kelas — jangan copas project jadi._

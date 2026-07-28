@@ -1,6 +1,10 @@
 # Materi Guru Lengkap — X-S1-P06
-**Modul:** [X-S1-P06_gambar-rumah-requirement.md](../../kelas-x/semester-1/X-S1-P06_gambar-rumah-requirement.md)
-**Materi pendukung sumber:** [X-S1-P06_gambar-rumah-requirement.md](../../materi-pendukung/materi-pendukung/kelas-x/semester-1/X-S1-P06_gambar-rumah-requirement.md)
+
+**Handout siswa (bagikan):** [X-S1-P06_gambar-rumah-requirement_siswa.md](./X-S1-P06_gambar-rumah-requirement_siswa.md)
+
+**Modul:** [X-S1-P06_gambar-rumah-requirement.md](../../../kelas-x/semester-1/X-S1-P06_gambar-rumah-requirement.md)
+
+**Materi pendukung sumber:** [X-S1-P06_gambar-rumah-requirement.md](../../../materi-pendukung/kelas-x/semester-1/X-S1-P06_gambar-rumah-requirement.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -270,4 +274,4 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [00_Panduan_Etika_Penyampaian.md](../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)

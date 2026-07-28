@@ -1,11 +1,33 @@
 # Handout Siswa — X-S1-P18
-**Mapel:** Multimedia (Pemrograman Web) · **CPLF**
-**Modul acuan:** [X-S1-P18_showcase-refleksi-s1.md](../../kelas-x/semester-1/X-S1-P18_showcase-refleksi-s1.md)
----
-## 1. Tujuan pembelajaran
-_Lihat transformasi di modul pertemuan._
 
-## 2. Materi
+**Mapel:** Multimedia (Pemrograman Web) · **CPLF**
+
+**Modul acuan:** [X-S1-P18_showcase-refleksi-s1.md](../../../kelas-x/semester-1/X-S1-P18_showcase-refleksi-s1.md)
+
+---
+
+## 1. Tujuan pembelajaran
+
+_Lihat modul pertemuan._
+
+## 2. Ringkasan konsep
+
+- **Format showcase:** 3 menit demo + 1 menit **mengapa** (reasoning) per siswa/kelompok.
+- **Kapasitas waktu:** ±8–10 presenter @ 4 menit — adjust urutan/slide gatekeeper.
+- **3 pertanyaan wajib presenter:**
+  1. Masalah apa?
+  2. Mengapa solusi ini (bukan solusi lain)?
+  3. Satu kesalahan & perbaikan?
+- **Peer:** 1 pertanyaan bernalar per demo — bukan roast.
+- **Guru closing (70–80 menit):** pola kuat semester + area perbaikan S2 — tanpa ranking toxic.
+- **Refleksi tertulis (80–90 menit):** 3 capability CX yang tumbuh + 1 target S2.
+- **Penilaian:** skor project 6 aspek + narasi — lihat rubrik project.
+- **Dokumentasi:** foto/portofolio untuk S2 — rayakan proses.
+
+---
+
+## 3. Materi praktik
+
 ### Struktur presentasi 4 menit
 
 | Menit | Isi |
@@ -41,7 +63,9 @@ _Lihat transformasi di modul pertemuan._
 Draft Progress Card — 3 CX capability + bukti dari semester (bukan nilai angka di kelas).
 
 ---
-## 6. Lembar kerja / latihan
+
+## 4. Lembar kerja / latihan
+
 Showcase **bukan** membaca kode baris-per-baris. Gunakan snippet hanya untuk **latihan peer question** sebelum demo (opsional 5 menit):
 
 ```javascript
@@ -58,9 +82,12 @@ if (harta >= nisab && haul >= 1) {
 
 ---
 
-## 8. Refleksi
+## 5. Refleksi
+
 1. Satu asumsi yang kubongkar hari ini: …
 2. Satu hal untuk pertemuan berikutnya: …
 
+
 ---
+
 _Handout ini boleh dibawa pulang. Kode ditulis sendiri di kelas — jangan copas project jadi._

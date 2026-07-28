@@ -1,17 +1,14 @@
 # Handout Siswa — BRG-07
-**Jalur pendamping CPLF** (melengkapi modul inti, bukan pengganti silabus)
 
-**Modul CPLF terkait:** lihat bagian bawah — kerjakan setelah guru memberi arahan.
+**Jalur pendamping CPLF** — melengkapi modul inti (bukan pengganti silabus).
 
 ---
-## Materi
 
-# BRG-07 — Node + Express REST Minimal (Ekstrakurikuler / Pasca XII)
-
-
-## Learning Transformation
+## 1. Tujuan
 
 Dari localStorage saja → **API sendiri** dengan persistensi file JSON (amanah data).
+
+## 2. Materi & langkah
 
 ## Stack minimal
 
@@ -59,4 +56,8 @@ Lihat [aplikasi/14_API_Contract_Overview.md](../../../aplikasi/14_API_Contract_O
 [← Indeks BRG](./00_Index_Jalur_Kelanjutan.md)
 
 ---
-_Kerjakan bagian PR di kelas atau rumah sesuai petunjuk guru._
+
+_Kerjakan sesuai arahan guru._
+
+## Modul CPLF terhubung
+

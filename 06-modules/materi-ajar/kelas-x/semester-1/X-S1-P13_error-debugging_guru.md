@@ -1,6 +1,10 @@
 # Materi Guru Lengkap — X-S1-P13
-**Modul:** [X-S1-P13_error-debugging.md](../../kelas-x/semester-1/X-S1-P13_error-debugging.md)
-**Materi pendukung sumber:** [X-S1-P13_error-debugging.md](../../materi-pendukung/materi-pendukung/kelas-x/semester-1/X-S1-P13_error-debugging.md)
+
+**Handout siswa (bagikan):** [X-S1-P13_error-debugging_siswa.md](./X-S1-P13_error-debugging_siswa.md)
+
+**Modul:** [X-S1-P13_error-debugging.md](../../../kelas-x/semester-1/X-S1-P13_error-debugging.md)
+
+**Materi pendukung sumber:** [X-S1-P13_error-debugging.md](../../../materi-pendukung/kelas-x/semester-1/X-S1-P13_error-debugging.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -312,4 +316,4 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [00_Panduan_Etika_Penyampaian.md](../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)

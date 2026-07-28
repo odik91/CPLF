@@ -1,6 +1,10 @@
 # Materi Guru Lengkap — XII-S6-P01
-**Modul:** [XII-S6-P01_webcam-ke-prediksi.md](../../kelas-xii/semester-6/XII-S6-P01_webcam-ke-prediksi.md)
-**Materi pendukung sumber:** [XII-S6-P01_webcam-ke-prediksi.md](../../materi-pendukung/materi-pendukung/kelas-xii/semester-6/XII-S6-P01_webcam-ke-prediksi.md)
+
+**Handout siswa (bagikan):** [XII-S6-P01_webcam-ke-prediksi_siswa.md](./XII-S6-P01_webcam-ke-prediksi_siswa.md)
+
+**Modul:** [XII-S6-P01_webcam-ke-prediksi.md](../../../kelas-xii/semester-6/XII-S6-P01_webcam-ke-prediksi.md)
+
+**Materi pendukung sumber:** [XII-S6-P01_webcam-ke-prediksi.md](../../../materi-pendukung/kelas-xii/semester-6/XII-S6-P01_webcam-ke-prediksi.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -483,4 +487,4 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [00_Panduan_Etika_Penyampaian.md](../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)

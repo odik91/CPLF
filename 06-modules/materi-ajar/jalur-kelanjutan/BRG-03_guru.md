@@ -1,4 +1,7 @@
 # Materi Guru Lengkap — BRG-03
+
+**Handout siswa:** [BRG-03_siswa.md](./BRG-03_siswa.md)
+
 **Sumber BRG:** [BRG-03_SPA_Vanilla_ke_Komponen.md](../../materi-pendukung/jalur-kelanjutan/BRG-03_SPA_Vanilla_ke_Komponen.md)
 
 ---

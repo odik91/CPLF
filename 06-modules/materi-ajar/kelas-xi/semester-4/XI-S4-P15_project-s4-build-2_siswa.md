@@ -1,12 +1,35 @@
 # Handout Siswa — XI-S4-P15
+
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
-**Modul acuan:** [XI-S4-P15_project-s4-build-2.md](../../kelas-xi/semester-4/XI-S4-P15_project-s4-build-2.md)
+
+**Modul acuan:** [XI-S4-P15_project-s4-build-2.md](../../../kelas-xi/semester-4/XI-S4-P15_project-s4-build-2.md)
+
 ---
+
 ## 1. Tujuan pembelajaran
+
 Dari fitur terpisah → **produk utuh** siap demo.
 
 ---
-## 2. Materi
+
+## 2. Ringkasan konsep
+
+- **Transformasi hari ini:** dari fitur terpisah → **produk utuh** siap demo + QA peer + fix prioritas 1.
+- **Timeline:** stand-up acceptance honest → build integrasi/transform/polish → QA tim lain 5 menit → fix 1 bug → exit tag `v0.1` opsional.
+- **QA checklist peer (modul):**
+  - Loading/error terlihat?
+  - Data survive refresh?
+  - Atribusi commit jelas?
+- **Debug protocol S4:** repro → hipotesis (network/storage/transform) → fix minimal → regresi refresh + offline.
+- **Integrasi:** pipeline transform (P05/P06) · relasi data (P09) · modul tim (PRJ-04).
+- **Self-test acceptance:** status jujur ✅/❌ — guru spot-check 3–5 tim.
+- **Prep P16:** changelog draft · README lengkap · no secret keys.
+- **Follow up offline:** anggota 0 commit — modul wajib guru tindaklanjut.
+
+---
+
+## 3. Materi praktik
+
 ### Opening — acceptance status honest (0–10 menit)
 
 Setiap tim sebut **% acceptance jujur** + blocker #1.
@@ -43,7 +66,6 @@ Peer **tidak** edit repo — catat finding untuk owner.
 ### Fix prioritas 1 (70–85 menit)
 
 Owner tim implement **1 bug/finding QA** — commit bermakna.
-Guru float — tidak ketik fix.
 
 ### Exit — tag release opsional (85–90 menit)
 
@@ -51,7 +73,9 @@ Guru float — tidak ketik fix.
 Prep P16: changelog 3 bullet draft.
 
 ---
-## 5. Alur pertemuan (90 menit)
+
+## 4. Alur pertemuan (90 menit)
+
 | Menit | Fase | Aktivitas |
 |-------|------|-----------|
 | 0–10 | Stand-up | Acceptance status honest |
@@ -62,7 +86,8 @@ Prep P16: changelog 3 bullet draft.
 
 ---
 
-## 6. Lembar kerja / latihan
+## 5. Lembar kerja / latihan
+
 Latihan **QA via membaca** — snippet proyeksi, siswa isi checklist:
 
 ```javascript
@@ -100,9 +125,18 @@ function init() {
 
 ---
 
-## 8. Refleksi
+## 6. Exit ticket
+
+1. Tag release `v0.1` opsional
+2. …
+
+
+## 7. Refleksi
+
 1. Satu asumsi yang kubongkar hari ini: …
 2. Satu hal untuk pertemuan berikutnya: …
 
+
 ---
+
 _Handout ini boleh dibawa pulang. Kode ditulis sendiri di kelas — jangan copas project jadi._

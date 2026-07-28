@@ -1,17 +1,14 @@
 # Handout Siswa — BRG-06
-**Jalur pendamping CPLF** (melengkapi modul inti, bukan pengganti silabus)
 
-**Modul CPLF terkait:** lihat bagian bawah — kerjakan setelah guru memberi arahan.
+**Jalur pendamping CPLF** — melengkapi modul inti (bukan pengganti silabus).
 
 ---
-## Materi
 
-# BRG-06 — React SPA Pengantar (Ekstrakurikuler / Pasca XII)
-
-
-## Learning Transformation
+## 1. Tujuan
 
 Dari fungsi render manual → **JSX + state hook** dengan mental model CPLF tetap (satu sumber kebenaran, klarifikasi).
+
+## 2. Materi & langkah
 
 ## Mapping CPLF → React
 
@@ -91,4 +88,8 @@ Portofolio: rewrite 1 fitur project S4 jadi React + fetch ke [BRG-07](./BRG-07_N
 [← Indeks BRG](./00_Index_Jalur_Kelanjutan.md)
 
 ---
-_Kerjakan bagian PR di kelas atau rumah sesuai petunjuk guru._
+
+_Kerjakan sesuai arahan guru._
+
+## Modul CPLF terhubung
+

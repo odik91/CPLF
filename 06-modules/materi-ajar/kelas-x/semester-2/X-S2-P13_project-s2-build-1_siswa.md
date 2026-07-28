@@ -1,11 +1,34 @@
 # Handout Siswa — X-S2-P13
-**Mapel:** Multimedia (Pemrograman Web) · **CPLF**
-**Modul acuan:** [X-S2-P13_project-s2-build-1.md](../../kelas-x/semester-2/X-S2-P13_project-s2-build-1.md)
----
-## 1. Tujuan pembelajaran
-_Lihat transformasi di modul pertemuan._
 
-## 2. Materi
+**Mapel:** Multimedia (Pemrograman Web) · **CPLF**
+
+**Modul acuan:** [X-S2-P13_project-s2-build-1.md](../../../kelas-x/semester-2/X-S2-P13_project-s2-build-1.md)
+
+---
+
+## 1. Tujuan pembelajaran
+
+_Lihat modul pertemuan._
+
+## 2. Ringkasan konsep
+
+- **Format build week S2:** stand-up → build core feature (DoD) → demo 30 detik → debug clinic (CSS/selector) → exit blocker.
+- **Perbedaan S1 vs S2 build:** artefak = **halaman web terintegrasi** (HTML + CSS + JS), bukan console-only.
+- **Stand-up (3 pertanyaan):** kemarin / hari ini / blocker — max 1 menit per kelompok.
+- **Core feature first:** prioritaskan requirement wajib PRJ (form, validasi, render list, dll.) sebelum polish visual.
+- **Checkpoint questions guru** (dari modul): requirement mana belum ✅? validasi user-friendly? siapa audience?
+- **Debug clinic S2:** fokus **CSS layout** (flex/grid overflow) dan **JS selector** (`querySelector` null, event tidak terpasang).
+- **Scaffolding stations** (jika >40% stuck):
+  - A: struktur HTML semantik + wireframe
+  - B: CSS layout (flex, spacing, responsive sederhana)
+  - C: DOM + event + validasi JS
+- **Catat siswa perlu scaffolding** dari P11/P12 — prioritaskan rotasi berkeliling.
+- **Empat opsi PRJ S2:** [PRJ-01 Zakat UI](../../../08-project/PRJ_X_S2_01_Zakat_UI.md) · [PRJ-02 Jadwal](../../../08-project/PRJ_X_S2_02_Jadwal_Kegiatan.md) · [PRJ-03 Absensi](../../../08-project/PRJ_X_S2_03_Absensi_Mini.md) · [PRJ-04 Profil Ekskul](../../../08-project/PRJ_X_S2_04_Profil_Ekskul.md)
+
+---
+
+## 3. Materi praktik
+
 ### Build week 1 S2 — core feature, bukan polish
 
 Fokus hari ini: **progress terlihat** vs DoD PRJ — halaman bisa dibuka, fitur inti jalan, validasi minimal. Polish CSS & edge case = P14.
@@ -42,7 +65,9 @@ Kelas: TTS baca error → hipotesis → volunteer fix sendiri.
 1 kalimat untuk P14 — target freeze feature + polish.
 
 ---
-## 5. Alur pertemuan (90 menit)
+
+## 4. Alur pertemuan (90 menit)
+
 | Menit | Aktivitas |
 |-------|-----------|
 | 0–10 | Stand-up |
@@ -53,7 +78,8 @@ Kelas: TTS baca error → hipotesis → volunteer fix sendiri.
 
 ---
 
-## 6. Lembar kerja / latihan
+## 5. Lembar kerja / latihan
+
 Untuk **debug clinic** — snippet proyeksi, siswa prediksi gejala (bukan copy):
 
 ```javascript
@@ -86,9 +112,12 @@ document.querySelector("#btnHitung").addEventListener("click", hitung);
 
 ---
 
-## 8. Refleksi
+## 6. Refleksi
+
 1. Satu asumsi yang kubongkar hari ini: …
 2. Satu hal untuk pertemuan berikutnya: …
 
+
 ---
+
 _Handout ini boleh dibawa pulang. Kode ditulis sendiri di kelas — jangan copas project jadi._

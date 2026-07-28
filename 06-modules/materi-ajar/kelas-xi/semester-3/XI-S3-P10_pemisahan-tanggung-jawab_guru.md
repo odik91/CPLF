@@ -1,6 +1,10 @@
 # Materi Guru Lengkap — XI-S3-P10
-**Modul:** [XI-S3-P10_pemisahan-tanggung-jawab.md](../../kelas-xi/semester-3/XI-S3-P10_pemisahan-tanggung-jawab.md)
-**Materi pendukung sumber:** [XI-S3-P10_pemisahan-tanggung-jawab.md](../../materi-pendukung/materi-pendukung/kelas-xi/semester-3/XI-S3-P10_pemisahan-tanggung-jawab.md)
+
+**Handout siswa (bagikan):** [XI-S3-P10_pemisahan-tanggung-jawab_siswa.md](./XI-S3-P10_pemisahan-tanggung-jawab_siswa.md)
+
+**Modul:** [XI-S3-P10_pemisahan-tanggung-jawab.md](../../../kelas-xi/semester-3/XI-S3-P10_pemisahan-tanggung-jawab.md)
+
+**Materi pendukung sumber:** [XI-S3-P10_pemisahan-tanggung-jawab.md](../../../materi-pendukung/kelas-xi/semester-3/XI-S3-P10_pemisahan-tanggung-jawab.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -378,12 +382,9 @@ refs.btnAdd.addEventListener("click", function () {
 
 ---
 ## C. BRG & jalur kelanjutan
-
-## Materi pendamping BRG (wajib/opsional)
-
-- [BRG-03](../../jalur-kelanjutan/BRG-03_guru.md)
+- [BRG-03](../../../materi-ajar/jalur-kelanjutan/BRG-03_guru.md)
 
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [00_Panduan_Etika_Penyampaian.md](../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)

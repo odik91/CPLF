@@ -1,4 +1,7 @@
 # Materi Guru Lengkap — BRG-08
+
+**Handout siswa:** [BRG-08_siswa.md](./BRG-08_siswa.md)
+
 **Sumber BRG:** [BRG-08_ML_Data_Normalisasi_Split.md](../../materi-pendukung/jalur-kelanjutan/BRG-08_ML_Data_Normalisasi_Split.md)
 
 ---

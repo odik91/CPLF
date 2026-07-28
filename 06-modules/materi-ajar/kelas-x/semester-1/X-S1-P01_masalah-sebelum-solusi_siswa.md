@@ -1,12 +1,50 @@
 # Handout Siswa — X-S1-P01
+
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
-**Modul acuan:** [X-S1-P01_masalah-sebelum-solusi.md](../../kelas-x/semester-1/X-S1-P01_masalah-sebelum-solusi.md)
+
+**Modul acuan:** [X-S1-P01_masalah-sebelum-solusi.md](../../../kelas-x/semester-1/X-S1-P01_masalah-sebelum-solusi.md)
+
 ---
+
 ## 1. Tujuan pembelajaran
+
 Dari “langsung cari solusi/coding” → “berhenti sejenak memahami & membatasi masalah.”
 
 ---
-## 2. Materi
+
+## 2. Ringkasan konsep
+
+### Problem framing (bukan langsung solusi)
+
+- **Masalah** = kondisi nyata yang menimbulkan kesulitan bagi **stakeholder** tertentu, bukan sekadar "kesal" atau "ribet."
+- **Problem framing** = menggambarkan masalah dengan jelas **sebelum** memilih solusi (aplikasi, poster, aturan baru, dll.).
+- **Scope (batas masalah)** = apa yang **masuk** ruang lingkup kita kali ini dan apa yang **sengaja ditinggalkan** — mencegah proyek membengkak tanpa selesai.
+
+### Stakeholder
+
+- Siapa yang **paling terdampak**? (siswa antre, petugas kantin, guru piket — bukan "semua orang" generik.)
+- Beda stakeholder → beda definisi "masalah" → beda solusi yang masuk akal.
+
+### Asumsi solusi prematur
+
+- Sering terjadi: setiap masalah → "buat aplikasi/web."
+- Teknologi adalah **salah satu** media solusi, bukan default.
+- Pertanyaan kritis: *Apakah masalah ini benar-benar butuh teknologi, atau butuh komunikasi/organisasi/perilaku dulu?*
+
+### Protokol CPLF yang diperkenalkan
+
+- *Pahami sebelum menyimpulan* — bandingkan observasi, jangan lompat ke ide.
+- Pertemuan ini **belum** HTML/JS — coding = media nanti, setelah cara berpikir terbentuk.
+
+### Bukti vs opini
+
+- "Antre panjang" perlu bukti: kapan? berapa menit? siapa yang mengukur?
+- Tanpa bukti, solusi bisa menembak target salah.
+
+---
+
+## 3. Materi praktik
+
 ### Alur konseptual (90 menit)
 
 ```text
@@ -22,7 +60,6 @@ Do Now (masalah nyata)
 
 ### Template problem framing (1 halaman)
 
-Guru pahami isi setiap bagian — jangan hanya fotokopi kosong:
 
 | Bagian | Pertanyaan panduan | Contoh buruk | Contoh lebih baik |
 |--------|-------------------|--------------|-------------------|
@@ -46,20 +83,31 @@ Inti debat: solusi **technically executable** tapi **tidak menyelesaikan masalah
 Hoaks di WA = solusi prematur "share tanpa cek fakta" — sama dengan lompat solusi tanpa pahami masalah.
 
 ---
-## 3. Yang sering salah dipikir (Cognitive Trap)
+
+## 4. Yang sering salah dipikir (Cognitive Trap)
+
 **Asumsi:** Setiap masalah butuh aplikasi/teknologi.  
 **Aman:** Puji observasi masalah; challenge hanya pada lompat solusi prematur.
 
 ---
 
-## 4. Pertanyaan pemandu
+## 5. Pertanyaan pemandu
+
 1. Siapa yang benar-benar kesulitan?  
 2. Apa bagian masalah yang **tidak** kita selesaikan minggu ini?  
 3. Bukti apa bahwa ini masalah (bukan sekadar kesal)?
 
 ---
 
-## 5. Alur pertemuan (90 menit)
+## 6. Alat & fallback
+
+- Sticky note · papan  
+- Offline: kertas + diskusi oral
+
+---
+
+## 7. Alur pertemuan (90 menit)
+
 |-------|------|-----------|
 | 0–5 | Opening | Do Now: tulis 1 masalah di kelas/MA yang mengganggu (sticky note) |
 | 5–15 | Hook | Tampilkan 2 “solusi” absurd untuk masalah antre kantin (mis. “beli helikopter”) — tanya: kenapa gagal? |
@@ -75,24 +123,41 @@ Hoaks di WA = solusi prematur "share tanpa cek fakta" — sama dengan lompat sol
 
 ---
 
-## 6. Lembar kerja / latihan
-Catatan selama Experience · Clarify · Practice:
+## 8. Lembar kerja / latihan
 
-| Fase | Apa yang kulakukan | Apa yang kupelajari |
-|------|-------------------|---------------------|
-| Experience | | |
-| Clarify | | |
-| Practice | | |
+Belum pseudocode formal — latih **membaca urutan instruksi** sebagai jembatan ke P04.
 
-## 7. Exit ticket
+Proyeksikan (papan/slide, **jangan** file):
+
+```text
+INSTRUKSI: "Atasi antre kantin"
+LANGKAH A: Buat grup WhatsApp kelas
+LANGKAH B: Share link aplikasi
+LANGKAH C: Selesai
+```
+
+| Pertanyaan membaca | Kunci jawaban |
+|--------------------|--------------|
+| Langkah mana yang **mengasumsikan** masalah sudah dipahami? | Semua — tidak ada langkah observasi/mengukur antre |
+| Stakeholder mana yang tidak disebut? | Petugas kantin, siswa yang tidak punya HP |
+| Apa yang **hilang** sebelum LANGKAH A? | Definisi masalah, batas, bukti antre panjang |
+| Prediksi: apakah LANGKAH B menyelesaikan antre? | Tidak tentu — mungkin malah menambah kebingungan |
+
+---
+
+## 9. Exit ticket
+
 1. Masalah yang kupilih + batasnya  
 2. Satu hal yang sengaja **tidak** kuselesaikan dulu  
 
 ---
 
-## 8. Refleksi
+## 10. Refleksi
+
 1. Satu asumsi yang kubongkar hari ini: …
 2. Satu hal untuk pertemuan berikutnya: …
 
+
 ---
+
 _Handout ini boleh dibawa pulang. Kode ditulis sendiri di kelas — jangan copas project jadi._

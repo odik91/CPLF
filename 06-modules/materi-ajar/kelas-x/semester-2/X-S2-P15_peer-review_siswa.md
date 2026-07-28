@@ -1,11 +1,30 @@
 # Handout Siswa — X-S2-P15
-**Mapel:** Multimedia (Pemrograman Web) · **CPLF**
-**Modul acuan:** [X-S2-P15_peer-review.md](../../kelas-x/semester-2/X-S2-P15_peer-review.md)
----
-## 1. Tujuan pembelajaran
-_Lihat transformasi di modul pertemuan._
 
-## 2. Materi
+**Mapel:** Multimedia (Pemrograman Web) · **CPLF**
+
+**Modul acuan:** [X-S2-P15_peer-review.md](../../../kelas-x/semester-2/X-S2-P15_peer-review.md)
+
+---
+
+## 1. Tujuan pembelajaran
+
+_Lihat modul pertemuan._
+
+## 2. Ringkasan konsep
+
+- **Protokol peer review S2:** kritik **asumsi/kode/UX**, bukan orang — aturan dibuka 5 menit pertama.
+- **Timeline:** aturan peer → demo round-robin 3 menit → worksheet lengkap → revisi wajib ≥2 saran → update acceptance → exit catatan revisi.
+- **Rubrik peer:** [09_Rubrik_Peer_Review](../../../09-rubrik/09_Rubrik_Peer_Review.md) — 2 pujian spesifik + 2 saran dapat ditindak + 1 pertanyaan klarifikasi opsional.
+- **Perbedaan S1 vs S2 peer:** review **halaman web** — layout, validasi, interaksi DOM, bukan hanya logika console.
+- **Revisi wajib S2:** minimal **2 saran** diterapkan (S1 = 1) — bukti before/after.
+- **Guru wajib modelkan** 1 peer review sehat di depan kelas **sebelum** siswa mulai (modul catatan guru).
+- **Round-robin demo:** ±6 kelompok × 3 menit — adjust jumlah presenter vs waktu.
+- **Varian PRJ berbeda** antar kelompok — jika artefak mirip persis, selidiki proses (copas).
+
+---
+
+## 3. Materi praktik
+
 ### Aturan peer (0–5 menit)
 
 Tegaskan dari rubrik:
@@ -25,7 +44,6 @@ Tegaskan dari rubrik:
 
 Pasangan/kelompok silang — hindari teman dekat yang selalu copas.
 
-Isi rubrik lengkap — guru float, dengar apakah feedback memenuhi COM:
 
 | Aspek web S2 | Contoh observasi peer |
 |--------------|----------------------|
@@ -51,7 +69,9 @@ Centang ulang DoD PRJ setelah revisi — self + 1 peer confirm.
 1 kalimat: "Revisi apa yang paling berdampak?" — prep P16.
 
 ---
-## 5. Alur pertemuan (90 menit)
+
+## 4. Alur pertemuan (90 menit)
+
 | Menit | Aktivitas |
 |-------|-----------|
 | 0–5 | Aturan peer: kritik asumsi/kode, bukan orang |
@@ -63,7 +83,8 @@ Centang ulang DoD PRJ setelah revisi — self + 1 peer confirm.
 
 ---
 
-## 6. Lembar kerja / latihan
+## 5. Lembar kerja / latihan
+
 Latihan **peer review via membaca kode** — proyeksi snippet, siswa beri pujian/saran **tanpa fix**:
 
 ```javascript
@@ -99,9 +120,12 @@ function tambah(nama) {
 
 ---
 
-## 8. Refleksi
+## 6. Refleksi
+
 1. Satu asumsi yang kubongkar hari ini: …
 2. Satu hal untuk pertemuan berikutnya: …
 
+
 ---
+
 _Handout ini boleh dibawa pulang. Kode ditulis sendiri di kelas — jangan copas project jadi._

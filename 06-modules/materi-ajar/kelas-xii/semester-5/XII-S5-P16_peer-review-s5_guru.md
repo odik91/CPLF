@@ -1,6 +1,10 @@
 # Materi Guru Lengkap — XII-S5-P16
-**Modul:** [XII-S5-P16_peer-review-s5.md](../../kelas-xii/semester-5/XII-S5-P16_peer-review-s5.md)
-**Materi pendukung sumber:** [XII-S5-P16_peer-review-s5.md](../../materi-pendukung/materi-pendukung/kelas-xii/semester-5/XII-S5-P16_peer-review-s5.md)
+
+**Handout siswa (bagikan):** [XII-S5-P16_peer-review-s5_siswa.md](./XII-S5-P16_peer-review-s5_siswa.md)
+
+**Modul:** [XII-S5-P16_peer-review-s5.md](../../../kelas-xii/semester-5/XII-S5-P16_peer-review-s5.md)
+
+**Materi pendukung sumber:** [XII-S5-P16_peer-review-s5.md](../../../materi-pendukung/kelas-xii/semester-5/XII-S5-P16_peer-review-s5.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -299,12 +303,9 @@ Revisi: perbaiki tampilan
 
 ---
 ## C. BRG & jalur kelanjutan
-
-## Materi pendamping BRG (wajib/opsional)
-
-- [BRG-08](../../jalur-kelanjutan/BRG-08_guru.md)
+- [BRG-08](../../../materi-ajar/jalur-kelanjutan/BRG-08_guru.md)
 
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [00_Panduan_Etika_Penyampaian.md](../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)

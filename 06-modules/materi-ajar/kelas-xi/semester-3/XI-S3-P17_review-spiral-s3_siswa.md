@@ -1,12 +1,37 @@
 # Handout Siswa — XI-S3-P17
+
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
-**Modul acuan:** [XI-S3-P17_review-spiral-s3.md](../../kelas-xi/semester-3/XI-S3-P17_review-spiral-s3.md)
+
+**Modul acuan:** [XI-S3-P17_review-spiral-s3.md](../../../kelas-xi/semester-3/XI-S3-P17_review-spiral-s3.md)
+
 ---
+
 ## 1. Tujuan pembelajaran
+
 Dari fragmen skill → **sistem utuh** siap naik ke data/async S4.
 
 ---
-## 2. Materi
+
+## 2. Ringkasan konsep
+
+- **Transformasi hari ini:** dari fragmen skill → **sistem utuh** siap naik ke data/async S4.
+- **Timeline:** quiz oral → bug hunt kelompok → kategorisasi bug → map ke layer → station rotation → reflect → preview S4.
+- **Bug hunt:** app sengaja rusak (3+ bug) — kelompok identifikasi gejala, bukan langsung fix di pleno.
+- **Kategorisasi bug:** data / UI / event — lalu map ke layer P10 (state · render · handlers · main).
+- **Station ideas (modul):**
+  1. Listener hilang setelah render
+  2. State duplikat
+  3. Validasi form bypass
+  4. Module circular import
+- **Station rotation:** fix **1 bug per station** — bukan app penuh; fokus proses OBS→REA→ITR.
+- **Opsional mini assessment formatif** — bukan ujian sintaks berat (modul catatan guru).
+- **Preview S4:** data dari luar (API) & kolaborasi tim — fondasi S3 yang dipakai.
+- **Integrasi spiral:** IPO (P01) · blueprint state (P02) · DOM/render (P03–04) · event/flow (P05–06) · nested data (P07) · state CRUD (P08) · modul (P09–10).
+
+---
+
+## 3. Materi praktik
+
 ### Opening — quiz oral cepat (0–5 menit)
 
 4–5 pertanyaan flash: IPO · render · state · module — tidak graded, warm-up spiral.
@@ -53,7 +78,9 @@ Individual/kelompok: skill XI paling kuat vs perlu latihan — konkret, bukan ge
 Teaser: data dari API, persistensi, tim — fondasi DOM/state/modul hari ini dipakai lagi.
 
 ---
-## 5. Alur pertemuan (90 menit)
+
+## 4. Alur pertemuan (90 menit)
+
 | Menit | Fase | Aktivitas |
 |-------|------|-----------|
 | 0–5 | Opening | Quiz oral cepat: IPO · render · state · module |
@@ -66,7 +93,8 @@ Teaser: data dari API, persistensi, tim — fondasi DOM/state/modul hari ini dip
 
 ---
 
-## 6. Lembar kerja / latihan
+## 5. Lembar kerja / latihan
+
 Inti pertemuan ini = **membaca kode**. Cuplikan station (proyeksi):
 
 ### Station 1 — listener hilang
@@ -137,9 +165,12 @@ import { items } from "./state.js"; // read + state imports render
 
 ---
 
-## 8. Refleksi
+## 6. Refleksi
+
 1. Satu asumsi yang kubongkar hari ini: …
 2. Satu hal untuk pertemuan berikutnya: …
 
+
 ---
+
 _Handout ini boleh dibawa pulang. Kode ditulis sendiri di kelas — jangan copas project jadi._

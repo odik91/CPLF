@@ -1,6 +1,10 @@
 # Materi Guru Lengkap — XII-S6-P17
-**Modul:** [XII-S6-P17_showcase-akhir.md](../../kelas-xii/semester-6/XII-S6-P17_showcase-akhir.md)
-**Materi pendukung sumber:** [XII-S6-P17_showcase-akhir.md](../../materi-pendukung/materi-pendukung/kelas-xii/semester-6/XII-S6-P17_showcase-akhir.md)
+
+**Handout siswa (bagikan):** [XII-S6-P17_showcase-akhir_siswa.md](./XII-S6-P17_showcase-akhir_siswa.md)
+
+**Modul:** [XII-S6-P17_showcase-akhir.md](../../../kelas-xii/semester-6/XII-S6-P17_showcase-akhir.md)
+
+**Materi pendukung sumber:** [XII-S6-P17_showcase-akhir.md](../../../materi-pendukung/kelas-xii/semester-6/XII-S6-P17_showcase-akhir.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -331,4 +335,4 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [00_Panduan_Etika_Penyampaian.md](../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)

@@ -1,4 +1,7 @@
 # Materi Guru Lengkap — BRG-05
+
+**Handout siswa:** [BRG-05_siswa.md](./BRG-05_siswa.md)
+
 **Sumber BRG:** [BRG-05_npm_Toolchain_FE.md](../../materi-pendukung/jalur-kelanjutan/BRG-05_npm_Toolchain_FE.md)
 
 ---

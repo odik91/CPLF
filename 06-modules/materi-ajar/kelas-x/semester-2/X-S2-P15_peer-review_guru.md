@@ -1,6 +1,10 @@
 # Materi Guru Lengkap — X-S2-P15
-**Modul:** [X-S2-P15_peer-review.md](../../kelas-x/semester-2/X-S2-P15_peer-review.md)
-**Materi pendukung sumber:** [X-S2-P15_peer-review.md](../../materi-pendukung/materi-pendukung/kelas-x/semester-2/X-S2-P15_peer-review.md)
+
+**Handout siswa (bagikan):** [X-S2-P15_peer-review_siswa.md](./X-S2-P15_peer-review_siswa.md)
+
+**Modul:** [X-S2-P15_peer-review.md](../../../kelas-x/semester-2/X-S2-P15_peer-review.md)
+
+**Materi pendukung sumber:** [X-S2-P15_peer-review.md](../../../materi-pendukung/kelas-x/semester-2/X-S2-P15_peer-review.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -303,4 +307,4 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [00_Panduan_Etika_Penyampaian.md](../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)

@@ -1,6 +1,10 @@
 # Materi Guru Lengkap — X-S1-P09
-**Modul:** [X-S1-P09_satpam-js-kondisi.md](../../kelas-x/semester-1/X-S1-P09_satpam-js-kondisi.md)
-**Materi pendukung sumber:** [X-S1-P09_satpam-js-kondisi.md](../../materi-pendukung/materi-pendukung/kelas-x/semester-1/X-S1-P09_satpam-js-kondisi.md)
+
+**Handout siswa (bagikan):** [X-S1-P09_satpam-js-kondisi_siswa.md](./X-S1-P09_satpam-js-kondisi_siswa.md)
+
+**Modul:** [X-S1-P09_satpam-js-kondisi.md](../../../kelas-x/semester-1/X-S1-P09_satpam-js-kondisi.md)
+
+**Materi pendukung sumber:** [X-S1-P09_satpam-js-kondisi.md](../../../materi-pendukung/kelas-x/semester-1/X-S1-P09_satpam-js-kondisi.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -364,4 +368,4 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [00_Panduan_Etika_Penyampaian.md](../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)

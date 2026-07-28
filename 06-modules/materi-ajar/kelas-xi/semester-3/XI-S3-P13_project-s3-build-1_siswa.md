@@ -1,12 +1,37 @@
 # Handout Siswa — XI-S3-P13
+
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
-**Modul acuan:** [XI-S3-P13_project-s3-build-1.md](../../kelas-xi/semester-3/XI-S3-P13_project-s3-build-1.md)
+
+**Modul acuan:** [XI-S3-P13_project-s3-build-1.md](../../../kelas-xi/semester-3/XI-S3-P13_project-s3-build-1.md)
+
 ---
+
 ## 1. Tujuan pembelajaran
+
 Dari scaffold → **fitur inti** yang memenuhi acceptance awal.
 
 ---
-## 2. Materi
+
+## 2. Ringkasan konsep
+
+- **Format build week S3:** stand-up → clarify blocker (max 10 menit) → build fitur inti → checkpoint acceptance → exit screenshot + 1 bug terbuka.
+- **Perbedaan S2 vs S3 build:** artefak = **aplikasi multi-komponen** (state + render + handlers + main), bukan halaman web satu file.
+- **Stand-up (3 pertanyaan):** kemarin / hari ini / blocker — max 1 menit per siswa/kelompok.
+- **Target hari ini:** ≥40% acceptance tercentang **atau** 1 fitur end-to-end jalan (alur IPO utuh).
+- **Fitur inti first:** CRUD / flow utama dari acceptance P12 — polish & edge case = P14.
+- **Checkpoint questions guru:** acceptance mana belum ✅? alur data dari event → state → render jelas? siapa user?
+- **Pair debug:** siswa A jelaskan gejala, siswa B baca console/state — guru facilitate, bukan fix.
+- **Scaffolding stations** (jika >40% stuck):
+  - A: blueprint IPO + state shape kosong
+  - B: render() placeholder + DOM update aman
+  - C: handler event → updateState → render()
+- **Catat siswa perlu scaffolding** dari P11/P12 — prioritaskan rotasi berkeliling.
+- **Empat opsi PRJ S3:** [PRJ-01 Absensi DOM](../../../08-project/PRJ_XI_S3_01_Absensi_DOM.md) · [PRJ-02 Peminjaman](../../../08-project/PRJ_XI_S3_02_Peminjaman_Barang.md) · [PRJ-03 Katalog OSIS](../../../08-project/PRJ_XI_S3_03_Katalog_OSIS.md) · [PRJ-04 Kuis Interaktif](../../../08-project/PRJ_XI_S3_04_Kuis_Interaktif.md)
+
+---
+
+## 3. Materi praktik
+
 ### Build week 1 S3 — fitur inti, bukan polish
 
 Fokus hari ini: **progress terlihat** vs acceptance PRJ — alur IPO minimal jalan (input → proses state → render). Polish & edge case = P14.
@@ -39,7 +64,6 @@ Stuck >15 menit: arahkan ke station A/B/C atau pair debug — bukan fix langsung
 ### Checkpoint acceptance (70–80 menit)
 
 Siswa centang checklist acceptance — **status jujur** ✅/❌/🔄.
-Guru float: "Berapa % acceptance? Satu fitur end-to-end sudah jalan?"
 
 ### Exit ticket (80–90 menit)
 
@@ -47,7 +71,9 @@ Guru float: "Berapa % acceptance? Satu fitur end-to-end sudah jalan?"
 - Prep P14: blocker prioritas 1–2–3.
 
 ---
-## 5. Alur pertemuan (90 menit)
+
+## 4. Alur pertemuan (90 menit)
+
 | Menit | Fase | Aktivitas |
 |-------|------|-----------|
 | 0–10 | Stand-up | 1 menit/siswa: kemarin + hari ini + blocker |
@@ -58,7 +84,8 @@ Guru float: "Berapa % acceptance? Satu fitur end-to-end sudah jalan?"
 
 ---
 
-## 6. Lembar kerja / latihan
+## 5. Lembar kerja / latihan
+
 Untuk **pair debug clinic** — snippet proyeksi, siswa prediksi gejala (bukan copy):
 
 ```javascript
@@ -104,9 +131,12 @@ function handleSubmit(e) {
 
 ---
 
-## 8. Refleksi
+## 6. Refleksi
+
 1. Satu asumsi yang kubongkar hari ini: …
 2. Satu hal untuk pertemuan berikutnya: …
 
+
 ---
+
 _Handout ini boleh dibawa pulang. Kode ditulis sendiri di kelas — jangan copas project jadi._

@@ -1,6 +1,10 @@
 # Materi Guru Lengkap — X-S1-P11
-**Modul:** [X-S1-P11_kasir-loop.md](../../kelas-x/semester-1/X-S1-P11_kasir-loop.md)
-**Materi pendukung sumber:** [X-S1-P11_kasir-loop.md](../../materi-pendukung/materi-pendukung/kelas-x/semester-1/X-S1-P11_kasir-loop.md)
+
+**Handout siswa (bagikan):** [X-S1-P11_kasir-loop_siswa.md](./X-S1-P11_kasir-loop_siswa.md)
+
+**Modul:** [X-S1-P11_kasir-loop.md](../../../kelas-x/semester-1/X-S1-P11_kasir-loop.md)
+
+**Materi pendukung sumber:** [X-S1-P11_kasir-loop.md](../../../materi-pendukung/kelas-x/semester-1/X-S1-P11_kasir-loop.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -320,4 +324,4 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [00_Panduan_Etika_Penyampaian.md](../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)

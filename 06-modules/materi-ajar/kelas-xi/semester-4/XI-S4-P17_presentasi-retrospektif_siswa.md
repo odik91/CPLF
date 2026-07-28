@@ -1,12 +1,45 @@
 # Handout Siswa — XI-S4-P17
+
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
-**Modul acuan:** [XI-S4-P17_presentasi-retrospektif.md](../../kelas-xi/semester-4/XI-S4-P17_presentasi-retrospektif.md)
+
+**Modul acuan:** [XI-S4-P17_presentasi-retrospektif.md](../../../kelas-xi/semester-4/XI-S4-P17_presentasi-retrospektif.md)
+
 ---
+
 ## 1. Tujuan pembelajaran
+
 Dari produk jadi → **cerita tim** + pelajaran kolaborasi.
 
 ---
-## 2. Materi
+
+## 2. Ringkasan konsep
+
+- **Transformasi hari ini:** dari produk jadi → **cerita tim** + pelajaran kolaborasi + bukti capability.
+- **Format presentasi wajib (modul):**
+  - Masalah · arsitektur · demo · retro · transfer
+  - **Semua anggota bicara ≥30 detik**
+  - Tunjukkan 1 keputusan data/API
+  - Tunjukkan 1 iterasi dari peer review P16
+  - Transfer ke XII / kehidupan
+- **Timeline:** presentasi 5 menit/tim → Q&A 2 pertanyaan → retrospektif tim → synthesis guru.
+- **Struktur 5 menit per tim:**
+
+| Menit | Isi |
+|-------|-----|
+| 0–1 | Masalah & user |
+| 1–2 | Arsitektur — API/storage + modul tim |
+| 2–4 | Demo DoD live + 1 iterasi P16 |
+| 4–5 | Retro singkat + transfer |
+
+- **Rubrik:** REA, ITR, COM, TEC + **kolaborasi/atribusi** — guru isi, **bukan** ranking di depan kelas.
+- **Retrospektif tim (65–80 menit):** kolaborasi · Git · async · data — tulis privat/kelompok.
+- **Synthesis guru (80–90 menit):** dari halaman (X) → sistem (XI) — spiral tahun.
+- **Nilai MA:** gotong royong · kejujuran atribusi · amanah data.
+
+---
+
+## 3. Materi praktik
+
 ### Briefing presentasi (0–5 menit)
 
 Jelaskan ke siswa — **bukan** angka skor:
@@ -79,7 +112,9 @@ Kelas XII preview: data lebih dalam, etika AI
 Apresiasi effort — bukan ranking. Reminder artefak untuk P18 portofolio.
 
 ---
-## 5. Alur pertemuan (90 menit)
+
+## 4. Alur pertemuan (90 menit)
+
 | Menit | Fase | Aktivitas |
 |-------|------|-----------|
 | 0–50 | Presentasi | 5 menit/tim: masalah · arsitektur · demo · retro · transfer |
@@ -89,7 +124,8 @@ Apresiasi effort — bukan ranking. Reminder artefak untuk P18 portofolio.
 
 ---
 
-## 6. Lembar kerja / latihan
+## 5. Lembar kerja / latihan
+
 Presentasi **bukan** walkthrough kode baris-per-baris. Snippet untuk **latihan Q&A reasoning** (opsional 5 menit sebelum demo pertama):
 
 ```javascript
@@ -121,9 +157,12 @@ export function toCards(articles) {
 
 ---
 
-## 8. Refleksi
+## 6. Refleksi
+
 1. Satu asumsi yang kubongkar hari ini: …
 2. Satu hal untuk pertemuan berikutnya: …
 
+
 ---
+
 _Handout ini boleh dibawa pulang. Kode ditulis sendiri di kelas — jangan copas project jadi._

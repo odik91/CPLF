@@ -1,6 +1,10 @@
 # Materi Guru Lengkap — X-S2-P09
-**Modul:** [X-S2-P09_array-render-list.md](../../kelas-x/semester-2/X-S2-P09_array-render-list.md)
-**Materi pendukung sumber:** [X-S2-P09_array-render-list.md](../../materi-pendukung/materi-pendukung/kelas-x/semester-2/X-S2-P09_array-render-list.md)
+
+**Handout siswa (bagikan):** [X-S2-P09_array-render-list_siswa.md](./X-S2-P09_array-render-list_siswa.md)
+
+**Modul:** [X-S2-P09_array-render-list.md](../../../kelas-x/semester-2/X-S2-P09_array-render-list.md)
+
+**Materi pendukung sumber:** [X-S2-P09_array-render-list.md](../../../materi-pendukung/kelas-x/semester-2/X-S2-P09_array-render-list.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -348,4 +352,4 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [00_Panduan_Etika_Penyampaian.md](../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)

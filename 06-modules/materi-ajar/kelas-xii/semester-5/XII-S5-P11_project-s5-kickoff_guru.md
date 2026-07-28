@@ -1,6 +1,10 @@
 # Materi Guru Lengkap — XII-S5-P11
-**Modul:** [XII-S5-P11_project-s5-kickoff.md](../../kelas-xii/semester-5/XII-S5-P11_project-s5-kickoff.md)
-**Materi pendukung sumber:** [XII-S5-P11_project-s5-kickoff.md](../../materi-pendukung/materi-pendukung/kelas-xii/semester-5/XII-S5-P11_project-s5-kickoff.md)
+
+**Handout siswa (bagikan):** [XII-S5-P11_project-s5-kickoff_siswa.md](./XII-S5-P11_project-s5-kickoff_siswa.md)
+
+**Modul:** [XII-S5-P11_project-s5-kickoff.md](../../../kelas-xii/semester-5/XII-S5-P11_project-s5-kickoff.md)
+
+**Materi pendukung sumber:** [XII-S5-P11_project-s5-kickoff.md](../../../materi-pendukung/kelas-xii/semester-5/XII-S5-P11_project-s5-kickoff.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -393,13 +397,10 @@ Siswa **wajib deliverable kickoff**:
 
 ---
 ## C. BRG & jalur kelanjutan
-
-## Materi pendamping BRG (wajib/opsional)
-
-- [BRG-01](../../jalur-kelanjutan/BRG-01_guru.md)
-- [BRG-08](../../jalur-kelanjutan/BRG-08_guru.md)
+- [BRG-01](../../../materi-ajar/jalur-kelanjutan/BRG-01_guru.md)
+- [BRG-08](../../../materi-ajar/jalur-kelanjutan/BRG-08_guru.md)
 
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [00_Panduan_Etika_Penyampaian.md](../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)

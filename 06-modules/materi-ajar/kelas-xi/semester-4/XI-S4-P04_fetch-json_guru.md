@@ -1,6 +1,10 @@
 # Materi Guru Lengkap — XI-S4-P04
-**Modul:** [XI-S4-P04_fetch-json.md](../../kelas-xi/semester-4/XI-S4-P04_fetch-json.md)
-**Materi pendukung sumber:** [XI-S4-P04_fetch-json.md](../../materi-pendukung/materi-pendukung/kelas-xi/semester-4/XI-S4-P04_fetch-json.md)
+
+**Handout siswa (bagikan):** [XI-S4-P04_fetch-json_siswa.md](./XI-S4-P04_fetch-json_siswa.md)
+
+**Modul:** [XI-S4-P04_fetch-json.md](../../../kelas-xi/semester-4/XI-S4-P04_fetch-json.md)
+
+**Materi pendukung sumber:** [XI-S4-P04_fetch-json.md](../../../materi-pendukung/kelas-xi/semester-4/XI-S4-P04_fetch-json.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -400,13 +404,10 @@ render();
 
 ---
 ## C. BRG & jalur kelanjutan
-
-## Materi pendamping BRG (wajib/opsional)
-
-- [BRG-04](../../jalur-kelanjutan/BRG-04_guru.md)
-- [BRG-05](../../jalur-kelanjutan/BRG-05_guru.md)
+- [BRG-04](../../../materi-ajar/jalur-kelanjutan/BRG-04_guru.md)
+- [BRG-05](../../../materi-ajar/jalur-kelanjutan/BRG-05_guru.md)
 
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [00_Panduan_Etika_Penyampaian.md](../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)

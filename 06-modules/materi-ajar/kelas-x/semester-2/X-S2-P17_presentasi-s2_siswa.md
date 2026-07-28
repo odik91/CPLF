@@ -1,11 +1,41 @@
 # Handout Siswa — X-S2-P17
-**Mapel:** Multimedia (Pemrograman Web) · **CPLF**
-**Modul acuan:** [X-S2-P17_presentasi-s2.md](../../kelas-x/semester-2/X-S2-P17_presentasi-s2.md)
----
-## 1. Tujuan pembelajaran
-_Lihat transformasi di modul pertemuan._
 
-## 2. Materi
+**Mapel:** Multimedia (Pemrograman Web) · **CPLF**
+
+**Modul acuan:** [X-S2-P17_presentasi-s2.md](../../../kelas-x/semester-2/X-S2-P17_presentasi-s2.md)
+
+---
+
+## 1. Tujuan pembelajaran
+
+_Lihat modul pertemuan._
+
+## 2. Ringkasan konsep
+
+- **Prinsip presentasi S2:** **reasoning > demo cantik** — rubrik penekanan COM/REA/TEC.
+- **Format:** 3–4 menit per siswa/kelompok — adjust jumlah presenter vs 90 menit (±8–10 @ 4 menit).
+- **Struktur 4 menit:**
+
+| Menit | Isi |
+|-------|-----|
+| 0–1 | Masalah & user (siapa pakai halaman ini) |
+| 1–3 | Demo fitur DoD — live di browser |
+| 3–4 | **Mengapa** layout/validasi/struktur + 1 kesulitan & perbaikan |
+
+- **Pool pertanyaan guru** (dari modul):
+  - Mengapa layout/struktur HTML demikian?
+  - Validasi apa yang kamu lindungi?
+  - Jika user X, apa yang bisa gagal?
+  - AI dipakai? Bagian mana + klarifikasi?
+- **Q&A bernalar (60–75 menit):** guru minta "mengapa?" — bukan "wow".
+- **Skor draft 6 aspek** — untuk guru, tidak dibacakan ranking di depan kelas.
+- **Preview P18:** kumpulkan artefak untuk portofolio tahun X.
+- **Dokumentasi:** foto/video arsip MA — izin siswa.
+
+---
+
+## 3. Materi praktik
+
 ### Rubrik presentasi (0–5 menit)
 
 Jelaskan ke siswa — **bukan** angka:
@@ -49,7 +79,9 @@ Guru isi rubrik 6 aspek — narasi untuk laporan, bukan diumumkan ranking.
 Ingatkan: kumpulkan link/screenshot S1+S2 + refleksi — portofolio tahun X.
 
 ---
-## 5. Alur pertemuan (90 menit)
+
+## 4. Alur pertemuan (90 menit)
+
 | Menit | Aktivitas |
 |-------|-----------|
 | 0–5 | Rubrik presentasi: reasoning > demo cantik |
@@ -60,7 +92,8 @@ Ingatkan: kumpulkan link/screenshot S1+S2 + refleksi — portofolio tahun X.
 
 ---
 
-## 6. Lembar kerja / latihan
+## 5. Lembar kerja / latihan
+
 Presentasi **bukan** walkthrough kode baris-per-baris. Gunakan snippet untuk **latihan Q&A reasoning** (opsional 5 menit sebelum demo pertama):
 
 ```html
@@ -84,9 +117,12 @@ document.getElementById("btn").addEventListener("click", () => {
 
 ---
 
-## 8. Refleksi
+## 6. Refleksi
+
 1. Satu asumsi yang kubongkar hari ini: …
 2. Satu hal untuk pertemuan berikutnya: …
 
+
 ---
+
 _Handout ini boleh dibawa pulang. Kode ditulis sendiri di kelas — jangan copas project jadi._

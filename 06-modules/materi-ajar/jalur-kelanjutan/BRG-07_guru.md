@@ -1,4 +1,7 @@
 # Materi Guru Lengkap — BRG-07
+
+**Handout siswa:** [BRG-07_siswa.md](./BRG-07_siswa.md)
+
 **Sumber BRG:** [BRG-07_Node_Express_REST_Minimal.md](../../materi-pendukung/jalur-kelanjutan/BRG-07_Node_Express_REST_Minimal.md)
 
 ---

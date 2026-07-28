@@ -1,11 +1,28 @@
 # Handout Siswa — X-S1-P17
-**Mapel:** Multimedia (Pemrograman Web) · **CPLF**
-**Modul acuan:** [X-S1-P17_project-s1-build-2.md](../../kelas-x/semester-1/X-S1-P17_project-s1-build-2.md)
----
-## 1. Tujuan pembelajaran
-_Lihat transformasi di modul pertemuan._
 
-## 2. Materi
+**Mapel:** Multimedia (Pemrograman Web) · **CPLF**
+
+**Modul acuan:** [X-S1-P17_project-s1-build-2.md](../../../kelas-x/semester-1/X-S1-P17_project-s1-build-2.md)
+
+---
+
+## 1. Tujuan pembelajaran
+
+_Lihat modul pertemuan._
+
+## 2. Ringkasan konsep
+
+- **Target hari ini:** DoD minimal terpenuhi + peer review + **revisi wajib** minimal 1 saran + siap demo 3 menit P18.
+- **Timeline:** stand-up → build (target DoD) → peer review 15 menit → revisi 15 menit → prep demo.
+- **Peer worksheet:** 2 pujian spesifik + 2 saran spesifik + catatan revisi yang dilakukan.
+- **Rubrik peer:** pengantar — fokus COM (jelas, spesifik, konstruktif), bukan nilai toxic.
+- **Bukti revisi:** screenshot / commit / catatan — wajib untuk formatif ITR.
+- **Guru:** pastikan semua punya bukti revisi; tidak ranking "terbaik".
+
+---
+
+## 3. Materi praktik
+
 ### Build (10–50 menit) — DoD minimal
 
 Prioritas **acceptance wajib** dari spec P15. Fitur bonus parkir ke backlog S2.
@@ -17,7 +34,6 @@ Guru keliling dengan **timer mental** — ingatkan sisa waktu 40, 30, 20 menit.
 1. Pasangan A demo 2 menit ke B (bukan ke guru dulu).
 2. B isi worksheet: 2 pujian + 2 saran — **spesifik** ("flowchart langkah 4 jelas" bukan "bagus").
 3. Tukar peran.
-4. Guru float — dengar apakah feedback COM memenuhi rubrik.
 
 ### Revisi wajib (65–80 menit)
 
@@ -36,7 +52,9 @@ Outline 3 menit:
 3. Satu kesalahan & perbaikan
 
 ---
-## 5. Alur pertemuan (90 menit)
+
+## 4. Alur pertemuan (90 menit)
+
 | Menit | Aktivitas |
 |-------|-----------|
 | 0–10 | Stand-up |
@@ -47,7 +65,8 @@ Outline 3 menit:
 
 ---
 
-## 6. Lembar kerja / latihan
+## 5. Lembar kerja / latihan
+
 Untuk melatih **peer review** — snippet proyeksi, siswa beri pujian/saran tanpa fix:
 
 ```javascript
@@ -80,9 +99,12 @@ masukAntre(10, 10);
 
 ---
 
-## 8. Refleksi
+## 6. Refleksi
+
 1. Satu asumsi yang kubongkar hari ini: …
 2. Satu hal untuk pertemuan berikutnya: …
 
+
 ---
+
 _Handout ini boleh dibawa pulang. Kode ditulis sendiri di kelas — jangan copas project jadi._

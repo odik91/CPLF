@@ -1,12 +1,35 @@
 # Handout Siswa — X-S1-P14
+
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
-**Modul acuan:** [X-S1-P14_review-spiral-js.md](../../kelas-x/semester-1/X-S1-P14_review-spiral-js.md)
+
+**Modul acuan:** [X-S1-P14_review-spiral-js.md](../../../kelas-x/semester-1/X-S1-P14_review-spiral-js.md)
+
 ---
+
 ## 1. Tujuan pembelajaran
+
 Menyatukan pola: masalah → algoritma → kondisi → data → loop → debug.
 
 ---
-## 2. Materi
+
+## 2. Ringkasan konsep
+
+- **Transformasi inti:** menyatukan rantai S1 — masalah → algoritma → kondisi → data → loop → debug.
+- **Kasus integrasi:** “Antre konsultasi wali kelas” — frame masalah baru yang memakai semua konsep.
+- **Station rotation (4 × ~12 menit):**
+  1. Flowchart antre
+  2. If: batas 10 slot/hari
+  3. Loop: total antrean / hitung
+  4. Debug: off-by-one loop
+- **Mini challenge:** gabung 2 station jadi 1 script console — siswa **mengetik**, guru **tidak** bagikan gabungan.
+- **Peer explain:** 2 menit/siswa jelaskan ke teman — rubrik COM (komunikasi).
+- **Buffer sebelum project:** identifikasi siswa perlu scaffolding ekstra di P15–P17.
+- **Preview P15:** pilih PRJ-X-S1-01/02/03 — beda varian antar kelompok/kelas paralel.
+
+---
+
+## 3. Materi praktik
+
 ### Spiral review — bukan ujian baru
 
 P14 bukan materi baru, melainkan **jaring konsep**. Guru membantu siswa melihat bahwa project S1 minggu depan hanya kombinasi yang sudah dipelajari.
@@ -35,7 +58,9 @@ Rubrik ringkas: teman paham urutan? istilah benar? ada contoh konkret?
 Siswa tulis bahasa sendiri — bukan copy definisi slide. Contoh: "Loop = kasir scan berulang."
 
 ---
-## 5. Alur pertemuan (90 menit)
+
+## 4. Alur pertemuan (90 menit)
+
 | Menit | Fase | Aktivitas |
 |-------|------|-----------|
 | 0–10 | Opening | Quiz oral cepat: 5 konsep S1 (algoritma, if, var, loop, debug) |
@@ -48,7 +73,8 @@ Siswa tulis bahasa sendiri — bukan copy definisi slide. Contoh: "Loop = kasir 
 
 ---
 
-## 6. Lembar kerja / latihan
+## 5. Lembar kerja / latihan
+
 **Hanya untuk proyeksi / diskusi — TIDAK untuk didistribusikan ke siswa.**
 
 ### Station 3 — Loop (prediksi output)
@@ -112,9 +138,12 @@ Guru hanya ucapkan: "Gabungkan logika slot + loop nama antre — minimal 8 baris
 
 ---
 
-## 8. Refleksi
+## 6. Refleksi
+
 1. Satu asumsi yang kubongkar hari ini: …
 2. Satu hal untuk pertemuan berikutnya: …
 
+
 ---
+
 _Handout ini boleh dibawa pulang. Kode ditulis sendiri di kelas — jangan copas project jadi._

@@ -1,6 +1,10 @@
 # Materi Guru Lengkap — X-S2-P08
-**Modul:** [X-S2-P08_validasi-js-pesan.md](../../kelas-x/semester-2/X-S2-P08_validasi-js-pesan.md)
-**Materi pendukung sumber:** [X-S2-P08_validasi-js-pesan.md](../../materi-pendukung/materi-pendukung/kelas-x/semester-2/X-S2-P08_validasi-js-pesan.md)
+
+**Handout siswa (bagikan):** [X-S2-P08_validasi-js-pesan_siswa.md](./X-S2-P08_validasi-js-pesan_siswa.md)
+
+**Modul:** [X-S2-P08_validasi-js-pesan.md](../../../kelas-x/semester-2/X-S2-P08_validasi-js-pesan.md)
+
+**Materi pendukung sumber:** [X-S2-P08_validasi-js-pesan.md](../../../materi-pendukung/kelas-x/semester-2/X-S2-P08_validasi-js-pesan.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -379,4 +383,4 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [00_Panduan_Etika_Penyampaian.md](../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)

@@ -1,6 +1,10 @@
 # Materi Guru Lengkap — XI-S3-P09
-**Modul:** [XI-S3-P09_refactor-modul.md](../../kelas-xi/semester-3/XI-S3-P09_refactor-modul.md)
-**Materi pendukung sumber:** [XI-S3-P09_refactor-modul.md](../../materi-pendukung/materi-pendukung/kelas-xi/semester-3/XI-S3-P09_refactor-modul.md)
+
+**Handout siswa (bagikan):** [XI-S3-P09_refactor-modul_siswa.md](./XI-S3-P09_refactor-modul_siswa.md)
+
+**Modul:** [XI-S3-P09_refactor-modul.md](../../../kelas-xi/semester-3/XI-S3-P09_refactor-modul.md)
+
+**Materi pendukung sumber:** [XI-S3-P09_refactor-modul.md](../../../materi-pendukung/kelas-xi/semester-3/XI-S3-P09_refactor-modul.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -344,12 +348,9 @@ function doEverything(x) {
 
 ---
 ## C. BRG & jalur kelanjutan
-
-## Materi pendamping BRG (wajib/opsional)
-
-- [BRG-03](../../jalur-kelanjutan/BRG-03_guru.md)
+- [BRG-03](../../../materi-ajar/jalur-kelanjutan/BRG-03_guru.md)
 
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [00_Panduan_Etika_Penyampaian.md](../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)

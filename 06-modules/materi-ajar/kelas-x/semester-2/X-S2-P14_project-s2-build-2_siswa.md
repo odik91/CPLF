@@ -1,11 +1,33 @@
 # Handout Siswa — X-S2-P14
-**Mapel:** Multimedia (Pemrograman Web) · **CPLF**
-**Modul acuan:** [X-S2-P14_project-s2-build-2.md](../../kelas-x/semester-2/X-S2-P14_project-s2-build-2.md)
----
-## 1. Tujuan pembelajaran
-_Lihat transformasi di modul pertemuan._
 
-## 2. Materi
+**Mapel:** Multimedia (Pemrograman Web) · **CPLF**
+
+**Modul acuan:** [X-S2-P14_project-s2-build-2.md](../../../kelas-x/semester-2/X-S2-P14_project-s2-build-2.md)
+
+---
+
+## 1. Tujuan pembelajaran
+
+_Lihat modul pertemuan._
+
+## 2. Ringkasan konsep
+
+- **Target hari ini:** **freeze feature** — polish CSS + edge case validasi + self-test acceptance + **demo script 3 menit** untuk P15.
+- **Timeline:** stand-up (target freeze) → build polish → self-test DoD → demo script → siap peer review.
+- **Demo script template** (dari modul):
+  1. Masalah (20 detik)
+  2. Demo fitur (90 detik)
+  3. Mengapa solusi ini (40 detik)
+  4. Kesulitan + perbaikan (30 detik)
+- **Freeze feature:** tidak ada fitur besar baru hari ini — hanya perbaikan yang mendukung DoD & demo.
+- **Self-test acceptance:** siswa centang checklist PRJ sendiri — guru spot-check 3–5 kelompok.
+- **Polish ≠ ganti desain:** spacing, kontras, pesan error jelas — bukan redesign total.
+- **Prep P15:** artefak harus bisa didemo peer 3 menit; worksheet peer kosong siap di kelas depan.
+
+---
+
+## 3. Materi praktik
+
 ### Stand-up — target freeze (0–10 menit)
 
 Setiap kelompok sebut **1 kalimat**: "Hari ini selesai jika …" — harus measurable vs acceptance.
@@ -28,7 +50,6 @@ Guru keliling — **clarifying questions only**, timer mental 40/30/20 menit.
 ### Self-test acceptance (60–70 menit)
 
 Siswa jalankan checklist DoD PRJ — tandai ✅/❌.
-Guru float: "Tiga uji validasi PRJ-01 — sudah?" "Render list kosong PRJ-02 — pesan apa?"
 
 ### Demo script 3 menit (70–85 menit)
 
@@ -53,7 +74,9 @@ Guru model **kalimat reasoning** di papan (generic):
 Checklist exit: artefak bisa dibuka peer, demo script ada, tidak ada secret URL/file guru.
 
 ---
-## 5. Alur pertemuan (90 menit)
+
+## 4. Alur pertemuan (90 menit)
+
 | Menit | Aktivitas |
 |-------|-----------|
 | 0–10 | Stand-up — target freeze feature hari ini |
@@ -64,7 +87,8 @@ Checklist exit: artefak bisa dibuka peer, demo script ada, tidak ada secret URL/
 
 ---
 
-## 6. Lembar kerja / latihan
+## 5. Lembar kerja / latihan
+
 Latihan **self-test + peer prep** — snippet proyeksi, siswa identifikasi gap DoD:
 
 ```javascript
@@ -94,9 +118,12 @@ function validasiForm(nominal) {
 
 ---
 
-## 8. Refleksi
+## 6. Refleksi
+
 1. Satu asumsi yang kubongkar hari ini: …
 2. Satu hal untuk pertemuan berikutnya: …
 
+
 ---
+
 _Handout ini boleh dibawa pulang. Kode ditulis sendiri di kelas — jangan copas project jadi._

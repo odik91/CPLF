@@ -1,12 +1,36 @@
 # Handout Siswa — X-S2-P18
+
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
-**Modul acuan:** [X-S2-P18_portofolio-tahun-x.md](../../kelas-x/semester-2/X-S2-P18_portofolio-tahun-x.md)
+
+**Modul acuan:** [X-S2-P18_portofolio-tahun-x.md](../../../kelas-x/semester-2/X-S2-P18_portofolio-tahun-x.md)
+
 ---
+
 ## 1. Tujuan pembelajaran
+
 Menyadari **perjalanan** dari problem solver → web sederhana — identitas belajar, bukan “sudah jadi developer”.
 
 ---
-## 2. Materi
+
+## 2. Ringkasan konsep
+
+- **Learning transformation:** dari problem solver (S1) → web sederhana (S2) — **identitas cara belajar**, bukan "sudah jadi developer".
+- **Opening frame:** "Bukan identitas profesi — identitas cara belajar" — hindari oversell karier.
+- **Portofolio minimum tahun X:**
+  - Project S1 (link/screenshot)
+  - Project S2 (link/screenshot)
+  - Refleksi 1 halaman: apa yang berubah dalam cara berpikir?
+  - 1 contoh klarifikasi AI/medsos yang pernah dilakukan
+- **Progress Card CX:** self-assessment + validasi guru — 3 capability + bukti dari semester.
+- **Reflect:** 3 Mental Model yang paling terasa (mis. spec dulu, error=info, iterasi peer).
+- **Optional showcase gallery** — kelas/orang tua — rayakan growth, bukan ranking.
+- **Transfer Kelas XI:** preview dari halaman → **sistem** (DOM dalam, async, data, tim).
+- **Arsip CPLF:** Progress Card + narasi masuk arsip siswa — sumatif formatif.
+
+---
+
+## 3. Materi praktik
+
 ### Opening (0–10 menit)
 
 Frame identitas belajar:
@@ -69,7 +93,9 @@ Siswa pilih **3 yang paling terasa** — dengan contoh konkret milik mereka.
 - Closing tahun X — apresiasi effort
 
 ---
-## 5. Alur pertemuan (90 menit)
+
+## 4. Alur pertemuan (90 menit)
+
 | Menit | Aktivitas |
 |-------|-----------|
 | 0–10 | Opening: “Bukan identitas profesi — identitas cara belajar” |
@@ -81,7 +107,8 @@ Siswa pilih **3 yang paling terasa** — dengan contoh konkret milik mereka.
 
 ---
 
-## 6. Lembar kerja / latihan
+## 5. Lembar kerja / latihan
+
 - [ ] Project S1 (link/screenshot)  
 - [ ] Project S2 (link/screenshot)  
 - [ ] Refleksi 1 halaman: apa yang berubah dalam cara berpikir?  
@@ -89,13 +116,16 @@ Siswa pilih **3 yang paling terasa** — dengan contoh konkret milik mereka.
 
 ---
 
-## 8. Refleksi
+## 6. Refleksi
+
 1. Satu asumsi yang kubongkar hari ini: …
 2. Satu hal untuk pertemuan berikutnya: …
 
-## Materi pendamping BRG (wajib/opsional)
+## 7. Materi pendamping BRG
 
-- [BRG-02](../../jalur-kelanjutan/BRG-02_siswa.md)
+- [BRG-02](../../../materi-ajar/jalur-kelanjutan/BRG-02_siswa.md)
+
 
 ---
+
 _Handout ini boleh dibawa pulang. Kode ditulis sendiri di kelas — jangan copas project jadi._

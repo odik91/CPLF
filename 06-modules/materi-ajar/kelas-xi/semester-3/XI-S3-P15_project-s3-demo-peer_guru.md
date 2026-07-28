@@ -1,6 +1,10 @@
 # Materi Guru Lengkap — XI-S3-P15
-**Modul:** [XI-S3-P15_project-s3-demo-peer.md](../../kelas-xi/semester-3/XI-S3-P15_project-s3-demo-peer.md)
-**Materi pendukung sumber:** [XI-S3-P15_project-s3-demo-peer.md](../../materi-pendukung/materi-pendukung/kelas-xi/semester-3/XI-S3-P15_project-s3-demo-peer.md)
+
+**Handout siswa (bagikan):** [XI-S3-P15_project-s3-demo-peer_siswa.md](./XI-S3-P15_project-s3-demo-peer_siswa.md)
+
+**Modul:** [XI-S3-P15_project-s3-demo-peer.md](../../../kelas-xi/semester-3/XI-S3-P15_project-s3-demo-peer.md)
+
+**Materi pendukung sumber:** [XI-S3-P15_project-s3-demo-peer.md](../../../materi-pendukung/kelas-xi/semester-3/XI-S3-P15_project-s3-demo-peer.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -331,4 +335,4 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [00_Panduan_Etika_Penyampaian.md](../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)

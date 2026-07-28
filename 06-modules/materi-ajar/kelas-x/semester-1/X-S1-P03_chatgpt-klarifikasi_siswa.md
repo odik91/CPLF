@@ -1,12 +1,57 @@
 # Handout Siswa — X-S1-P03
+
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
-**Modul acuan:** [X-S1-P03_chatgpt-klarifikasi.md](../../kelas-x/semester-1/X-S1-P03_chatgpt-klarifikasi.md)
+
+**Modul acuan:** [X-S1-P03_chatgpt-klarifikasi.md](../../../kelas-x/semester-1/X-S1-P03_chatgpt-klarifikasi.md)
+
 ---
+
 ## 1. Tujuan pembelajaran
+
 Dari “AI bilang = benar/salah total” → “klarifikasi: alasan, bukti, alternatif, konteks.”
 
 ---
-## 2. Materi
+
+## 2. Ringkasan konsep
+
+### Moto kelas (MM-00)
+
+```text
+Jangan cepat percaya.
+Jangan cepat menolak.
+Pahami dulu.
+```
+
+### AI bukan otoritas — partner berpikir
+
+- Jawaban AI **plausibel** ≠ **benar**.
+- Kesalahan bukan selalu "AI bodoh" — bisa prompt kurang, konteks hilang, atau kita terlalu percaya.
+- **Bomb question:** "AI salah — siapa yang salah?" → jawaban nuanced: prompt, verifikasi, konteks.
+
+### Rantai klarifikasi 4 langkah (Prinsip Bernalar)
+
+| Langkah | Pertanyaan |
+|---------|------------|
+| 1. Klaim | Apa yang dikatakan AI/teman/media? |
+| 2. Alasan | Mengapa terdengar masuk akal? |
+| 3. Bukti | Data/sumber/uji apa yang kita punya? |
+| 4. Alternatif & konteks | Penjelasan lain? Kapan klaim tidak berlaku? |
+
+### Contoh klaim aman untuk demo (hindari agama/politik)
+
+- "HTML adalah bahasa pemrograman." → Uji: tunjukkan `if`/loop di HTML murni?
+- Urutan langkah salah tapi meyakinkan (mis. "rebus mie dulu baru buka bungkus" versi AI).
+- Fakta ringan sejarah/sains yang siswa bisa cek di buku paket.
+
+### AI Policy kelas (perkenalkan hari ini)
+
+- AI **boleh** dipakai setelah P03 **dengan log klarifikasi singkat**.
+- Copy-paste tanpa paham = belum lulus formatif **REA**.
+
+---
+
+## 3. Materi praktik
+
 ### Experience flow
 
 ```text
@@ -37,7 +82,9 @@ Tulis moto di papan
 | "Semua virus komputer dari download ilegal" | Narasi media | Counterexample + sumber akademik |
 
 ---
-## 5. Alur pertemuan (90 menit)
+
+## 4. Alur pertemuan (90 menit)
+
 | Menit | Fase | Aktivitas |
 |-------|------|-----------|
 | 0–5 | Opening | Tulis di papan moto: *Jangan cepat percaya. Jangan cepat menolak. Pahami dulu.* |
@@ -51,18 +98,39 @@ Tulis moto di papan
 
 ---
 
-## 6. Lembar kerja / latihan
-Catatan selama Experience · Clarify · Practice:
+## 5. Lembar kerja / latihan
 
-| Fase | Apa yang kulakukan | Apa yang kupelajari |
-|------|-------------------|---------------------|
-| Experience | | |
-| Clarify | | |
-| Practice | | |
+Proyeksikan "jawaban AI" fiktif (baca, jangan copy ke siswa):
 
-## 8. Refleksi
+```text
+HTML adalah bahasa pemrograman karena:
+  (a) HTML digunakan untuk membuat halaman web
+  (b) HTML punya sintaks dengan tanda <>
+  (c) HTML bisa dijalankan di browser
+  KESIMPULAN: HTML setara dengan Python
+```
+
+| Pertanyaan membaca | Kunci jawaban |
+|--------------------|--------------|
+| Argumen (a)–(c) mendukung klaim atau mengalihkan? | Mengalihkan — "dipakai di web" ≠ "bahasa pemrograman" |
+| Langkah logika yang loncat? | Dari (c) langsung ke KESIMPULAN setara Python |
+| Bukti apa yang **tidak** ada? | Contoh `if`, variabel, loop di HTML murni |
+| Prompt perbaikan? | "Bandingkan HTML vs JS untuk logika kondisi" |
+
+---
+
+## 6. Exit ticket
+
+1. 1 pertanyaan klarifikasi yang akan selalu kutanyakan
+2. …
+
+
+## 7. Refleksi
+
 1. Satu asumsi yang kubongkar hari ini: …
 2. Satu hal untuk pertemuan berikutnya: …
 
+
 ---
+
 _Handout ini boleh dibawa pulang. Kode ditulis sendiri di kelas — jangan copas project jadi._

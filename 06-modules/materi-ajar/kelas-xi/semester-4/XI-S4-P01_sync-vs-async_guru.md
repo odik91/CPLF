@@ -1,6 +1,10 @@
 # Materi Guru Lengkap — XI-S4-P01
-**Modul:** [XI-S4-P01_sync-vs-async.md](../../kelas-xi/semester-4/XI-S4-P01_sync-vs-async.md)
-**Materi pendukung sumber:** [XI-S4-P01_sync-vs-async.md](../../materi-pendukung/materi-pendukung/kelas-xi/semester-4/XI-S4-P01_sync-vs-async.md)
+
+**Handout siswa (bagikan):** [XI-S4-P01_sync-vs-async_siswa.md](./XI-S4-P01_sync-vs-async_siswa.md)
+
+**Modul:** [XI-S4-P01_sync-vs-async.md](../../../kelas-xi/semester-4/XI-S4-P01_sync-vs-async.md)
+
+**Materi pendukung sumber:** [XI-S4-P01_sync-vs-async.md](../../../materi-pendukung/kelas-xi/semester-4/XI-S4-P01_sync-vs-async.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -395,4 +399,4 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [00_Panduan_Etika_Penyampaian.md](../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)

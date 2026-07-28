@@ -1,4 +1,7 @@
 # Materi Guru Lengkap — BRG-06
+
+**Handout siswa:** [BRG-06_siswa.md](./BRG-06_siswa.md)
+
 **Sumber BRG:** [BRG-06_React_SPA_Pengantar.md](../../materi-pendukung/jalur-kelanjutan/BRG-06_React_SPA_Pengantar.md)
 
 ---

@@ -1,6 +1,10 @@
 # Materi Guru Lengkap — X-S2-P11
-**Modul:** [X-S2-P11_sintesis-halaman-mini.md](../../kelas-x/semester-2/X-S2-P11_sintesis-halaman-mini.md)
-**Materi pendukung sumber:** [X-S2-P11_sintesis-halaman-mini.md](../../materi-pendukung/materi-pendukung/kelas-x/semester-2/X-S2-P11_sintesis-halaman-mini.md)
+
+**Handout siswa (bagikan):** [X-S2-P11_sintesis-halaman-mini_siswa.md](./X-S2-P11_sintesis-halaman-mini_siswa.md)
+
+**Modul:** [X-S2-P11_sintesis-halaman-mini.md](../../../kelas-x/semester-2/X-S2-P11_sintesis-halaman-mini.md)
+
+**Materi pendukung sumber:** [X-S2-P11_sintesis-halaman-mini.md](../../../materi-pendukung/kelas-x/semester-2/X-S2-P11_sintesis-halaman-mini.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -383,4 +387,4 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [00_Panduan_Etika_Penyampaian.md](../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)

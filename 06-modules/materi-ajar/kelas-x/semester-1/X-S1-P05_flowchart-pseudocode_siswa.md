@@ -1,12 +1,63 @@
 # Handout Siswa — X-S1-P05
+
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
-**Modul acuan:** [X-S1-P05_flowchart-pseudocode.md](../../kelas-x/semester-1/X-S1-P05_flowchart-pseudocode.md)
+
+**Modul acuan:** [X-S1-P05_flowchart-pseudocode.md](../../../kelas-x/semester-1/X-S1-P05_flowchart-pseudocode.md)
+
 ---
+
 ## 1. Tujuan pembelajaran
+
 Dari “algoritma di kepala” → “representasi visual & teks yang bisa diuji orang lain.”
 
 ---
-## 2. Materi
+
+## 2. Ringkasan konsep
+
+### Representasi algoritma
+
+- Algoritme di kepala → sulit diuji orang lain.
+- **Flowchart** = diagram visual alur (cabang, urutan).
+- **Pseudocode** = teks semi-formal, **bukan** JavaScript — bridge ke coding P08+.
+
+### Simbol minimal (wajib siswa X)
+
+| Simbol | Fungsi |
+|--------|--------|
+| Oval | Start / End |
+| Persegi | Process (aksi) |
+| Belah ketupat | Decision (ya/tidak) |
+| Panah | Arah alur |
+
+### Trap flowchart "kelihatan lengkap"
+
+- Ada kotak ≠ algoritme benar — **cabang hilang** = bug logika.
+- Uji dengan **1 kasus input contoh** — trace manual.
+
+### Pseudocode CPLF (konvensi sederhana)
+
+```text
+MULAI
+  ...
+  JIKA (kondisi) MAKA
+    ...
+  JIKA TIDAK
+    ...
+  AKHIR
+SELESAI
+```
+
+- Belum wajib VS Code — kertas / draw.io / whiteboard cukup.
+- Topik practice mengarah ke **PRJ-S1 Kegiatan Harian**.
+
+### Peer swap
+
+- Tukar flowchart/pseudocode → teman cari **1 bug instruksi** — formatif **COM**.
+
+---
+
+## 3. Materi praktik
+
 ### Demo flowchart "salah" (experience)
 
 Contoh: "Apakah boleh masuk perpustakaan?"
@@ -36,7 +87,9 @@ Perbaikan: tambah process "Daftar sementara" atau "Tolak + arahkan ke admin."
 3. **Swap** — teman trace & temukan 1 bug
 
 ---
-## 5. Alur pertemuan (90 menit)
+
+## 4. Alur pertemuan (90 menit)
+
 | Menit | Fase | Aktivitas |
 |-------|------|-----------|
 | 0–5 | Opening | Demo ROBI literal 1 langkah dari P04 — recall |
@@ -50,18 +103,47 @@ Perbaikan: tambah process "Daftar sementara" atau "Tolak + arahkan ke admin."
 
 ---
 
-## 6. Lembar kerja / latihan
-Catatan selama Experience · Clarify · Practice:
+## 5. Lembar kerja / latihan
 
-| Fase | Apa yang kulakukan | Apa yang kupelajari |
-|------|-------------------|---------------------|
-| Experience | | |
-| Clarify | | |
-| Practice | | |
+Proyeksikan (trace dulu, **jangan** copy):
 
-## 8. Refleksi
+```text
+MULAI
+  BACA suhu
+  JIKA suhu >= 38 MAKA
+    TAMPILKAN "Istirahat di rumah"
+  JIKA TIDAK
+    TAMPILKAN "Ikut kegiatan"
+  AKHIR
+SELESAI
+```
+
+**Input A:** suhu = 39 · **Input B:** suhu = 36
+
+| Pertanyaan membaca | Kunci jawaban |
+|--------------------|--------------|
+| Input A — output? | "Istirahat di rumah" |
+| Input B — output? | "Ikut kegiatan" |
+| Boundary suhu = 38 — output? | "Istirahat" (>= 38) |
+| Bug jika baris JIKA TIDAK dihapus? | suhu 36 tidak punya output |
+
+### Latihan flowchart (visual)
+
+Gambar sederhana: decision tanpa label YA/TIDAK pada panah.
+
+| Pertanyaan | Kunci |
+|------------|-------|
+| Trace bisa dilakukan? | Tidak deterministik — bug diagram |
+| Perbaikan? | Label setiap cabang |
+
+---
+
+## 6. Refleksi
+
 1. Satu asumsi yang kubongkar hari ini: …
 2. Satu hal untuk pertemuan berikutnya: …
 
+
 ---
+
 _Handout ini boleh dibawa pulang. Kode ditulis sendiri di kelas — jangan copas project jadi._

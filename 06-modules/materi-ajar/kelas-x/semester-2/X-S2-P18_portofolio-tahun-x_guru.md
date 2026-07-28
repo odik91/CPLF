@@ -1,6 +1,10 @@
 # Materi Guru Lengkap — X-S2-P18
-**Modul:** [X-S2-P18_portofolio-tahun-x.md](../../kelas-x/semester-2/X-S2-P18_portofolio-tahun-x.md)
-**Materi pendukung sumber:** [X-S2-P18_portofolio-tahun-x.md](../../materi-pendukung/materi-pendukung/kelas-x/semester-2/X-S2-P18_portofolio-tahun-x.md)
+
+**Handout siswa (bagikan):** [X-S2-P18_portofolio-tahun-x_siswa.md](./X-S2-P18_portofolio-tahun-x_siswa.md)
+
+**Modul:** [X-S2-P18_portofolio-tahun-x.md](../../../kelas-x/semester-2/X-S2-P18_portofolio-tahun-x.md)
+
+**Materi pendukung sumber:** [X-S2-P18_portofolio-tahun-x.md](../../../materi-pendukung/kelas-x/semester-2/X-S2-P18_portofolio-tahun-x.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -321,12 +325,9 @@ Portofolio **bukan** membaca kode baru. Gunakan **cuplikan artefak siswa** (anon
 
 ---
 ## C. BRG & jalur kelanjutan
-
-## Materi pendamping BRG (wajib/opsional)
-
-- [BRG-02](../../jalur-kelanjutan/BRG-02_guru.md)
+- [BRG-02](../../../materi-ajar/jalur-kelanjutan/BRG-02_guru.md)
 
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [00_Panduan_Etika_Penyampaian.md](../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)

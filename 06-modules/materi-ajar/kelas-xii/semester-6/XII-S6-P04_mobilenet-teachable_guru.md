@@ -1,6 +1,10 @@
 # Materi Guru Lengkap — XII-S6-P04
-**Modul:** [XII-S6-P04_mobilenet-teachable.md](../../kelas-xii/semester-6/XII-S6-P04_mobilenet-teachable.md)
-**Materi pendukung sumber:** [XII-S6-P04_mobilenet-teachable.md](../../materi-pendukung/materi-pendukung/kelas-xii/semester-6/XII-S6-P04_mobilenet-teachable.md)
+
+**Handout siswa (bagikan):** [XII-S6-P04_mobilenet-teachable_siswa.md](./XII-S6-P04_mobilenet-teachable_siswa.md)
+
+**Modul:** [XII-S6-P04_mobilenet-teachable.md](../../../kelas-xii/semester-6/XII-S6-P04_mobilenet-teachable.md)
+
+**Materi pendukung sumber:** [XII-S6-P04_mobilenet-teachable.md](../../../materi-pendukung/kelas-xii/semester-6/XII-S6-P04_mobilenet-teachable.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -414,4 +418,4 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [00_Panduan_Etika_Penyampaian.md](../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)

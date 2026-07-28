@@ -1,6 +1,10 @@
 # Materi Guru Lengkap — X-S1-P16
-**Modul:** [X-S1-P16_project-s1-build-1.md](../../kelas-x/semester-1/X-S1-P16_project-s1-build-1.md)
-**Materi pendukung sumber:** [X-S1-P16_project-s1-build-1.md](../../materi-pendukung/materi-pendukung/kelas-x/semester-1/X-S1-P16_project-s1-build-1.md)
+
+**Handout siswa (bagikan):** [X-S1-P16_project-s1-build-1_siswa.md](./X-S1-P16_project-s1-build-1_siswa.md)
+
+**Modul:** [X-S1-P16_project-s1-build-1.md](../../../kelas-x/semester-1/X-S1-P16_project-s1-build-1.md)
+
+**Materi pendukung sumber:** [X-S1-P16_project-s1-build-1.md](../../../materi-pendukung/kelas-x/semester-1/X-S1-P16_project-s1-build-1.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -265,4 +269,4 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [00_Panduan_Etika_Penyampaian.md](../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)

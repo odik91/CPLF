@@ -1,6 +1,10 @@
 # Materi Guru Lengkap — XI-S4-P16
-**Modul:** [XI-S4-P16_peer-review-git.md](../../kelas-xi/semester-4/XI-S4-P16_peer-review-git.md)
-**Materi pendukung sumber:** [XI-S4-P16_peer-review-git.md](../../materi-pendukung/materi-pendukung/kelas-xi/semester-4/XI-S4-P16_peer-review-git.md)
+
+**Handout siswa (bagikan):** [XI-S4-P16_peer-review-git_siswa.md](./XI-S4-P16_peer-review-git_siswa.md)
+
+**Modul:** [XI-S4-P16_peer-review-git.md](../../../kelas-xi/semester-4/XI-S4-P16_peer-review-git.md)
+
+**Materi pendukung sumber:** [XI-S4-P16_peer-review-git.md](../../../materi-pendukung/kelas-xi/semester-4/XI-S4-P16_peer-review-git.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -356,4 +360,4 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [00_Panduan_Etika_Penyampaian.md](../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)

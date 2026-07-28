@@ -1,6 +1,10 @@
 # Materi Guru Lengkap — XI-S3-P04
-**Modul:** [XI-S3-P04_dom-update-aman.md](../../kelas-xi/semester-3/XI-S3-P04_dom-update-aman.md)
-**Materi pendukung sumber:** [XI-S3-P04_dom-update-aman.md](../../materi-pendukung/materi-pendukung/kelas-xi/semester-3/XI-S3-P04_dom-update-aman.md)
+
+**Handout siswa (bagikan):** [XI-S3-P04_dom-update-aman_siswa.md](./XI-S3-P04_dom-update-aman_siswa.md)
+
+**Modul:** [XI-S3-P04_dom-update-aman.md](../../../kelas-xi/semester-3/XI-S3-P04_dom-update-aman.md)
+
+**Materi pendukung sumber:** [XI-S3-P04_dom-update-aman.md](../../../materi-pendukung/kelas-xi/semester-3/XI-S3-P04_dom-update-aman.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -385,4 +389,4 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [00_Panduan_Etika_Penyampaian.md](../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)

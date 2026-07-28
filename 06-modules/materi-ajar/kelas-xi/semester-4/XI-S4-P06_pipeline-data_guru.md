@@ -1,6 +1,10 @@
 # Materi Guru Lengkap — XI-S4-P06
-**Modul:** [XI-S4-P06_pipeline-data.md](../../kelas-xi/semester-4/XI-S4-P06_pipeline-data.md)
-**Materi pendukung sumber:** [XI-S4-P06_pipeline-data.md](../../materi-pendukung/materi-pendukung/kelas-xi/semester-4/XI-S4-P06_pipeline-data.md)
+
+**Handout siswa (bagikan):** [XI-S4-P06_pipeline-data_siswa.md](./XI-S4-P06_pipeline-data_siswa.md)
+
+**Modul:** [XI-S4-P06_pipeline-data.md](../../../kelas-xi/semester-4/XI-S4-P06_pipeline-data.md)
+
+**Materi pendukung sumber:** [XI-S4-P06_pipeline-data.md](../../../materi-pendukung/kelas-xi/semester-4/XI-S4-P06_pipeline-data.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -445,4 +449,4 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [00_Panduan_Etika_Penyampaian.md](../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)

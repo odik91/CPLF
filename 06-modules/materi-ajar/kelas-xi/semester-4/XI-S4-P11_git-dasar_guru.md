@@ -1,6 +1,10 @@
 # Materi Guru Lengkap — XI-S4-P11
-**Modul:** [XI-S4-P11_git-dasar.md](../../kelas-xi/semester-4/XI-S4-P11_git-dasar.md)
-**Materi pendukung sumber:** [XI-S4-P11_git-dasar.md](../../materi-pendukung/materi-pendukung/kelas-xi/semester-4/XI-S4-P11_git-dasar.md)
+
+**Handout siswa (bagikan):** [XI-S4-P11_git-dasar_siswa.md](./XI-S4-P11_git-dasar_siswa.md)
+
+**Modul:** [XI-S4-P11_git-dasar.md](../../../kelas-xi/semester-4/XI-S4-P11_git-dasar.md)
+
+**Materi pendukung sumber:** [XI-S4-P11_git-dasar.md](../../../materi-pendukung/kelas-xi/semester-4/XI-S4-P11_git-dasar.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -358,12 +362,9 @@ Author: Budi <budi@sekolah.id>
 
 ---
 ## C. BRG & jalur kelanjutan
-
-## Materi pendamping BRG (wajib/opsional)
-
-- [BRG-05](../../jalur-kelanjutan/BRG-05_guru.md)
+- [BRG-05](../../../materi-ajar/jalur-kelanjutan/BRG-05_guru.md)
 
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [00_Panduan_Etika_Penyampaian.md](../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)

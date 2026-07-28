@@ -1,12 +1,36 @@
 # Handout Siswa — XI-S3-P15
+
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
-**Modul acuan:** [XI-S3-P15_project-s3-demo-peer.md](../../kelas-xi/semester-3/XI-S3-P15_project-s3-demo-peer.md)
+
+**Modul acuan:** [XI-S3-P15_project-s3-demo-peer.md](../../../kelas-xi/semester-3/XI-S3-P15_project-s3-demo-peer.md)
+
 ---
+
 ## 1. Tujuan pembelajaran
+
 Dari “jalan di laptopku” → **demo + reasoning** yang bisa diuji teman.
 
 ---
-## 2. Materi
+
+## 2. Ringkasan konsep
+
+- **Transformasi hari ini:** dari "jalan di laptopku" → **demo + reasoning** yang bisa diuji teman.
+- **Format demo siswa** (dari modul):
+  1. Masalah & user
+  2. Blueprint 30 detik (IPO + state)
+  3. Live demo acceptance 2 item
+  4. Satu keputusan desain & alternatif
+- **Timeline:** opening format → demo rotasi → peer sticky (+1 kuat · +1 tanya) → catat 1 revisi wajib P16 → exit backlog.
+- **Bukan kompetisi UI** — apresiasi reasoning dan iterasi (modul catatan guru).
+- **Peer feedback ringan hari ini:** sticky note — **bukan** worksheet rubrik penuh (itu P16).
+- **1 revisi wajib** dicatat untuk P16 — commit ke backlog, belum harus selesai hari ini.
+- **Rotasi demo:** 3–4 menit/siswa atau pasangan — adjust jumlah vs 90 menit.
+- **Perbedaan S2 P15 vs S3 P15:** S2 = peer review worksheet lengkap; S3 = **demo dulu** + feedback ringan → code review formal di P16.
+
+---
+
+## 3. Materi praktik
+
 ### Opening — format demo (0–5 menit)
 
 Tulis di papan struktur 4 bagian + timing.
@@ -56,7 +80,9 @@ Bukti rencana: [acceptance / modul terdampak]
 Commit ke backlog (sticky, issue list, catatan) — implementasi = P16.
 
 ---
-## 5. Alur pertemuan (90 menit)
+
+## 4. Alur pertemuan (90 menit)
+
 | Menit | Fase | Aktivitas |
 |-------|------|-----------|
 | 0–5 | Opening | Format demo: masalah → IPO → live 2 fitur → belum selesai |
@@ -67,7 +93,8 @@ Commit ke backlog (sticky, issue list, catatan) — implementasi = P16.
 
 ---
 
-## 6. Lembar kerja / latihan
+## 5. Lembar kerja / latihan
+
 Latihan **peer via membaca** — 5 menit sebelum demo pertama (opsional):
 
 Proyeksi snippet, siswa latih +1 kuat + +1 tanya **tanpa fix**:
@@ -105,9 +132,18 @@ export function render({ items }) {
 
 ---
 
-## 8. Refleksi
+## 6. Exit ticket
+
+1. Commit revisi ke backlog
+2. …
+
+
+## 7. Refleksi
+
 1. Satu asumsi yang kubongkar hari ini: …
 2. Satu hal untuk pertemuan berikutnya: …
 
+
 ---
+
 _Handout ini boleh dibawa pulang. Kode ditulis sendiri di kelas — jangan copas project jadi._

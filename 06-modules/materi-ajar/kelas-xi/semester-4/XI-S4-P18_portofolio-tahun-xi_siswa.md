@@ -1,12 +1,37 @@
 # Handout Siswa — XI-S4-P18
+
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
-**Modul acuan:** [XI-S4-P18_portofolio-tahun-xi.md](../../kelas-xi/semester-4/XI-S4-P18_portofolio-tahun-xi.md)
+
+**Modul acuan:** [XI-S4-P18_portofolio-tahun-xi.md](../../../kelas-xi/semester-4/XI-S4-P18_portofolio-tahun-xi.md)
+
 ---
+
 ## 1. Tujuan pembelajaran
+
 Dari kumpulan file → **portofolio** capability siap XII.
 
 ---
-## 2. Materi
+
+## 2. Ringkasan konsep
+
+- **Transformasi hari ini:** dari kumpulan file/repo → **portofolio capability** siap XII + Progress Card updated.
+- **Portofolio minimum (modul):**
+  - Project S3 + S4 (link/repo)
+  - 1 blueprint / ER
+  - 1 refleksi kolaborasi Git
+  - Progress card updated
+- **Timeline:** opening contoh portofolio → concept Progress Card → practice susun → gallery walk → reflect → closing preview XII.
+- **Progress Card:** status capability (Belum / Berkembang / Terlihat / Kokoh) + bukti PRJ/EXP — bukan daftar nilai bab.
+- **Fokus Kelas XI template:** CXI-B1, B2, T1–T5, K1, K2, C1.
+- **Gallery walk:** 1 feedback sticky peer — spesifik, bukan ranking.
+- **Reflect:** 3 capability CXI terkuat · 1 target XII.
+- **Arsip:** opsional rapor / orang tua / showcase lintas kelas — modul catatan guru.
+- **Preview XII:** data lebih dalam · ML ringan · etika AI.
+
+---
+
+## 3. Materi praktik
+
 ### Opening — contoh portofolio (0–10 menit)
 
 Guru tunjuk **struktur section** (bukan copas isi):
@@ -89,7 +114,9 @@ Individual:
 - Apresiasi growth year XI — bukan ranking
 
 ---
-## 5. Alur pertemuan (90 menit)
+
+## 4. Alur pertemuan (90 menit)
+
 | Menit | Fase | Aktivitas |
 |-------|------|-----------|
 | 0–10 | Opening | Contoh portofolio: project + reasoning + capability |
@@ -101,7 +128,8 @@ Individual:
 
 ---
 
-## 6. Lembar kerja / latihan
+## 5. Lembar kerja / latihan
+
 - [ ] Project S3 + S4 (link/repo)  
 - [ ] 1 blueprint / ER  
 - [ ] 1 refleksi kolaborasi Git  
@@ -109,9 +137,12 @@ Individual:
 
 ---
 
-## 8. Refleksi
+## 6. Refleksi
+
 1. Satu asumsi yang kubongkar hari ini: …
 2. Satu hal untuk pertemuan berikutnya: …
 
+
 ---
+
 _Handout ini boleh dibawa pulang. Kode ditulis sendiri di kelas — jangan copas project jadi._

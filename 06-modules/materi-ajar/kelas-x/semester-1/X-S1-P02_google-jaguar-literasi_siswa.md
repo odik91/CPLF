@@ -1,12 +1,52 @@
 # Handout Siswa — X-S1-P02
+
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
-**Modul acuan:** [X-S1-P02_google-jaguar-literasi.md](../../kelas-x/semester-1/X-S1-P02_google-jaguar-literasi.md)
+
+**Modul acuan:** [X-S1-P02_google-jaguar-literasi.md](../../../kelas-x/semester-1/X-S1-P02_google-jaguar-literasi.md)
+
 ---
+
 ## 1. Tujuan pembelajaran
+
 Dari “Google tahu maksudku” → “output = f(input); wajib verifikasi.”
 
 ---
-## 2. Materi
+
+## 2. Ringkasan konsep
+
+### Input → Output (IPO)
+
+- Mesin pencari **bukan** pembaca pikiran — output = fungsi dari **kata yang diketik** (input).
+- Perubahan satu kata kunci dapat mengubah seluruh halaman hasil.
+- Analogi: sama seperti P01 — "solusi" Google tampil karena **input** kita, bukan karena Google "tahu maksud."
+
+### Keyword & disambiguasi
+
+- **`jaguar`** → mobil, olahraga, hewan (campuran).
+- **`jaguar animal`** / **`jaguar macan`** → bias ke biologi.
+- **`jaguar car`** → bias ke otomotif.
+- Kita perlu sadar **niat** vs **kata yang diketik**.
+
+### Verifikasi sumber
+
+- Hasil #1 ≠ fakta #1.
+- Protokol minimal: **2 sumber independen** untuk 1 fakta tugas.
+- Sumber terpercaya relatif terhadap konteks (akademik, pemerintah, organisasi resmi — bukan "situs random tanpa penulis").
+
+### Trap "Google salah"
+
+- Yang perlu diperbaiki biasanya **pengetik** (keyword, konteks), bukan mesin.
+- Kecuali: hasil sudah benar keyword tapi **konten** hoaks — maka verifikasi isi, bukan blame Google.
+
+### Rotasi varian
+
+- **EXP_03 A:** `apple` (buah vs perusahaan)
+- **EXP_03 B:** `MA` (Madrasah Aliyah vs Master of Arts vs provinsi)
+
+---
+
+## 3. Materi praktik
+
 ### Timeline inti
 
 ```text
@@ -42,14 +82,21 @@ Siswa pilih **topik tugas MA nyata** (bukan jaguar):
 - Prompt ChatGPT singkat tanpa konteks = P03 preview.
 
 ---
-## 4. Pertanyaan pemandu
+
+## 4. Yang sering salah dipikir (Cognitive Trap)
+
+| 20–30 | Trap + Q | Trap: “Google salah” vs “keyword kurang” — siapa yang perlu diperbaiki? |
+
+## 5. Pertanyaan pemandu
+
 1. Apa input persis yang kita beri mesin?  
 2. Apa yang berubah saat satu kata ditambah?  
 3. Bagaimana membuktikan fakta #1 benar?
 
 ---
 
-## 5. Alur pertemuan (90 menit)
+## 6. Alur pertemuan (90 menit)
+
 | Menit | Fase | Aktivitas |
 |-------|------|-----------|
 | 0–5 | Opening | Recall: batas masalah dari P01 — 1 siswa share |
@@ -65,18 +112,40 @@ Siswa pilih **topik tugas MA nyata** (bukan jaguar):
 
 ---
 
-## 6. Lembar kerja / latihan
-Catatan selama Experience · Clarify · Practice:
+## 7. Lembar kerja / latihan
 
-| Fase | Apa yang kulakukan | Apa yang kupelajari |
-|------|-------------------|---------------------|
-| Experience | | |
-| Clarify | | |
-| Practice | | |
+Proyeksikan "pseudo-algoritme pencarian" (baca dulu, jangan ketik):
 
-## 8. Refleksi
+```text
+MULAI
+  INPUT: kata_kunci = "jaguar"
+  CARI di mesin
+  AMBIL hasil_baris_1
+  KIRIM ke grup_WA tanpa baca
+SELESAI
+```
+
+| Pertanyaan membaca | Kunci jawaban |
+|--------------------|--------------|
+| Langkah mana paling berbahaya? | `KIRIM ke grup_WA tanpa baca` |
+| Apa yang hilang sebelum CARI? | Verifikasi niat, perbaikan keyword, cek 2 sumber |
+| Jika INPUT = "MA", prediksi masalah | Ambigu: Madrasah vs gelar vs provinsi |
+| Hubungkan ke P01 | Lompat ke "solusi share" = solusi prematur |
+
+---
+
+## 8. Exit ticket
+
+1. 1 strategi keyword + 1 sumber terpercaya
+2. …
+
+
+## 9. Refleksi
+
 1. Satu asumsi yang kubongkar hari ini: …
 2. Satu hal untuk pertemuan berikutnya: …
 
+
 ---
+
 _Handout ini boleh dibawa pulang. Kode ditulis sendiri di kelas — jangan copas project jadi._

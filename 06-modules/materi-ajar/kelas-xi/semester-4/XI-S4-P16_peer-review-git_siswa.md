@@ -1,12 +1,36 @@
 # Handout Siswa — XI-S4-P16
+
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
-**Modul acuan:** [XI-S4-P16_peer-review-git.md](../../kelas-xi/semester-4/XI-S4-P16_peer-review-git.md)
+
+**Modul acuan:** [XI-S4-P16_peer-review-git.md](../../../kelas-xi/semester-4/XI-S4-P16_peer-review-git.md)
+
 ---
+
 ## 1. Tujuan pembelajaran
+
 Dari submit → **review + iterasi** wajib sebelum presentasi.
 
 ---
-## 2. Materi
+
+## 2. Ringkasan konsep
+
+- **Transformasi hari ini:** dari submit tim → **review + iterasi wajib** + Git checkpoint sebelum P17 presentasi.
+- **Spiral S3 P16:** protokol review SPD + rubrik — hari ini **+ dimensi Git/atribusi/kolaborasi**.
+- **Timeline:** opening protokol → cross-team review rubrik → pleno 1 finding → implement ≥1 revisi + commit → retro mini tim → exit changelog.
+- **Git checkpoint (modul):**
+  - Semua anggota: commit visible
+  - README: cara run + atribusi
+  - No secret keys in repo
+- **Rubrik peer:** 2 pujian spesifik + 2 saran actionable + pertanyaan klarifikasi opsional.
+- **Implement wajib:** commit `fix: peer review ...` — bukti before/after.
+- **Retro mini tim:** Start / Stop / Continue — 3 menit, fokus kolaborasi Git/async/data.
+- **Prep P17:** assign demo script per anggota — semua bicara ≥30 detik.
+- **Nilai MA:** gotong royong · kejujuran atribusi · amanah data.
+
+---
+
+## 3. Materi praktik
+
 ### Opening — protokol review spiral S3 (0–5 menit)
 
 Recall P16 S3: code jalan ≠ kualitas. Hari ini + **Git sebagai bukti kolaborasi**.
@@ -62,7 +86,9 @@ Start / Stop / Continue — 3 menit per tim (privat sticky atau oral ringkas):
 Assign demo script P17 — **semua anggota ≥30 detik**.
 
 ---
-## 5. Alur pertemuan (90 menit)
+
+## 4. Alur pertemuan (90 menit)
+
 | Menit | Fase | Aktivitas |
 |-------|------|-----------|
 | 0–5 | Opening | Protokol review (S3 P16 spiral) |
@@ -74,7 +100,8 @@ Assign demo script P17 — **semua anggota ≥30 detik**.
 
 ---
 
-## 6. Lembar kerja / latihan
+## 5. Lembar kerja / latihan
+
 Latihan **review via membaca** — proyeksi snippet + git log, siswa isi rubrik:
 
 ### Snippet async + log
@@ -105,9 +132,18 @@ g7h8i9j fix final
 
 ```markdown
 
-## 8. Refleksi
+## 6. Exit ticket
+
+1. Changelog 3 bullet
+2. …
+
+
+## 7. Refleksi
+
 1. Satu asumsi yang kubongkar hari ini: …
 2. Satu hal untuk pertemuan berikutnya: …
 
+
 ---
+
 _Handout ini boleh dibawa pulang. Kode ditulis sendiri di kelas — jangan copas project jadi._

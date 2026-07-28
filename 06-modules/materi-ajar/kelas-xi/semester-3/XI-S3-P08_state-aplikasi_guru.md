@@ -1,6 +1,10 @@
 # Materi Guru Lengkap — XI-S3-P08
-**Modul:** [XI-S3-P08_state-aplikasi.md](../../kelas-xi/semester-3/XI-S3-P08_state-aplikasi.md)
-**Materi pendukung sumber:** [XI-S3-P08_state-aplikasi.md](../../materi-pendukung/materi-pendukung/kelas-xi/semester-3/XI-S3-P08_state-aplikasi.md)
+
+**Handout siswa (bagikan):** [XI-S3-P08_state-aplikasi_siswa.md](./XI-S3-P08_state-aplikasi_siswa.md)
+
+**Modul:** [XI-S3-P08_state-aplikasi.md](../../../kelas-xi/semester-3/XI-S3-P08_state-aplikasi.md)
+
+**Materi pendukung sumber:** [XI-S3-P08_state-aplikasi.md](../../../materi-pendukung/kelas-xi/semester-3/XI-S3-P08_state-aplikasi.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -400,4 +404,4 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [00_Panduan_Etika_Penyampaian.md](../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)

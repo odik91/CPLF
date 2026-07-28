@@ -1,12 +1,34 @@
 # Handout Siswa — X-S1-P13
+
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
-**Modul acuan:** [X-S1-P13_error-debugging.md](../../kelas-x/semester-1/X-S1-P13_error-debugging.md)
+
+**Modul acuan:** [X-S1-P13_error-debugging.md](../../../kelas-x/semester-1/X-S1-P13_error-debugging.md)
+
 ---
+
 ## 1. Tujuan pembelajaran
+
 Dari “error = aib” → **gejala → hipotesis → uji** (debugging).
 
 ---
-## 2. Materi
+
+## 2. Ringkasan konsep
+
+- **Transformasi inti:** error bukan aib, melainkan **informasi** — gejala → hipotesis → uji → iterasi.
+- **Tiga “penyakit” program** yang akan dimodelkan live:
+  1. **Typo / ReferenceError** — nama variabel salah (`totl` vs `total`).
+  2. **Salah urutan** — operasi dijalankan sebelum data siap (mis. `console.log` sebelum assign).
+  3. **Salah kondisi** — `if` atau batas loop off-by-one.
+- **Protokol debugging CPLF (4 langkah):** baca pesan error → identifikasi baris → tebak penyebab → uji **satu** perbaikan.
+- **Console browser/Node:** siswa kelas X cukup paham `console.log`, `ReferenceError`, `SyntaxError`, dan nomor baris.
+- **Budaya kelas:** normalisasi error — guru yang pertama kali “salah” di depan kelas, bukan siswa yang malu.
+- **Trap pedagogis:** “Langsung tanya AI vs baca error dulu” — AI boleh, tapi **setelah** membaca gejala sendiri.
+- **Formatif:** OBS (mengamati gejala), ITR (iterasi fix), REA (menjelaskan reasoning fix).
+
+---
+
+## 3. Materi praktik
+
 ### Error message = petunjuk, bukan hukuman
 
 Ajarkan siswa membaca error dari **luar ke dalam**:
@@ -34,7 +56,9 @@ Satu fix per iterasi — hindari “ganti semua sekaligus” sehingga tidak tahu
 Siswa boleh minta AI **setelah** mengisi kolom Gejala & Hipotesis sendiri. Wajib jelaskan per baris fix yang dipakai.
 
 ---
-## 5. Alur pertemuan (90 menit)
+
+## 4. Alur pertemuan (90 menit)
+
 | Menit | Fase | Aktivitas |
 |-------|------|-----------|
 | 0–5 | Opening | Tampilkan error console (sengaja typo) — reaksi kelas? |
@@ -48,7 +72,8 @@ Siswa boleh minta AI **setelah** mengisi kolom Gejala & Hipotesis sendiri. Wajib
 
 ---
 
-## 6. Lembar kerja / latihan
+## 5. Lembar kerja / latihan
+
 Snippet untuk **diprojeksi** — siswa prediksi gejala, tidak copy.
 
 ```javascript
@@ -83,9 +108,18 @@ console.log(cekUsia(16));
 
 ---
 
-## 8. Refleksi
+## 6. Exit ticket
+
+1. Laporan mini: gejala → fix
+2. …
+
+
+## 7. Refleksi
+
 1. Satu asumsi yang kubongkar hari ini: …
 2. Satu hal untuk pertemuan berikutnya: …
 
+
 ---
+
 _Handout ini boleh dibawa pulang. Kode ditulis sendiri di kelas — jangan copas project jadi._

@@ -1,6 +1,10 @@
 # Materi Guru Lengkap — XII-S5-P04
-**Modul:** [XII-S5-P04_vektor-jarak-kesamaan.md](../../kelas-xii/semester-5/XII-S5-P04_vektor-jarak-kesamaan.md)
-**Materi pendukung sumber:** [XII-S5-P04_vektor-jarak-kesamaan.md](../../materi-pendukung/materi-pendukung/kelas-xii/semester-5/XII-S5-P04_vektor-jarak-kesamaan.md)
+
+**Handout siswa (bagikan):** [XII-S5-P04_vektor-jarak-kesamaan_siswa.md](./XII-S5-P04_vektor-jarak-kesamaan_siswa.md)
+
+**Modul:** [XII-S5-P04_vektor-jarak-kesamaan.md](../../../kelas-xii/semester-5/XII-S5-P04_vektor-jarak-kesamaan.md)
+
+**Materi pendukung sumber:** [XII-S5-P04_vektor-jarak-kesamaan.md](../../../materi-pendukung/kelas-xii/semester-5/XII-S5-P04_vektor-jarak-kesamaan.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -343,4 +347,4 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [00_Panduan_Etika_Penyampaian.md](../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)

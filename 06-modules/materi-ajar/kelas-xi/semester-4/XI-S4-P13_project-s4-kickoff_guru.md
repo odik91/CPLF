@@ -1,6 +1,10 @@
 # Materi Guru Lengkap — XI-S4-P13
-**Modul:** [XI-S4-P13_project-s4-kickoff.md](../../kelas-xi/semester-4/XI-S4-P13_project-s4-kickoff.md)
-**Materi pendukung sumber:** [XI-S4-P13_project-s4-kickoff.md](../../materi-pendukung/materi-pendukung/kelas-xi/semester-4/XI-S4-P13_project-s4-kickoff.md)
+
+**Handout siswa (bagikan):** [XI-S4-P13_project-s4-kickoff_siswa.md](./XI-S4-P13_project-s4-kickoff_siswa.md)
+
+**Modul:** [XI-S4-P13_project-s4-kickoff.md](../../../kelas-xi/semester-4/XI-S4-P13_project-s4-kickoff.md)
+
+**Materi pendukung sumber:** [XI-S4-P13_project-s4-kickoff.md](../../../materi-pendukung/kelas-xi/semester-4/XI-S4-P13_project-s4-kickoff.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -371,12 +375,9 @@ async function loadData() {
 
 ---
 ## C. BRG & jalur kelanjutan
-
-## Materi pendamping BRG (wajib/opsional)
-
-- [BRG-04](../../jalur-kelanjutan/BRG-04_guru.md)
+- [BRG-04](../../../materi-ajar/jalur-kelanjutan/BRG-04_guru.md)
 
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [00_Panduan_Etika_Penyampaian.md](../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)

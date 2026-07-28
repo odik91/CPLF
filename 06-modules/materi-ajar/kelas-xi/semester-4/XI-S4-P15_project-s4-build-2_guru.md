@@ -1,6 +1,10 @@
 # Materi Guru Lengkap — XI-S4-P15
-**Modul:** [XI-S4-P15_project-s4-build-2.md](../../kelas-xi/semester-4/XI-S4-P15_project-s4-build-2.md)
-**Materi pendukung sumber:** [XI-S4-P15_project-s4-build-2.md](../../materi-pendukung/materi-pendukung/kelas-xi/semester-4/XI-S4-P15_project-s4-build-2.md)
+
+**Handout siswa (bagikan):** [XI-S4-P15_project-s4-build-2_siswa.md](./XI-S4-P15_project-s4-build-2_siswa.md)
+
+**Modul:** [XI-S4-P15_project-s4-build-2.md](../../../kelas-xi/semester-4/XI-S4-P15_project-s4-build-2.md)
+
+**Materi pendukung sumber:** [XI-S4-P15_project-s4-build-2.md](../../../materi-pendukung/kelas-xi/semester-4/XI-S4-P15_project-s4-build-2.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -314,4 +318,4 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [00_Panduan_Etika_Penyampaian.md](../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)

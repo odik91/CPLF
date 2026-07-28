@@ -1,6 +1,10 @@
 # Materi Guru Lengkap — X-S2-P05
-**Modul:** [X-S2-P05_js-dom-klik.md](../../kelas-x/semester-2/X-S2-P05_js-dom-klik.md)
-**Materi pendukung sumber:** [X-S2-P05_js-dom-klik.md](../../materi-pendukung/materi-pendukung/kelas-x/semester-2/X-S2-P05_js-dom-klik.md)
+
+**Handout siswa (bagikan):** [X-S2-P05_js-dom-klik_siswa.md](./X-S2-P05_js-dom-klik_siswa.md)
+
+**Modul:** [X-S2-P05_js-dom-klik.md](../../../kelas-x/semester-2/X-S2-P05_js-dom-klik.md)
+
+**Materi pendukung sumber:** [X-S2-P05_js-dom-klik.md](../../../materi-pendukung/kelas-x/semester-2/X-S2-P05_js-dom-klik.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -369,4 +373,4 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [00_Panduan_Etika_Penyampaian.md](../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)

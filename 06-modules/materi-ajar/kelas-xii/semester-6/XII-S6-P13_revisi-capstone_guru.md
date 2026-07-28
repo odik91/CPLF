@@ -1,6 +1,10 @@
 # Materi Guru Lengkap — XII-S6-P13
-**Modul:** [XII-S6-P13_revisi-capstone.md](../../kelas-xii/semester-6/XII-S6-P13_revisi-capstone.md)
-**Materi pendukung sumber:** [XII-S6-P13_revisi-capstone.md](../../materi-pendukung/materi-pendukung/kelas-xii/semester-6/XII-S6-P13_revisi-capstone.md)
+
+**Handout siswa (bagikan):** [XII-S6-P13_revisi-capstone_siswa.md](./XII-S6-P13_revisi-capstone_siswa.md)
+
+**Modul:** [XII-S6-P13_revisi-capstone.md](../../../kelas-xii/semester-6/XII-S6-P13_revisi-capstone.md)
+
+**Materi pendukung sumber:** [XII-S6-P13_revisi-capstone.md](../../../materi-pendukung/kelas-xii/semester-6/XII-S6-P13_revisi-capstone.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -336,4 +340,4 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [00_Panduan_Etika_Penyampaian.md](../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)

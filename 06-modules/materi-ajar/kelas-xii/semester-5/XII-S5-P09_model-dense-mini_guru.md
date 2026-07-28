@@ -1,6 +1,10 @@
 # Materi Guru Lengkap — XII-S5-P09
-**Modul:** [XII-S5-P09_model-dense-mini.md](../../kelas-xii/semester-5/XII-S5-P09_model-dense-mini.md)
-**Materi pendukung sumber:** [XII-S5-P09_model-dense-mini.md](../../materi-pendukung/materi-pendukung/kelas-xii/semester-5/XII-S5-P09_model-dense-mini.md)
+
+**Handout siswa (bagikan):** [XII-S5-P09_model-dense-mini_siswa.md](./XII-S5-P09_model-dense-mini_siswa.md)
+
+**Modul:** [XII-S5-P09_model-dense-mini.md](../../../kelas-xii/semester-5/XII-S5-P09_model-dense-mini.md)
+
+**Materi pendukung sumber:** [XII-S5-P09_model-dense-mini.md](../../../materi-pendukung/kelas-xii/semester-5/XII-S5-P09_model-dense-mini.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -430,4 +434,4 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [00_Panduan_Etika_Penyampaian.md](../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)

@@ -1,23 +1,14 @@
 # Handout Siswa — BRG-08
-**Jalur pendamping CPLF** (melengkapi modul inti, bukan pengganti silabus)
 
-**Modul CPLF terkait:** lihat bagian bawah — kerjakan setelah guru memberi arahan.
+**Jalur pendamping CPLF** — melengkapi modul inti (bukan pengganti silabus).
 
 ---
-## Materi
 
-# BRG-08 — Normalisasi & Train/Validation Split (Sebelum TF.js `fit`)
-
-
-## Learning Transformation
+## 1. Tujuan
 
 Dari “langsung `model.fit`” → **data numerik siap** + **uji di data yang tidak pernah dilihat model**.
 
-## Mengapa gap ini kritis
-
-Panduan ML CPLF sudah warning **loss NaN** jika tidak dinormalisasi ([00_Panduan_Guru_ML_TFJS.md](../00_Panduan_Guru_ML_TFJS.md)). Modul S5-P03–P05 olah statistik, tetapi **split eksplisit** sering terlewat di kelas sibuk.
-
-## Konsep operasional (tanpa rumus SMA berat)
+## 2. Ringkasan konsep
 
 ### 1. Min–max normalisasi (fitur 0–1)
 
@@ -41,6 +32,12 @@ Contoh MA: skor 0–100 → sudah dekat; **jangan** campur skor dengan usia 15�
 ### 3. Label tidak dinormalisasi sembarangan
 
 Label klasifikasi tetap 0/1 atau one-hot — jangan min-max label.
+
+## 3. Materi & langkah
+
+## Mengapa gap ini kritis
+
+Panduan ML CPLF sudah warning **loss NaN** jika tidak dinormalisasi ([00_Panduan_Guru_ML_TFJS.md](../../materi-pendukung/00_Panduan_Guru_ML_TFJS.md)). Modul S5-P03–P05 olah statistik, tetapi **split eksplisit** sering terlewat di kelas sibuk.
 
 ## Live coding (JS murni sebelum tensor)
 
@@ -84,13 +81,19 @@ Adil pada sesama (bias data) — kait [XII-S5-P02](../kelas-xii/semester-5/XII-S
 
 [← Indeks BRG](./00_Index_Jalur_Kelanjutan.md)
 
+## Latihan / PR
+
+- [ ] Siswa jelaskan perbedaan train vs val dengan analogi “soal latihan vs soal tryout”.  
+- [ ] Siswa tunjukkan 1 fitur sebelum/sesudah normalisasi.  
+- [ ] Guru catat: cohort siap P08.
+
 ---
-_Kerjakan bagian PR di kelas atau rumah sesuai petunjuk guru._
 
-**Digunakan bersama modul CPLF:** `XII-S5-P07`
+_Kerjakan sesuai arahan guru._
 
-**Digunakan bersama modul CPLF:** `XII-S5-P08`
+## Modul CPLF terhubung
 
-**Digunakan bersama modul CPLF:** `XII-S5-P11`
-
-**Digunakan bersama modul CPLF:** `XII-S5-P16`
+- `XII-S5-P07` — [handout modul](../kelas-xii/semester-5/XII-S5-P07_tfjs-tensor-dasar_siswa.md)
+- `XII-S5-P08` — [handout modul](../kelas-xii/semester-5/XII-S5-P08_layer-compile-fit_siswa.md)
+- `XII-S5-P11` — [handout modul](../kelas-xii/semester-5/XII-S5-P11_project-s5-kickoff_siswa.md)
+- `XII-S5-P16` — [handout modul](../kelas-xii/semester-5/XII-S5-P16_peer-review-s5_siswa.md)

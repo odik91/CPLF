@@ -1,6 +1,10 @@
 # Materi Guru Lengkap — XI-S4-P17
-**Modul:** [XI-S4-P17_presentasi-retrospektif.md](../../kelas-xi/semester-4/XI-S4-P17_presentasi-retrospektif.md)
-**Materi pendukung sumber:** [XI-S4-P17_presentasi-retrospektif.md](../../materi-pendukung/materi-pendukung/kelas-xi/semester-4/XI-S4-P17_presentasi-retrospektif.md)
+
+**Handout siswa (bagikan):** [XI-S4-P17_presentasi-retrospektif_siswa.md](./XI-S4-P17_presentasi-retrospektif_siswa.md)
+
+**Modul:** [XI-S4-P17_presentasi-retrospektif.md](../../../kelas-xi/semester-4/XI-S4-P17_presentasi-retrospektif.md)
+
+**Materi pendukung sumber:** [XI-S4-P17_presentasi-retrospektif.md](../../../materi-pendukung/kelas-xi/semester-4/XI-S4-P17_presentasi-retrospektif.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -356,4 +360,4 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [00_Panduan_Etika_Penyampaian.md](../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)

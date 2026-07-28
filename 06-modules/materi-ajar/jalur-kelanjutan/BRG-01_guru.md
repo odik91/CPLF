@@ -1,4 +1,7 @@
 # Materi Guru Lengkap — BRG-01
+
+**Handout siswa:** [BRG-01_siswa.md](./BRG-01_siswa.md)
+
 **Sumber BRG:** [BRG-01_Prasyarat_ML_AI_Spiral.md](../../materi-pendukung/jalur-kelanjutan/BRG-01_Prasyarat_ML_AI_Spiral.md)
 
 ---

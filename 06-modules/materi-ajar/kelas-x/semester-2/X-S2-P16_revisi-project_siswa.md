@@ -1,11 +1,29 @@
 # Handout Siswa — X-S2-P16
-**Mapel:** Multimedia (Pemrograman Web) · **CPLF**
-**Modul acuan:** [X-S2-P16_revisi-project.md](../../kelas-x/semester-2/X-S2-P16_revisi-project.md)
----
-## 1. Tujuan pembelajaran
-_Lihat transformasi di modul pertemuan._
 
-## 2. Materi
+**Mapel:** Multimedia (Pemrograman Web) · **CPLF**
+
+**Modul acuan:** [X-S2-P16_revisi-project.md](../../../kelas-x/semester-2/X-S2-P16_revisi-project.md)
+
+---
+
+## 1. Tujuan pembelajaran
+
+_Lihat modul pertemuan._
+
+## 2. Ringkasan konsep
+
+- **Transformasi hari ini:** dari feedback peer → **iterasi terarah** dengan bukti — bukan tambah fitur besar.
+- **Timeline:** gallery walk → revisi fokus → before/after → final check DoD.
+- **Gallery walk (10 menit):** lihat 3 project teman — catat **1 ide UX** (bukan copy kode).
+- **Bukti iterasi wajib:** screenshot/commit sebelum–sesudah + 1 paragraf apa berubah & **mengapa**.
+- **ITR level ≥2:** minimal 2 siklus revisi terdokumentasi (P15 + hari ini).
+- **Hari ini bukan feature baru besar** — perbaikan dari peer + self-audit DoD.
+- **Final check DoD:** semua requirement wajib PRJ ✅ sebelum P17 presentasi.
+
+---
+
+## 3. Materi praktik
+
 ### Gallery walk (0–10 menit)
 
 - Siswa rotation cepat — 3 station project teman.
@@ -52,7 +70,9 @@ Centang checklist PRJ — guru spot-check 3–5 kelompok.
 Siap P17: demo path + reasoning + bukti iterasi.
 
 ---
-## 5. Alur pertemuan (90 menit)
+
+## 4. Alur pertemuan (90 menit)
+
 | Menit | Aktivitas |
 |-------|-----------|
 | 0–10 | Gallery walk: lihat 3 project teman — catat 1 ide UX |
@@ -62,7 +82,8 @@ Siap P17: demo path + reasoning + bukti iterasi.
 
 ---
 
-## 6. Lembar kerja / latihan
+## 5. Lembar kerja / latihan
+
 Latihan **audit revisi** — bandingkan before/after snippet (proyeksi):
 
 ```javascript
@@ -108,9 +129,12 @@ function hitung() {
 
 ---
 
-## 8. Refleksi
+## 6. Refleksi
+
 1. Satu asumsi yang kubongkar hari ini: …
 2. Satu hal untuk pertemuan berikutnya: …
 
+
 ---
+
 _Handout ini boleh dibawa pulang. Kode ditulis sendiri di kelas — jangan copas project jadi._
