@@ -1,0 +1,88 @@
+# Handout Siswa — X-S1-P17
+**Mapel:** Multimedia (Pemrograman Web) · **CPLF**
+**Modul acuan:** [X-S1-P17_project-s1-build-2.md](../../kelas-x/semester-1/X-S1-P17_project-s1-build-2.md)
+---
+## 1. Tujuan pembelajaran
+_Lihat transformasi di modul pertemuan._
+
+## 2. Materi
+### Build (10–50 menit) — DoD minimal
+
+Prioritas **acceptance wajib** dari spec P15. Fitur bonus parkir ke backlog S2.
+
+Guru keliling dengan **timer mental** — ingatkan sisa waktu 40, 30, 20 menit.
+
+### Peer review terstruktur (50–65 menit)
+
+1. Pasangan A demo 2 menit ke B (bukan ke guru dulu).
+2. B isi worksheet: 2 pujian + 2 saran — **spesifik** ("flowchart langkah 4 jelas" bukan "bagus").
+3. Tukar peran.
+4. Guru float — dengar apakah feedback COM memenuhi rubrik.
+
+### Revisi wajib (65–80 menit)
+
+Minimal **1** saran diterapkan + bukti:
+
+- Screenshot before/after
+- Catatan: "Saran: … / Revisi: …"
+- Commit message singkat (jika pakai Git)
+
+### Prep demo P18 (80–90 menit)
+
+Outline 3 menit:
+
+1. Masalah
+2. Demo singkat
+3. Satu kesalahan & perbaikan
+
+---
+## 5. Alur pertemuan (90 menit)
+| Menit | Aktivitas |
+|-------|-----------|
+| 0–10 | Stand-up |
+| 10–50 | Build — target: DoD minimal terpenuhi |
+| 50–65 | Peer review: 2 pujian + 2 saran (worksheet peer) |
+| 65–80 | Revisi wajib minimal 1 poin saran |
+| 80–90 | Siapkan demo 3 menit P18 |
+
+---
+
+## 6. Lembar kerja / latihan
+Untuk melatih **peer review** — snippet proyeksi, siswa beri pujian/saran tanpa fix:
+
+```javascript
+function masukAntre(terisi, slotMax) {
+  if (terisi < slotMax) {
+    terisi++;
+    console.log("OK");
+  }
+  return terisi;
+}
+masukAntre(10, 10);
+```
+
+| Pertanyaan membaca (sebagai peer) | Kunci untuk diskusi |
+|-----------------------------------|---------------------|
+| Apakah acceptance "slot penuh" terpenuhi? | Tidak — tidak ada cabang "penuh" |
+| Pujian spesifik? | Mis. nama function deskriptif |
+| Saran spesifik (bukan kode guru)? | "Tambah else/log saat terisi >= slotMax" |
+
+```javascript
+// Pseudocode flowchart — peer review clarity
+// 1. cek slot
+// 2. jika ada → tambah
+// ??? langkah jika penuh
+```
+
+| Pertanyaan membaca | Kunci |
+|--------------------|-------|
+| Saran untuk clarity? | Langkah 3 eksplisit untuk kasus penuh |
+
+---
+
+## 8. Refleksi
+1. Satu asumsi yang kubongkar hari ini: …
+2. Satu hal untuk pertemuan berikutnya: …
+
+---
+_Handout ini boleh dibawa pulang. Kode ditulis sendiri di kelas — jangan copas project jadi._
