@@ -1,7 +1,9 @@
 # Materi Ajar CPLF — Handout Siswa & Materi Guru Lengkap
 
-**Version:** 0.1 (Draft)  
+**Version:** 0.2 (Draft)  
 **Peran:** Materi **siap sampaikan** di kelas — bukan clue/RAHASIA GURU.
+
+Handout siswa berstruktur: **Tujuan → Ringkasan konsep** (dari materi pendukung) → praktik, lembar kerja, exit ticket, tautan BRG bila ada.
 
 | Jenis | Audiens | Isi |
 |-------|---------|-----|
@@ -62,6 +64,7 @@ Detail: [05_Kaji_Ulang_Jalur_S1-S6_dan_Gap.md](../../05-silabus/05_Kaji_Ulang_Ja
 
 ## Indeks
 
+- **[Master — semua semester](./00_Index_Master_Materi_Ajar.md)**
 - [Kelas X S1](./kelas-x/semester-1/00_Index_Materi_Ajar.md)
 - [Kelas X S2](./kelas-x/semester-2/00_Index_Materi_Ajar.md)
 - [BRG](./jalur-kelanjutan/00_Index_Materi_Ajar_BRG.md)
