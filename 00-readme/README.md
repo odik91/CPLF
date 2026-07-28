@@ -23,7 +23,7 @@ CPLF adalah framework pembelajaran untuk menumbuhkan **problem solver**, bukan p
 | Journey 3 tahun | [04-roadmap](../04-roadmap/04_Roadmap_Global_CPLF.md) |
 | Capability (kontrak capaian) | [05_Capability](../05-silabus/05_Capability_Framework_CPLF.md) |
 | Mapping Merdeka | [05_Mapping](../05-silabus/05_Mapping_Kurikulum_Merdeka.md) |
-| Mapping KBC Kemenag | [05_Mapping KBC](../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) · [Template RPP KBC](../05-silabus/05_RPP_KBC_Template_CPLF.md) |
+| Mapping KBC Kemenag | [05_Mapping KBC](../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) · [Template RPP KBC](../05-silabus/05_RPP_KBC_Template_CPLF.md) · [RPP terisi penuh](../05-silabus/05_RPP_KBC_Lampiran_Terisi_Penuh.md) |
 | Silabus X / XI / XII | [05-silabus](../05-silabus/) |
 | Menulis modul ajar | [00_Template_Modul](../06-modules/00_Template_Modul_CPLF.md) |
 | **Materi pendukung guru** | [materi-pendukung](../06-modules/materi-pendukung/README.md) (etika live coding · pengetahuan) |

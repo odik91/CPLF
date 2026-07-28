@@ -125,6 +125,7 @@ Lulusan XII **minimum** (meski jam sempit):
 
 - Template RPP: [05_RPP_KBC_Template_CPLF.md](./05_RPP_KBC_Template_CPLF.md) **Blok G** (kesiapan jalur).  
 - Lampiran RPP contoh + jadwal BRG: [05_RPP_KBC_Lampiran_Flagship_dan_Jalur.md](./05_RPP_KBC_Lampiran_Flagship_dan_Jalur.md).  
+- **11 RPP siap tempel:** [05_RPP_KBC_Lampiran_Terisi_Penuh.md](./05_RPP_KBC_Lampiran_Terisi_Penuh.md).  
 - Mapping KBC tetap: [05_Mapping_Kurikulum_Berbasis_Cinta.md](./05_Mapping_Kurikulum_Berbasis_Cinta.md).
 
 ---

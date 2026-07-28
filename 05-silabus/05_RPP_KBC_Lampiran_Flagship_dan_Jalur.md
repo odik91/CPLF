@@ -135,6 +135,8 @@ Ikuti modul [XI-S4-P04](../06-modules/kelas-xi/semester-4/XI-S4-P04_fetch-json.m
 - [ ] Ekstra React/Node terpisah jadwal & penilaian (tidak campur rapor CP wajib)  
 - [ ] Dalil disetujui tim agama (mapping §6)
 
+**RPP terisi penuh (11 pertemuan):** [05_RPP_KBC_Lampiran_Terisi_Penuh.md](./05_RPP_KBC_Lampiran_Terisi_Penuh.md) — kickoff S1–S5, peer S2/S4/S5, P06, P18 S1 & XII.
+
 ---
 
 ## Dokumen terkait
