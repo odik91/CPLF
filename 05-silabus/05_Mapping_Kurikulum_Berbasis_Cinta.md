@@ -171,9 +171,11 @@
 | EXP_06 Kasir | Sesama · amanah | QS 4:58 |
 | EXP_07 Antrian kantin | Sesama · sabar | QS 103:1–3 · QS 3:159 |
 
-### 6.6 Template RPP KBC (kolom opsional)
+### 6.6 Template RPP KBC
 
-Salin ke RPP mapel Multimedia:
+Gunakan dokumen lengkap: **[05_RPP_KBC_Template_CPLF.md](./05_RPP_KBC_Template_CPLF.md)** (Blok A–F + tabel pertemuan flagship).
+
+Ringkas untuk catatan di RPP sekolah:
 
 ```text
 Panca Cinta        : [ … ]
@@ -192,11 +194,14 @@ Bukti sikap        : [ refleksi / rubrik / artefak ]
 
 ## 8. Agenda dokumen berikutnya (opsional)
 
-| Item | Tujuan |
-|------|--------|
-| `05_RPP_KBC_Template_CPLF.md` | Template satu halaman per pertemuan flagship |
-| Lampiran per kelas | Hanya P06, P15 peer, P18 + kickoff project (agar guru tidak overload) |
-| Validasi pilot | Catat di [10-research/pilot](../10-research/pilot/) apakah siswa mengaitkan dalil dengan reasoning teknis |
+| Item | Status | Tujuan |
+|------|--------|--------|
+| [05_RPP_KBC_Template_CPLF.md](./05_RPP_KBC_Template_CPLF.md) | **Ada (v0.1)** | Blok A–G + flagship |
+| [05_RPP_KBC_Lampiran_Flagship_dan_Jalur.md](./05_RPP_KBC_Lampiran_Flagship_dan_Jalur.md) | **Ada (v0.1)** | RPP contoh S5-P08, S4 fetch, S6 etika + jadwal BRG |
+| [05_Kaji_Ulang_Jalur_S1-S6_dan_Gap.md](./05_Kaji_Ulang_Jalur_S1-S6_dan_Gap.md) | **Ada (v0.1)** | Gate semester, gap ML/React/Node |
+| BRG `jalur-kelanjutan/` | **8 file (v0.1)** | Materi pendamping gap |
+| Lampiran per kelas | Belum | Ekspor RPP terisi penuh hanya P06, peer, P18 + kickoff |
+| Validasi pilot | Belum | Catat di [10-research/pilot](../10-research/pilot/) apakah siswa mengaitkan dalil dengan reasoning teknis |
 
 ---
 

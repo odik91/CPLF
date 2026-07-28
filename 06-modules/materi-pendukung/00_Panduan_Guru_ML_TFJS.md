@@ -91,6 +91,9 @@ Data (array/CSV) → pra-proses → tensor (xs, ys)
 - [ ] Akun GitHub siswa (spiral XI)
 - [ ] File `mock-data.json` offline jika internet lab lemah
 - [ ] Baca minimal: TF.js get started + train simple classifier (2–3 jam guru)
+- [ ] **Gate cohort:** [BRG-01 Prasyarat ML/AI](./jalur-kelanjutan/BRG-01_Prasyarat_ML_AI_Spiral.md) — sebelum P08
+- [ ] **Wajib jadwalkan:** [BRG-08 Normalisasi & split](./jalur-kelanjutan/BRG-08_ML_Data_Normalisasi_Split.md) antara P07 dan P08
+- [ ] Kaji ulang gap S1–S6: [05_Kaji_Ulang_Jalur](../../../05-silabus/05_Kaji_Ulang_Jalur_S1-S6_dan_Gap.md)
 
 ---
 

@@ -23,7 +23,7 @@ CPLF adalah framework pembelajaran untuk menumbuhkan **problem solver**, bukan p
 | Journey 3 tahun | [04-roadmap](../04-roadmap/04_Roadmap_Global_CPLF.md) |
 | Capability (kontrak capaian) | [05_Capability](../05-silabus/05_Capability_Framework_CPLF.md) |
 | Mapping Merdeka | [05_Mapping](../05-silabus/05_Mapping_Kurikulum_Merdeka.md) |
-| Mapping KBC Kemenag | [05_Mapping KBC](../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) |
+| Mapping KBC Kemenag | [05_Mapping KBC](../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) · [Template RPP KBC](../05-silabus/05_RPP_KBC_Template_CPLF.md) |
 | Silabus X / XI / XII | [05-silabus](../05-silabus/) |
 | Menulis modul ajar | [00_Template_Modul](../06-modules/00_Template_Modul_CPLF.md) |
 | **Materi pendukung guru** | [materi-pendukung](../06-modules/materi-pendukung/README.md) (etika live coding · pengetahuan) |
@@ -69,8 +69,8 @@ Setiap unit idealnya punya **Cognitive Trap** (membongkar asumsi, bukan memperma
 02-psikologi/
 03-framework/       ← termasuk Mental Model
 04-roadmap/         ← sumber resmi roadmap
-05-silabus/         ← capability, mapping Merdeka, silabus X–XII
-06-modules/         ← template · [kelas-x/xi/xii](./06-modules/kelas-x/) · [materi-pendukung guru](./06-modules/materi-pendukung/)
+05-silabus/         ← capability, mapping Merdeka, mapping KBC, silabus X–XII, kaji ulang jalur, RPP KBC
+06-modules/         ← template · [kelas-x/xi/xii](./06-modules/kelas-x/) · [materi-pendukung guru](./06-modules/materi-pendukung/) · [jalur kelanjutan BRG](./06-modules/materi-pendukung/jalur-kelanjutan/)
 07-experience_library/  ← EXP_01–10 + 30 varian (living draft)
 08-project/             ← 20 brief project X–XII (living draft)
 09-rubrik/              ← filosofi + rubrik 6 aspek (living draft)
@@ -99,7 +99,7 @@ Research → Review → Freeze → File .md → Implementasi kelas
 
 **Belum divalidasi empiris:** proposal penelitian formal *on hold*; jalankan [pilot tahap awal](../10-research/pilot/) dulu.  
 **Modul pertemuan:** [kelas-x](../06-modules/kelas-x/) · [kelas-xi](../06-modules/kelas-xi/) · [kelas-xii](../06-modules/kelas-xii/) — 108 pertemuan.  
-**Materi pendukung guru:** [materi-pendukung](../06-modules/materi-pendukung/) — **108/108 lengkap** (X · XI · XII) + [panduan ML](../06-modules/materi-pendukung/00_Panduan_Guru_ML_TFJS.md) & [CV/etika](../06-modules/materi-pendukung/00_Panduan_Guru_CV_Etika.md).
+**Materi pendukung guru:** [materi-pendukung](../06-modules/materi-pendukung/) — **108/108 lengkap** (X · XI · XII) + [panduan ML](../06-modules/materi-pendukung/00_Panduan_Guru_ML_TFJS.md) & [CV/etika](../06-modules/materi-pendukung/00_Panduan_Guru_CV_Etika.md) + **[jalur kelanjutan BRG](../06-modules/materi-pendukung/jalur-kelanjutan/)** (ML gate, React, Express).
 
 ## Untuk kepala sekolah / koordinator kurikulum
 

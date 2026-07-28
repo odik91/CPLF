@@ -35,8 +35,11 @@ materi-pendukung/
 ├── 00_Template_Materi_Pendukung.md
 ├── kelas-x/     semester-1 · semester-2
 ├── kelas-xi/    semester-3 · semester-4
-└── kelas-xii/   semester-5 · semester-6
+├── kelas-xii/   semester-5 · semester-6
+└── jalur-kelanjutan/   ← BRG: gap ML/AI, React, Express ([indeks](./jalur-kelanjutan/00_Index_Jalur_Kelanjutan.md))
 ```
+
+Acuan gap & gate: [05_Kaji_Ulang_Jalur_S1-S6_dan_Gap.md](../../05-silabus/05_Kaji_Ulang_Jalur_S1-S6_dan_Gap.md)
 
 Penamaan file **sama** dengan modul pertemuan terkait:
 
@@ -68,6 +71,7 @@ X-S1-P04_robot-mie-algoritma.md   → modul: ../kelas-x/semester-1/X-S1-P04_...
 | Kelas XII Semester 5 | **v0.1 lengkap** (P01–P18) + panduan ML |
 | Kelas XII Semester 6 | **v0.1 lengkap** (P01–P18) + panduan CV/etika |
 | **TOTAL CPLF** | **108/108 materi pendukung** ✅ |
+| **Jalur kelanjutan BRG** | **8 file** v0.1 — melengkapi gap ML/React/Node |
 
 ## Cara pakai (guru)
 
