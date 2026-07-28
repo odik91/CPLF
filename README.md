@@ -56,7 +56,7 @@ Identity → Prinsip Bernalar → Mindset → Mental Model → Skill → Tool
 | **Guru — modul pertemuan** | [Kelas X](06-modules/kelas-x/) · [XI](06-modules/kelas-xi/) · [XII](06-modules/kelas-xii/) |
 | **Guru — materi pendukung** | [materi-pendukung](06-modules/materi-pendukung/README.md) (skrip live coding · **bukan handout siswa**) |
 | **Guru XII — ML & CV** | [Panduan ML/TF.js](06-modules/materi-pendukung/00_Panduan_Guru_ML_TFJS.md) · [Panduan CV & Etika](06-modules/materi-pendukung/00_Panduan_Guru_CV_Etika.md) |
-| **Koordinator / KS** | [Capability](05-silabus/05_Capability_Framework_CPLF.md) · [Mapping Merdeka](05-silabus/05_Mapping_Kurikulum_Merdeka.md) · [Silabus X–XII](05-silabus/) |
+| **Koordinator / KS** | [Capability](05-silabus/05_Capability_Framework_CPLF.md) · [Mapping Merdeka](05-silabus/05_Mapping_Kurikulum_Merdeka.md) · [Mapping KBC](05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) · [Silabus X–XII](05-silabus/) |
 | **Experience & project** | [Experience Library](07-experience_library/07_Experience_Library_Index.md) · [Project Bank](08-project/08_Project_Bank_Index.md) |
 | **Penilaian** | [Rubrik & filosofi assessment](09-rubrik/09_Rubrik_Index.md) |
 | **Landasan teori & jurnal** | [10-research](10-research/10_Landasan_Teori_CPLF.md) (Bab 1–5) |

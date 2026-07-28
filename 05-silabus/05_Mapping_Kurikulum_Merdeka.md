@@ -89,5 +89,6 @@ Profil Pelajar Pancasila / nilai MA yang alami tersentuh: bernalar kritis, mandi
 ## Dokumen Terkait
 
 - [05_Capability_Framework_CPLF.md](./05_Capability_Framework_CPLF.md)
+- [05_Mapping_Kurikulum_Berbasis_Cinta.md](./05_Mapping_Kurikulum_Berbasis_Cinta.md) (Kemenag KBC + titik kait dalil)
 - [04_Roadmap_Global_CPLF.md](../04-roadmap/04_Roadmap_Global_CPLF.md)
 - Silabus: `05_Silabus_Kelas_X.md`, `_XI.md`, `_XII.md`
