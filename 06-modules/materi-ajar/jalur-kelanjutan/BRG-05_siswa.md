@@ -53,6 +53,16 @@ S5+ bisa pakai `npm install @tensorflow/tfjs` alih-alih CDN — opsional, bukan 
 1. Inisialisasi Vite vanilla; pindahkan 1 halaman project X ke `src/`.  
 2. Commit tanpa `node_modules`.
 
+## Nilai KBC (Kurikulum Berbasis Cinta)
+
+**Panca cinta:** Diri · sabar
+
+**Dalil tematik (usulan — validasi tim agama/KBC madrasah):** QS Al-Asr 103:1–3
+
+**Kait di kelas hari ini:** Toolchain npm — sabar baca error build, jangan asal copas config.
+
+_Matriks lengkap: [Mapping KBC CPLF](../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+
 ---
 
 _Kerjakan sesuai arahan guru._

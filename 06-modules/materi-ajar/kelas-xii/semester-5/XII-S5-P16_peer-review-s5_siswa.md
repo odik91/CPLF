@@ -114,7 +114,7 @@ Larangan:
 
 **Dalil tematik (usulan — validasi tim agama/KBC madrasah):** QS Al-Hujurat 49:10 · QS Al-Hujurat 49:11
 
-**Kait di kelas hari ini:** Peer review santun — bantu saudara, jangan mengejek.
+**Kait di kelas hari ini:** Peer review model — kritik metrik/asumsi, bukan mengejek teman.
 
 _Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 

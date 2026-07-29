@@ -148,11 +148,11 @@ JIKA cuaca SAMA_DENGAN "hujan" maka
 
 ## 7. Nilai KBC (Kurikulum Berbasis Cinta)
 
-**Panca cinta:** Allah · Diri · Bangsa
+**Panca cinta:** Sesama · adil
 
-**Dalil tematik (usulan — validasi tim agama/KBC madrasah):** QS Ta-Ha 20:114 (Rabbi zidni ilma)
+**Dalil tematik (usulan — validasi tim agama/KBC madrasah):** QS An-Nisa 4:135 · QS Al-Mutaffifin 83:1–3
 
-**Kait di kelas hari ini:** Bernalar & literasi digital sebagai ilmu bermanfaat.
+**Kait di kelas hari ini:** Aturan if/else = perlakuan adil (semua kondisi terlayani).
 
 _Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 

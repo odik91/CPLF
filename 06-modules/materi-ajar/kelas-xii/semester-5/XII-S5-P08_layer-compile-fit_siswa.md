@@ -262,11 +262,11 @@ model.predict(test);
 
 ## 8. Nilai KBC (Kurikulum Berbasis Cinta)
 
-**Panca cinta:** Sesama · Lingkungan
+**Panca cinta:** Sesama · Allah (jujur model)
 
-**Dalil tematik (usulan — validasi tim agama/KBC madrasah):** QS Al-Maidah 5:8
+**Dalil tematik (usulan — validasi tim agama/KBC madrasah):** QS Al-Maidah 5:8 · QS Al-Ahzab 33:70
 
-**Kait di kelas hari ini:** Data & model — keadilan dan dampak ke sesama.
+**Kait di kelas hari ini:** Train/fit jujur — metrik dari data val, bukan tipuan diri.
 
 _Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 

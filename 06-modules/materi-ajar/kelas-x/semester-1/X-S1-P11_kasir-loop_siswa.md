@@ -140,11 +140,11 @@ console.log(total);
 
 ## 8. Nilai KBC (Kurikulum Berbasis Cinta)
 
-**Panca cinta:** Allah · Diri · Bangsa
+**Panca cinta:** Sesama · amanah
 
-**Dalil tematik (usulan — validasi tim agama/KBC madrasah):** QS Ta-Ha 20:114 (Rabbi zidni ilma)
+**Dalil tematik (usulan — validasi tim agama/KBC madrasah):** QS An-Nisa 4:58
 
-**Kait di kelas hari ini:** Bernalar & literasi digital sebagai ilmu bermanfaat.
+**Kait di kelas hari ini:** Loop kasir = hitung dan catat dengan jujur (tidak curang takaran).
 
 _Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 

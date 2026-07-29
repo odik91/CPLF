@@ -69,3 +69,16 @@ Lihat [aplikasi/14_API_Contract_Overview.md](../../../aplikasi/14_API_Contract_O
 ## Etika
 
 Live demo — siswa praktik paralel, bukan copas file guru.
+
+---
+## KBC — dalil & tafsir ringkas
+
+**Panca cinta:** Sesama · amanah
+
+**Dalil tematik (usulan — validasi tim agama/KBC madrasah):** QS An-Nisa 4:58 · QS Al-Mu’minun 23:8
+
+**Kait di kelas hari ini:** API Node = amanah data & endpoint yang tidak khianat pengguna.
+
+_Matriks lengkap: [Mapping KBC CPLF](../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+
+**Catatan guru:** Sisipkan saat bridge ke modul CPLF; validasi dalil/hadits dengan tim KBC.

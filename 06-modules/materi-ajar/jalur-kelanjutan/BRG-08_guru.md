@@ -99,3 +99,16 @@ Adil pada sesama (bias data) — kait [XII-S5-P02](../kelas-xii/semester-5/XII-S
 ## Etika
 
 Live demo — siswa praktik paralel, bukan copas file guru.
+
+---
+## KBC — dalil & tafsir ringkas
+
+**Panca cinta:** Sesama · adil
+
+**Dalil tematik (usulan — validasi tim agama/KBC madrasah):** QS An-Nisa 4:135 · QS Al-Maidah 5:8
+
+**Kait di kelas hari ini:** Normalisasi & split = evaluasi adil; tidak membohongi diri dengan akurasi palsu.
+
+_Matriks lengkap: [Mapping KBC CPLF](../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+
+**Catatan guru:** Sisipkan saat bridge ke modul CPLF; validasi dalil/hadits dengan tim KBC.

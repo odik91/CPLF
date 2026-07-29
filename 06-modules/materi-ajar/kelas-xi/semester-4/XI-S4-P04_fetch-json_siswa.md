@@ -232,11 +232,11 @@ render();
 
 ## 8. Nilai KBC (Kurikulum Berbasis Cinta)
 
-**Panca cinta:** Sesama · Bangsa
+**Panca cinta:** Bangsa · tabayyun
 
-**Dalil tematik (usulan — validasi tim agama/KBC madrasah):** QS An-Nisa 4:58
+**Dalil tematik (usulan — validasi tim agama/KBC madrasah):** QS Al-Hujurat 49:6 · QS Al-Isra 17:36
 
-**Kait di kelas hari ini:** Data & Git = amanah dan integritas.
+**Kait di kelas hari ini:** Fetch JSON — verifikasi sumber & kontrak data sebelum percaya.
 
 _Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 

@@ -77,3 +77,16 @@ Panca **Diri** (growth) + **Sesama** (kode terbaca untuk tim).
 ## Etika
 
 Live demo — siswa praktik paralel, bukan copas file guru.
+
+---
+## KBC — dalil & tafsir ringkas
+
+**Panca cinta:** Allah · ilmu terstruktur
+
+**Dalil tematik (usulan — validasi tim agama/KBC madrasah):** QS Al-Alaq 96:1–5
+
+**Kait di kelas hari ini:** Modul ES6 = menulis kode teratur seperti ilmu yang teratur.
+
+_Matriks lengkap: [Mapping KBC CPLF](../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+
+**Catatan guru:** Sisipkan saat bridge ke modul CPLF; validasi dalil/hadits dengan tim KBC.

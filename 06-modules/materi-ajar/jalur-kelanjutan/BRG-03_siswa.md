@@ -50,6 +50,16 @@ Ubah project S3: minimal **2 komponen render** + router hash 2 halaman.
 
 [← Indeks BRG](./00_Index_Jalur_Kelanjutan.md)
 
+## Nilai KBC (Kurikulum Berbasis Cinta)
+
+**Panca cinta:** Sesama · ihsan
+
+**Dalil tematik (usulan — validasi tim agama/KBC madrasah):** QS An-Nahl 16:90
+
+**Kait di kelas hari ini:** Komponen UI = memudahkan sesama (maintainability & kejelasan).
+
+_Matriks lengkap: [Mapping KBC CPLF](../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+
 ---
 
 _Kerjakan sesuai arahan guru._

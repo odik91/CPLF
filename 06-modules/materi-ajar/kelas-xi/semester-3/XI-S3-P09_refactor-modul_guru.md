@@ -362,7 +362,7 @@ function doEverything(x) {
 
 **Dalil tematik (usulan — validasi tim agama/KBC madrasah):** QS Al-Isra 17:36
 
-**Kait di kelas hari ini:** Desain untuk pengguna lain — teliti sebelum rilis.
+**Kait di kelas hari ini:** Refactor = teliti sebelum mengubah yang dipakai sesama.
 
 _Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 

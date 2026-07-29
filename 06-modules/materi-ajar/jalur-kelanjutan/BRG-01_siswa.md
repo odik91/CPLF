@@ -62,6 +62,16 @@ Gate **bukan** ujian tulis bobot rapor — alat keputusan diferensiasi. Dokument
 
 [← Indeks BRG](./00_Index_Jalur_Kelanjutan.md)
 
+## Nilai KBC (Kurikulum Berbasis Cinta)
+
+**Panca cinta:** Allah · ilmu
+
+**Dalil tematik (usulan — validasi tim agama/KBC madrasah):** QS Al-Mujadilah 58:11 · QS Ta-Ha 20:114
+
+**Kait di kelas hari ini:** Spiral prasyarat ML = ilmu bertahap, bukan loncat tanpa fondasi.
+
+_Matriks lengkap: [Mapping KBC CPLF](../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+
 ---
 
 _Kerjakan sesuai arahan guru._

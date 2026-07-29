@@ -87,6 +87,16 @@ Adil pada sesama (bias data) — kait [XII-S5-P02](../kelas-xii/semester-5/XII-S
 - [ ] Siswa tunjukkan 1 fitur sebelum/sesudah normalisasi.  
 - [ ] Guru catat: cohort siap P08.
 
+## Nilai KBC (Kurikulum Berbasis Cinta)
+
+**Panca cinta:** Sesama · adil
+
+**Dalil tematik (usulan — validasi tim agama/KBC madrasah):** QS An-Nisa 4:135 · QS Al-Maidah 5:8
+
+**Kait di kelas hari ini:** Normalisasi & split = evaluasi adil; tidak membohongi diri dengan akurasi palsu.
+
+_Matriks lengkap: [Mapping KBC CPLF](../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+
 ---
 
 _Kerjakan sesuai arahan guru._

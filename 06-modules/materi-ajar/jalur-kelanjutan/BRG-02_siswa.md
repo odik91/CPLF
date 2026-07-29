@@ -67,6 +67,16 @@ Panca **Diri** (growth) + **Sesama** (kode terbaca untuk tim).
 1. Refactor satu fungsi dari project XI jadi **export** terpisah.  
 2. Tambah item CRUD dengan spread, bukan `.push` langsung pada state global (jika pakai pattern XI-S3).
 
+## Nilai KBC (Kurikulum Berbasis Cinta)
+
+**Panca cinta:** Allah · ilmu terstruktur
+
+**Dalil tematik (usulan — validasi tim agama/KBC madrasah):** QS Al-Alaq 96:1–5
+
+**Kait di kelas hari ini:** Modul ES6 = menulis kode teratur seperti ilmu yang teratur.
+
+_Matriks lengkap: [Mapping KBC CPLF](../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+
 ---
 
 _Kerjakan sesuai arahan guru._

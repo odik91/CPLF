@@ -338,11 +338,11 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ---
 ## E. KBC — dalil & tafsir ringkas
 
-**Panca cinta:** Sesama · Diri
+**Panca cinta:** Sesama
 
-**Dalil tematik (usulan — validasi tim agama/KBC madrasah):** QS An-Nisa 4:58 · QS Al-Asr 103
+**Dalil tematik (usulan — validasi tim agama/KBC madrasah):** QS Al-Hujurat 49:10 · QS Al-Hujurat 49:11
 
-**Kait di kelas hari ini:** Build iteratif — amanah waktu & kualitas kelompok.
+**Kait di kelas hari ini:** Peer review santun — bantu saudara, jangan mengejek.
 
 _Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 

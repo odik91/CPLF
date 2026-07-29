@@ -86,3 +86,16 @@ Stack produksi internal: [aplikasi/01_Arsitektur_Sistem.md](../../../aplikasi/01
 ## Etika
 
 Live demo — siswa praktik paralel, bukan copas file guru.
+
+---
+## KBC — dalil & tafsir ringkas
+
+**Panca cinta:** Bangsa · tabayyun
+
+**Dalil tematik (usulan — validasi tim agama/KBC madrasah):** QS Al-Hujurat 49:6 · QS Al-Isra 17:36
+
+**Kait di kelas hari ini:** Fetch → Express: verifikasi respons server seperti verifikasi berita.
+
+_Matriks lengkap: [Mapping KBC CPLF](../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+
+**Catatan guru:** Sisipkan saat bridge ke modul CPLF; validasi dalil/hadits dengan tim KBC.

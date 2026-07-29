@@ -66,3 +66,16 @@ Ubah project S3: minimal **2 komponen render** + router hash 2 halaman.
 ## Etika
 
 Live demo — siswa praktik paralel, bukan copas file guru.
+
+---
+## KBC — dalil & tafsir ringkas
+
+**Panca cinta:** Sesama · ihsan
+
+**Dalil tematik (usulan — validasi tim agama/KBC madrasah):** QS An-Nahl 16:90
+
+**Kait di kelas hari ini:** Komponen UI = memudahkan sesama (maintainability & kejelasan).
+
+_Matriks lengkap: [Mapping KBC CPLF](../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+
+**Catatan guru:** Sisipkan saat bridge ke modul CPLF; validasi dalil/hadits dengan tim KBC.

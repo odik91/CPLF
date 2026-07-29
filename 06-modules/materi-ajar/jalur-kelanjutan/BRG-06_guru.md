@@ -101,3 +101,16 @@ Portofolio: rewrite 1 fitur project S4 jadi React + fetch ke [BRG-07](./BRG-07_N
 ## Etika
 
 Live demo — siswa praktik paralel, bukan copas file guru.
+
+---
+## KBC — dalil & tafsir ringkas
+
+**Panca cinta:** Sesama · Bangsa
+
+**Dalil tematik (usulan — validasi tim agama/KBC madrasah):** QS Al-Maidah 5:2 (ta‘awanu)
+
+**Kait di kelas hari ini:** React SPA tim — gotong royong komponen, bukan monolith ego.
+
+_Matriks lengkap: [Mapping KBC CPLF](../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+
+**Catatan guru:** Sisipkan saat bridge ke modul CPLF; validasi dalil/hadits dengan tim KBC.
