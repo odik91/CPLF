@@ -368,3 +368,16 @@ Author: Budi <budi@sekolah.id>
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
 - Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+
+---
+## E. KBC — dalil & tafsir ringkas
+
+**Panca cinta:** Sesama · amanah
+
+**Dalil tematik (usulan — validasi tim agama/KBC madrasah):** QS An-Nisa 4:58 · HR Ahmad (khianat amanat)
+
+**Kait di kelas hari ini:** Git = jejak tanggung jawab & atribusi jujur.
+
+_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+
+**Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

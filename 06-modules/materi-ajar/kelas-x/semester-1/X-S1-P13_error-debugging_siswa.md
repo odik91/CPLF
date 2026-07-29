@@ -119,6 +119,16 @@ console.log(cekUsia(16));
 1. Satu asumsi yang kubongkar hari ini: …
 2. Satu hal untuk pertemuan berikutnya: …
 
+## 8. Nilai KBC (Kurikulum Berbasis Cinta)
+
+**Panca cinta:** Diri · sabar
+
+**Dalil tematik (usulan — validasi tim agama/KBC madrasah):** QS Al-Asr 103:1–3 · QS Ali Imran 3:159
+
+**Kait di kelas hari ini:** Error bukan aib — iterasi dengan lapang dada.
+
+_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+
 
 ---
 

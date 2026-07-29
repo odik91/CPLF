@@ -120,6 +120,16 @@ Spesifikasi numerik PRJ-01 (zakat UI) — baca **spec**, bukan kode:
 1. Satu asumsi yang kubongkar hari ini: …
 2. Satu hal untuk pertemuan berikutnya: …
 
+## 7. Nilai KBC (Kurikulum Berbasis Cinta)
+
+**Panca cinta:** Sesama · Diri
+
+**Dalil tematik (usulan — validasi tim agama/KBC madrasah):** QS An-Nahl 16:90 (adl wa ihsan)
+
+**Kait di kelas hari ini:** Web & kolaborasi — manfaatkan untuk sesama.
+
+_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+
 
 ---
 

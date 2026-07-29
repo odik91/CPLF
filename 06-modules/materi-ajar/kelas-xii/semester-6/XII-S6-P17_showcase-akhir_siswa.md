@@ -118,6 +118,16 @@ Untuk tim ______:
 1. Satu asumsi yang kubongkar hari ini: …
 2. Satu hal untuk pertemuan berikutnya: …
 
+## 7. Nilai KBC (Kurikulum Berbasis Cinta)
+
+**Panca cinta:** Bangsa · Sesama
+
+**Dalil tematik (usulan — validasi tim agama/KBC madrasah):** HR Tabarani (cinta tanah air — verifikasi kitab madrasah)
+
+**Kait di kelas hari ini:** Showcase = accountability ke komunitas MA.
+
+_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+
 
 ---
 

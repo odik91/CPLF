@@ -218,6 +218,16 @@ Presentasi: "Model kami 100% akurat, tidak perlu demo gagal."
 1. Satu asumsi yang kubongkar hari ini: …
 2. Satu hal untuk pertemuan berikutnya: …
 
+## 9. Nilai KBC (Kurikulum Berbasis Cinta)
+
+**Panca cinta:** Sesama · Allah
+
+**Dalil tematik (usulan — validasi tim agama/KBC madrasah):** QS An-Nur 24:27–29 · QS An-Nisa 4:58
+
+**Kait di kelas hari ini:** Etika QR/wajah, bias, consent — gate capstone.
+
+_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+
 
 ---
 

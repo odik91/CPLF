@@ -369,3 +369,16 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
 - Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+
+---
+## E. KBC — dalil & tafsir ringkas
+
+**Panca cinta:** Sesama
+
+**Dalil tematik (usulan — validasi tim agama/KBC madrasah):** QS Al-Hujurat 49:10 · QS Al-Hujurat 49:11
+
+**Kait di kelas hari ini:** Peer review santun — bantu saudara, jangan mengejek.
+
+_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+
+**Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

@@ -121,7 +121,17 @@ Siswa pilih **3 yang paling terasa** — dengan contoh konkret milik mereka.
 1. Satu asumsi yang kubongkar hari ini: …
 2. Satu hal untuk pertemuan berikutnya: …
 
-## 7. Materi pendamping BRG
+## 7. Nilai KBC (Kurikulum Berbasis Cinta)
+
+**Panca cinta:** Diri · syukur
+
+**Dalil tematik (usulan — validasi tim agama/KBC madrasah):** QS Ali Imran 3:190–191
+
+**Kait di kelas hari ini:** Portofolio = merenung perjalanan belajar.
+
+_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+
+## 8. Materi pendamping BRG
 
 - [BRG-02](../../../materi-ajar/jalur-kelanjutan/BRG-02_siswa.md)
 

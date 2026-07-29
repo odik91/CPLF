@@ -124,6 +124,16 @@ REQUIREMENT Poster_v1
 1. Satu asumsi yang kubongkar hari ini: …
 2. Satu hal untuk pertemuan berikutnya: …
 
+## 8. Nilai KBC (Kurikulum Berbasis Cinta)
+
+**Panca cinta:** Allah · Diri · Bangsa
+
+**Dalil tematik (usulan — validasi tim agama/KBC madrasah):** QS Ta-Ha 20:114 (Rabbi zidni ilma)
+
+**Kait di kelas hari ini:** Bernalar & literasi digital sebagai ilmu bermanfaat.
+
+_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+
 
 ---
 

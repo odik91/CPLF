@@ -168,7 +168,17 @@ refs.btnAdd.addEventListener("click", function () {
 1. Satu asumsi yang kubongkar hari ini: …
 2. Satu hal untuk pertemuan berikutnya: …
 
-## 8. Materi pendamping BRG
+## 8. Nilai KBC (Kurikulum Berbasis Cinta)
+
+**Panca cinta:** Sesama · Allah
+
+**Dalil tematik (usulan — validasi tim agama/KBC madrasah):** QS Al-Isra 17:36
+
+**Kait di kelas hari ini:** Desain untuk pengguna lain — teliti sebelum rilis.
+
+_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+
+## 9. Materi pendamping BRG
 
 - [BRG-03](../../../materi-ajar/jalur-kelanjutan/BRG-03_siswa.md)
 

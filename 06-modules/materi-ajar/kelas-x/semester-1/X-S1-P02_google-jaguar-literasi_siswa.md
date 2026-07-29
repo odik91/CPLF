@@ -145,6 +145,16 @@ SELESAI
 1. Satu asumsi yang kubongkar hari ini: …
 2. Satu hal untuk pertemuan berikutnya: …
 
+## 10. Nilai KBC (Kurikulum Berbasis Cinta)
+
+**Panca cinta:** Bangsa · antidisinformasi
+
+**Dalil tematik (usulan — validasi tim agama/KBC madrasah):** QS Al-Isra 17:36 · QS Al-Hujurat 49:6
+
+**Kait di kelas hari ini:** Keyword mengubah ‘kenyataan’ di layar — wajib verifikasi sumber.
+
+_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+
 
 ---
 

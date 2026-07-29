@@ -253,6 +253,16 @@ model.add(tf.layers.dense({ units: 1, activation: 'sigmoid' }));
 1. Satu asumsi yang kubongkar hari ini: …
 2. Satu hal untuk pertemuan berikutnya: …
 
+## 8. Nilai KBC (Kurikulum Berbasis Cinta)
+
+**Panca cinta:** Sesama · Lingkungan
+
+**Dalil tematik (usulan — validasi tim agama/KBC madrasah):** QS Al-Maidah 5:8
+
+**Kait di kelas hari ini:** Data & model — keadilan dan dampak ke sesama.
+
+_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+
 
 ---
 

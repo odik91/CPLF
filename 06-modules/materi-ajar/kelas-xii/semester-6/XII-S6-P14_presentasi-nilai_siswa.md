@@ -154,6 +154,16 @@ Contoh bank pertanyaan (pilih 2 — jangan mempermalukan):
 1. Satu asumsi yang kubongkar hari ini: …
 2. Satu hal untuk pertemuan berikutnya: …
 
+## 7. Nilai KBC (Kurikulum Berbasis Cinta)
+
+**Panca cinta:** Allah · Sesama
+
+**Dalil tematik (usulan — validasi tim agama/KBC madrasah):** QS Al-Ahzab 33:70
+
+**Kait di kelas hari ini:** Presentasi jujur — tidak overclaim model/AI.
+
+_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+
 
 ---
 

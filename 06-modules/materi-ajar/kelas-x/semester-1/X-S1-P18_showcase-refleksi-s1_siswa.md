@@ -87,6 +87,16 @@ if (harta >= nisab && haul >= 1) {
 1. Satu asumsi yang kubongkar hari ini: …
 2. Satu hal untuk pertemuan berikutnya: …
 
+## 6. Nilai KBC (Kurikulum Berbasis Cinta)
+
+**Panca cinta:** Diri · syukur
+
+**Dalil tematik (usulan — validasi tim agama/KBC madrasah):** QS Ali Imran 3:190–191
+
+**Kait di kelas hari ini:** Refleksi capability, bukan pamer ego.
+
+_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+
 
 ---
 

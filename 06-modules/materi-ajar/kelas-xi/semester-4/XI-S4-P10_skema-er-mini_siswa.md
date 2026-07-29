@@ -156,6 +156,16 @@ loans: [{ memberId: "1", bookId: 101 }],
 1. Satu asumsi yang kubongkar hari ini: …
 2. Satu hal untuk pertemuan berikutnya: …
 
+## 7. Nilai KBC (Kurikulum Berbasis Cinta)
+
+**Panca cinta:** Sesama · privasi
+
+**Dalil tematik (usulan — validasi tim agama/KBC madrasah):** QS An-Nur 24:27 · QS Al-Hujurat 49:12
+
+**Kait di kelas hari ini:** Minimasi PII — minta izin sebelum pakai data sensitif.
+
+_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+
 
 ---
 

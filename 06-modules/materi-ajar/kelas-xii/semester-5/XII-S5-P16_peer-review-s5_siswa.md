@@ -108,7 +108,17 @@ Larangan:
 1. Satu asumsi yang kubongkar hari ini: …
 2. Satu hal untuk pertemuan berikutnya: …
 
-## 7. Materi pendamping BRG
+## 7. Nilai KBC (Kurikulum Berbasis Cinta)
+
+**Panca cinta:** Sesama
+
+**Dalil tematik (usulan — validasi tim agama/KBC madrasah):** QS Al-Hujurat 49:10 · QS Al-Hujurat 49:11
+
+**Kait di kelas hari ini:** Peer review santun — bantu saudara, jangan mengejek.
+
+_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+
+## 8. Materi pendamping BRG
 
 - [BRG-08](../../../materi-ajar/jalur-kelanjutan/BRG-08_siswa.md)
 

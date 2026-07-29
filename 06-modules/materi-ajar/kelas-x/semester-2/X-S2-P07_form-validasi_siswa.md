@@ -144,6 +144,16 @@ Guru tegaskan: "Browser = satpam level 1. Minggu depan (P08) kita buat pesan err
 1. Satu asumsi yang kubongkar hari ini: …
 2. Satu hal untuk pertemuan berikutnya: …
 
+## 8. Nilai KBC (Kurikulum Berbasis Cinta)
+
+**Panca cinta:** Sesama · Diri
+
+**Dalil tematik (usulan — validasi tim agama/KBC madrasah):** QS An-Nahl 16:90 (adl wa ihsan)
+
+**Kait di kelas hari ini:** Web & kolaborasi — manfaatkan untuk sesama.
+
+_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+
 
 ---
 

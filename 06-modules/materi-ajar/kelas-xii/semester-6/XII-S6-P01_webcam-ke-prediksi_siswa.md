@@ -259,6 +259,16 @@ const t = tf.browser.fromPixels(video);
 1. Satu asumsi yang kubongkar hari ini: …
 2. Satu hal untuk pertemuan berikutnya: …
 
+## 9. Nilai KBC (Kurikulum Berbasis Cinta)
+
+**Panca cinta:** Sesama
+
+**Dalil tematik (usulan — validasi tim agama/KBC madrasah):** QS An-Nur 24:58 · QS Al-Hujurat 49:12
+
+**Kait di kelas hari ini:** Consent sebelum `getUserMedia` — hormati privasi.
+
+_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+
 
 ---
 

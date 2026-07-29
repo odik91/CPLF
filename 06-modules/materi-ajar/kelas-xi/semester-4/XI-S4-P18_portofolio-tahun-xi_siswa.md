@@ -142,6 +142,16 @@ Individual:
 1. Satu asumsi yang kubongkar hari ini: …
 2. Satu hal untuk pertemuan berikutnya: …
 
+## 7. Nilai KBC (Kurikulum Berbasis Cinta)
+
+**Panca cinta:** Diri · syukur
+
+**Dalil tematik (usulan — validasi tim agama/KBC madrasah):** QS Ali Imran 3:190–191 · QS Al-Mujadilah 58:11
+
+**Kait di kelas hari ini:** Showcase/refleksi semester — syukur ilmu, bukan sombong.
+
+_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+
 
 ---
 

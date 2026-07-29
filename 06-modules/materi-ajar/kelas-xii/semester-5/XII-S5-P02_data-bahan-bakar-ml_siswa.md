@@ -178,6 +178,16 @@ Bug: baris B dan C — **label tidak match skor** → model confused.
 1. Satu asumsi yang kubongkar hari ini: …
 2. Satu hal untuk pertemuan berikutnya: …
 
+## 9. Nilai KBC (Kurikulum Berbasis Cinta)
+
+**Panca cinta:** Sesama · adil
+
+**Dalil tematik (usulan — validasi tim agama/KBC madrasah):** QS An-Nisa 4:135 · QS Al-Maidah 5:8
+
+**Kait di kelas hari ini:** Dataset sempit = tidak adil pada kelompok lain.
+
+_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+
 
 ---
 

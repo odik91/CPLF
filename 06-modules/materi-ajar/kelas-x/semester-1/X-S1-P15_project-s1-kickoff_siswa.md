@@ -101,6 +101,16 @@ Setiap siswa/kelompok tulis 1 target build + 1 blocker yang dikhawatirkan.
 1. Satu asumsi yang kubongkar hari ini: …
 2. Satu hal untuk pertemuan berikutnya: …
 
+## 8. Nilai KBC (Kurikulum Berbasis Cinta)
+
+**Panca cinta:** Sesama · Diri (amanah)
+
+**Dalil tematik (usulan — validasi tim agama/KBC madrasah):** QS An-Nisa 4:58 · QS Al-Mutaffifin 83:1–3
+
+**Kait di kelas hari ini:** Shortcut/copas = khianat proses belajar & tim.
+
+_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+
 
 ---
 

@@ -173,6 +173,16 @@ Siswa A tutup layar konten — siswa B tebak section dari **struktur tag saja** 
 1. Satu asumsi yang kubongkar hari ini: …
 2. Satu hal untuk pertemuan berikutnya: …
 
+## 8. Nilai KBC (Kurikulum Berbasis Cinta)
+
+**Panca cinta:** Sesama · ihsan
+
+**Dalil tematik (usulan — validasi tim agama/KBC madrasah):** QS An-Nahl 16:90 · HR Muslim (ihsan)
+
+**Kait di kelas hari ini:** HTML semantik = ihsan kepada pengguna (mis. screen reader).
+
+_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+
 
 ---
 
