@@ -123,6 +123,109 @@ KBC_BY_CODE: dict[str, KbcEntry] = {
         "dalil": "QS Ta-Ha 20:114 · QS Al-Mujadilah 58:11 · QS Ali Imran 3:190–191",
         "kait": "Pembelajar seumur hidup; teknologi = alat amanah.",
     },
+    "X-S1-P05": {
+        "panca": "Allah · ilmu terstruktur",
+        "dalil": "QS Al-Alaq 96:1–5",
+        "kait": "Flowchart = urutan berpikir sebelum kode.",
+    },
+    "X-S1-P06": {
+        "panca": "Sesama · amanah",
+        "dalil": "QS An-Nisa 4:58",
+        "kait": "Requirement jelas = janji yang bisa dipegang tim & pengguna.",
+    },
+    "X-S1-P07": {
+        "panca": "Sesama · adil",
+        "dalil": "QS An-Nisa 4:135",
+        "kait": "Acceptance criteria = ukuran adil “selesai” untuk semua pihak.",
+    },
+    "X-S1-P08": {
+        "panca": "Sesama · adil",
+        "dalil": "QS An-Nisa 4:135 · QS Al-Mutaffifin 83:1–3",
+        "kait": "Aturan if/else = perlakuan adil (semua kondisi terlayani).",
+    },
+    "X-S1-P09": {
+        "panca": "Allah · Bangsa (bernalar)",
+        "dalil": "QS Al-Isra 17:36",
+        "kait": "Kondisi & guard = tidak menyimpulkan tanpa memeriksa bukti.",
+    },
+    "X-S1-P10": {
+        "panca": "Allah · ilmu",
+        "dalil": "QS Ta-Ha 20:114 · QS Al-Mujadilah 58:11",
+        "kait": "Data & variabel = fondasi ilmu yang terukur.",
+    },
+    "X-S1-P11": {
+        "panca": "Sesama · amanah",
+        "dalil": "QS An-Nisa 4:58",
+        "kait": "Loop kasir = hitung dan catat dengan jujur (tidak curang takaran).",
+    },
+    "X-S1-P12": {
+        "panca": "Allah · ilmu terstruktur",
+        "dalil": "QS Al-Alaq 96:1–5",
+        "kait": "Function = tanggung jawab terpisah — ilmu terorganisir.",
+    },
+    "XI-S3-P09": {
+        "panca": "Sesama · Allah",
+        "dalil": "QS Al-Isra 17:36",
+        "kait": "Refactor = teliti sebelum mengubah yang dipakai sesama.",
+    },
+    "XI-S4-P04": {
+        "panca": "Bangsa · tabayyun",
+        "dalil": "QS Al-Hujurat 49:6 · QS Al-Isra 17:36",
+        "kait": "Fetch JSON — verifikasi sumber & kontrak data sebelum percaya.",
+    },
+    "XII-S5-P08": {
+        "panca": "Sesama · Allah (jujur model)",
+        "dalil": "QS Al-Maidah 5:8 · QS Al-Ahzab 33:70",
+        "kait": "Train/fit jujur — metrik dari data val, bukan tipuan diri.",
+    },
+    "XII-S5-P16": {
+        "panca": "Sesama",
+        "dalil": "QS Al-Hujurat 49:10 · QS Al-Hujurat 49:11",
+        "kait": "Peer review model — kritik metrik/asumsi, bukan mengejek teman.",
+    },
+}
+
+KBC_BY_BRG: dict[str, KbcEntry] = {
+    "BRG-01": {
+        "panca": "Allah · ilmu",
+        "dalil": "QS Al-Mujadilah 58:11 · QS Ta-Ha 20:114",
+        "kait": "Spiral prasyarat ML = ilmu bertahap, bukan loncat tanpa fondasi.",
+    },
+    "BRG-02": {
+        "panca": "Allah · ilmu terstruktur",
+        "dalil": "QS Al-Alaq 96:1–5",
+        "kait": "Modul ES6 = menulis kode teratur seperti ilmu yang teratur.",
+    },
+    "BRG-03": {
+        "panca": "Sesama · ihsan",
+        "dalil": "QS An-Nahl 16:90",
+        "kait": "Komponen UI = memudahkan sesama (maintainability & kejelasan).",
+    },
+    "BRG-04": {
+        "panca": "Bangsa · tabayyun",
+        "dalil": "QS Al-Hujurat 49:6 · QS Al-Isra 17:36",
+        "kait": "Fetch → Express: verifikasi respons server seperti verifikasi berita.",
+    },
+    "BRG-05": {
+        "panca": "Diri · sabar",
+        "dalil": "QS Al-Asr 103:1–3",
+        "kait": "Toolchain npm — sabar baca error build, jangan asal copas config.",
+    },
+    "BRG-06": {
+        "panca": "Sesama · Bangsa",
+        "dalil": "QS Al-Maidah 5:2 (ta‘awanu)",
+        "kait": "React SPA tim — gotong royong komponen, bukan monolith ego.",
+    },
+    "BRG-07": {
+        "panca": "Sesama · amanah",
+        "dalil": "QS An-Nisa 4:58 · QS Al-Mu’minun 23:8",
+        "kait": "API Node = amanah data & endpoint yang tidak khianat pengguna.",
+    },
+    "BRG-08": {
+        "panca": "Sesama · adil",
+        "dalil": "QS An-Nisa 4:135 · QS Al-Maidah 5:8",
+        "kait": "Normalisasi & split = evaluasi adil; tidak membohongi diri dengan akurasi palsu.",
+    },
 }
 
 KBC_BY_MEETING_SUFFIX: dict[str, KbcEntry] = {
@@ -202,7 +305,7 @@ def get_kbc_dalil(code: str, modul_stem: str = "") -> KbcEntry:
     if code in KBC_BY_CODE:
         return KBC_BY_CODE[code]
     stem_l = modul_stem.lower()
-    if "peer" in stem_l or "peer" in code.lower():
+    if "peer" in stem_l or "code-review" in stem_l:
         return KBC_PEER
     suf = _meeting_suffix(code)
     if suf and suf in KBC_BY_MEETING_SUFFIX:
@@ -215,6 +318,17 @@ def get_kbc_dalil(code: str, modul_stem: str = "") -> KbcEntry:
         "dalil": "QS Ta-Ha 20:114",
         "kait": "Ilmu multimedia dipakai dengan amanah dan manfaat.",
     }
+
+
+def get_kbc_brg(code: str) -> KbcEntry:
+    return KBC_BY_BRG.get(
+        code,
+        {
+            "panca": "Allah · Sesama",
+            "dalil": "QS Ta-Ha 20:114",
+            "kait": "Jalur pendamping — ilmu lanjutan dengan amanah.",
+        },
+    )
 
 
 def format_kbc_siswa(entry: KbcEntry, mapping_href: str) -> str:

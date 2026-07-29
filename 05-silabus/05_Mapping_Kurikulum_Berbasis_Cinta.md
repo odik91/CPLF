@@ -171,6 +171,23 @@
 | EXP_06 Kasir | Sesama · amanah | QS 4:58 |
 | EXP_07 Antrian kantin | Sesama · sabar | QS 103:1–3 · QS 3:159 |
 
+| EXP_07 Antrian kantin | Sesama · sabar | QS 103:1–3 · QS 3:159 |
+
+### 6.5b BRG `jalur-kelanjutan` (handout siswa)
+
+| BRG | Tema KBC | Usulan dalil | Kait di kelas |
+|-----|----------|--------------|---------------|
+| BRG-01 | Allah · ilmu | QS 58:11 · QS 20:114 | Spiral prasyarat ML |
+| BRG-02 | Allah · ilmu terstruktur | QS 96:1–5 | Modul ES6 |
+| BRG-03 | Sesama · ihsan | QS 16:90 | Komponen / SPA vanilla |
+| BRG-04 | Bangsa · tabayyun | QS 49:6 · QS 17:36 | Fetch → Express |
+| BRG-05 | Diri · sabar | QS 103 | Toolchain npm |
+| BRG-06 | Sesama · gotong royong | QS 5:2 | React SPA tim |
+| BRG-07 | Sesama · amanah | QS 4:58 · QS 23:8 | API Node |
+| BRG-08 | Sesama · adil | QS 4:135 · QS 5:8 | Normalisasi & val split |
+
+Sumber generate: [kbc_dalil_map.py](../06-modules/materi-ajar/scripts/kbc_dalil_map.py) · handout: [materi-ajar/jalur-kelanjutan](../06-modules/materi-ajar/jalur-kelanjutan/00_Index_Materi_Ajar_BRG.md)
+
 ### 6.6 Template RPP KBC
 
 Gunakan dokumen lengkap: **[05_RPP_KBC_Template_CPLF.md](./05_RPP_KBC_Template_CPLF.md)** (Blok A–F + tabel pertemuan flagship).

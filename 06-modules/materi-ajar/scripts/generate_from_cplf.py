@@ -10,7 +10,7 @@ SCRIPT_DIR = Path(__file__).resolve().parent
 import sys
 
 sys.path.insert(0, str(SCRIPT_DIR))
-from kbc_dalil_map import format_kbc_siswa, get_kbc_dalil
+from kbc_dalil_map import format_kbc_siswa, get_kbc_brg, get_kbc_dalil
 
 ROOT = Path(__file__).resolve().parents[3]  # CPLF repo root
 MOD = ROOT / "06-modules"
@@ -475,6 +475,13 @@ def generate_brg(brg_path: Path) -> None:
         siswa_parts += ["## 2. Materi & langkah\n\n", material, "\n\n"]
     if pr_block:
         siswa_parts += ["## Latihan / PR\n\n", sanitize_for_siswa(pr_block), "\n\n"]
+    kbc = get_kbc_brg(code)
+    kbc_href = f"{ups_to_repo(brg_out)}/05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md"
+    siswa_parts += [
+        "## Nilai KBC (Kurikulum Berbasis Cinta)\n\n",
+        format_kbc_siswa(kbc, kbc_href),
+        "\n",
+    ]
     siswa_parts += ["---\n\n", "_Kerjakan sesuai arahan guru._\n\n", "## Modul CPLF terhubung\n\n"]
     for mod, brgs in BRG_FOR_MODUL.items():
         if code in brgs:
@@ -499,6 +506,11 @@ def generate_brg(brg_path: Path) -> None:
     guru_parts.append(
         "\n## Etika\n\nLive demo — siswa praktik paralel, bukan copas file guru.\n"
     )
+    guru_parts += [
+        "\n---\n## KBC — dalil & tafsir ringkas\n\n",
+        format_kbc_siswa(get_kbc_brg(code), kbc_href),
+        "\n**Catatan guru:** Sisipkan saat bridge ke modul CPLF; validasi dalil/hadits dengan tim KBC.\n",
+    ]
 
     out_dir = OUT / "jalur-kelanjutan"
     out_dir.mkdir(parents=True, exist_ok=True)
