@@ -5,7 +5,7 @@
 **Modul CPLF:** [06-modules](../06-modules/kelas-x/)  
 **Dalil usulan:** [05_Mapping_Kurikulum_Berbasis_Cinta.md §6](./05_Mapping_Kurikulum_Berbasis_Cinta.md#6-titik-kait-materi-cplf--usulan-dalil-al-quran--sunnah) — verifikasi tim agama.
 
-> Salin per pertemuan ke RPP Dapodik/KMA. Field madrasah/kelas/tanggal diisi guru.
+> **108 RPP per pertemuan (Blok A–G + E′ Kemenag):** [rpp-kbc/README.md](./rpp-kbc/README.md) — dokumen ini = **20 pertemuan flagship** dengan narasi lebih dalam (kickoff, peer, etika, showcase).
 
 ---
 

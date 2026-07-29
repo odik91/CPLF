@@ -217,7 +217,8 @@ Bukti sikap        : [ refleksi / rubrik / artefak ]
 | [05_RPP_KBC_Lampiran_Flagship_dan_Jalur.md](./05_RPP_KBC_Lampiran_Flagship_dan_Jalur.md) | **Ada (v0.1)** | RPP contoh S5-P08, S4 fetch, S6 etika + jadwal BRG |
 | [05_Kaji_Ulang_Jalur_S1-S6_dan_Gap.md](./05_Kaji_Ulang_Jalur_S1-S6_dan_Gap.md) | **Ada (v0.1)** | Gate semester, gap ML/React/Node |
 | BRG `jalur-kelanjutan/` | **8 file (v0.1)** | Materi pendamping gap |
-| **RPP terisi penuh (20 pertemuan)** | [05_RPP_KBC_Lampiran_Terisi_Penuh.md](./05_RPP_KBC_Lampiran_Terisi_Penuh.md) |
+| **RPP per pertemuan (108× Blok A–G)** | [rpp-kbc/](../05-silabus/rpp-kbc/README.md) — generate `scripts/generate_rpp_kbc.py` |
+| **RPP terisi penuh (20 pertemuan flagship)** | [05_RPP_KBC_Lampiran_Terisi_Penuh.md](./05_RPP_KBC_Lampiran_Terisi_Penuh.md) |
 | **Materi ajar per pertemuan** | [06-modules/materi-ajar/](../06-modules/materi-ajar/README.md) — **v0.3:** handout + hook KBC §6 via `scripts/kbc_dalil_map.py` |
 | Lampiran per kelas | **Lengkap flagship** | Showcase S2/S3/S5, portofolio X/XI — lihat §12–§17 |
 | Validasi pilot | Belum | Catat di [10-research/pilot](../10-research/pilot/) apakah siswa mengaitkan dalil dengan reasoning teknis |

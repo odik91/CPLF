@@ -1,6 +1,6 @@
 # Template RPP — Integrasi KBC × CPLF (Multimedia MA)
 
-**Version:** 0.1 (Draft)  
+**Version:** 0.2 (Draft)  
 **Audiens:** Guru Multimedia / koordinator KBC madrasah  
 **Acuan:** [05_Mapping_Kurikulum_Berbasis_Cinta.md](./05_Mapping_Kurikulum_Berbasis_Cinta.md) · modul resmi `06-modules/`
 
@@ -9,7 +9,7 @@
 1. Salin **Blok A** ke RPP sekolah (Dapodik / format KMA).  
 2. Isi **Blok B** dari modul CPLF (kode pertemuan).  
 3. Isi **Blok C–D** dari matriks §6 mapping KBC (dalil disetujui tim agama).  
-4. **Tidak wajib** tiap pertemuan — prioritaskan [pertemuan flagship](#pertemuan-flagship-lampiran-cepat) + kickoff project.
+4. **Semua pertemuan:** gunakan folder **[rpp-kbc/](./rpp-kbc/README.md)** (108 RPP generate otomatis). Lampiran flagship §1–§20 tetap untuk narasi lebih dalam.
 
 ---
 
@@ -131,7 +131,9 @@
 
 Gunakan template penuh untuk baris di bawah; pertemuan lain cukup **Blok C–D ringkas** (3 baris) di RPP sekolah.
 
-**RPP Blok A–G terisi lengkap (17 pertemuan, §1–§17):** [05_RPP_KBC_Lampiran_Terisi_Penuh.md](../05-silabus/05_RPP_KBC_Lampiran_Terisi_Penuh.md)
+**RPP per pertemuan (108 file, Blok A–G):** [rpp-kbc/README.md](./rpp-kbc/README.md) · [Indeks master](./rpp-kbc/00_Index_Master_RPP_KBC.md)
+
+**RPP Blok A–G terisi narasi flagship (20 pertemuan, §1–§20):** [05_RPP_KBC_Lampiran_Terisi_Penuh.md](../05-silabus/05_RPP_KBC_Lampiran_Terisi_Penuh.md)
 
 | Kelas | Kode | Fokus KBC | Modul CPLF | Dalil (usulan — §6 mapping) |
 |-------|------|-----------|------------|------------------------------|
