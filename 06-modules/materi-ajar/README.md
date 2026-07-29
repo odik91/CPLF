@@ -1,9 +1,9 @@
 # Materi Ajar CPLF — Handout Siswa & Materi Guru Lengkap
 
-**Version:** 0.2 (Draft)  
+**Version:** 0.3 (Draft)  
 **Peran:** Materi **siap sampaikan** di kelas — bukan clue/RAHASIA GURU.
 
-Handout siswa berstruktur: **Tujuan → Ringkasan konsep** (dari materi pendukung) → praktik, lembar kerja, exit ticket, tautan BRG bila ada.
+Handout siswa berstruktur: **Tujuan → Ringkasan konsep** (dari materi pendukung) → praktik, lembar kerja, exit ticket, **§ Nilai KBC (dalil tematik)**, tautan BRG bila ada.
 
 | Jenis | Audiens | Isi |
 |-------|---------|-----|
@@ -55,6 +55,10 @@ Setelah edit modul/materi pendukung, jalankan ulang script. File BRG di `jalur-k
 | Ekstra | BRG-06, BRG-07 |
 
 Detail: [05_Kaji_Ulang_Jalur_S1-S6_dan_Gap.md](../../05-silabus/05_Kaji_Ulang_Jalur_S1-S6_dan_Gap.md)
+
+## KBC / dalil
+
+Hook **Nilai KBC** di setiap handout siswa (generate) mengacu [05_Mapping_Kurikulum_Berbasis_Cinta.md](../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6. Override per modul: [scripts/kbc_dalil_map.py](./scripts/kbc_dalil_map.py).
 
 ## Etika
 

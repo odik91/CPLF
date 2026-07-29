@@ -6,6 +6,12 @@ from __future__ import annotations
 import re
 from pathlib import Path
 
+SCRIPT_DIR = Path(__file__).resolve().parent
+import sys
+
+sys.path.insert(0, str(SCRIPT_DIR))
+from kbc_dalil_map import format_kbc_siswa, get_kbc_dalil
+
 ROOT = Path(__file__).resolve().parents[3]  # CPLF repo root
 MOD = ROOT / "06-modules"
 OUT = MOD / "materi-ajar"
@@ -79,6 +85,12 @@ def strip_guru_secrets(body: str) -> str:
 def ups_to_modules(from_under_out: Path) -> str:
     """Relative prefix from `materi-ajar/...` to `06-modules/` root."""
     n = len(from_under_out.relative_to(OUT).parts) + 1
+    return "/".join([".."] * n)
+
+
+def ups_to_repo(from_under_out: Path) -> str:
+    """Relative prefix from `materi-ajar/...` to repo root (parent of 06-modules)."""
+    n = len(from_under_out.relative_to(OUT).parts) + 2
     return "/".join([".."] * n)
 
 def modul_path_to_rel(code: str) -> str | None:
@@ -274,6 +286,15 @@ def build_siswa(modul_path: Path, modul_md: str, mp_md: str, code: str) -> str:
         ]
     sec += 1
 
+    kbc = get_kbc_dalil(code, modul_path.stem)
+    kbc_href = f"{ups_to_repo(out_dir)}/05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md"
+    parts += [
+        f"## {sec}. Nilai KBC (Kurikulum Berbasis Cinta)\n\n",
+        format_kbc_siswa(kbc, kbc_href),
+        "\n",
+    ]
+    sec += 1
+
     brg = brg_links_block(code, True, out_dir)
     if brg:
         parts += [f"## {sec}. Materi pendamping BRG\n\n", brg, "\n"]
@@ -313,6 +334,14 @@ def build_guru(modul_path: Path, modul_md: str, mp_md: str, code: str) -> str:
         "- Live coding / modeling — siswa mengetik sendiri.\n",
         "- Jangan kirim solusi project penuh.\n",
         f"- Lihat [{up}/materi-pendukung/00_Panduan_Etika_Penyampaian.md]({up}/materi-pendukung/00_Panduan_Etika_Penyampaian.md)\n",
+    ]
+    kbc = get_kbc_dalil(code, base)
+    kbc_href = f"{ups_to_repo(out_dir)}/05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md"
+    parts += [
+        "\n---\n## E. KBC — dalil & tafsir ringkas\n\n",
+        format_kbc_siswa(kbc, kbc_href),
+        "\n**Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. "
+        "Hadits — sebut perawi & status sesuai kitab madrasah.\n",
     ]
     return "".join(parts)
 

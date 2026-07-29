@@ -42,7 +42,13 @@ Salin struktur ini jika menulis handout manual di luar generator.
 
 …
 
-## 9. Materi pendamping BRG (jika ada)
+## 9. Nilai KBC (Kurikulum Berbasis Cinta)
+
+**Panca cinta:** …  
+**Dalil tematik (usulan):** …  
+**Kait di kelas:** …
+
+## 10. Materi pendamping BRG (jika ada)
 
 - [BRG-XX](./jalur-kelanjutan/BRG-XX_siswa.md)
 
