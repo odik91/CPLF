@@ -183,17 +183,17 @@ flowchart TD
 **Dok:** 02, 03 · **Fase:** 0–1 · **Depends:** M1
 
 #### BE
-- [~] Prisma: Kelas, Mapel, GuruMapelKelas, ProfilSiswa, ProfilGuru
-- [ ] UserModule: CRUD user single (admin)
-- [~] KelasModule: CRUD kelas, assign siswa ke kelas
-- [~] MapelModule + Tema stub (CRUD tanpa seed dulu)
-- [ ] GuruMapelKelas: assign guru ↔ mapel ↔ kelas
-- [ ] OwnershipScopeGuard (guru hanya kelas/mapellnya)
+- [x] Prisma: Kelas, Mapel, GuruMapelKelas, ProfilSiswa, ProfilGuru
+- [x] UserModule: CRUD user single (admin)
+- [x] KelasModule: CRUD kelas, assign siswa ke kelas
+- [x] MapelModule + Tema stub (CRUD tanpa seed dulu)
+- [x] GuruMapelKelas: assign guru ↔ mapel ↔ kelas
+- [~] OwnershipScopeGuard (guru hanya kelas/mapellnya)
 
 #### FE
-- [ ] Admin: kelola user, kelas, mapel
-- [ ] Admin: assign guru mapel kelas
-- [ ] Guru: lihat daftar kelas diampu
+- [x] Admin: kelola user, kelas, mapel
+- [x] Admin: assign guru mapel kelas
+- [~] Guru: lihat daftar kelas diampu
 
 #### UAT
 - [ ] Buat kelas X-A, mapel Multimedia, 2 user guru+murid

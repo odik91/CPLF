@@ -25,10 +25,12 @@ model User {
   createdAt          DateTime   @default(now())
   updatedAt          DateTime   @updatedAt
 
-  roles         UserRole[]
-  profilSiswa   ProfilSiswa?
-  profilGuru    ProfilGuru?
-  refreshTokens RefreshToken[]
+  roles          UserRole[]
+  profilSiswa    ProfilSiswa?
+  profilGuru     ProfilGuru?
+  refreshTokens  RefreshToken[]
+  guruMapelKelas GuruMapelKelas[]
+  kelasWali      Kelas[]        @relation("WaliKelas")
 }
 
 model Role {
@@ -40,10 +42,10 @@ model Role {
 }
 
 model Permission {
-  id     String           @id @default(uuid())
-  kode   String           @unique
-  nama   String?
-  roles  RolePermission[]
+  id    String           @id @default(uuid())
+  kode  String           @unique
+  nama  String?
+  roles RolePermission[]
 }
 
 model UserRole {
@@ -77,22 +79,53 @@ model RefreshToken {
 }
 
 model Kelas {
-  id          String        @id @default(uuid())
+  id          String           @id @default(uuid())
   nama        String
   tingkat     String
   tahunAjaran String
   waliKelasId String?
   siswa       ProfilSiswa[]
-  createdAt   DateTime      @default(now())
-  updatedAt   DateTime      @updatedAt
+  guruMapel   GuruMapelKelas[]
+  waliKelas   User?            @relation("WaliKelas", fields: [waliKelasId], references: [id])
+  createdAt   DateTime         @default(now())
+  updatedAt   DateTime         @updatedAt
 }
 
 model Mapel {
-  id        String   @id @default(uuid())
+  id        String           @id @default(uuid())
   nama      String
-  kode      String   @unique
-  createdAt DateTime @default(now())
-  updatedAt DateTime @updatedAt
+  kode      String           @unique
+  temas     Tema[]
+  guruMapel GuruMapelKelas[]
+  createdAt DateTime         @default(now())
+  updatedAt DateTime         @updatedAt
+}
+
+model GuruMapelKelas {
+  id      String @id @default(uuid())
+  guruId  String
+  mapelId String
+  kelasId String
+  guru    User   @relation(fields: [guruId], references: [id], onDelete: Cascade)
+  mapel   Mapel  @relation(fields: [mapelId], references: [id], onDelete: Cascade)
+  kelas   Kelas  @relation(fields: [kelasId], references: [id], onDelete: Cascade)
+
+  @@unique([guruId, mapelId, kelasId])
+}
+
+model Tema {
+  id            String   @id @default(uuid())
+  mapelId       String
+  judul         String
+  urutan        Int
+  semester      Int
+  tingkat       String
+  kodeModulCplf String   @unique
+  slug          String   @unique
+  deskripsi     String?
+  mapel         Mapel    @relation(fields: [mapelId], references: [id], onDelete: Cascade)
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
 }
 
 model ProfilSiswa {

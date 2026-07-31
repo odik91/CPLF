@@ -40,7 +40,7 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
     if (data.mustChangePassword) {
       router.push('/ganti-password');
     } else {
-      router.push('/dashboard');
+      router.replace('/dashboard');
     }
     return data;
   };
