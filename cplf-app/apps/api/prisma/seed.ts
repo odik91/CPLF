@@ -1,7 +1,7 @@
-import { PrismaClient } from '@prisma/client';
 import * as bcrypt from 'bcryptjs';
+import { createPrismaClient } from './client';
 
-const prisma = new PrismaClient();
+const { prisma, pool } = createPrismaClient();
 
 const PERMISSIONS = [
   { kode: 'user:read', nama: 'Baca user' },
@@ -102,4 +102,7 @@ main()
     console.error(e);
     process.exit(1);
   })
-  .finally(() => prisma.$disconnect());
+  .finally(async () => {
+    await prisma.$disconnect();
+    await pool.end();
+  });
