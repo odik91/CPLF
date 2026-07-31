@@ -126,7 +126,75 @@
 | POST | `/profil/saya/foto` | All | Upload foto profil |
 | GET | `/profil/saya/aktivitas` | All | Riwayat aktivitas |
 
-## 11. Catatan Umum
+## 11. Penilaian Formatif
+
+| Method | Endpoint | Permission | Deskripsi |
+|--------|----------|------------|-----------|
+| GET | `/penilaian/formatif?temaId=&kelasId=` | `penilaian:formatif:read` | List sesi penilaian |
+| GET | `/penilaian/formatif/:id` | `penilaian:formatif:read` | Detail + skor siswa |
+| POST | `/penilaian/formatif` | `penilaian:formatif:create` | Buat sesi baru |
+| PATCH | `/penilaian/formatif/:id` | `penilaian:formatif:update` | Update metadata |
+| PUT | `/penilaian/formatif/:id/skor-batch` | `penilaian:formatif:update` | Upsert skor batch |
+| PATCH | `/penilaian/formatif/:id/finalize` | `penilaian:formatif:update` | Lock sesi (FINAL) |
+| GET | `/penilaian/formatif/tema/:temaId/rekap` | `penilaian:formatif:read` | Rekap per tema |
+| GET | `/penilaian/formatif/siswa/:siswaId` | GURU / MURID own | Riwayat formatif siswa |
+| POST | `/penilaian/exit-ticket` | MURID | Submit exit ticket |
+| GET | `/penilaian/exit-ticket?temaId=` | GURU | List exit ticket kelas |
+
+## 12. Project & Peer Review
+
+| Method | Endpoint | Permission | Deskripsi |
+|--------|----------|------------|-----------|
+| GET | `/project/def` | `project:read` | List project bank |
+| GET | `/project/def/:kode` | `project:read` | Detail DoD |
+| POST | `/project/assignment` | `project:assign` | Assign ke kelas |
+| GET | `/project/assignment?kelasId=` | `project:read` | List assignment |
+| POST | `/project/submission` | MURID | Buat/update submission |
+| POST | `/project/submission/:id/submit` | MURID | Submit final |
+| PATCH | `/project/submission/:id/dod` | GURU | Set status DoD |
+| POST | `/project/submission/:id/penilaian` | GURU | Skor 6 aspek + etika |
+| POST | `/project/peer-review` | MURID | Buat peer review |
+| POST | `/project/peer-review/:id/revisi` | MURID | Dokumentasi revisi |
+
+## 13. Progress Card & Capability
+
+| Method | Endpoint | Permission | Deskripsi |
+|--------|----------|------------|-----------|
+| GET | `/capability/def?tingkat=` | All auth | List definisi capability |
+| GET | `/progress-card?kelasId=&semester=` | GURU | List kartu kelas |
+| GET | `/progress-card/:id` | GURU / MURID own | Detail kartu |
+| POST | `/progress-card/generate` | GURU | Generate draft kelas |
+| PUT | `/progress-card/:id/items` | GURU | Update status items |
+| POST | `/progress-card/:id/finalize` | GURU | Finalize kartu |
+| GET | `/progress-card/:id/export-pdf` | GURU / MURID own | Export PDF |
+
+## 14. Portofolio
+
+| Method | Endpoint | Auth | Deskripsi |
+|--------|----------|------|-----------|
+| GET | `/portofolio/saya` | MURID | Portofolio + agregat |
+| PATCH | `/portofolio/saya` | MURID | Update narasi & featured |
+| POST | `/portofolio/saya/publish` | MURID | Publish portofolio |
+| GET | `/portofolio/:slug` | Scoped | View by slug |
+| GET | `/portofolio/kelas/:kelasId/showcase-list` | GURU | Daftar showcase |
+
+## 15. Dashboard
+
+| Method | Endpoint | Role | Deskripsi |
+|--------|----------|------|-----------|
+| GET | `/dashboard/guru?kelasId=&semester=` | GURU | Widget agregat guru |
+| GET | `/dashboard/guru/alert` | GURU | Alert prioritas |
+| GET | `/dashboard/guru/progress-semester` | GURU | Checklist 18 pertemuan |
+| GET | `/dashboard/admin` | ADMIN | Overview admin |
+
+## 16. Jadwal Pertemuan
+
+| Method | Endpoint | Permission | Deskripsi |
+|--------|----------|------------|-----------|
+| GET | `/jadwal?kelasId=&semester=` | `materi:read` | List jadwal |
+| PUT | `/jadwal/batch` | GURU | Set tanggal batch per kelas |
+
+## 17. Catatan Umum
 
 - **Base URL**: `https://api.cplf.example.com/api/v1`
 - **Auth**: httpOnly cookie (`access_token` + `refresh_token`), credentials: 'include'

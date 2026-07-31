@@ -49,6 +49,20 @@ Alasan pakai model Permission granular (bukan hardcode role string di setiap gua
 | `statistik:diri_sendiri` | ✅ | ✅ | ✅ | ✅ |
 | `profil:update_diri` | ✅ | ✅ | ✅ | ✅ |
 | `face_verification:enroll` | ✅ | ✅ | ✅ | ✅ (diri sendiri) |
+| `penilaian:formatif:create` | ✅ | ✅ | ✅ (kelasnya) | ❌ |
+| `penilaian:formatif:read` | ✅ | ✅ | ✅ (kelasnya) | ✅ (milik sendiri) |
+| `penilaian:formatif:update` | ✅ | ✅ | ✅ (kelasnya) | ❌ |
+| `project:read` | ✅ | ✅ | ✅ (kelasnya) | ✅ (assignment aktif) |
+| `project:assign` | ✅ | ✅ | ✅ | ❌ |
+| `project:grade` | ✅ | ✅ | ✅ (kelasnya) | ❌ |
+| `project:submit` | ❌ | ❌ | ❌ | ✅ |
+| `project:peer_review` | ❌ | ❌ | ❌ | ✅ (XI+) |
+| `progress_card:read` | ✅ | ✅ | ✅ (kelasnya) | ✅ (milik sendiri) |
+| `progress_card:manage` | ✅ | ✅ | ✅ (kelasnya) | ❌ |
+| `portofolio:read` | ✅ | ✅ | ✅ | ✅ (scoped visibilitas) |
+| `portofolio:manage` | ✅ | ✅ | ❌ | ✅ (milik sendiri) |
+| `dashboard:guru` | ✅ | ✅ | ✅ | ❌ |
+| `dashboard:admin` | ✅ | ✅ | ❌ | ❌ |
 | `audit_log:read` | ✅ | ✅ | ❌ | ❌ |
 
 > Catatan: beberapa permission bersifat **scoped** (mis. guru hanya boleh CRUD bank soal mapel/kelas yang diampu). Scoping ini dicek di **service layer** menggunakan relasi `GuruMapelKelas`, bukan hanya guard permission generik.

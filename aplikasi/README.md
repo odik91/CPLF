@@ -19,8 +19,9 @@
 3. **Pengecualian eksplisit**: konten pihak ketiga yang memang publik & dirancang untuk diakses langsung dari browser (video embed YouTube/Vimeo) boleh diakses langsung dari FE tanpa proxy BE.
 4. **RBAC/IAM eksplisit** dengan role minimal: `SUPER_ADMIN`, `ADMIN`, `GURU`, `MURID`.
 5. **Ujian bersifat refleksi**, bukan sekadar tes — soal diambil dari bank soal per tema pertemuan, jumlah & pengacakan diatur guru dan sistem otomatis mengambil acak soal sesuai tema yang ditentukan.
-6. **Ketahanan jaringan**: pengerjaan ujian di FE punya local storage (IndexedDB) sebagai fallback, auto-sync saat online kembali.
-7. **Beban berat diproses async** (queue/background worker) agar BE tetap responsif; status dikembalikan bertahap dan dipush lewat WebSocket.
+6. **Penilaian mengikuti filosofi CPLF** — formatif 6 aspek per pertemuan, project + peer review, progress card capability (bukan hanya angka ujian).
+7. **Ketahanan jaringan**: pengerjaan ujian di FE punya local storage (IndexedDB) sebagai fallback, auto-sync saat online kembali.
+8. **Beban berat diproses async** (queue/background worker) agar BE tetap responsif; status dikembalikan bertahap dan dipush lewat WebSocket.
 
 ## 3. Struktur Dokumen Perencanaan
 
@@ -41,6 +42,12 @@
 | 13 | [13_Struktur_Proyek.md](./13_Struktur_Proyek.md) | Struktur folder BE & FE |
 | 14 | [14_API_Contract_Overview.md](./14_API_Contract_Overview.md) | Ringkasan endpoint REST |
 | 15 | [15_Roadmap_Implementasi.md](./15_Roadmap_Implementasi.md) | Fase implementasi (MVP → lanjutan) |
+| 16 | [16_Mapping_CPLF_ke_App.md](./16_Mapping_CPLF_ke_App.md) | Mapping 108 pertemuan CPLF → entitas app |
+| 17 | [17_Modul_Penilaian_Formatif_Pertemuan.md](./17_Modul_Penilaian_Formatif_Pertemuan.md) | Penilaian formatif 6 aspek per pertemuan |
+| 18 | [18_Modul_Penilaian_Project_Peer_Review.md](./18_Modul_Penilaian_Project_Peer_Review.md) | Project semester, DoD, peer review, etika AI |
+| 19 | [19_Modul_Progress_Card_Capability.md](./19_Modul_Progress_Card_Capability.md) | Progress card capability per semester |
+| 20 | [20_Modul_Portofolio_Siswa.md](./20_Modul_Portofolio_Siswa.md) | Portofolio 3 tahun & showcase |
+| 21 | [21_Modul_Dashboard_Guru.md](./21_Modul_Dashboard_Guru.md) | Dashboard guru & admin |
 
 ## 4. Ringkasan Tech Stack
 
@@ -76,3 +83,9 @@
 | 12 | Background processing jawaban ujian | 10 |
 | 13 | Tracking aktivitas siswa pada materi | 11 |
 | 14 | Profil siswa: verifikasi wajah, git url, dll | 12 |
+| 15 | Penilaian formatif per pertemuan (6 aspek CPLF) | 17 |
+| 16 | Penilaian project + peer review + etika AI | 18 |
+| 17 | Progress card capability per semester | 19 |
+| 18 | Portofolio 3 tahun siswa | 20 |
+| 19 | Mapping 108 pertemuan CPLF ke tema app | 16 |
+| 20 | Dashboard guru dengan alert & rekap | 21 |

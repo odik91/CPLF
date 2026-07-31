@@ -62,6 +62,11 @@ Alasan: menghindari kerentanan umum RSC (SSRF, kebocoran secret di server functi
 | `UjianSubmissionModule` | Terima submission, taruh ke queue, kembalikan status awal |
 | `FaceVerificationModule` | Simpan/validasi embedding wajah (bukan proses inference) |
 | `ActivityTrackingModule` | Terima batch event tracking aktivitas siswa |
+| `PenilaianModule` | Penilaian formatif per pertemuan (6 aspek CPLF) |
+| `ProjectModule` | Project semester, submission, DoD, peer review |
+| `ProgressCardModule` | Progress card capability per semester |
+| `PortofolioModule` | Portofolio 3 tahun siswa |
+| `DashboardModule` | Agregat widget guru & admin |
 | `NotificationModule` / `RealtimeGateway` | WebSocket gateway (Socket.IO) |
 | `WorkerModule` (BullMQ processors) | Scoring ujian async, proses import CSV besar, agregasi statistik |
 | `FileModule` | Upload gambar materi, avatar, dsb (ke S3-compatible storage) |
@@ -81,6 +86,9 @@ Alasan: menghindari kerentanan umum RSC (SSRF, kebocoran secret di server functi
 | `components/editor` | Block-based content renderer & editor untuk materi |
 | `components/exam` | Komponen pengerjaan ujian (offline-aware) |
 | `hooks/useActivityTracker` | Hook tracking scroll/waktu/kunjungan materi |
+| `components/penilaian` | Ceklis formatif, rubrik project, progress card |
+| `app/(guru)/penilaian` | Halaman penilaian per pertemuan & project |
+| `app/(murid)/portofolio` | Portofolio & showcase akhir |
 
 ## 5. Alur Keamanan Data Singkat
 
@@ -112,3 +120,5 @@ Alasan: menghindari kerentanan umum RSC (SSRF, kebocoran secret di server functi
 - Detail role & permission → [02_RBAC_IAM.md](./02_RBAC_IAM.md)
 - Detail entitas data → [03_Skema_Database.md](./03_Skema_Database.md)
 - Detail folder proyek → [13_Struktur_Proyek.md](./13_Struktur_Proyek.md)
+- Mapping CPLF 108 pertemuan → [16_Mapping_CPLF_ke_App.md](./16_Mapping_CPLF_ke_App.md)
+- Penilaian formatif → [17_Modul_Penilaian_Formatif_Pertemuan.md](./17_Modul_Penilaian_Formatif_Pertemuan.md)

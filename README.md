@@ -59,6 +59,7 @@ Identity → Prinsip Bernalar → Mindset → Mental Model → Skill → Tool
 | **Koordinator / KS** | [Capability](05-silabus/05_Capability_Framework_CPLF.md) · [Mapping Merdeka](05-silabus/05_Mapping_Kurikulum_Merdeka.md) · [Mapping KBC](05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) · [RPP KBC template](05-silabus/05_RPP_KBC_Template_CPLF.md) · **[RPP per pertemuan (108)](05-silabus/rpp-kbc/README.md)** · [RPP flagship §1–20](05-silabus/05_RPP_KBC_Lampiran_Terisi_Penuh.md) · [Kaji ulang S1–S6](05-silabus/05_Kaji_Ulang_Jalur_S1-S6_dan_Gap.md) · [Silabus X–XII](05-silabus/) |
 | **Experience & project** | [Experience Library](07-experience_library/07_Experience_Library_Index.md) · [Project Bank](08-project/08_Project_Bank_Index.md) |
 | **Penilaian** | [Rubrik & filosofi assessment](09-rubrik/09_Rubrik_Index.md) |
+| **Aplikasi LMS** | [Perencanaan app pendukung](aplikasi/README.md) — arsitektur, penilaian, 108 pertemuan |
 | **Landasan teori & jurnal** | [10-research](10-research/10_Landasan_Teori_CPLF.md) (Bab 1–5) |
 | **Pilot tahap awal** | [10-research/pilot](10-research/pilot/11_Pilot_Tahap_Awal.md) — micro 3 pertemuan |
 
@@ -77,7 +78,7 @@ CPLF/
 ├── 08-project/               ← brief project per semester
 ├── 09-rubrik/                ← penilaian formatif & capstone
 ├── 10-research/              ← landasan teori, tinjauan pustaka (Bab 1–5)
-├── aplikasi/                 ← roadmap app pendukung (menyusul)
+├── aplikasi/                 ← perencanaan LMS pendukung (21 dokumen)
 └── CHANGELOG.md
 ```
 
@@ -93,7 +94,7 @@ CPLF/
 | Experience · Project · Rubrik | **Draft living** — dikaji ulang dari praktik ajar |
 | Landasan teori (10-research) | **Draft v0.1** — Bab 1–5 + daftar pustaka |
 | Pilot tahap awal | **Aktif** — micro-pilot 3 pertemuan ([panduan](10-research/pilot/11_Pilot_Tahap_Awal.md)) |
-| Aplikasi pendukung | Menyusul |
+| Aplikasi pendukung | **Perencanaan v0.1** — 21 dokumen ([aplikasi/](aplikasi/README.md)) |
 
 ---
 

@@ -37,7 +37,23 @@
 
 **Deliverable**: Guru bisa membuat materi, bank soal, dan ujian. Siswa bisa membaca materi dan mengerjakan ujian.
 
-## Fase 2: Keamanan & Ketahanan (Minggu 6-7)
+## Fase 1b: Penilaian CPLF (Minggu 5-6)
+
+**Tujuan**: Penilaian formatif per pertemuan, project semester, progress card.
+
+| Task | Output |
+|------|--------|
+| Seed 108 tema CPLF + capability definitions | Navigasi journey 3 tahun |
+| Modul PenilaianFormatif (BE + FE ceklis) | Guru isi 2–3 aspek per pertemuan |
+| Modul Project (assignment, submission, DoD) | Project semester terkelola |
+| Modul PeerReview (XI+) | Peer review terstruktur |
+| Modul ProgressCard + auto-suggest | Kartu capability per semester |
+| Dashboard guru (widget + alert) | Overview kelas actionable |
+| Exit ticket siswa (opsional) | Refleksi digital per tema |
+
+**Deliverable**: Guru bisa menilai formatif per pertemuan, project, dan generate progress card.
+
+## Fase 2: Keamanan & Ketahanan (Minggu 7-8)
 
 **Tujuan**: Verifikasi wajah, offline-first, tracking aktivitas.
 
@@ -55,7 +71,7 @@
 
 **Deliverable**: Ujian dengan verifikasi wajah, bisa dikerjakan offline, aktivitas siswa terlacak.
 
-## Fase 3: Manajemen Data & Profil (Minggu 8-9)
+## Fase 3: Manajemen Data & Profil (Minggu 9-10)
 
 **Tujuan**: Bulk import, profil siswa, notifikasi.
 
@@ -71,7 +87,7 @@
 
 **Deliverable**: Admin bisa import siswa, siswa bisa kelola profil, guru punya dashboard.
 
-## Fase 4: Penyempurnaan & Scale (Minggu 10-12)
+## Fase 4: Penyempurnaan & Scale (Minggu 11-13)
 
 **Tujuan**: Polish, testing, deployment, dokumentasi.
 
@@ -94,7 +110,8 @@
 |-------|-----------|
 | Multi-tema per ujian (gabung beberapa tema) | Medium |
 | Koreksi manual soal esai oleh guru | High |
-| Export PDF hasil ujian | Low |
+| Portofolio 3 tahun + showcase mode | Medium |
+| Export PDF progress card | Medium |
 | Multi-bahasa (i18n) | Low |
 | Mobile app (React Native / PWA) | Medium |
 | Integrasi SSO (Google, Microsoft) | Low |
@@ -104,12 +121,13 @@
 ## Timeline Visual
 
 ```
-Minggu:  1  2  3  4  5  6  7  8  9  10 11 12
+Minggu:  1  2  3  4  5  6  7  8  9  10 11 12 13
 Fase 0:  ██ ██
 Fase 1:      ██ ██ ██
-Fase 2:            ██ ██
-Fase 3:                  ██ ██
-Fase 4:                        ██ ██ ██
+Fase 1b:              ██ ██
+Fase 2:                    ██ ██
+Fase 3:                          ██ ██
+Fase 4:                                ██ ██ ██
 ```
 
 ## Catatan

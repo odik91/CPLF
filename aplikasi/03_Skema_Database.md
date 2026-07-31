@@ -164,15 +164,27 @@ model GuruMapelKelas {
 
 ```prisma
 model Tema {
-  id          String   @id @default(uuid())
-  mapelId     String
-  judul       String   // "Tema Pertemuan 3: Struktur Data Dasar"
-  urutan      Int
-  deskripsi   String?
-  mapel       Mapel    @relation(fields: [mapelId], references: [id])
-  materi      Materi[]
-  soal        Soal[]
-  ujian       Ujian[]
+  id                  String   @id @default(uuid())
+  mapelId             String
+  judul               String   // "Tema Pertemuan 3: Struktur Data Dasar"
+  urutan              Int      // 1–18 dalam semester
+  semester            Int      // 1–6 (S1..S6 CPLF)
+  tingkat             String   // X, XI, XII
+  urutanGlobal        Int      // sort journey 3 tahun
+  kodeModulCplf       String   @unique  // X-S1-P01
+  slug                String   @unique
+  deskripsi           String?
+  capabilityCodes     String[] // ["CX-B1", "CX-C1"]
+  aspekFormatifFokus  String[] // ["REA", "OBS"]
+  expCodes            String[] // opsional: EXP_01
+  prjCodes            String[] // opsional: PRJ-X-S1-01
+  unitSilabus         String?  // "X1.1"
+  isProjectPertemuan  Boolean  @default(false)
+  mapel               Mapel    @relation(fields: [mapelId], references: [id])
+  materi              Materi[]
+  soal                Soal[]
+  ujian               Ujian[]
+  penilaianFormatif   PenilaianFormatif[]
 }
 
 model Materi {
@@ -319,15 +331,158 @@ model AuditLog {
 }
 ```
 
-## 9. Indexing & Pertimbangan Performa
+## 9. Penilaian Formatif, Project & Capability
+
+> Detail alur bisnis → dok 17–19. Enum `AspekCplf`, `LevelAspek`, `CapabilityStatus` didefinisikan di sana.
+
+```prisma
+model CapabilityDef {
+  id           String   @id @default(uuid())
+  kode         String   @unique  // CX-B1, CXI-T2
+  tingkat      String
+  domain       String
+  deskripsi    String
+  aspekTerkait String[] // OBS, REA, ...
+}
+
+model PenilaianFormatif {
+  id          String   @id @default(uuid())
+  temaId      String
+  kelasId     String
+  guruId      String
+  tanggal     DateTime @default(now())
+  aspekFokus  String[]
+  catatanUmum String?
+  status      String   @default("DRAFT") // DRAFT, FINAL
+  skorSiswa   PenilaianFormatifSiswa[]
+  @@unique([temaId, kelasId, tanggal])
+}
+
+model PenilaianFormatifSiswa {
+  id                  String @id @default(uuid())
+  penilaianFormatifId String
+  siswaId             String
+  skorAspek           Json   // { "REA": 3, "OBS": 2 }
+  catatan             String?
+  hadir               Boolean @default(true)
+  @@unique([penilaianFormatifId, siswaId])
+}
+
+model ProjectDef {
+  id              String @id @default(uuid())
+  kode            String @unique  // PRJ-X-S1-01
+  judul           String
+  jenis           String   // MINI, SEMESTER, NILAI, BONUS
+  tingkat         String
+  semester        Int
+  capabilityCodes String[]
+  definitionOfDone Json
+}
+
+model ProjectAssignment {
+  id           String @id @default(uuid())
+  projectDefId String
+  kelasId      String
+  temaId       String?
+  guruId       String
+  deadline     DateTime
+  status       String @default("OPEN")
+}
+
+model ProjectSubmission {
+  id            String @id @default(uuid())
+  assignmentId  String
+  siswaId       String
+  urlDemo       String?
+  urlRepo       String?
+  narasiReasoning String?
+  dodStatus     String @default("BELUM") // BELUM, LULUS, DITOLAK
+  status        String @default("DRAFT")
+  penilaian     PenilaianProject?
+}
+
+model PenilaianProject {
+  id               String @id @default(uuid())
+  submissionId     String @unique
+  guruId           String
+  skorAspek        Json   // 6 aspek OBS..TEC
+  skorEtika        Json?  // E1..E4 (XII)
+  narasiCapability String
+}
+
+model PeerReview {
+  id           String @id @default(uuid())
+  submissionId String
+  reviewerId   String
+  pujian       String[]
+  saran        Json
+}
+
+model ProgressCard {
+  id          String @id @default(uuid())
+  siswaId     String
+  kelasId     String
+  semester    Int
+  tahunAjaran String
+  status      String @default("DRAFT")
+  narasiGuru  String?
+  narasiSiswa String?
+  items       ProgressCardItem[]
+  @@unique([siswaId, tahunAjaran, semester])
+}
+
+model ProgressCardItem {
+  id             String @id @default(uuid())
+  progressCardId String
+  capabilityKode String
+  status         String @default("BELUM")
+  buktiRefs      Json?
+  @@unique([progressCardId, capabilityKode])
+}
+
+model PortofolioSiswa {
+  id            String @id @default(uuid())
+  siswaId       String @unique
+  slug          String @unique
+  narasiJourney String?
+  visibilitas   String @default("PRIVATE")
+  featuredProjectIds String[]
+}
+
+model ExitTicket {
+  id      String @id @default(uuid())
+  temaId  String
+  siswaId String
+  jawaban Json
+  @@unique([temaId, siswaId])
+}
+
+model JadwalPertemuan {
+  id      String   @id @default(uuid())
+  temaId  String
+  kelasId String
+  tanggal DateTime
+  @@unique([temaId, kelasId])
+}
+```
+
+## 10. Indexing & Pertimbangan Performa
 
 - Index pada `Soal.temaId`, `Soal.isActive` (query bank soal per tema saat generate ujian).
 - Index pada `UjianSesi.ujianId + siswaId` (unique, cepat lookup status sesi).
 - Index pada `AktivitasMateri.materiId + siswaId` (statistik per siswa per materi).
+- Index pada `Tema.kodeModulCplf`, `Tema.semester + tingkat` (navigasi journey CPLF).
+- Index pada `PenilaianFormatif.temaId + kelasId` (dashboard guru).
+- Index pada `ProgressCard.siswaId + tahunAjaran + semester` (unique lookup).
 - Partitioning/archival `AuditLog` & `AktivitasMateriEvent` bila data tumbuh besar (opsional, fase lanjutan).
 
-## 10. Referensi Silang
+## 11. Referensi Silang
 
 - Bank soal & ujian → [04_Modul_Bank_Soal_dan_Ujian.md](./04_Modul_Bank_Soal_dan_Ujian.md)
 - Materi & content block → [07_Modul_Materi_Pembelajaran.md](./07_Modul_Materi_Pembelajaran.md)
 - Tracking aktivitas → [11_Modul_Tracking_Aktivitas_Siswa.md](./11_Modul_Tracking_Aktivitas_Siswa.md)
+- Mapping CPLF → [16_Mapping_CPLF_ke_App.md](./16_Mapping_CPLF_ke_App.md)
+- Penilaian formatif → [17_Modul_Penilaian_Formatif_Pertemuan.md](./17_Modul_Penilaian_Formatif_Pertemuan.md)
+- Project & peer review → [18_Modul_Penilaian_Project_Peer_Review.md](./18_Modul_Penilaian_Project_Peer_Review.md)
+- Progress card → [19_Modul_Progress_Card_Capability.md](./19_Modul_Progress_Card_Capability.md)
+- Portofolio → [20_Modul_Portofolio_Siswa.md](./20_Modul_Portofolio_Siswa.md)
