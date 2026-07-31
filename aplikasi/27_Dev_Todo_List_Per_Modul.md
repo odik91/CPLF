@@ -136,15 +136,15 @@ flowchart TD
 ### M0 — Infra & Monorepo
 **Dok:** 01, 13 · **Fase:** 0 · **Estimasi:** 2–3 hari
 
-- [ ] Init monorepo (`pnpm` workspaces: `apps/api`, `apps/web`, `packages/shared`)
-- [ ] Setup dev **native** (PostgreSQL + Redis lokal/WSL — **tanpa Docker**)
-- [ ] Folder `deploy/`: contoh Nginx, PM2 ecosystem, script backup
-- [ ] NestJS skeleton + global ValidationPipe + exception filter
-- [ ] Next.js App Router skeleton + Tailwind + shadcn/ui base
-- [ ] `packages/shared`: types dasar, constants role, API response shape
-- [ ] Env template (`.env.example`) BE & FE
-- [ ] Script `dev` parallel (api + web)
-- [ ] README setup lokal (install PG/Redis → migrate → seed → pnpm dev)
+- [x] Init monorepo (`npm` workspaces: `apps/api`, `apps/web`, `packages/shared`)
+- [~] Setup dev **native** (PostgreSQL + Redis lokal/WSL — **tanpa Docker**)
+- [x] Folder `deploy/`: contoh Nginx, PM2 ecosystem, script backup
+- [x] NestJS skeleton + global ValidationPipe + exception filter
+- [~] Next.js App Router skeleton + Tailwind + shadcn/ui base
+- [x] `packages/shared`: types dasar, constants role, API response shape
+- [x] Env template (`.env.example`) BE & FE
+- [x] Script `dev` parallel (api + web)
+- [x] README setup lokal (install PG/Redis → migrate → seed → npm run dev)
 
 **DoD:** PostgreSQL + Redis native jalan + `pnpm dev` → API health OK, FE landing render.
 
@@ -154,21 +154,21 @@ flowchart TD
 **Dok:** 02 · **Fase:** 0 · **Depends:** M0
 
 #### BE
-- [ ] Prisma: User, Role, Permission, UserRole, RolePermission, RefreshToken
-- [ ] Seed: SUPER_ADMIN, ADMIN, GURU, MURID + permissions dasar
-- [ ] AuthModule: login, refresh, logout, `/auth/me`
-- [ ] JWT httpOnly cookie (access + refresh), CORS credentials
-- [ ] JwtAuthGuard, RolesGuard, PermissionsGuard
-- [ ] `@RequirePermissions()`, `@CurrentUser()` decorators
-- [ ] IamModule: list roles/permissions (admin)
-- [ ] `tokenVersion` invalidasi + mustChangePassword flag
+- [x] Prisma: User, Role, Permission, UserRole, RolePermission, RefreshToken
+- [x] Seed: SUPER_ADMIN, ADMIN, GURU, MURID + permissions dasar
+- [x] AuthModule: login, refresh, logout, `/auth/me`
+- [x] JWT httpOnly cookie (access + refresh), CORS credentials
+- [x] JwtAuthGuard, RolesGuard, PermissionsGuard
+- [x] `@RequirePermissions()`, `@CurrentUser()` decorators
+- [x] IamModule: list roles/permissions (admin)
+- [x] `tokenVersion` invalidasi + mustChangePassword flag
 
 #### FE
-- [ ] Axios client + interceptor refresh 401
-- [ ] Login page `(auth)/login`
-- [ ] Ganti password paksa `(auth)/ganti-password`
-- [ ] Auth context / hook `useAuth`
-- [ ] Route guard client-side (redirect jika belum login)
+- [x] Axios client + interceptor refresh 401
+- [x] Login page `(auth)/login`
+- [x] Ganti password paksa `(auth)/ganti-password`
+- [x] Auth context / hook `useAuth`
+- [x] Route guard client-side (redirect jika belum login)
 
 #### UAT
 - [ ] Login admin → akses endpoint protected
@@ -183,10 +183,10 @@ flowchart TD
 **Dok:** 02, 03 · **Fase:** 0–1 · **Depends:** M1
 
 #### BE
-- [ ] Prisma: Kelas, Mapel, GuruMapelKelas, ProfilSiswa, ProfilGuru
+- [~] Prisma: Kelas, Mapel, GuruMapelKelas, ProfilSiswa, ProfilGuru
 - [ ] UserModule: CRUD user single (admin)
-- [ ] KelasModule: CRUD kelas, assign siswa ke kelas
-- [ ] MapelModule + Tema stub (CRUD tanpa seed dulu)
+- [~] KelasModule: CRUD kelas, assign siswa ke kelas
+- [~] MapelModule + Tema stub (CRUD tanpa seed dulu)
 - [ ] GuruMapelKelas: assign guru ↔ mapel ↔ kelas
 - [ ] OwnershipScopeGuard (guru hanya kelas/mapellnya)
 
