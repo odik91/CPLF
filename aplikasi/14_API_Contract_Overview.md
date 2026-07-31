@@ -209,10 +209,12 @@
 
 | Method | Endpoint | Deskripsi |
 |--------|----------|-----------|
-| POST | `/siklus-belajar/start` | GURU |
+| POST | `/siklus-belajar/start` | GURU — `{ captureMode?, guruAutoCaptureOnPhase? }` |
+| POST | `/siklus-belajar/:id/guru-capture` | GURU — snapshot kelas (JSON scores, no image) |
+| POST | `/siklus-belajar/:id/guru-capture-tagged` | GURU — spot-check siswa (taggedSiswaId) |
 | POST | `/siklus-belajar/:id/fase` | GURU — ubah fase (TRAP, CLARIFY, …) |
 | POST | `/siklus-belajar/:id/end` | GURU |
-| POST | `/siklus-belajar/:id/samples-batch` | MURID |
+| POST | `/siklus-belajar/:id/samples-batch` | MURID — mode STUDENT_DEVICE |
 | GET | `/siklus-belajar/:id/timeline` | GURU — agregat emoji kelas |
 
 ## 19. Editor Kode

@@ -98,6 +98,7 @@
 | 20 | Dashboard guru dengan alert & rekap | 21 |
 | 21 | Client ujian secure (Electron/mobile) + proctor AI | 22 |
 | 22 | Ekspresi wajah saat siklus belajar (trigger guru) | 23 |
+| 22b | Kamera guru jika siswa tanpa device (resource minimal) | 23 §6 |
 | 23 | Syarat ujian: kunjungan & baca materi (custom) | 04 §6, 11 |
 | 24 | Role wali kelas — lihat nilai ujian semua mapel | 02 §4.1 |
 | 25 | Editor kode siswa (Monaco, eval aman, autocomplete) | 24 |

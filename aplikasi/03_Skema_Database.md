@@ -491,25 +491,30 @@ model ProctorEventLog {
 }
 
 model SiklusBelajar {
-  id          String   @id @default(uuid())
-  temaId      String
-  kelasId     String
-  guruId      String
-  faseAktif   String?
-  status      String   @default("IDLE")
-  startedAt   DateTime?
-  endedAt     DateTime?
-  samples     EkspresiSample[]
+  id                     String   @id @default(uuid())
+  temaId                 String
+  kelasId                String
+  guruId                 String
+  captureMode            String   @default("STUDENT_DEVICE") // STUDENT_DEVICE, GURU_CAMERA, HYBRID
+  guruAutoCaptureOnPhase Boolean  @default(false)
+  faseAktif              String?
+  status                 String   @default("IDLE")
+  startedAt              DateTime?
+  endedAt                DateTime?
+  samples                EkspresiSample[]
 }
 
 model EkspresiSample {
   id            String   @id @default(uuid())
   siklusId      String
-  siswaId       String
+  siswaId       String?  // null = agregat kelas
+  captureSource String   // STUDENT, GURU_CAMERA_CLASS, GURU_CAMERA_TAGGED
   faseSiklus    String
   expressionMap Json
   emojiDominan  String
   confidence    Float
+  facesInFrame  Int?
+  taggedSiswaId String?
   sampledAt     DateTime @default(now())
   siklus        SiklusBelajar @relation(...)
 }
