@@ -67,6 +67,10 @@ Alasan: menghindari kerentanan umum RSC (SSRF, kebocoran secret di server functi
 | `ProgressCardModule` | Progress card capability per semester |
 | `PortofolioModule` | Portofolio 3 tahun siswa |
 | `DashboardModule` | Agregat widget guru & admin |
+| `ProctorModule` | Heartbeat & event log client ujian secure |
+| `SiklusBelajarModule` | Ekspresi & fase observasi kelas |
+| `CodeSnippetModule` | Editor kode siswa + run log |
+| `WaliKelasModule` | Rekap nilai read-only kelas wali |
 | `NotificationModule` / `RealtimeGateway` | WebSocket gateway (Socket.IO) |
 | `WorkerModule` (BullMQ processors) | Scoring ujian async, proses import CSV besar, agregasi statistik |
 | `FileModule` | Upload gambar materi, avatar, dsb (ke S3-compatible storage) |

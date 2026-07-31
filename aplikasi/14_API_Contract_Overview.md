@@ -77,6 +77,8 @@
 | POST | `/ujian/:id/close` | `ujian:update` | Tutup ujian paksa |
 | DELETE | `/ujian/:id` | `ujian:delete` | Hapus ujian (draft only) |
 | GET | `/ujian/aktif` | MURID | Daftar ujian aktif |
+| GET | `/ujian/:id/eligibility` | MURID | Cek syarat partisipasi materi |
+| POST | `/ujian/:id/eligibility-override` | GURU | Bypass syarat per siswa |
 | POST | `/ujian/:id/mulai` | MURID | Mulai sesi ujian |
 | GET | `/ujian/:id/soal` | MURID | Ambil soal sesi |
 | POST | `/ujian/:id/submit` | MURID | Submit batch jawaban |
@@ -194,7 +196,45 @@
 | GET | `/jadwal?kelasId=&semester=` | `materi:read` | List jadwal |
 | PUT | `/jadwal/batch` | GURU | Set tanggal batch per kelas |
 
-## 17. Catatan Umum
+## 17. Client Ujian & Proctor
+
+| Method | Endpoint | Deskripsi |
+|--------|----------|-----------|
+| GET | `/ujian/:id/client-requirements` | MURID — client type allowed |
+| POST | `/ujian/:id/proctor-heartbeat` | MURID — secure client |
+| GET | `/ujian/:id/proctor-log/:sesiId` | GURU — timeline proctor |
+| POST | `/ujian/:id/proctor-resume` | GURU — resume sesi paused |
+
+## 18. Siklus Belajar & Ekspresi
+
+| Method | Endpoint | Deskripsi |
+|--------|----------|-----------|
+| POST | `/siklus-belajar/start` | GURU |
+| POST | `/siklus-belajar/:id/fase` | GURU — ubah fase (TRAP, CLARIFY, …) |
+| POST | `/siklus-belajar/:id/end` | GURU |
+| POST | `/siklus-belajar/:id/samples-batch` | MURID |
+| GET | `/siklus-belajar/:id/timeline` | GURU — agregat emoji kelas |
+
+## 19. Editor Kode
+
+| Method | Endpoint | Deskripsi |
+|--------|----------|-----------|
+| GET | `/code-snippet?materiId=` | MURID — draft milik sendiri |
+| POST | `/code-snippet` | MURID — buat draft |
+| PATCH | `/code-snippet/:id` | MURID — autosave |
+| POST | `/code-snippet/:id/run` | MURID — run via sandbox/Piston |
+| GET | `/code-snippet/kelas/:kelasId` | GURU — overview kelas |
+
+## 20. Wali Kelas
+
+| Method | Endpoint | Permission | Deskripsi |
+|--------|----------|------------|-----------|
+| GET | `/wali-kelas/kelas/:kelasId/murid` | `wali_kelas:read_rekap` | Daftar murid kelas wali |
+| GET | `/wali-kelas/kelas/:kelasId/nilai-ujian` | `wali_kelas:read_nilai` | Nilai ujian semua mapel |
+| GET | `/wali-kelas/siswa/:siswaId/rekap-semua-mapel` | `wali_kelas:read_rekap` | Rekap per siswa |
+| GET | `/wali-kelas/siswa/:siswaId/partisipasi-materi` | `wali_kelas:read_rekap` | Tracking materi read-only |
+
+## 21. Catatan Umum
 
 - **Base URL**: `https://api.cplf.example.com/api/v1`
 - **Auth**: httpOnly cookie (`access_token` + `refresh_token`), credentials: 'include'

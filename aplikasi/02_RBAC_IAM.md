@@ -27,6 +27,7 @@ Alasan pakai model Permission granular (bukan hardcode role string di setiap gua
 | `SUPER_ADMIN` | Akses penuh sistem, kelola role/permission, kelola sekolah |
 | `ADMIN` | Operasional harian: kelola user, kelas, mapel, bulk import |
 | `GURU` | Kelola materi & bank soal miliknya, buat ujian, lihat statistik siswa |
+| `WALI_KELAS` | Guru dengan akses **read-only** nilai ujian & rekap murid di kelas wali (semua mapel) |
 | `MURID` | Akses materi, mengerjakan ujian, kelola profil sendiri |
 
 ## 4. Contoh Permission Matrix
@@ -63,9 +64,30 @@ Alasan pakai model Permission granular (bukan hardcode role string di setiap gua
 | `portofolio:manage` | ✅ | ✅ | ❌ | ✅ (milik sendiri) |
 | `dashboard:guru` | ✅ | ✅ | ✅ | ❌ |
 | `dashboard:admin` | ✅ | ✅ | ❌ | ❌ |
+| `wali_kelas:read_nilai` | ✅ | ✅ | ❌* | ❌ |
+| `wali_kelas:read_rekap` | ✅ | ✅ | ❌* | ❌ |
 | `audit_log:read` | ✅ | ✅ | ❌ | ❌ |
 
-> Catatan: beberapa permission bersifat **scoped** (mis. guru hanya boleh CRUD bank soal mapel/kelas yang diampu). Scoping ini dicek di **service layer** menggunakan relasi `GuruMapelKelas`, bukan hanya guard permission generik.
+> Catatan: beberapa permission bersifat **scoped** (mis. guru hanya boleh CRUD bank soal mapel/kelas yang diampu). Scoping ini dicek di **service layer** menggunakan relasi `GuruMapelKelas`, bukan hanya guard permission generik.  
+> \* `WALI_KELAS` (role tambahan): ✅ untuk `wali_kelas:*` jika user di-assign ke `Kelas.waliKelasId`.
+
+### 4.1 Role `WALI_KELAS`
+
+Guru bisa punya **multi-role**: `GURU` + `WALI_KELAS` simultaneously.
+
+| Akses | WALI_KELAS | GURU mapel |
+|-------|------------|------------|
+| Nilai ujian murid di kelas wali (semua mapel) | ✅ read-only | ✅ mapel sendiri |
+| Statistik aktivitas materi | ✅ read-only | ✅ mapel sendiri |
+| Progress card murid | ✅ read-only | ✅ mapel sendiri |
+| CRUD materi / bank soal / ujian | ❌ | ✅ mapel sendiri |
+| Penilaian formatif | ❌ (kecuali juga GURU mapel) | ✅ |
+
+**Scoping:** `Kelas.waliKelasId = userId` — guard `WaliKelasScopeGuard` validasi siswa ∈ kelas tersebut.
+
+**UI:** Menu terpisah "Wali Kelas" → daftar murid → drill-down per mapel → nilai ujian & partisipasi materi.
+
+Endpoint khusus: `GET /wali-kelas/kelas/:kelasId/nilai-ujian`, `GET /wali-kelas/siswa/:siswaId/rekap-semua-mapel`.
 
 ## 5. Implementasi di NestJS
 

@@ -104,7 +104,22 @@
 
 **Deliverable**: Aplikasi siap produksi, terdeploy, dan termonitor.
 
-## Fase 5: Lanjutan (Post-MVP)
+## Fase 6: Client & Fitur Lanjutan (Post-Produksi)
+
+| Task | Output |
+|------|--------|
+| Electron client ujian + kamera heartbeat | Ujian secure desktop |
+| Proctor rule engine on-device | Alert guru via WS |
+| Syarat partisipasi ujian (gate materi) | Eligibility check |
+| Role WALI_KELAS + dashboard rekap nilai | Wali kelas lihat semua mapel |
+| Monaco editor + browser sandbox | Practice coding di materi |
+| Piston self-hosted (Docker) | Run/soal coding ujian |
+| Siklus belajar + expression sampling | Timeline emoji guru |
+| React Native ujian (Android) | Mobile secure client |
+
+**Deliverable**: Ekosistem multi-client lengkap; fitur pedagogis CPLF (ekspresi, coding) aktif.
+
+## Fase 5: Backlog (Post-MVP)
 
 | Fitur | Prioritas |
 |-------|-----------|
@@ -114,6 +129,10 @@
 | Export PDF progress card | Medium |
 | Multi-bahasa (i18n) | Low |
 | Mobile app (React Native / PWA) | Medium |
+| Client ujian Electron + proctor | High |
+| Siklus belajar + ekspresi | Medium |
+| Editor kode + Piston sandbox | High |
+| Role wali kelas dashboard | Medium |
 | Integrasi SSO (Google, Microsoft) | Low |
 | AI-assisted question generation | Low |
 | Dashboard super admin multi-sekolah | Low |
@@ -121,13 +140,14 @@
 ## Timeline Visual
 
 ```
-Minggu:  1  2  3  4  5  6  7  8  9  10 11 12 13
+Minggu:  1  2  3  4  5  6  7  8  9  10 11 12 13  ... post
 Fase 0:  ██ ██
 Fase 1:      ██ ██ ██
 Fase 1b:              ██ ██
 Fase 2:                    ██ ██
 Fase 3:                          ██ ██
 Fase 4:                                ██ ██ ██
+Fase 6:                                              (post-produksi)
 ```
 
 ## Catatan

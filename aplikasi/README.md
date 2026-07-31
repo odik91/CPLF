@@ -17,7 +17,7 @@
 1. **BE/FE terpisah total.** BE = NestJS (REST + WebSocket + Background Worker). FE = Next.js.
 2. **FE tanpa Server Component untuk data fetching.** Next.js hanya dipakai sebagai shell/rendering di sisi client (App Router boleh dipakai untuk routing, tetapi setiap page yang butuh data ditandai `"use client"` dan mengambil data melalui BE API, bukan lewat RSC/server actions). Ini menghindari kebocoran credential/query di server Next.js dan memastikan satu-satunya "source of truth" akses data adalah BE.
 3. **Pengecualian eksplisit**: konten pihak ketiga yang memang publik & dirancang untuk diakses langsung dari browser (video embed YouTube/Vimeo) boleh diakses langsung dari FE tanpa proxy BE.
-4. **RBAC/IAM eksplisit** dengan role minimal: `SUPER_ADMIN`, `ADMIN`, `GURU`, `MURID`.
+4. **RBAC/IAM eksplisit** dengan role: `SUPER_ADMIN`, `ADMIN`, `GURU`, `WALI_KELAS`, `MURID`.
 5. **Ujian bersifat refleksi**, bukan sekadar tes — soal diambil dari bank soal per tema pertemuan, jumlah & pengacakan diatur guru dan sistem otomatis mengambil acak soal sesuai tema yang ditentukan.
 6. **Penilaian mengikuti filosofi CPLF** — formatif 6 aspek per pertemuan, project + peer review, progress card capability (bukan hanya angka ujian).
 7. **Ketahanan jaringan**: pengerjaan ujian di FE punya local storage (IndexedDB) sebagai fallback, auto-sync saat online kembali.
@@ -48,6 +48,9 @@
 | 19 | [19_Modul_Progress_Card_Capability.md](./19_Modul_Progress_Card_Capability.md) | Progress card capability per semester |
 | 20 | [20_Modul_Portofolio_Siswa.md](./20_Modul_Portofolio_Siswa.md) | Portofolio 3 tahun & showcase |
 | 21 | [21_Modul_Dashboard_Guru.md](./21_Modul_Dashboard_Guru.md) | Dashboard guru & admin |
+| 22 | [22_Modul_Client_Ujian_Mobile_Desktop.md](./22_Modul_Client_Ujian_Mobile_Desktop.md) | Client ujian Electron/mobile + AI proctor |
+| 23 | [23_Modul_Ekspresi_Siklus_Belajar.md](./23_Modul_Ekspresi_Siklus_Belajar.md) | Face + expression detection saat siklus belajar |
+| 24 | [24_Modul_Editor_Kode_Siswa.md](./24_Modul_Editor_Kode_Siswa.md) | Monaco editor, sandbox eval, penyimpanan kode aman |
 
 ## 4. Ringkasan Tech Stack
 
@@ -62,6 +65,10 @@
 | FE State/Data | React Query (TanStack Query) + Zustand |
 | FE Local DB (offline) | Dexie.js (wrapper IndexedDB) |
 | Face Verification | TensorFlow.js (`face-landmarks-detection` / `face-api.js`) di FE |
+| Expression detect | face-api.js `FaceExpressions` (on-device, siklus belajar) |
+| Client ujian | Electron + React Native (post-MVP) |
+| Code execution | Browser sandbox (practice) + Piston self-hosted (ujian coding) |
+| Editor kode | Monaco Editor (+ CodeMirror 6 ringan untuk mobile) |
 | Editor Materi | Tiptap / Editor.js (block-based) + Shiki/Prism untuk code block |
 | File/CSV Import | Multer (BE) + PapaParse (FE preview) |
 
@@ -89,3 +96,8 @@
 | 18 | Portofolio 3 tahun siswa | 20 |
 | 19 | Mapping 108 pertemuan CPLF ke tema app | 16 |
 | 20 | Dashboard guru dengan alert & rekap | 21 |
+| 21 | Client ujian secure (Electron/mobile) + proctor AI | 22 |
+| 22 | Ekspresi wajah saat siklus belajar (trigger guru) | 23 |
+| 23 | Syarat ujian: kunjungan & baca materi (custom) | 04 §6, 11 |
+| 24 | Role wali kelas — lihat nilai ujian semua mapel | 02 §4.1 |
+| 25 | Editor kode siswa (Monaco, eval aman, autocomplete) | 24 |

@@ -211,6 +211,88 @@ Secara ringkas:
    - Update `UjianSesi.nilaiAkhir`, `UjianSesi.status = SELESAI`.
 3. Setelah selesai, emit event via WebSocket ke siswa (jika online).
 
+## 6. Syarat Partisipasi Ujian (Prasyarat Materi)
+
+> Guru bisa mensyaratkan siswa **membaca/mengunjungi materi** sebelum boleh mengerjakan ujian — memanfaatkan data tracking (dok 11).
+
+### 6.1 Setting per Ujian (Custom)
+
+Perluasan `Ujian.proctorConfig` atau field terpisah `syaratPartisipasi`:
+
+```json
+{
+  "enabled": true,
+  "materiId": "uuid-materi-tema-ini",
+  "minKunjungan": 1,
+  "minDurasiDetik": 300,
+  "minScrollPercent": 70,
+  "pesanGagal": "Baca materi P07 minimal 5 menit dan scroll ≥70% sebelum ujian."
+}
+```
+
+| Field | Default | Makna |
+|-------|---------|-------|
+| `enabled` | false | Aktif/nonaktif per ujian |
+| `materiId` | tema materi utama | Materi yang dicek (bisa override) |
+| `minKunjungan` | 1 | Minimal buka halaman materi N kali |
+| `minDurasiDetik` | 0 | Total waktu baca kumulatif |
+| `minScrollPercent` | 0 | Scroll depth maksimal tercatat |
+| `requireAll` | true | AND semua syarat; false = OR |
+
+### 6.2 Alur Siswa
+
+```text
+Siswa klik "Mulai Ujian"
+  │
+  ├── GET /ujian/:id/eligibility
+  │     BE cek AktivitasMateri agregat siswa vs syaratPartisipasi
+  │
+  ├── eligible: true  → lanjut verifikasi wajah / mulai sesi
+  │
+  └── eligible: false → tampilkan progress:
+        "Kunjungan: 0/1 ✗ · Durasi: 2/5 menit ✗ · Scroll: 45/70% ✗"
+        [Buka materi] → redirect ke halaman materi
+```
+
+### 6.3 Agregat Query
+
+```sql
+-- Pseudocode: eligibility check
+SELECT
+  COUNT(*) AS kunjungan,
+  SUM(totalDurasiDetik) AS durasi,
+  MAX(maxScrollPercent) AS scrollMax
+FROM AktivitasMateri
+WHERE materiId = :materiId AND siswaId = :siswaId
+```
+
+Gunakan `selesaiDibaca = true` (scroll ≥90%) sebagai alternatif syarat tunggal jika guru prefer simplifikasi.
+
+### 6.4 Preset Admin (Opsional)
+
+```prisma
+model PengaturanUjianDefault {
+  id                String @id @default(uuid())
+  sekolahId         String? // single-tenant: satu row
+  syaratPartisipasiDefault Json? // template guru bisa override per ujian
+}
+```
+
+Guru saat buat ujian: toggle "Gunakan syarat baca materi" → pre-fill dari default sekolah atau rekomendasi CPLF (mis. ujian refleksi wajib materi dibaca).
+
+### 6.5 Anti-Pattern
+
+- Menghukum siswa yang jaringan buruk (durasi rendah karena disconnect) — guru bisa override manual `eligibilityOverride` per siswa.
+- Syarat 100% scroll sebagai satu-satunya gate tanpa opsi kunjungan — terlalu kaku untuk MA.
+- Menggunakan tracking sebagai **nilai** ujian — tracking hanya **gate**, bukan bobot nilai.
+
+### 6.6 API
+
+| Method | Endpoint | Deskripsi |
+|--------|----------|-----------|
+| GET | `/ujian/:id/eligibility` | MURID — cek syarat partisipasi |
+| POST | `/ujian/:id/eligibility-override` | GURU — bypass syarat untuk siswa tertentu |
+
 ## 7. Referensi Silang
 
 - Entitas database → [03_Skema_Database.md](./03_Skema_Database.md)
@@ -218,3 +300,5 @@ Secara ringkas:
 - Offline-first submit → [09_Modul_Ujian_Offline_First.md](./09_Modul_Ujian_Offline_First.md)
 - Background processing → [10_Modul_Background_Processing_Ujian.md](./10_Modul_Background_Processing_Ujian.md)
 - WebSocket → [08_Modul_Realtime_WebSocket.md](./08_Modul_Realtime_WebSocket.md)
+- Tracking materi (syarat ujian) → [11_Modul_Tracking_Aktivitas_Siswa.md](./11_Modul_Tracking_Aktivitas_Siswa.md)
+- Client ujian secure → [22_Modul_Client_Ujian_Mobile_Desktop.md](./22_Modul_Client_Ujian_Mobile_Desktop.md)

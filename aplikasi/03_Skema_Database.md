@@ -136,8 +136,10 @@ model Kelas {
   nama      String   // "X-A", "XI-IPA-2"
   tingkat   String   // "X", "XI", "XII"
   tahunAjaran String
+  waliKelasId String?  // User(GURU) — role WALI_KELAS
   siswa     ProfilSiswa[]
   guruMapel GuruMapelKelas[]
+  waliKelas User?    @relation("WaliKelas", fields: [waliKelasId], references: [id])
 }
 
 model Mapel {
@@ -246,6 +248,9 @@ model Ujian {
   acakSoal        Boolean  @default(true)
   acakPilihan     Boolean  @default(true)
   wajibVerifikasiWajah Boolean @default(true)
+  requiresSecureClient   Boolean @default(false)
+  proctorConfig          Json?
+  syaratPartisipasi      Json?    // gate materi — lihat dok 04 §6
   status          UjianStatus @default(DRAFT) // DRAFT, PUBLISHED, ONGOING, CLOSED
   createdById     String
   tema            Tema     @relation(fields: [temaId], references: [id])
@@ -464,6 +469,73 @@ model JadwalPertemuan {
   tanggal DateTime
   @@unique([temaId, kelasId])
 }
+
+model UjianEligibilityOverride {
+  id        String   @id @default(uuid())
+  ujianId   String
+  siswaId   String
+  alasan    String?
+  overriddenById String
+  createdAt DateTime @default(now())
+  @@unique([ujianId, siswaId])
+}
+
+model ProctorEventLog {
+  id            String   @id @default(uuid())
+  ujianSesiId   String
+  eventType     String
+  severity      String
+  identityScore Float?
+  metadataJson  Json?
+  createdAt     DateTime @default(now())
+}
+
+model SiklusBelajar {
+  id          String   @id @default(uuid())
+  temaId      String
+  kelasId     String
+  guruId      String
+  faseAktif   String?
+  status      String   @default("IDLE")
+  startedAt   DateTime?
+  endedAt     DateTime?
+  samples     EkspresiSample[]
+}
+
+model EkspresiSample {
+  id            String   @id @default(uuid())
+  siklusId      String
+  siswaId       String
+  faseSiklus    String
+  expressionMap Json
+  emojiDominan  String
+  confidence    Float
+  sampledAt     DateTime @default(now())
+  siklus        SiklusBelajar @relation(...)
+}
+
+model CodeSnippet {
+  id           String   @id @default(uuid())
+  siswaId      String
+  temaId       String?
+  materiId     String?
+  bahasa       String   @default("JAVASCRIPT")
+  sourceCode   String   @db.Text
+  isSubmission Boolean  @default(false)
+  runHistory   CodeRunLog[]
+}
+
+model CodeRunLog {
+  id         String @id @default(uuid())
+  snippetId  String
+  runBy      String
+  runTarget  String
+  stdout     String? @db.Text
+  stderr     String? @db.Text
+  exitCode   Int?
+  durationMs Int?
+  snippet    CodeSnippet @relation(...)
+}
 ```
 
 ## 10. Indexing & Pertimbangan Performa
@@ -486,3 +558,6 @@ model JadwalPertemuan {
 - Project & peer review → [18_Modul_Penilaian_Project_Peer_Review.md](./18_Modul_Penilaian_Project_Peer_Review.md)
 - Progress card → [19_Modul_Progress_Card_Capability.md](./19_Modul_Progress_Card_Capability.md)
 - Portofolio → [20_Modul_Portofolio_Siswa.md](./20_Modul_Portofolio_Siswa.md)
+- Client ujian → [22_Modul_Client_Ujian_Mobile_Desktop.md](./22_Modul_Client_Ujian_Mobile_Desktop.md)
+- Ekspresi siklus belajar → [23_Modul_Ekspresi_Siklus_Belajar.md](./23_Modul_Ekspresi_Siklus_Belajar.md)
+- Editor kode → [24_Modul_Editor_Kode_Siswa.md](./24_Modul_Editor_Kode_Siswa.md)

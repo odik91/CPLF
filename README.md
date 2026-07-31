@@ -78,7 +78,7 @@ CPLF/
 ├── 08-project/               ← brief project per semester
 ├── 09-rubrik/                ← penilaian formatif & capstone
 ├── 10-research/              ← landasan teori, tinjauan pustaka (Bab 1–5)
-├── aplikasi/                 ← perencanaan LMS pendukung (21 dokumen)
+├── aplikasi/                 ← perencanaan LMS pendukung (24 dokumen)
 └── CHANGELOG.md
 ```
 
@@ -94,7 +94,7 @@ CPLF/
 | Experience · Project · Rubrik | **Draft living** — dikaji ulang dari praktik ajar |
 | Landasan teori (10-research) | **Draft v0.1** — Bab 1–5 + daftar pustaka |
 | Pilot tahap awal | **Aktif** — micro-pilot 3 pertemuan ([panduan](10-research/pilot/11_Pilot_Tahap_Awal.md)) |
-| Aplikasi pendukung | **Perencanaan v0.1** — 21 dokumen ([aplikasi/](aplikasi/README.md)) |
+| Aplikasi pendukung | **Perencanaan v0.1** — 24 dokumen ([aplikasi/](aplikasi/README.md)) |
 
 ---
 
