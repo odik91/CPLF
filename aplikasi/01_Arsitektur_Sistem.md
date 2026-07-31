@@ -128,3 +128,4 @@ Alasan: menghindari kerentanan umum RSC (SSRF, kebocoran secret di server functi
 - Detail folder proyek → [13_Struktur_Proyek.md](./13_Struktur_Proyek.md)
 - Mapping CPLF 108 pertemuan → [16_Mapping_CPLF_ke_App.md](./16_Mapping_CPLF_ke_App.md)
 - Penilaian formatif → [17_Modul_Penilaian_Formatif_Pertemuan.md](./17_Modul_Penilaian_Formatif_Pertemuan.md)
+- Todo dev per modul → [27_Dev_Todo_List_Per_Modul.md](./27_Dev_Todo_List_Per_Modul.md)

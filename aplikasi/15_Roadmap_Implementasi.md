@@ -169,5 +169,6 @@ Fase 6:                                              (post-produksi)
 ## Catatan
 
 - Timeline bersifat estimasi; bisa disesuaikan dengan ketersediaan tim.
+- **Tracking task granular:** [27_Dev_Todo_List_Per_Modul.md](./27_Dev_Todo_List_Per_Modul.md)
 - Setiap fase harus di-review dan diuji sebelum lanjut ke fase berikutnya.
 - Feedback dari user (guru & murid) di fase 1-3 akan mempengaruhi prioritas fase 4-5.

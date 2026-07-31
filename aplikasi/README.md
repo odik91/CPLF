@@ -53,6 +53,7 @@
 | 24 | [24_Modul_Editor_Kode_Siswa.md](./24_Modul_Editor_Kode_Siswa.md) | Monaco editor, sandbox eval, penyimpanan kode aman |
 | 25 | [25_Modul_Notifikasi_Telegram.md](./25_Modul_Notifikasi_Telegram.md) | Push notif Telegram (siswa, guru, orang tua) |
 | 26 | [26_Modul_Absensi_Face_Recognition.md](./26_Modul_Absensi_Face_Recognition.md) | Absensi masuk kelas via face recognition (kiosk) |
+| 27 | [27_Dev_Todo_List_Per_Modul.md](./27_Dev_Todo_List_Per_Modul.md) | **Todo list dev per modul** (tracking sebelum coding) |
 
 ## 4. Ringkasan Tech Stack
 
@@ -107,3 +108,4 @@
 | 25 | Editor kode siswa (Monaco, eval aman, autocomplete) | 24 |
 | 26 | Push notifikasi Telegram (siswa/guru/orang tua) | 25 |
 | 27 | Absensi masuk kelas face recognition (kiosk) | 26 |
+| — | **Todo list dev & tracking progress** | **27** |
