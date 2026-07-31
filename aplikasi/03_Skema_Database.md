@@ -541,6 +541,54 @@ model CodeRunLog {
   durationMs Int?
   snippet    CodeSnippet @relation(...)
 }
+
+model TelegramLink {
+  id       String   @id @default(uuid())
+  userId   String?  @unique
+  siswaId  String?
+  tipe     String   // USER, ORANG_TUA
+  chatId   String   @unique
+  isActive Boolean  @default(true)
+  linkedAt DateTime @default(now())
+}
+
+model TelegramPreferensi {
+  id             String @id @default(uuid())
+  telegramLinkId String @unique
+  ujianReminder  Boolean @default(true)
+  absensiMasuk   Boolean @default(true)
+  // ... lihat dok 25
+}
+
+model NotifikasiOutbox {
+  id           String   @id @default(uuid())
+  targetChatId String
+  templateKey  String
+  payloadJson  Json
+  status       String   @default("PENDING")
+  createdAt    DateTime @default(now())
+}
+
+model SesiAbsensi {
+  id        String   @id @default(uuid())
+  kelasId   String
+  temaId    String?
+  tanggal   DateTime @db.Date
+  jamMulai  DateTime
+  status    String   @default("OPEN")
+  records   AbsensiRecord[]
+}
+
+model AbsensiRecord {
+  id           String   @id @default(uuid())
+  sesiId       String
+  siswaId      String
+  status       String   // HADIR, TERLAMBAT, ALPHA, ...
+  waktuCheckIn DateTime?
+  metode       String   // FACE, MANUAL_GURU
+  faceScore    Float?
+  @@unique([sesiId, siswaId])
+}
 ```
 
 ## 10. Indexing & Pertimbangan Performa
@@ -566,3 +614,5 @@ model CodeRunLog {
 - Client ujian → [22_Modul_Client_Ujian_Mobile_Desktop.md](./22_Modul_Client_Ujian_Mobile_Desktop.md)
 - Ekspresi siklus belajar → [23_Modul_Ekspresi_Siklus_Belajar.md](./23_Modul_Ekspresi_Siklus_Belajar.md)
 - Editor kode → [24_Modul_Editor_Kode_Siswa.md](./24_Modul_Editor_Kode_Siswa.md)
+- Telegram → [25_Modul_Notifikasi_Telegram.md](./25_Modul_Notifikasi_Telegram.md)
+- Absensi → [26_Modul_Absensi_Face_Recognition.md](./26_Modul_Absensi_Face_Recognition.md)

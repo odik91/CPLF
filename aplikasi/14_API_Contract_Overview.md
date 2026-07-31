@@ -236,7 +236,29 @@
 | GET | `/wali-kelas/siswa/:siswaId/rekap-semua-mapel` | `wali_kelas:read_rekap` | Rekap per siswa |
 | GET | `/wali-kelas/siswa/:siswaId/partisipasi-materi` | `wali_kelas:read_rekap` | Tracking materi read-only |
 
-## 21. Catatan Umum
+## 21. Notifikasi Telegram
+
+| Method | Endpoint | Auth | Deskripsi |
+|--------|----------|------|-----------|
+| GET | `/notifikasi/telegram/link-token` | User | Deep link hubungkan bot |
+| GET | `/notifikasi/telegram/status` | User | Status link + preferensi |
+| PATCH | `/notifikasi/telegram/preferensi` | User | Update preferensi |
+| DELETE | `/notifikasi/telegram/unlink` | User | Putus Telegram |
+| POST | `/notifikasi/telegram/webhook` | Secret | Webhook Bot API |
+
+## 22. Absensi Face Recognition
+
+| Method | Endpoint | Auth | Deskripsi |
+|--------|----------|------|-----------|
+| POST | `/absensi/sesi` | GURU | Buat sesi |
+| POST | `/absensi/sesi/:id/open` | GURU | Buka sesi |
+| POST | `/absensi/sesi/:id/close` | GURU | Tutup + ALPHA otomatis |
+| GET | `/absensi/sesi/:id/roster-cache` | Kiosk token | Cache embedding kelas |
+| POST | `/absensi/sesi/:id/check-in` | Kiosk token | Check-in face |
+| PATCH | `/absensi/sesi/:id/override` | GURU | Koreksi manual |
+| GET | `/absensi/sesi/:id/rekap` | GURU/WALI | Rekap hadir |
+
+## 23. Catatan Umum
 
 - **Base URL**: `https://api.cplf.example.com/api/v1`
 - **Auth**: httpOnly cookie (`access_token` + `refresh_token`), credentials: 'include'

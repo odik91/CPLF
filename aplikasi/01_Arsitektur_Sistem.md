@@ -71,6 +71,8 @@ Alasan: menghindari kerentanan umum RSC (SSRF, kebocoran secret di server functi
 | `SiklusBelajarModule` | Ekspresi & fase observasi kelas |
 | `CodeSnippetModule` | Editor kode siswa + run log |
 | `WaliKelasModule` | Rekap nilai read-only kelas wali |
+| `TelegramModule` | Link akun, preferensi, outbox queue |
+| `AbsensiModule` | Sesi absensi, face check-in, rekap |
 | `NotificationModule` / `RealtimeGateway` | WebSocket gateway (Socket.IO) |
 | `WorkerModule` (BullMQ processors) | Scoring ujian async, proses import CSV besar, agregasi statistik |
 | `FileModule` | Upload gambar materi, avatar, dsb (ke S3-compatible storage) |

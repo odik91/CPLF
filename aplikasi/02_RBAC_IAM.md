@@ -64,6 +64,9 @@ Alasan pakai model Permission granular (bukan hardcode role string di setiap gua
 | `portofolio:manage` | ✅ | ✅ | ❌ | ✅ (milik sendiri) |
 | `dashboard:guru` | ✅ | ✅ | ✅ | ❌ |
 | `dashboard:admin` | ✅ | ✅ | ❌ | ❌ |
+| `absensi:manage` | ✅ | ✅ | ✅ (kelasnya) | ❌ |
+| `absensi:read` | ✅ | ✅ | ✅ (kelasnya) | ✅ (own) |
+| `notifikasi:telegram:manage` | ✅ | ✅ | ✅ (own link) | ✅ (own link) |
 | `wali_kelas:read_nilai` | ✅ | ✅ | ❌* | ❌ |
 | `wali_kelas:read_rekap` | ✅ | ✅ | ❌* | ❌ |
 | `audit_log:read` | ✅ | ✅ | ❌ | ❌ |

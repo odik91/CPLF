@@ -51,6 +51,8 @@
 | 22 | [22_Modul_Client_Ujian_Mobile_Desktop.md](./22_Modul_Client_Ujian_Mobile_Desktop.md) | Client ujian Electron/mobile + AI proctor |
 | 23 | [23_Modul_Ekspresi_Siklus_Belajar.md](./23_Modul_Ekspresi_Siklus_Belajar.md) | Face + expression detection saat siklus belajar |
 | 24 | [24_Modul_Editor_Kode_Siswa.md](./24_Modul_Editor_Kode_Siswa.md) | Monaco editor, sandbox eval, penyimpanan kode aman |
+| 25 | [25_Modul_Notifikasi_Telegram.md](./25_Modul_Notifikasi_Telegram.md) | Push notif Telegram (siswa, guru, orang tua) |
+| 26 | [26_Modul_Absensi_Face_Recognition.md](./26_Modul_Absensi_Face_Recognition.md) | Absensi masuk kelas via face recognition (kiosk) |
 
 ## 4. Ringkasan Tech Stack
 
@@ -60,6 +62,7 @@
 | BE ORM | Prisma (PostgreSQL) |
 | Auth | JWT (access + refresh), httpOnly cookie |
 | Queue/Worker | BullMQ + Redis |
+| Notifikasi push | Telegram Bot API (gratis) + WebSocket in-app |
 | Realtime | Socket.IO (NestJS Gateway) |
 | FE Framework | Next.js (App Router, client-side only untuk data) |
 | FE State/Data | React Query (TanStack Query) + Zustand |
@@ -102,3 +105,5 @@
 | 23 | Syarat ujian: kunjungan & baca materi (custom) | 04 §6, 11 |
 | 24 | Role wali kelas — lihat nilai ujian semua mapel | 02 §4.1 |
 | 25 | Editor kode siswa (Monaco, eval aman, autocomplete) | 24 |
+| 26 | Push notifikasi Telegram (siswa/guru/orang tua) | 25 |
+| 27 | Absensi masuk kelas face recognition (kiosk) | 26 |

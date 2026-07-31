@@ -119,6 +119,19 @@
 
 **Deliverable**: Ekosistem multi-client lengkap; fitur pedagogis CPLF (ekspresi, coding) aktif.
 
+## Fase 7: Notifikasi & Absensi (Next Dev)
+
+| Task | Output |
+|------|--------|
+| Telegram bot + link akun siswa/guru | Push di luar app |
+| Preferensi notif + outbox queue | User kontrol jenis alert |
+| Sesi absensi + kiosk face check-in | Guru tidak absen 1-1 |
+| Roster embedding cache per kelas | Match lokal di tablet |
+| Telegram orang tua (absensi opt-in) | "Anak hadir 07:12" |
+| Export rekap absensi CSV | Arsip / Dapodik manual |
+
+**Deliverable**: Absensi otomatis masuk kelas + notifikasi Telegram terintegrasi.
+
 ## Fase 5: Backlog (Post-MVP)
 
 | Fitur | Prioritas |
@@ -133,6 +146,9 @@
 | Siklus belajar + ekspresi | Medium |
 | Editor kode + Piston sandbox | High |
 | Role wali kelas dashboard | Medium |
+| Notifikasi Telegram (siswa/guru) | High |
+| Absensi face recognition kiosk | High |
+| Telegram orang tua (absensi) | Medium |
 | Integrasi SSO (Google, Microsoft) | Low |
 | AI-assisted question generation | Low |
 | Dashboard super admin multi-sekolah | Low |
