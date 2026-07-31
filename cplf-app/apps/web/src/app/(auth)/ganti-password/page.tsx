@@ -1,21 +1,30 @@
 'use client';
 
-import { FormEvent, useState } from 'react';
+import { FormEvent, useEffect, useState } from 'react';
 import { useRouter } from 'next/navigation';
 import { useAuth } from '@/hooks/useAuth';
 import api from '@/lib/api';
 
 export default function GantiPasswordPage() {
-  const { user, loading, logout } = useAuth();
+  const { user, loading, clearSession } = useAuth();
   const router = useRouter();
   const [passwordLama, setPasswordLama] = useState('');
   const [passwordBaru, setPasswordBaru] = useState('');
   const [error, setError] = useState('');
   const [submitting, setSubmitting] = useState(false);
 
-  if (!loading && !user) {
-    router.replace('/login');
-    return null;
+  useEffect(() => {
+    if (!loading && !user) {
+      router.replace('/login');
+    }
+  }, [loading, user, router]);
+
+  if (loading || !user) {
+    return (
+      <div className="min-h-screen flex items-center justify-center text-slate-600">
+        Memuat...
+      </div>
+    );
   }
 
   const handleSubmit = async (e: FormEvent) => {
@@ -24,8 +33,8 @@ export default function GantiPasswordPage() {
     setSubmitting(true);
     try {
       await api.post('/auth/ganti-password', { passwordLama, passwordBaru });
-      await logout();
-      router.push('/login?msg=password-changed');
+      clearSession();
+      router.replace('/login?msg=password-changed');
     } catch {
       setError('Gagal mengubah password. Periksa password lama.');
     } finally {

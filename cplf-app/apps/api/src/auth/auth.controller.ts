@@ -25,6 +25,7 @@ export class AuthController {
     return this.authService.refresh(req.cookies?.refresh_token as string, res);
   }
 
+  @Public()
   @Post('logout')
   logout(
     @Req() req: Request,
@@ -42,7 +43,8 @@ export class AuthController {
   gantiPassword(
     @CurrentUser() user: AuthUserPayload,
     @Body() dto: ChangePasswordDto,
+    @Res({ passthrough: true }) res: Response,
   ) {
-    return this.authService.changePassword(user.sub, dto);
+    return this.authService.changePassword(user.sub, dto, res);
   }
 }

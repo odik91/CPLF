@@ -200,7 +200,7 @@ export class AuthService {
     return this.toAuthUserDto(userId);
   }
 
-  async changePassword(userId: string, dto: ChangePasswordDto) {
+  async changePassword(userId: string, dto: ChangePasswordDto, res: Response) {
     const user = await this.prisma.user.findUniqueOrThrow({ where: { id: userId } });
     const valid = await bcrypt.compare(dto.passwordLama, user.passwordHash);
     if (!valid) {
@@ -221,6 +221,9 @@ export class AuthService {
       where: { userId, revoked: false },
       data: { revoked: true },
     });
+
+    res.clearCookie('access_token', { path: '/' });
+    res.clearCookie('refresh_token', { path: '/' });
 
     return { message: 'Password berhasil diubah. Silakan login ulang.' };
   }

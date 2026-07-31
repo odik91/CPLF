@@ -11,6 +11,7 @@ interface AuthContextValue {
   login: (username: string, password: string) => Promise<AuthUserDto>;
   logout: () => Promise<void>;
   refreshUser: () => Promise<void>;
+  clearSession: () => void;
 }
 
 const AuthContext = createContext<AuthContextValue | null>(null);
@@ -45,13 +46,21 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
   };
 
   const logout = async () => {
-    await api.post('/auth/logout');
+    try {
+      await api.post('/auth/logout');
+    } catch {
+      // Cookie mungkin sudah invalid — tetap bersihkan state lokal
+    }
     setUser(null);
-    router.push('/login');
+    router.replace('/login');
+  };
+
+  const clearSession = () => {
+    setUser(null);
   };
 
   return (
-    <AuthContext.Provider value={{ user, loading, login, logout, refreshUser }}>
+    <AuthContext.Provider value={{ user, loading, login, logout, refreshUser, clearSession }}>
       {children}
     </AuthContext.Provider>
   );
