@@ -10,7 +10,8 @@
 |------|--------|
 | Init proyek NestJS + Prisma + PostgreSQL | Struktur BE siap |
 | Init proyek Next.js + Tailwind + TanStack Query | Struktur FE siap |
-| Setup Docker Compose (PostgreSQL, Redis) | Environment lokal |
+| Setup dev native: PostgreSQL + Redis (lokal/WSL, **tanpa Docker**) | Environment lokal |
+| Dokumen deploy VPS + Vercel ([01 §6](./01_Arsitektur_Sistem.md)) | Arsitektur deploy jelas |
 | Implementasi schema Prisma (User, Role, Permission, Kelas, Mapel, Tema) | Migrasi DB |
 | Implementasi AuthModule (login, refresh, logout, JWT) | Endpoint auth |
 | Implementasi IAM (Role, Permission, Guards) | RBAC siap |
@@ -96,8 +97,8 @@
 | Error handling & validasi komprehensif | Aplikasi stabil |
 | Unit test & e2e test (BE) | Coverage > 70% |
 | Load test (ujian serentak) | Performance terukur |
-| Setup CI/CD (GitHub Actions) | Deploy otomatis |
-| Deployment staging & production | Aplikasi live |
+| Setup CI/CD (GitHub Actions) | Build + test otomatis |
+| Deploy FE → Vercel, BE → VPS (PM2 + Nginx) | Aplikasi live |
 | Dokumentasi API (Swagger) | Developer docs |
 | Dokumentasi user (panduan guru & murid) | User manual |
 | Monitoring (Sentry, Bull Board, logs) | Observability |
@@ -113,7 +114,7 @@
 | Syarat partisipasi ujian (gate materi) | Eligibility check |
 | Role WALI_KELAS + dashboard rekap nilai | Wali kelas lihat semua mapel |
 | Monaco editor + browser sandbox | Practice coding di materi |
-| Piston self-hosted (Docker) | Run/soal coding ujian |
+| Piston native / subprocess sandbox (tanpa Docker) | Run/soal coding ujian |
 | Siklus belajar + expression sampling | Timeline emoji guru |
 | React Native ujian (Android) | Mobile secure client |
 

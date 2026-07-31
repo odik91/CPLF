@@ -105,21 +105,111 @@ Alasan: menghindari kerentanan umum RSC (SSRF, kebocoran secret di server functi
 5. Rate limiting (mis. `@nestjs/throttler`) di endpoint sensitif (login, submit ujian, verifikasi wajah).
 6. Validasi input konsisten via `class-validator` DTO di semua endpoint.
 
-## 6. Topologi Deployment (Rekomendasi)
+## 6. Topologi Deployment — VPS + Vercel (Tanpa Docker)
+
+> **Keputusan arsitektur:** Tidak memakai Docker/container. Pada VPS resource terbatas, overhead Docker (daemon, layer image, container network) memakan RAM/CPU yang seharusnya untuk PostgreSQL, Redis, dan proses NestJS. Semua service di-install **native** di OS.
+
+### 6.1 Produksi (Target)
 
 ```
-[Reverse Proxy / Nginx]
-   ├── / (FE - Next.js, static/standalone build)
-   └── /api, /ws (BE - NestJS)
-
-[BE Instance] ── [Redis] (BullMQ queue + pub/sub untuk WS scaling)
-              ── [PostgreSQL] (data utama)
-              ── [Object Storage] (S3-compatible: gambar materi, avatar, dsb)
-[Worker Instance(s)] terpisah dari BE utama untuk proses berat (scoring, import CSV)
+[Vercel]                    [VPS — single node, native services]
+  FE Next.js                  Nginx (reverse proxy + TLS)
+  (static/SSR shell)            ├── api.domain.id → NestJS (PM2/systemd)
+  env: NEXT_PUBLIC_API_URL    ├── ws.domain.id  → NestJS Socket.IO
+                              PostgreSQL (native, localhost)
+                              Redis (native, localhost)
+                              NestJS Worker (PM2 proses terpisah, opsional)
+                              Upload disk → /var/cplf/uploads atau R2/S3 eksternal
 ```
 
-- BE API server dan Worker bisa dipisah proses (horizontal scale worker saat beban ujian tinggi/serentak).
-- Redis dipakai ganda: sebagai broker BullMQ dan sebagai adapter Socket.IO (`@socket.io/redis-adapter`) agar WS bisa scale multi-instance.
+| Komponen | Where | Catatan |
+|----------|-------|---------|
+| **FE** | **Vercel** (rekomendasi) | Build Next.js; semua data via client ke BE VPS |
+| **BE API + WS** | **VPS** | Satu codebase NestJS; WS via Nginx upgrade |
+| **PostgreSQL** | VPS native (`apt install postgresql`) | Bind localhost only |
+| **Redis** | VPS native (`apt install redis-server`) | Bind localhost; ~50–100 MB RAM |
+| **Worker** | VPS — proses PM2 ke-2 | Bisa gabung 1 VPS kecil awalnya |
+| **File upload** | Disk VPS `/var/cplf/uploads` **atau** Cloudflare R2 | Hindari MinIO self-host (hemat RAM) |
+| **Docker** | ❌ **Tidak dipakai** | Dev & prod sama-sama native |
+
+### 6.2 VPS — Perkiraan Resource Minimal
+
+| Service | RAM (approx) | Catatan |
+|---------|--------------|---------|
+| PostgreSQL | 256–512 MB | `shared_buffers` disesuaikan VPS kecil |
+| Redis | 50–128 MB | `maxmemory 128mb` |
+| NestJS API | 150–300 MB | 1 instance PM2 |
+| NestJS Worker | 100–200 MB | Bisa start/stop saat ujian saja |
+| Nginx | ~20 MB | |
+| **Total** | **~1–1.5 GB** | VPS 2 GB RAM masih feasible |
+
+### 6.3 Nginx (contoh singkat)
+
+```nginx
+# /etc/nginx/sites-available/cplf-api
+server {
+  listen 443 ssl http2;
+  server_name api.cplf.example.com;
+
+  location / {
+    proxy_pass http://127.0.0.1:4000;
+    proxy_http_version 1.1;
+    proxy_set_header Upgrade $http_upgrade;
+    proxy_set_header Connection "upgrade";
+    proxy_set_header Host $host;
+    proxy_set_header X-Real-IP $remote_addr;
+  }
+}
+```
+
+### 6.4 Proses Manager — PM2
+
+```bash
+# apps/api — ecosystem.config.js
+module.exports = {
+  apps: [
+    { name: 'cplf-api', script: 'dist/main.js', instances: 1, exec_mode: 'fork' },
+    { name: 'cplf-worker', script: 'dist/worker.js', instances: 1, autorestart: true },
+  ],
+};
+```
+
+Worker scoring/import bisa **dimatikan** (`pm2 stop cplf-worker`) saat tidak ada ujian — hemat resource.
+
+### 6.5 FE di Vercel — Catatan Penting
+
+- **Cookie cross-domain:** BE di `api.domain.id`, FE di `app.domain.id` → set cookie `SameSite=None; Secure` + CORS `credentials: true`, atau pertimbangkan **subdomain sama** (`app` + `api` under `cplf.sekolah.id`).
+- **WebSocket:** Vercel **tidak** host WS — Socket.IO client connect langsung ke `wss://api.domain.id`.
+- Env Vercel: `NEXT_PUBLIC_API_URL`, `NEXT_PUBLIC_WS_URL` only — **no secrets**.
+
+### 6.6 Lingkungan Dev Lokal (Tanpa Docker)
+
+| Service | Dev lokal |
+|---------|-----------|
+| PostgreSQL | Install native Windows/WSL **atau** pointing ke DB dev di VPS (VPN/SSH tunnel) |
+| Redis | Install native / Memurai (Windows) / WSL |
+| MinIO | ❌ skip — pakai folder lokal `uploads/` di dev |
+| BE | `pnpm --filter api dev` |
+| FE | `pnpm --filter web dev` |
+
+Tidak ada `docker compose up` di workflow proyek ini.
+
+### 6.7 Backup & Monitoring (Native)
+
+- `pg_dump` cron harian → offsite (rsync / object storage)
+- PM2 log + `logrotate`
+- Uptime: UptimeRobot ping `/health`
+- Queue: endpoint admin `/dashboard/admin/kesehatan` (dok 21)
+
+### 6.8 Piston / Code Execution (Tanpa Docker)
+
+Untuk ujian coding (dok 24): **jangan** deploy Piston container di VPS kecil. Opsi:
+1. **MVP:** browser sandbox saja (practice)
+2. **Lanjutan:** Piston install native (binary) di VPS terpisah jika benar-benar perlu
+3. **Alternatif:** subprocess Node terisolasi + `timeout` + `ulimit` (lebih ringan, security review wajib)
+
+- BE API server dan Worker = **2 proses PM2** di VPS yang sama (awal); pisah VPS hanya jika load tinggi.
+- Redis dipakai ganda: broker BullMQ + adapter Socket.IO (`@socket.io/redis-adapter`).
 
 ## 7. Referensi Silang
 

@@ -22,6 +22,7 @@
 6. **Penilaian mengikuti filosofi CPLF** — formatif 6 aspek per pertemuan, project + peer review, progress card capability (bukan hanya angka ujian).
 7. **Ketahanan jaringan**: pengerjaan ujian di FE punya local storage (IndexedDB) sebagai fallback, auto-sync saat online kembali.
 8. **Beban berat diproses async** (queue/background worker) agar BE tetap responsif; status dikembalikan bertahap dan dipush lewat WebSocket.
+9. **Deploy tanpa Docker** — FE Vercel, BE + PostgreSQL + Redis native di VPS (hemat resource).
 
 ## 3. Struktur Dokumen Perencanaan
 
@@ -71,7 +72,8 @@
 | Face Verification | TensorFlow.js (`face-landmarks-detection` / `face-api.js`) di FE |
 | Expression detect | face-api.js `FaceExpressions` (on-device, siklus belajar) |
 | Client ujian | Electron + React Native (post-MVP) |
-| Code execution | Browser sandbox (practice) + Piston self-hosted (ujian coding) |
+| Code execution | Browser sandbox (practice) + subprocess native VPS (ujian coding, tanpa Docker) |
+| Deploy | FE **Vercel** · BE **VPS native** (PM2 + Nginx) · **no Docker** |
 | Editor kode | Monaco Editor (+ CodeMirror 6 ringan untuk mobile) |
 | Editor Materi | Tiptap / Editor.js (block-based) + Shiki/Prism untuk code block |
 | File/CSV Import | Multer (BE) + PapaParse (FE preview) |

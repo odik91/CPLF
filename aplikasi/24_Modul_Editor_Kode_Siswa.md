@@ -37,35 +37,37 @@ Syntax highlight: Shiki (read-only di materi) + Monaco (editable)
 | Opsi | Keamanan | Offline | Rekomendasi MA |
 |------|----------|---------|----------------|
 | **iframe sandbox + worker** | ⭐⭐⭐ | ✅ | **Default** — JS/HTML/CSS di browser |
-| **Piston API** (self-hosted) | ⭐⭐⭐ | ✅ | Ujian coding + Python fase lanjutan |
-| **Judge0** (self-hosted) | ⭐⭐⭐ | ✅ | Alternatif Piston |
+| **Piston / Judge0** | ⭐⭐⭐ | ✅ | Defer — butuh Docker/container; **tidak** untuk VPS kecil |
 | **eval() / new Function() langsung** | ❌ | — | **DILARANG** |
 | **Remote cloud IDE** | ⭐ | ❌ | Hindari |
 
 **Rekomendasi:**
 
 - **Practice harian:** `SandboxedRunner` custom — iframe `sandbox="allow-scripts"` + CSP ketat, **tanpa** `allow-same-origin`.
-- **Ujian soal coding:** Piston self-hosted di BE worker (Docker terisolasi, timeout 5s, memory limit 128MB).
+- **Ujian soal coding (fase lanjutan):** subprocess terisolasi di VPS **native** (bukan Docker) — lihat §2.3.
 
-### 2.3 Piston (Self-Hosted) — Detail
+### 2.3 Eksekusi Server-Side (Tanpa Docker)
 
-```yaml
-# docker-compose — service terpisah dari BE utama
-piston:
-  image: ghcr.io/engineer-man/piston
-  ports: ["2000:2000"]
-  # Network isolated — hanya BE worker boleh akses
-```
+> VPS resource terbatas — **tidak** deploy Piston/Judge0 container. Opsi berurutan:
+
+| Opsi | Resource VPS | Keamanan | Rekomendasi |
+|------|--------------|----------|-------------|
+| Browser sandbox only | 0 (FE) | ⭐⭐⭐ | **MVP** — practice & ujian JS sederhana |
+| `child_process` + `timeout` + `ulimit` | Rendah | ⭐⭐ | Ujian coding lanjutan; review security wajib |
+| Piston binary native (systemd) | Sedang | ⭐⭐⭐ | Hanya jika VPS ≥ 4 GB RAM & benar-benar perlu multi-language |
+| Docker Piston | Tinggi | ⭐⭐⭐ | ❌ **Tidak dipakai** |
 
 ```typescript
-// BE worker — JANGAN expose Piston ke FE langsung
-async executeCode(dto: { language: 'javascript', source: string, stdin?: string }) {
-  // Validasi: max 10KB source, no require/import filesystem
-  return pistonClient.execute({ ...dto, run_timeout: 5000 });
+// BE worker — isolated subprocess (contoh konsep)
+async executeCodeIsolated(dto: { source: string; stdin?: string }) {
+  // Validasi: max 10KB, strip require/fs/child_process patterns
+  // spawn: node --disallow-code-generation-from-strings -e "..." 
+  // timeout 5s, maxBuffer 1MB, uid sandbox user (linux)
+  return { stdout, stderr, exitCode };
 }
 ```
 
-FE kirim kode → BE validate → BE forward ke Piston → BE return `{ stdout, stderr, exitCode }`.
+FE kirim kode → BE validate → BE jalankan subprocess terkontrol → return hasil. **Jangan** expose endpoint exec ke FE langsung.
 
 ## 3. Penyimpanan Kode Siswa ke DB — Aman
 
@@ -235,7 +237,7 @@ enum SoalTipe {
 }
 ```
 
-Scoring via Piston + test cases (hidden):
+Scoring via subprocess terisolasi + test cases (hidden) — lihat §2.3:
 
 ```json
 {
@@ -246,7 +248,7 @@ Scoring via Piston + test cases (hidden):
 }
 ```
 
-Worker scoring (dok 10) panggil Piston per test case — **bukan** eval di worker Node langsung.
+Worker scoring (dok 10) jalankan test case via subprocess sandbox — **bukan** `eval()` langsung di worker.
 
 ## 7. API Endpoints
 
@@ -255,7 +257,7 @@ Worker scoring (dok 10) panggil Piston per test case — **bukan** eval di worke
 | GET | `/code-snippet?materiId=` | MURID — draft milik sendiri |
 | POST | `/code-snippet` | MURID — buat draft |
 | PATCH | `/code-snippet/:id` | MURID — autosave (if !isSubmission) |
-| POST | `/code-snippet/:id/run` | MURID — BE→Piston (ujian) atau flag BROWSER (practice) |
+| POST | `/code-snippet/:id/run` | MURID — BROWSER (practice) atau BE subprocess (ujian) |
 | GET | `/code-snippet/:id/history` | MURID/GURU — run logs |
 | GET | `/code-snippet/kelas/:kelasId?temaId=` | GURU — overview snippet kelas |
 
@@ -265,7 +267,7 @@ Worker scoring (dok 10) panggil Piston per test case — **bukan** eval di worke
 |------|-------|
 | MVP | Monaco + browser sandbox + autosave DB |
 | 1b | CodeMirror ringan di mobile web |
-| 2 | Piston self-hosted untuk ujian coding |
+| 2 | Subprocess sandbox native untuk ujian coding (tanpa Docker) |
 | 3 | Version history + diff view |
 | 4 | Collaborative pair programming (opsional, XI+) |
 
@@ -273,7 +275,7 @@ Worker scoring (dok 10) panggil Piston per test case — **bukan** eval di worke
 
 - `eval()` di browser utama (bukan sandbox iframe)
 - Simpan kode sebagai file `.js` di server filesystem
-- Expose Piston port ke internet publik
+- Expose endpoint run code tanpa auth / rate limit
 - Autocomplete yang inject jawaban ujian otomatis
 - Cloud IDE dengan akun siswa di vendor pihak ketiga tanpa consent
 

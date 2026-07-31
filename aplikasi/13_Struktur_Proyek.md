@@ -11,14 +11,22 @@ cplf-app/
 │   └── web/                    # Next.js frontend
 ├── packages/
 │   └── shared/                 # Tipe TypeScript, konstanta, validasi Zod (opsional)
-├── docker/
-│   ├── docker-compose.yml      # PostgreSQL, Redis, MinIO (dev)
-│   └── docker-compose.prod.yml
-├── docs/                       # Symlink atau copy dari CPLF/aplikasi/
-├── .github/workflows/          # CI/CD
-├── package.json                # Workspace root (pnpm/npm workspaces)
+├── deploy/                     # Skrip & config deploy native (bukan Docker)
+│   ├── nginx/
+│   │   └── cplf-api.conf.example
+│   ├── pm2/
+│   │   └── ecosystem.config.js
+│   ├── scripts/
+│   │   ├── setup-vps.sh        # install PG, Redis, Node (idempotent)
+│   │   ├── backup-db.sh        # pg_dump cron
+│   │   └── deploy-api.sh       # pull, build, pm2 reload
+│   └── README-deploy.md
+├── .github/workflows/          # CI: lint, test, build (deploy manual/SSH ke VPS)
+├── package.json                # Workspace root (pnpm workspaces)
 └── README.md
 ```
+
+> **Tidak ada folder `docker/`** — deploy native di VPS; FE di Vercel. Lihat [01_Arsitektur_Sistem.md §6](./01_Arsitektur_Sistem.md).
 
 ## 2. Struktur BE — `apps/api/`
 

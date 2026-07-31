@@ -100,7 +100,7 @@ flowchart TD
 | **M1** | Auth & IAM | 0 | Semua endpoint auth | 🔴 P0 |
 | **M2** | User & Organisasi (Kelas/Mapel) | 0–1 | Materi, ujian, siswa | 🔴 P0 |
 | **M3** | Seed CPLF 108 Tema | 1 | Navigasi CPLF, formatif | 🔴 P0 |
-| **M4** | File Storage (S3/MinIO) | 1 | Gambar materi, foto profil | 🟠 P1 |
+| **M4** | File Storage (disk lokal / R2) | 1 | Gambar materi, foto profil | 🟠 P1 |
 | **M5** | Materi Pembelajaran | 1 | Tracking, gate ujian | 🔴 P0 |
 | **M6** | Bank Soal | 1 | Ujian | 🔴 P0 |
 | **M7** | Ujian Core (CRUD + sesi acak) | 1 | Worker, offline, statistik | 🔴 P0 |
@@ -137,15 +137,16 @@ flowchart TD
 **Dok:** 01, 13 · **Fase:** 0 · **Estimasi:** 2–3 hari
 
 - [ ] Init monorepo (`pnpm` workspaces: `apps/api`, `apps/web`, `packages/shared`)
-- [ ] Docker Compose: PostgreSQL 16, Redis 7, MinIO (dev)
+- [ ] Setup dev **native** (PostgreSQL + Redis lokal/WSL — **tanpa Docker**)
+- [ ] Folder `deploy/`: contoh Nginx, PM2 ecosystem, script backup
 - [ ] NestJS skeleton + global ValidationPipe + exception filter
 - [ ] Next.js App Router skeleton + Tailwind + shadcn/ui base
 - [ ] `packages/shared`: types dasar, constants role, API response shape
 - [ ] Env template (`.env.example`) BE & FE
 - [ ] Script `dev` parallel (api + web)
-- [ ] README setup lokal (clone → docker up → migrate → seed)
+- [ ] README setup lokal (install PG/Redis → migrate → seed → pnpm dev)
 
-**DoD:** `docker compose up` + `pnpm dev` → API health OK, FE landing render.
+**DoD:** PostgreSQL + Redis native jalan + `pnpm dev` → API health OK, FE landing render.
 
 ---
 
@@ -219,7 +220,7 @@ flowchart TD
 ### M4 — File Storage
 **Dok:** 01, 07 · **Fase:** 1 · **Depends:** M0 · ⚡ paralel M3
 
-- [ ] FileModule: upload ke MinIO/S3 (Multer)
+- [ ] FileModule: upload ke disk lokal (`uploads/`) dev / Cloudflare R2 prod (Multer)
 - [ ] Endpoint upload gambar (auth + permission)
 - [ ] Sharp resize thumbnail (opsional MVP)
 - [ ] FE: komponen upload + preview URL
@@ -488,7 +489,7 @@ flowchart TD
 - [ ] CodeSnippet model + autosave API
 - [ ] Monaco + iframe sandbox runner
 - [ ] Console output panel
-- [ ] (Defer) Piston untuk ujian coding
+- [ ] (Defer) subprocess sandbox ujian coding — browser sandbox cukup MVP
 
 **DoD:** Murid edit JS di materi P10 → Run → lihat output.
 
@@ -548,18 +549,20 @@ flowchart TD
 
 ---
 
-### M27 — CI/CD & Production
-**Dok:** 01, 15 Fase 4 · **Fase:** 4 · **Depends:** MVP M0–M8
+### M27 — CI/CD & Production (VPS + Vercel)
+**Dok:** 01 §6, 15 Fase 4 · **Fase:** 4 · **Depends:** MVP M0–M8
 
-- [ ] GitHub Actions: lint, test, build
-- [ ] Docker image API + FE standalone
-- [ ] Deploy staging (VPS/Vercel+Railway)
-- [ ] Swagger `/api/docs`
-- [ ] Sentry + Bull Board
-- [ ] Backup PostgreSQL cron
+- [ ] GitHub Actions: lint, test, build (no container build)
+- [ ] Deploy FE: Vercel project linked repo `apps/web`
+- [ ] Deploy BE: script SSH `deploy-api.sh` → build → `pm2 reload`
+- [ ] VPS setup: Nginx + TLS (Certbot), PostgreSQL, Redis native
+- [ ] PM2 ecosystem API + worker
+- [ ] Swagger `/api/docs` (staging only)
+- [ ] `pg_dump` backup cron + logrotate
+- [ ] Uptime monitor `/health`
 - [ ] Load test ujian 50 siswa serentak
 
-**DoD:** Push main → auto deploy staging → smoke test pass.
+**DoD:** Push main → Vercel deploy FE + SSH deploy BE → smoke test pass.
 
 ---
 
