@@ -1,5 +1,6 @@
 'use client';
 
+import Link from 'next/link';
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query';
 import api from '@/lib/api';
 
@@ -75,6 +76,14 @@ export default function UjianGuruHub() {
                 </td>
                 <td className="p-3">{u._count.sesi || '—'}</td>
                 <td className="p-3 text-right space-x-2">
+                  {u.status !== 'DRAFT' && u._count.sesi > 0 && (
+                    <Link
+                      href={`/ujian/statistik/${u.id}`}
+                      className="text-blue-600 hover:underline text-xs"
+                    >
+                      Statistik
+                    </Link>
+                  )}
                   {u.status === 'DRAFT' && (
                     <button
                       onClick={() => publishMut.mutate(u.id)}

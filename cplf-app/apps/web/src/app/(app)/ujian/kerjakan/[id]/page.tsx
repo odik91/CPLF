@@ -67,7 +67,7 @@ export default function KerjakanUjianPage() {
           ...j,
         })),
       }),
-    onSuccess: () => router.push('/ujian'),
+    onSuccess: () => router.push(`/ujian/hasil/${id}`),
   });
 
   const handleSubmit = useCallback(() => {

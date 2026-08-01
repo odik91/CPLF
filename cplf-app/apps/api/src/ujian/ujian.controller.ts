@@ -18,6 +18,12 @@ import { AuthUserPayload } from '../common/decorators/auth.decorators';
 export class UjianController {
   constructor(private ujianService: UjianService) {}
 
+  @Get('saya')
+  @RequirePermissions('ujian:take')
+  listSaya(@CurrentUser() user: AuthUserPayload) {
+    return this.ujianService.listMuridUjian(user);
+  }
+
   @Get('aktif')
   @RequirePermissions('ujian:take')
   listAktif(@CurrentUser() user: AuthUserPayload) {
@@ -32,6 +38,12 @@ export class UjianController {
     @CurrentUser() user: AuthUserPayload,
   ) {
     return this.ujianService.listForGuru(user, { kelasId, status });
+  }
+
+  @Get(':id/hasil')
+  @RequirePermissions('ujian:take')
+  hasil(@Param('id') id: string, @CurrentUser() user: AuthUserPayload) {
+    return this.ujianService.getHasil(id, user);
   }
 
   @Get(':id/soal')

@@ -9,10 +9,14 @@ import { PrismaService } from '../prisma/prisma.service';
 import { AuthUserPayload } from '../common/decorators/auth.decorators';
 import { CreateUjianDto, SubmitUjianDto, UpdateUjianDto } from './ujian.dto';
 import { pickRandom, shuffle } from './ujian.utils';
+import { ScoringProducer } from '../scoring/scoring.producer';
 
 @Injectable()
 export class UjianService {
-  constructor(private prisma: PrismaService) {}
+  constructor(
+    private prisma: PrismaService,
+    private scoringProducer: ScoringProducer,
+  ) {}
 
   private isAdmin(user: AuthUserPayload) {
     return user.roles.some((r) => ['SUPER_ADMIN', 'ADMIN'].includes(r));
@@ -441,9 +445,90 @@ export class UjianService {
       });
     });
 
+    await this.scoringProducer.enqueueScoring(sesi.id);
+
     return {
       status: SesiStatus.MENUNGGU_PROSES,
       message: 'Jawaban diterima, sedang diproses',
     };
+  }
+
+  async getHasil(ujianId: string, user: AuthUserPayload) {
+    const sesi = await this.prisma.ujianSesi.findUnique({
+      where: { ujianId_siswaId: { ujianId, siswaId: user.sub } },
+      include: {
+        ujian: { include: { tema: { select: { kodeModulCplf: true, judul: true } } } },
+        soalTerpilih: {
+          include: {
+            soal: { select: { pertanyaan: true, tipe: true } },
+            jawaban: { select: { isBenar: true, skor: true, statusProses: true } },
+          },
+          orderBy: { urutanTampil: 'asc' },
+        },
+      },
+    });
+
+    if (!sesi) throw new NotFoundException('Sesi ujian tidak ditemukan');
+
+    const selesai = sesi.status === SesiStatus.SELESAI;
+
+    return {
+      ujian: {
+        id: sesi.ujian.id,
+        judul: sesi.ujian.judul,
+        tema: sesi.ujian.tema,
+      },
+      sesi: {
+        id: sesi.id,
+        status: sesi.status,
+        nilaiAkhir: selesai ? sesi.nilaiAkhir : null,
+        waktuSubmit: sesi.waktuSubmit,
+      },
+      ringkasan: selesai
+        ? {
+            benar: sesi.soalTerpilih.filter((s) => s.jawaban?.isBenar).length,
+            total: sesi.soalTerpilih.length,
+          }
+        : null,
+      detail: selesai
+        ? sesi.soalTerpilih.map((s) => ({
+            urutan: s.urutanTampil,
+            pertanyaan: s.soal.pertanyaan,
+            tipe: s.soal.tipe,
+            isBenar: s.jawaban?.isBenar ?? false,
+          }))
+        : [],
+    };
+  }
+
+  async listMuridUjian(user: AuthUserPayload) {
+    const profil = await this.prisma.profilSiswa.findUnique({
+      where: { userId: user.sub },
+    });
+    if (!profil?.kelasId) return [];
+
+    return this.prisma.ujian.findMany({
+      where: {
+        kelasId: profil.kelasId,
+        status: { not: UjianStatus.DRAFT },
+        sesi: { some: { siswaId: user.sub } },
+      },
+      include: {
+        tema: { select: { kodeModulCplf: true, judul: true } },
+        sesi: { where: { siswaId: user.sub } },
+      },
+      orderBy: { waktuMulai: 'desc' },
+      take: 30,
+    }).then((list) =>
+      list.map((u) => ({
+        id: u.id,
+        judul: u.judul,
+        durasiMenit: u.durasiMenit,
+        waktuMulai: u.waktuMulai,
+        waktuSelesai: u.waktuSelesai,
+        tema: u.tema,
+        sesi: u.sesi[0] ?? null,
+      })),
+    );
   }
 }

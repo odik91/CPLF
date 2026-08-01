@@ -299,15 +299,15 @@ flowchart TD
 ### M8 — Worker & Scoring
 **Dok:** 10 · **Fase:** 1 · **Depends:** M7, M0 (Redis)
 
-- [ ] BullMQ setup + queue `ujian-scoring`
-- [ ] Processor: score PG/Benar-Salah, esai pattern basic
-- [ ] Update JawabanSiswa, UjianSesi.nilaiAkhir, status SELESAI
-- [ ] Retry 3× + failed state
-- [ ] Statistik dasar: GET `/statistik/ujian/:id`
+- [x] BullMQ setup + queue `ujian-scoring`
+- [x] Processor: score PG/Benar-Salah, esai pattern basic
+- [x] Update JawabanSiswa, UjianSesi.nilaiAkhir, status SELESAI
+- [x] Retry 3× + failed state (job level; fallback sync jika Redis down)
+- [x] Statistik dasar: GET `/statistik/ujian/:id`
 
 #### FE
-- [ ] Murid: halaman hasil (setelah SELESAI)
-- [ ] Guru: statistik ujian (rata-rata, distribusi)
+- [x] Murid: halaman hasil (setelah SELESAI) + polling MENUNGGU_PROSES
+- [x] Guru: statistik ujian (rata-rata, distribusi)
 
 **DoD:** Submit ujian → worker → nilai muncul < 30 detik.
 

@@ -4,14 +4,14 @@ import { useMutation, useQuery } from '@tanstack/react-query';
 import { useRouter } from 'next/navigation';
 import api from '@/lib/api';
 
-interface UjianAktif {
+interface UjianMurid {
   id: string;
   judul: string;
   durasiMenit: number;
   waktuMulai: string;
   waktuSelesai: string;
   tema: { kodeModulCplf: string; judul: string };
-  sesi: { id: string; status: string } | null;
+  sesi: { id: string; status: string; nilaiAkhir?: number | null } | null;
 }
 
 const SESI_LABEL: Record<string, string> = {
@@ -24,11 +24,15 @@ const SESI_LABEL: Record<string, string> = {
 export default function UjianMuridHub() {
   const router = useRouter();
 
-  const { data: ujian = [], isLoading } = useQuery({
-    queryKey: ['ujian-aktif'],
+  const { data: ujian = [], isLoading, refetch } = useQuery({
+    queryKey: ['ujian-saya'],
     queryFn: async () => {
-      const { data } = await api.get<UjianAktif[]>('/ujian/aktif');
+      const { data } = await api.get<UjianMurid[]>('/ujian/saya');
       return data;
+    },
+    refetchInterval: (query) => {
+      const hasPending = query.state.data?.some((u) => u.sesi?.status === 'MENUNGGU_PROSES');
+      return hasPending ? 3000 : false;
     },
   });
 
@@ -40,15 +44,22 @@ export default function UjianMuridHub() {
   if (isLoading) return <p className="text-sm text-slate-500">Memuat...</p>;
 
   if (ujian.length === 0) {
-    return <p className="text-sm text-slate-500">Tidak ada ujian aktif saat ini.</p>;
+    return <p className="text-sm text-slate-500">Belum ada ujian untuk kelas Anda.</p>;
   }
+
+  const now = Date.now();
 
   return (
     <div className="space-y-3">
       {ujian.map((u) => {
         const sesiStatus = u.sesi?.status ?? 'BELUM_MULAI';
-        const canStart = ['BELUM_MULAI', 'SEDANG_BERLANGSUNG'].includes(sesiStatus);
-        const isDone = ['MENUNGGU_PROSES', 'SELESAI'].includes(sesiStatus);
+        const inWindow =
+          now >= new Date(u.waktuMulai).getTime() &&
+          now <= new Date(u.waktuSelesai).getTime();
+        const canStart =
+          inWindow && ['BELUM_MULAI', 'SEDANG_BERLANGSUNG'].includes(sesiStatus);
+        const isPending = sesiStatus === 'MENUNGGU_PROSES';
+        const isDone = sesiStatus === 'SELESAI';
 
         return (
           <div key={u.id} className="bg-white border rounded-xl p-4">
@@ -60,9 +71,15 @@ export default function UjianMuridHub() {
               {new Date(u.waktuSelesai).toLocaleString('id-ID')}
             </p>
             <p className="text-xs mt-2">
-              Status: <span className="font-medium">{SESI_LABEL[sesiStatus]}</span>
+              Status:{' '}
+              <span className="font-medium">{SESI_LABEL[sesiStatus]}</span>
+              {isDone && u.sesi?.nilaiAkhir != null && (
+                <span className="ml-2 text-green-700 font-semibold">
+                  Nilai: {u.sesi.nilaiAkhir}
+                </span>
+              )}
             </p>
-            <div className="mt-3">
+            <div className="mt-3 flex gap-2">
               {canStart && (
                 <button
                   onClick={() =>
@@ -76,17 +93,33 @@ export default function UjianMuridHub() {
                   {sesiStatus === 'SEDANG_BERLANGSUNG' ? 'Lanjutkan' : 'Mulai Ujian'}
                 </button>
               )}
+              {isPending && (
+                <button
+                  onClick={() => router.push(`/ujian/hasil/${u.id}`)}
+                  className="text-sm border px-4 py-2 rounded-lg hover:bg-slate-50"
+                >
+                  Cek penilaian...
+                </button>
+              )}
               {isDone && (
-                <p className="text-sm text-slate-500">
-                  {sesiStatus === 'MENUNGGU_PROSES'
-                    ? 'Jawaban sedang diproses. Nilai akan muncul setelah penilaian.'
-                    : 'Ujian selesai.'}
-                </p>
+                <button
+                  onClick={() => router.push(`/ujian/hasil/${u.id}`)}
+                  className="text-sm bg-green-600 text-white px-4 py-2 rounded-lg"
+                >
+                  Lihat Hasil
+                </button>
               )}
             </div>
           </div>
         );
       })}
+      <button
+        type="button"
+        onClick={() => refetch()}
+        className="text-xs text-slate-400 hover:text-slate-600"
+      >
+        Refresh daftar
+      </button>
     </div>
   );
 }
