@@ -7,6 +7,7 @@ import { useAuth } from '@/hooks/useAuth';
 const adminLinks = [
   { href: '/dashboard', label: 'Dashboard' },
   { href: '/admin/users', label: 'User', perm: 'user:read' },
+  { href: '/admin/import', label: 'Import CSV', perm: 'user:bulk_import' },
   { href: '/admin/kelas', label: 'Kelas', perm: 'kelas:read' },
   { href: '/admin/mapel', label: 'Mapel', perm: 'kelas:read' },
   { href: '/admin/penugasan', label: 'Penugasan Guru', perm: 'kelas:manage' },
