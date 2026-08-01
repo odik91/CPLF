@@ -5,10 +5,20 @@ import { NodeViewWrapper, NodeViewContent } from '@tiptap/react';
 import type { NodeViewProps } from '@tiptap/react';
 
 const RUNNABLE = new Set(['javascript', 'js', '']);
+const LANG_LABEL: Record<string, string> = {
+  javascript: 'JavaScript',
+  js: 'JavaScript',
+  html: 'HTML',
+  css: 'CSS',
+  python: 'Python',
+  plaintext: 'Plain',
+};
 
-export function CodeBlockView({ node, updateAttributes }: NodeViewProps) {
+export function CodeBlockView({ node, updateAttributes, editor }: NodeViewProps) {
   const [output, setOutput] = useState('');
   const language = (node.attrs.language as string) ?? 'javascript';
+  const readOnly = !editor.isEditable;
+  const canRun = RUNNABLE.has(language);
 
   const runCode = useCallback(() => {
     const code = node.textContent;
@@ -30,21 +40,29 @@ export function CodeBlockView({ node, updateAttributes }: NodeViewProps) {
   }, [node.textContent]);
 
   return (
-    <NodeViewWrapper className="my-4 rounded-lg border border-slate-300 overflow-hidden bg-white">
+    <NodeViewWrapper className="my-4 rounded-lg border border-slate-300 overflow-hidden bg-white not-prose">
       <div className="flex items-center gap-2 bg-slate-100 px-3 py-1.5 border-b border-slate-200">
-        <select
-          value={language}
-          onChange={(e: ChangeEvent<HTMLSelectElement>) => updateAttributes({ language: e.target.value })}
-          className="text-xs border rounded px-2 py-0.5 bg-white"
-          contentEditable={false}
-        >
-          <option value="javascript">JavaScript</option>
-          <option value="html">HTML</option>
-          <option value="css">CSS</option>
-          <option value="python">Python</option>
-          <option value="plaintext">Plain</option>
-        </select>
-        {RUNNABLE.has(language) && (
+        {readOnly ? (
+          <span className="text-xs font-medium text-slate-600 px-1">
+            {LANG_LABEL[language] ?? language}
+          </span>
+        ) : (
+          <select
+            value={language}
+            onChange={(e: ChangeEvent<HTMLSelectElement>) =>
+              updateAttributes({ language: e.target.value })
+            }
+            className="text-xs border rounded px-2 py-0.5 bg-white"
+            contentEditable={false}
+          >
+            <option value="javascript">JavaScript</option>
+            <option value="html">HTML</option>
+            <option value="css">CSS</option>
+            <option value="python">Python</option>
+            <option value="plaintext">Plain</option>
+          </select>
+        )}
+        {canRun && (
           <button
             type="button"
             onClick={runCode}
@@ -54,10 +72,16 @@ export function CodeBlockView({ node, updateAttributes }: NodeViewProps) {
             ▶ Jalankan
           </button>
         )}
-        <span className="text-xs text-slate-400 ml-auto">Tab = indent</span>
+        {!readOnly && (
+          <span className="text-xs text-slate-400 ml-auto">Tab = indent</span>
+        )}
       </div>
       <pre className="m-0 bg-slate-900 text-slate-100 text-sm overflow-x-auto">
-        <NodeViewContent className="block p-4 font-mono min-h-16 outline-none whitespace-pre" />
+        <NodeViewContent
+          className={`block p-4 font-mono min-h-16 outline-none whitespace-pre ${
+            readOnly ? 'select-text cursor-text' : ''
+          }`}
+        />
       </pre>
       {output && (
         <pre className="m-0 bg-slate-800 text-green-300 text-xs p-3 border-t border-slate-700 whitespace-pre-wrap">

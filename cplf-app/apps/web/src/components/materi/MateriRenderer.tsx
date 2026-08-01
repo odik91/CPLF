@@ -1,28 +1,14 @@
 'use client';
 
 import { useEditor, EditorContent } from '@tiptap/react';
-import StarterKit from '@tiptap/starter-kit';
-import CodeBlock from '@tiptap/extension-code-block';
-import Image from '@tiptap/extension-image';
-import Youtube from '@tiptap/extension-youtube';
-import Underline from '@tiptap/extension-underline';
 import type { ContentBlock, MateriContent } from '@cplf/shared';
 import { normalizeContent } from '@/lib/materi-content';
-
-function buildReadExtensions() {
-  return [
-    StarterKit.configure({ codeBlock: false, heading: { levels: [1, 2, 3] } }),
-    Underline,
-    CodeBlock,
-    Image.configure({ inline: false }),
-    Youtube.configure({ width: 640, height: 360, nocookie: true }),
-  ];
-}
+import { buildMateriExtensions, tiptapReadProps } from './tiptap-shared';
 
 function LegacyRenderer({ content }: { content: MateriContent }) {
   const blocks = content.blocks ?? [];
   return (
-    <article className="prose prose-slate max-w-none">
+    <article className="tiptap-materi">
       {blocks.map((block, i) => (
         <LegacyBlock key={i} block={block} />
       ))}
@@ -39,9 +25,11 @@ function LegacyBlock({ block }: { block: ContentBlock }) {
       return <p className="mb-3 leading-relaxed text-slate-700">{String(d.text)}</p>;
     case 'code':
       return (
-        <div className="my-4 rounded-lg overflow-hidden border border-slate-800">
-          <div className="bg-slate-800 text-slate-300 text-xs px-3 py-1">{String(d.language ?? 'code')}</div>
-          <pre className="bg-slate-900 text-slate-100 p-4 overflow-x-auto text-sm">
+        <div className="my-4 rounded-lg overflow-hidden border border-slate-300 not-prose">
+          <div className="bg-slate-100 text-slate-600 text-xs px-3 py-1.5 border-b">
+            {String(d.language ?? 'javascript')}
+          </div>
+          <pre className="bg-slate-900 text-slate-100 p-4 overflow-x-auto text-sm font-mono m-0">
             <code>{String(d.code)}</code>
           </pre>
         </div>
@@ -65,7 +53,7 @@ function LegacyBlock({ block }: { block: ContentBlock }) {
       const items = (d.items as string[]) ?? [];
       const Tag = d.style === 'ordered' ? 'ol' : 'ul';
       return (
-        <Tag className={`mb-3 pl-5 ${d.style === 'ordered' ? 'list-decimal' : 'list-disc'}`}>
+        <Tag className={d.style === 'ordered' ? 'list-decimal' : 'list-disc'}>
           {items.map((item, j) => (
             <li key={j}>{item}</li>
           ))}
@@ -79,16 +67,17 @@ function LegacyBlock({ block }: { block: ContentBlock }) {
 
 function TiptapReadView({ doc }: { doc: Record<string, unknown> }) {
   const editor = useEditor({
-    extensions: buildReadExtensions(),
+    extensions: buildMateriExtensions(),
     content: doc,
     editable: false,
     immediatelyRender: false,
+    editorProps: tiptapReadProps,
   });
 
   if (!editor) return null;
 
   return (
-    <article className="prose prose-slate max-w-none px-1">
+    <article>
       <EditorContent editor={editor} />
     </article>
   );

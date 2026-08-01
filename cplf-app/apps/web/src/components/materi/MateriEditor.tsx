@@ -1,47 +1,13 @@
 'use client';
 
 import { useEditor, EditorContent } from '@tiptap/react';
-import StarterKit from '@tiptap/starter-kit';
-import CodeBlock from '@tiptap/extension-code-block';
-import Image from '@tiptap/extension-image';
-import Youtube from '@tiptap/extension-youtube';
-import Placeholder from '@tiptap/extension-placeholder';
-import Underline from '@tiptap/extension-underline';
-import { ReactNodeViewRenderer } from '@tiptap/react';
 import type { MateriContent } from '@cplf/shared';
-import { CodeBlockView } from './CodeBlockView';
 import { ImageUpload } from './ImageUpload';
 import { normalizeContent } from '@/lib/materi-content';
-
-const CustomCodeBlock = CodeBlock.extend({
-  addNodeView() {
-    return ReactNodeViewRenderer(CodeBlockView);
-  },
-  addKeyboardShortcuts() {
-    return {
-      Tab: () => {
-        if (this.editor.isActive('codeBlock')) {
-          return this.editor.commands.insertContent('  ');
-        }
-        return false;
-      },
-    };
-  },
-});
-
-function buildExtensions() {
-  return [
-    StarterKit.configure({
-      codeBlock: false,
-      heading: { levels: [1, 2, 3] },
-    }),
-    Underline,
-    CustomCodeBlock,
-    Image.configure({ inline: false, allowBase64: false }),
-    Youtube.configure({ width: 640, height: 360, nocookie: true }),
-    Placeholder.configure({ placeholder: 'Mulai menulis materi...' }),
-  ];
-}
+import {
+  buildMateriExtensions,
+  tiptapEditorProps,
+} from './tiptap-shared';
 
 interface Props {
   value: MateriContent;
@@ -51,17 +17,10 @@ interface Props {
 export function MateriEditor({ value, onChange }: Props) {
   const initial = normalizeContent(value);
   const editor = useEditor({
-    extensions: buildExtensions(),
+    extensions: buildMateriExtensions({ placeholder: true }),
     content: initial.doc,
     immediatelyRender: false,
-    editorProps: {
-      attributes: {
-        class:
-          'prose prose-slate max-w-none min-h-[320px] px-4 py-3 focus:outline-none ' +
-          '[&_h1]:text-2xl [&_h2]:text-xl [&_h3]:text-lg ' +
-          '[&_ul]:list-disc [&_ol]:list-decimal [&_li]:ml-4',
-      },
-    },
+    editorProps: tiptapEditorProps,
     onUpdate: ({ editor: ed }) => {
       onChange({ format: 'tiptap', doc: ed.getJSON() as Record<string, unknown> });
     },
