@@ -1,7 +1,7 @@
 import { Module } from '@nestjs/common';
-import { PenugasanController, TemaController } from './penugasan.controller';
+import { PenugasanController } from './penugasan.controller';
 
 @Module({
-  controllers: [PenugasanController, TemaController],
+  controllers: [PenugasanController],
 })
 export class PenugasanModule {}

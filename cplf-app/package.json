@@ -14,6 +14,8 @@
     "build": "npm run build -w api && npm run build -w web",
     "db:migrate": "npm run db:migrate -w api",
     "db:seed": "npm run db:seed -w api",
+    "db:seed:tema": "npm run db:seed:tema -w api",
+    "db:generate-tema": "npm run db:generate-tema -w api",
     "db:generate": "npm run db:generate -w api"
   },
   "devDependencies": {

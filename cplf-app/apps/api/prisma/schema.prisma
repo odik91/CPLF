@@ -114,18 +114,36 @@ model GuruMapelKelas {
 }
 
 model Tema {
-  id            String   @id @default(uuid())
-  mapelId       String
-  judul         String
-  urutan        Int
-  semester      Int
-  tingkat       String
-  kodeModulCplf String   @unique
-  slug          String   @unique
-  deskripsi     String?
-  mapel         Mapel    @relation(fields: [mapelId], references: [id], onDelete: Cascade)
-  createdAt     DateTime @default(now())
-  updatedAt     DateTime @updatedAt
+  id                 String   @id @default(uuid())
+  mapelId            String
+  judul              String
+  urutan             Int
+  semester           Int
+  tingkat            String
+  urutanGlobal       Int
+  kodeModulCplf      String   @unique
+  slug               String   @unique
+  deskripsi          String?
+  capabilityCodes    String[]
+  aspekFormatifFokus String[]
+  expCodes           String[]
+  prjCodes           String[]
+  unitSilabus        String?
+  isProjectPertemuan Boolean  @default(false)
+  mapel              Mapel    @relation(fields: [mapelId], references: [id], onDelete: Cascade)
+  createdAt          DateTime @default(now())
+  updatedAt          DateTime @updatedAt
+}
+
+model CapabilityDef {
+  id           String   @id @default(uuid())
+  kode         String   @unique
+  tingkat      String
+  domain       String
+  deskripsi    String
+  aspekTerkait String[]
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
 }
 
 model ProfilSiswa {

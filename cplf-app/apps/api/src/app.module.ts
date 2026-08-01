@@ -8,6 +8,7 @@ import { UserModule } from './user/user.module';
 import { KelasModule } from './kelas/kelas.module';
 import { MapelModule } from './mapel/mapel.module';
 import { PenugasanModule } from './penugasan/penugasan.module';
+import { TemaModule } from './tema/tema.module';
 import { HealthController } from './health/health.controller';
 import { JwtAuthGuard } from './common/guards/jwt-auth.guard';
 import { PermissionsGuard } from './common/guards/permissions.guard';
@@ -24,6 +25,7 @@ import { ScopeService } from './common/services/scope.service';
     KelasModule,
     MapelModule,
     PenugasanModule,
+    TemaModule,
   ],
   controllers: [HealthController],
   providers: [

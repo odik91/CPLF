@@ -206,12 +206,12 @@ flowchart TD
 ### M3 — Seed CPLF 108 Tema
 **Dok:** 16 · **Fase:** 1 · **Depends:** M2 · ⚡ paralel dengan M4
 
-- [ ] Script parse `06-modules` + RPP KBC → JSON `tema-cplf.json`
-- [ ] Perluas model Tema: kodeModulCplf, capabilityCodes, aspekFormatifFokus, semester, tingkat, urutanGlobal
-- [ ] Seed idempotent `pnpm seed:cplf-tema`
-- [ ] Seed CapabilityDef (CX-, CXI-, CXII-)
-- [ ] API: GET `/tema?mapelId=&semester=&tingkat=`
-- [ ] FE: navigasi semester → 18 pertemuan (read-only list)
+- [x] Script parse `06-modules` + RPP KBC → JSON `tema-cplf.json`
+- [x] Perluas model Tema: kodeModulCplf, capabilityCodes, aspekFormatifFokus, semester, tingkat, urutanGlobal
+- [x] Seed idempotent `npm run db:seed:tema`
+- [x] Seed CapabilityDef (CX-, CXI-, CXII-)
+- [x] API: GET `/tema?mapelId=&semester=&tingkat=`
+- [x] FE: navigasi semester → 18 pertemuan (read-only list)
 
 **DoD:** 108 tema tampil di UI guru; metadata P01 capability/aspek terisi.
 
