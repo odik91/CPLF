@@ -19,6 +19,11 @@ const DEFAULT_PG: PilihanRow[] = [
   { teks: '', isBenar: false },
 ];
 
+const DEFAULT_BS: PilihanRow[] = [
+  { teks: 'Benar', isBenar: true },
+  { teks: 'Salah', isBenar: false },
+];
+
 export default function SoalForm({
   mode,
   soalId,
@@ -30,7 +35,7 @@ export default function SoalForm({
 }) {
   const router = useRouter();
   const searchParams = useSearchParams();
-  const temaId = initialTemaId ?? searchParams.get('temaId') ?? '';
+  const [temaId, setTemaId] = useState(initialTemaId ?? searchParams.get('temaId') ?? '');
 
   const [tipe, setTipe] = useState<SoalTipe>('PILIHAN_GANDA');
   const [pertanyaan, setPertanyaan] = useState('');
@@ -42,31 +47,38 @@ export default function SoalForm({
 
   useEffect(() => {
     if (mode !== 'edit' || !soalId) return;
-    api.get(`/bank-soal/${soalId}`).then(({ data }) => {
-      setTipe(data.tipe);
-      setPertanyaan(data.pertanyaan);
-      setTingkat(data.tingkatKesulitan);
-      if (data.pilihan?.length) {
-        setPilihan(data.pilihan.map((p: { teks: string; isBenar: boolean }) => ({
-          teks: p.teks,
-          isBenar: p.isBenar,
-        })));
-      }
-      setLoading(false);
-    }).catch(() => setLoading(false));
+    api
+      .get(`/bank-soal/${soalId}`)
+      .then(({ data }) => {
+        setTemaId(data.temaId);
+        setTipe(data.tipe);
+        setPertanyaan(data.pertanyaan);
+        setTingkat(data.tingkatKesulitan);
+        if (data.pilihan?.length) {
+          setPilihan(
+            data.pilihan.map((p: { teks: string; isBenar: boolean }) => ({
+              teks: p.teks,
+              isBenar: p.isBenar,
+            })),
+          );
+        } else if (data.tipe === 'BENAR_SALAH') {
+          setPilihan(DEFAULT_BS);
+        } else if (data.tipe === 'PILIHAN_GANDA') {
+          setPilihan(DEFAULT_PG);
+        }
+        setLoading(false);
+      })
+      .catch(() => setLoading(false));
   }, [mode, soalId]);
 
-  useEffect(() => {
-    if (tipe === 'PILIHAN_GANDA' && pilihan.length < 2) {
+  const handleTipeChange = (newTipe: SoalTipe) => {
+    setTipe(newTipe);
+    if (newTipe === 'PILIHAN_GANDA') {
       setPilihan(DEFAULT_PG);
+    } else if (newTipe === 'BENAR_SALAH') {
+      setPilihan(DEFAULT_BS);
     }
-    if (tipe === 'BENAR_SALAH') {
-      setPilihan([
-        { teks: 'Benar', isBenar: true },
-        { teks: 'Salah', isBenar: false },
-      ]);
-    }
-  }, [tipe, pilihan.length]);
+  };
 
   const setBenar = (index: number) => {
     setPilihan((prev) => prev.map((p, i) => ({ ...p, isBenar: i === index })));
@@ -76,27 +88,33 @@ export default function SoalForm({
     setPilihan((prev) => prev.map((p, i) => (i === index ? { ...p, teks } : p)));
   };
 
+  const buildPilihanPayload = () => {
+    if (tipe === 'ESAI_SINGKAT') return undefined;
+    return pilihan.map((p, i) => ({ teks: p.teks, isBenar: p.isBenar, urutan: i }));
+  };
+
   const handleSubmit = async (e: FormEvent) => {
     e.preventDefault();
     setError('');
     setSaving(true);
 
-    const payload = {
-      temaId,
+    const body = {
       tipe,
       pertanyaan,
       tingkatKesulitan: tingkat,
-      pilihan:
-        tipe === 'ESAI_SINGKAT'
-          ? undefined
-          : pilihan.map((p, i) => ({ teks: p.teks, isBenar: p.isBenar, urutan: i })),
+      pilihan: buildPilihanPayload(),
     };
 
     try {
       if (mode === 'create') {
-        await api.post('/bank-soal', payload);
+        if (!temaId) {
+          setError('Tema belum dipilih');
+          setSaving(false);
+          return;
+        }
+        await api.post('/bank-soal', { ...body, temaId });
       } else {
-        await api.patch(`/bank-soal/${soalId}`, payload);
+        await api.patch(`/bank-soal/${soalId}`, body);
       }
       router.push(`/bank-soal${temaId ? `?temaId=${temaId}` : ''}`);
     } catch (err: unknown) {
@@ -123,7 +141,7 @@ export default function SoalForm({
           <label className="text-sm text-slate-600 block mb-1">Tipe soal</label>
           <select
             value={tipe}
-            onChange={(e) => setTipe(e.target.value as SoalTipe)}
+            onChange={(e) => handleTipeChange(e.target.value as SoalTipe)}
             className="w-full border rounded-lg px-3 py-2 text-sm"
           >
             <option value="PILIHAN_GANDA">Pilihan Ganda</option>
@@ -140,6 +158,11 @@ export default function SoalForm({
             required
             rows={4}
             className="w-full border rounded-lg px-3 py-2 text-sm"
+            placeholder={
+              tipe === 'BENAR_SALAH'
+                ? 'Tulis pernyataan yang akan dinilai benar atau salah...'
+                : undefined
+            }
           />
         </div>
 
@@ -163,7 +186,7 @@ export default function SoalForm({
               <div key={i} className="flex items-center gap-2">
                 <input
                   type="radio"
-                  name="benar"
+                  name="benar-pg"
                   checked={p.isBenar}
                   onChange={() => setBenar(i)}
                 />
@@ -180,9 +203,27 @@ export default function SoalForm({
         )}
 
         {tipe === 'BENAR_SALAH' && (
-          <p className="text-sm text-slate-500">
-            Pilihan otomatis: Benar (jawaban benar) dan Salah
-          </p>
+          <div className="space-y-2">
+            <p className="text-sm text-slate-600">
+              Jawaban yang benar untuk pernyataan di atas:
+            </p>
+            {pilihan.map((p, i) => (
+              <label
+                key={i}
+                className={`flex items-center gap-3 p-3 border rounded-lg cursor-pointer ${
+                  p.isBenar ? 'border-blue-500 bg-blue-50' : 'hover:bg-slate-50'
+                }`}
+              >
+                <input
+                  type="radio"
+                  name="benar-bs"
+                  checked={p.isBenar}
+                  onChange={() => setBenar(i)}
+                />
+                <span className="text-sm font-medium">{p.teks}</span>
+              </label>
+            ))}
+          </div>
         )}
 
         {error && <p className="text-sm text-red-600">{error}</p>}
