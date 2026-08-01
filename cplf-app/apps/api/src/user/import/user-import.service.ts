@@ -1,6 +1,8 @@
 import { BadRequestException, Injectable } from '@nestjs/common';
 import * as bcrypt from 'bcryptjs';
+import * as ExcelJS from 'exceljs';
 import { PrismaService } from '../../prisma/prisma.service';
+import { buildExcelCompatibleCsv } from '../../common/utils/excel-csv.util';
 import {
   GuruPasswordStrategy,
   ImportGuruDto,
@@ -13,19 +15,70 @@ import {
 export class UserImportService {
   constructor(private prisma: PrismaService) {}
 
-  getMuridTemplate(): string {
-    return [
-      'nis,nama,kelas,kontak_orang_tua,nama_orang_tua',
-      '2024001,Andi Pratama,X-A,081234567890,Andi Supriyono',
-    ].join('\n');
+  getMuridTemplateCsv(): string {
+    return buildExcelCompatibleCsv([
+      ['nis', 'nama', 'kelas', 'kontak_orang_tua', 'nama_orang_tua'],
+      ['2024001', 'Andi Pratama', 'X-A', '081234567890', 'Andi Supriyono'],
+    ]);
   }
 
-  getGuruTemplate(): string {
-    return [
-      'nip,nama,username,email,bidang',
-      '198001012010011001,Budi Santoso,,budi@sekolah.id,Multimedia',
-      ',Siti Nurhaliza,siti.guru,siti@sekolah.id,Multimedia',
-    ].join('\n');
+  getGuruTemplateCsv(): string {
+    return buildExcelCompatibleCsv([
+      ['nip', 'nama', 'username', 'email', 'bidang'],
+      ['198001012010011001', 'Budi Santoso', '', 'budi@sekolah.id', 'Multimedia'],
+      ['', 'Siti Nurhaliza', 'siti.guru', 'siti@sekolah.id', 'Multimedia'],
+    ]);
+  }
+
+  async getMuridTemplateXlsx(): Promise<Buffer> {
+    const wb = new ExcelJS.Workbook();
+    const ws = wb.addWorksheet('Import Murid');
+    ws.columns = [
+      { header: 'nis', key: 'nis', width: 14 },
+      { header: 'nama', key: 'nama', width: 28 },
+      { header: 'kelas', key: 'kelas', width: 10 },
+      { header: 'kontak_orang_tua', key: 'kontak_orang_tua', width: 18 },
+      { header: 'nama_orang_tua', key: 'nama_orang_tua', width: 24 },
+    ];
+    ws.addRow({
+      nis: '2024001',
+      nama: 'Andi Pratama',
+      kelas: 'X-A',
+      kontak_orang_tua: '081234567890',
+      nama_orang_tua: 'Andi Supriyono',
+    });
+    ws.getRow(1).font = { bold: true };
+    ws.views = [{ state: 'frozen', ySplit: 1 }];
+    return Buffer.from(await wb.xlsx.writeBuffer());
+  }
+
+  async getGuruTemplateXlsx(): Promise<Buffer> {
+    const wb = new ExcelJS.Workbook();
+    const ws = wb.addWorksheet('Import Guru');
+    ws.columns = [
+      { header: 'nip', key: 'nip', width: 22 },
+      { header: 'nama', key: 'nama', width: 28 },
+      { header: 'username', key: 'username', width: 16 },
+      { header: 'email', key: 'email', width: 26 },
+      { header: 'bidang', key: 'bidang', width: 18 },
+    ];
+    ws.addRow({
+      nip: '198001012010011001',
+      nama: 'Budi Santoso',
+      username: '',
+      email: 'budi@sekolah.id',
+      bidang: 'Multimedia',
+    });
+    ws.addRow({
+      nip: '',
+      nama: 'Siti Nurhaliza',
+      username: 'siti.guru',
+      email: 'siti@sekolah.id',
+      bidang: 'Multimedia',
+    });
+    ws.getRow(1).font = { bold: true };
+    ws.views = [{ state: 'frozen', ySplit: 1 }];
+    return Buffer.from(await wb.xlsx.writeBuffer());
   }
 
   async importMurid(dto: ImportMuridDto): Promise<ImportResult> {

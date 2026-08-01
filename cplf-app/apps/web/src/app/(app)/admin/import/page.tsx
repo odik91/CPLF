@@ -1,9 +1,9 @@
 'use client';
 
 import { useRef, useState } from 'react';
-import Papa from 'papaparse';
 import { useMutation } from '@tanstack/react-query';
 import api from '@/lib/api';
+import { parseImportFile } from '@/lib/parse-import-file';
 
 type ImportType = 'murid' | 'guru';
 
@@ -58,34 +58,48 @@ export default function AdminImportPage() {
     },
   });
 
-  const downloadTemplate = async () => {
-    const path = type === 'murid' ? '/users/import/template/murid' : '/users/import/template/guru';
+  const downloadTemplate = async (format: 'xlsx' | 'csv') => {
+    const base = type === 'murid' ? '/users/import/template/murid' : '/users/import/template/guru';
+    const path = `${base}?format=${format}`;
+
+    if (format === 'xlsx') {
+      const { data } = await api.get<ArrayBuffer>(path, { responseType: 'arraybuffer' });
+      const blob = new Blob([data], {
+        type: 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet',
+      });
+      triggerDownload(blob, type === 'murid' ? 'template-import-murid.xlsx' : 'template-import-guru.xlsx');
+      return;
+    }
+
     const { data } = await api.get<string>(path, { responseType: 'text' });
-    const blob = new Blob([data], { type: 'text/csv' });
+    const blob = new Blob([data], { type: 'text/csv;charset=utf-8' });
+    triggerDownload(blob, type === 'murid' ? 'template-import-murid.csv' : 'template-import-guru.csv');
+  };
+
+  const triggerDownload = (blob: Blob, filename: string) => {
     const url = URL.createObjectURL(blob);
     const a = document.createElement('a');
     a.href = url;
-    a.download = type === 'murid' ? 'template-import-murid.csv' : 'template-import-guru.csv';
+    a.download = filename;
     a.click();
     URL.revokeObjectURL(url);
   };
 
-  const handleFile = (file: File) => {
+  const handleFile = async (file: File) => {
     setParseError('');
     setResult(null);
-    Papa.parse<Record<string, string>>(file, {
-      header: true,
-      skipEmptyLines: true,
-      transformHeader: (h) => h.trim().toLowerCase(),
-      complete: (res) => {
-        if (res.errors.length) {
-          setParseError(res.errors[0]?.message ?? 'Gagal parse CSV');
-          setPreview([]);
-          return;
-        }
-        setPreview(res.data);
-      },
-    });
+    try {
+      const rows = await parseImportFile(file);
+      if (rows.length === 0) {
+        setParseError('File kosong atau tidak ada baris data');
+        setPreview([]);
+        return;
+      }
+      setPreview(rows);
+    } catch (err) {
+      setParseError(err instanceof Error ? err.message : 'Gagal membaca file');
+      setPreview([]);
+    }
   };
 
   const requiredCols =
@@ -121,20 +135,34 @@ export default function AdminImportPage() {
       </div>
 
       <div className="bg-white border rounded-xl p-4 mb-4 space-y-4">
-        <div className="flex flex-wrap gap-3">
-          <button onClick={downloadTemplate} className="text-sm border rounded-lg px-3 py-2 hover:bg-slate-50">
-            Download template CSV
-          </button>
-          <label className="text-sm border rounded-lg px-3 py-2 cursor-pointer hover:bg-slate-50">
-            Pilih file CSV
-            <input
-              ref={fileRef}
-              type="file"
-              accept=".csv,text/csv"
-              className="hidden"
-              onChange={(e) => e.target.files?.[0] && handleFile(e.target.files[0])}
-            />
-          </label>
+        <div>
+          <p className="text-sm text-slate-600 mb-2">
+            Unduh template <strong>Excel (.xlsx)</strong> — kolom sudah terpisah, siap diisi di Excel/LibreOffice.
+          </p>
+          <div className="flex flex-wrap gap-3">
+            <button
+              onClick={() => downloadTemplate('xlsx')}
+              className="text-sm bg-blue-600 text-white rounded-lg px-3 py-2 hover:bg-blue-700"
+            >
+              Download template Excel (.xlsx)
+            </button>
+            <button
+              onClick={() => downloadTemplate('csv')}
+              className="text-sm border rounded-lg px-3 py-2 hover:bg-slate-50"
+            >
+              Download CSV (alternatif)
+            </button>
+            <label className="text-sm border rounded-lg px-3 py-2 cursor-pointer hover:bg-slate-50">
+              Upload file (.xlsx / .csv)
+              <input
+                ref={fileRef}
+                type="file"
+                accept=".xlsx,.xls,.csv,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet,text/csv"
+                className="hidden"
+                onChange={(e) => e.target.files?.[0] && handleFile(e.target.files[0])}
+              />
+            </label>
+          </div>
         </div>
 
         {type === 'murid' && (
@@ -167,7 +195,7 @@ export default function AdminImportPage() {
                 onChange={(e) => setGuruPasswordStrategy(e.target.value as typeof guruPasswordStrategy)}
                 className="w-full border rounded-lg px-3 py-2 text-sm mt-1"
               >
-                <option value="NIP">NIP (jika ada, wajib untuk baris tanpa username)</option>
+                <option value="NIP">NIP (jika ada)</option>
                 <option value="USERNAME">Username</option>
                 <option value="CUSTOM">Password sama untuk semua</option>
               </select>

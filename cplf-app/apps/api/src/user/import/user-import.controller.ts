@@ -1,4 +1,5 @@
-import { Body, Controller, Get, Header, Post } from '@nestjs/common';
+import { Controller, Get, Header, Post, Body, Query, Res } from '@nestjs/common';
+import { Response } from 'express';
 import { RequirePermissions } from '../../common/decorators/auth.decorators';
 import { UserImportService } from './user-import.service';
 import { ImportGuruDto, ImportMuridDto } from './user-import.dto';
@@ -9,18 +10,44 @@ export class UserImportController {
 
   @Get('template/murid')
   @RequirePermissions('user:bulk_import')
-  @Header('Content-Type', 'text/csv; charset=utf-8')
-  @Header('Content-Disposition', 'attachment; filename="template-import-murid.csv"')
-  templateMurid() {
-    return this.importService.getMuridTemplate();
+  async templateMurid(
+    @Query('format') format: 'xlsx' | 'csv' = 'xlsx',
+    @Res({ passthrough: true }) res: Response,
+  ) {
+    if (format === 'csv') {
+      res.setHeader('Content-Type', 'text/csv; charset=utf-8');
+      res.setHeader('Content-Disposition', 'attachment; filename="template-import-murid.csv"');
+      return this.importService.getMuridTemplateCsv();
+    }
+
+    const buffer = await this.importService.getMuridTemplateXlsx();
+    res.setHeader(
+      'Content-Type',
+      'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet',
+    );
+    res.setHeader('Content-Disposition', 'attachment; filename="template-import-murid.xlsx"');
+    res.send(buffer);
   }
 
   @Get('template/guru')
   @RequirePermissions('user:bulk_import')
-  @Header('Content-Type', 'text/csv; charset=utf-8')
-  @Header('Content-Disposition', 'attachment; filename="template-import-guru.csv"')
-  templateGuru() {
-    return this.importService.getGuruTemplate();
+  async templateGuru(
+    @Query('format') format: 'xlsx' | 'csv' = 'xlsx',
+    @Res({ passthrough: true }) res: Response,
+  ) {
+    if (format === 'csv') {
+      res.setHeader('Content-Type', 'text/csv; charset=utf-8');
+      res.setHeader('Content-Disposition', 'attachment; filename="template-import-guru.csv"');
+      return this.importService.getGuruTemplateCsv();
+    }
+
+    const buffer = await this.importService.getGuruTemplateXlsx();
+    res.setHeader(
+      'Content-Type',
+      'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet',
+    );
+    res.setHeader('Content-Disposition', 'attachment; filename="template-import-guru.xlsx"');
+    res.send(buffer);
   }
 
   @Post('murid')
