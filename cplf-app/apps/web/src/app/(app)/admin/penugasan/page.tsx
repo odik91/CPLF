@@ -86,15 +86,15 @@ export default function AdminPenugasanPage() {
         >
           <select value={form.guruId} onChange={(e) => setForm({ ...form, guruId: e.target.value })} className="border rounded-lg px-3 py-2 text-sm" required>
             <option value="">Pilih guru</option>
-            {gurus.map((g) => <option key={g.id} value={g.id}>{g.nama}</option>)}
+            {gurus.map((g: Option) => <option key={g.id} value={g.id}>{g.nama}</option>)}
           </select>
           <select value={form.mapelId} onChange={(e) => setForm({ ...form, mapelId: e.target.value })} className="border rounded-lg px-3 py-2 text-sm" required>
             <option value="">Pilih mapel</option>
-            {mapel.map((m) => <option key={m.id} value={m.id}>{m.kode ?? m.nama}</option>)}
+            {mapel.map((m: Option) => <option key={m.id} value={m.id}>{m.kode ?? m.nama}</option>)}
           </select>
           <select value={form.kelasId} onChange={(e) => setForm({ ...form, kelasId: e.target.value })} className="border rounded-lg px-3 py-2 text-sm" required>
             <option value="">Pilih kelas</option>
-            {kelas.map((k) => <option key={k.id} value={k.id}>{k.nama}</option>)}
+            {kelas.map((k: Option) => <option key={k.id} value={k.id}>{k.nama}</option>)}
           </select>
           <button type="submit" className="col-span-3 bg-blue-600 text-white py-2 rounded-lg text-sm">Simpan</button>
         </form>
@@ -113,7 +113,7 @@ export default function AdminPenugasanPage() {
           <tbody>
             {isLoading ? (
               <tr><td colSpan={4} className="p-4">Memuat...</td></tr>
-            ) : penugasan.map((p) => (
+            ) : penugasan.map((p: PenugasanRow) => (
               <tr key={p.id} className="border-t">
                 <td className="p-3">{p.guru.nama}</td>
                 <td className="p-3">{p.mapel.kode}</td>

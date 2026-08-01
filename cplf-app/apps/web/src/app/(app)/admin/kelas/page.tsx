@@ -78,7 +78,7 @@ export default function AdminKelasPage() {
           <tbody>
             {isLoading ? (
               <tr><td colSpan={5} className="p-4">Memuat...</td></tr>
-            ) : kelas.map((k) => (
+            ) : kelas.map((k: KelasRow) => (
               <tr key={k.id} className="border-t">
                 <td className="p-3 font-medium">{k.nama}</td>
                 <td className="p-3">{k.tingkat}</td>

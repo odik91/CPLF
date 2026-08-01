@@ -66,7 +66,7 @@ export default function AdminMapelPage() {
           <tbody>
             {isLoading ? (
               <tr><td colSpan={2} className="p-4">Memuat...</td></tr>
-            ) : mapel.map((m) => (
+            ) : mapel.map((m: MapelRow) => (
               <tr key={m.id} className="border-t">
                 <td className="p-3 font-mono">{m.kode}</td>
                 <td className="p-3">{m.nama}</td>

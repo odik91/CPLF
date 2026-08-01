@@ -44,10 +44,10 @@ export default function MateriHubPage() {
     },
   });
 
-  const selectedTema = temas.find((t) => t.id === temaId);
+  const selectedTema = temas.find((t: TemaOption) => t.id === temaId);
 
   return (
-    <div className="p-6 max-w-4xl">
+    <div className="p-6 max-w-full">
       <h1 className="text-xl font-semibold text-slate-900 mb-1">Materi Pembelajaran</h1>
       <p className="text-sm text-slate-500 mb-6">Kelola atau baca materi per pertemuan CPLF</p>
 
@@ -59,7 +59,7 @@ export default function MateriHubPage() {
           className="w-full max-w-md border rounded-lg px-3 py-2 text-sm"
         >
           <option value="">— Pilih tema —</option>
-          {temas.map((t) => (
+          {temas.map((t: TemaOption) => (
             <option key={t.id} value={t.id}>
               {t.kodeModulCplf} — {t.judul}
             </option>
@@ -92,7 +92,7 @@ export default function MateriHubPage() {
               ) : materi.length === 0 ? (
                 <tr><td colSpan={3} className="p-4 text-slate-500">Belum ada materi</td></tr>
               ) : (
-                materi.map((m) => (
+                materi.map((m: MateriRow) => (
                   <tr key={m.id} className="border-t">
                     <td className="p-3">{m.judul}</td>
                     <td className="p-3">

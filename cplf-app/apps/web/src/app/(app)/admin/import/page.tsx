@@ -113,7 +113,7 @@ export default function AdminImportPage() {
       : ['nip', 'nama', 'username', 'email', 'bidang'];
 
   return (
-    <div className="p-6 max-w-4xl">
+    <div className="p-6 max-w-full">
       <h1 className="text-xl font-semibold text-slate-900 mb-1">Import Bulk User</h1>
       <p className="text-sm text-slate-500 mb-6">
         Murid: password default = <strong>NIS</strong>. Guru: password default ={' '}
@@ -121,7 +121,7 @@ export default function AdminImportPage() {
       </p>
 
       <div className="flex gap-2 mb-4">
-        {(['murid', 'guru'] as const).map((t) => (
+        {(['murid', 'guru'] as const).map((t: ImportType) => (
           <button
             key={t}
             onClick={() => { setType(t); setPreview([]); setResult(null); }}

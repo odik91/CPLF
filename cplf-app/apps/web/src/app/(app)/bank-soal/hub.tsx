@@ -69,7 +69,7 @@ export default function BankSoalHub() {
           className="w-full max-w-md border rounded-lg px-3 py-2 text-sm"
         >
           <option value="">— Pilih tema —</option>
-          {temas.map((t) => (
+          {temas.map((t: TemaOption) => (
             <option key={t.id} value={t.id}>
               {t.kodeModulCplf} — {t.judul}
             </option>
@@ -103,7 +103,7 @@ export default function BankSoalHub() {
               ) : soal.length === 0 ? (
                 <tr><td colSpan={4} className="p-4 text-slate-500">Belum ada soal</td></tr>
               ) : (
-                soal.map((s) => (
+                soal.map((s: SoalRow) => (
                   <tr key={s.id} className="border-t">
                     <td className="p-3 max-w-xs truncate">{s.pertanyaan}</td>
                     <td className="p-3">{TIPE_LABEL[s.tipe] ?? s.tipe}</td>

@@ -93,11 +93,11 @@ export default function AdminUsersPage() {
           <tbody>
             {isLoading ? (
               <tr><td colSpan={4} className="p-4 text-slate-500">Memuat...</td></tr>
-            ) : users.map((u) => (
+            ) : users.map((u: UserRow) => (
               <tr key={u.id} className="border-t">
                 <td className="p-3">{u.nama}</td>
                 <td className="p-3">{u.username}</td>
-                <td className="p-3">{u.roles.map((r) => r.role.kode).join(', ')}</td>
+                <td className="p-3">{u.roles.map((r: { role: { kode: string } }) => r.role.kode).join(', ')}</td>
                 <td className="p-3">{u.status}</td>
               </tr>
             ))}

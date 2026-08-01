@@ -6,7 +6,7 @@ export default function DashboardPage() {
   const { user } = useAuth();
 
   return (
-    <div className="p-6 max-w-4xl">
+    <div className="p-6 max-w-full">
       <h1 className="text-xl font-semibold text-slate-900 mb-1">Dashboard</h1>
       <p className="text-sm text-slate-500 mb-6">Selamat datang, {user?.nama}</p>
 
