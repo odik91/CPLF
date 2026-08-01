@@ -2,6 +2,7 @@
 
 import { FormEvent, useEffect, useState } from 'react';
 import { useRouter, useSearchParams } from 'next/navigation';
+import { useQueryClient } from '@tanstack/react-query';
 import Link from 'next/link';
 import api from '@/lib/api';
 
@@ -34,6 +35,7 @@ export default function SoalForm({
   initialTemaId?: string;
 }) {
   const router = useRouter();
+  const queryClient = useQueryClient();
   const searchParams = useSearchParams();
   const [temaId, setTemaId] = useState(initialTemaId ?? searchParams.get('temaId') ?? '');
 
@@ -116,6 +118,7 @@ export default function SoalForm({
       } else {
         await api.patch(`/bank-soal/${soalId}`, body);
       }
+      await queryClient.invalidateQueries({ queryKey: ['bank-soal', temaId] });
       router.push(`/bank-soal${temaId ? `?temaId=${temaId}` : ''}`);
     } catch (err: unknown) {
       const msg = (err as { response?: { data?: { message?: string } } })?.response?.data?.message;

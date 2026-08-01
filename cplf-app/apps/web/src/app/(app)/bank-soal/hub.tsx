@@ -50,6 +50,7 @@ export default function BankSoalHub() {
   const { data: soal = [], isLoading } = useQuery({
     queryKey: ['bank-soal', temaId],
     enabled: !!temaId,
+    refetchOnMount: 'always',
     queryFn: async () => {
       const { data } = await api.get<SoalRow[]>('/bank-soal', { params: { temaId } });
       return data;
