@@ -4,11 +4,17 @@ import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { useAuth } from '@/hooks/useAuth';
 
-const adminLinks = [
+const adminLinks: {
+  href: string;
+  label: string;
+  perm?: string;
+  permAny?: string[];
+}[] = [
   { href: '/dashboard', label: 'Dashboard' },
   { href: '/tema', label: 'Kurikulum CPLF', perm: 'materi:read' },
   { href: '/materi', label: 'Materi', perm: 'materi:read' },
   { href: '/bank-soal', label: 'Bank Soal', perm: 'bank_soal:read' },
+  { href: '/ujian', label: 'Ujian', permAny: ['ujian:read', 'ujian:take'] },
   { href: '/admin/users', label: 'User', perm: 'user:read' },
   { href: '/admin/import', label: 'Import CSV', perm: 'user:bulk_import' },
   { href: '/admin/kelas', label: 'Kelas', perm: 'kelas:read' },
@@ -20,9 +26,10 @@ export function AppShell({ children }: { children: React.ReactNode }) {
   const { user, logout } = useAuth();
   const pathname = usePathname();
 
-  const links = adminLinks.filter(
-    (l) => !l.perm || user?.permissions.includes(l.perm),
-  );
+  const links = adminLinks.filter((l) => {
+    if (l.permAny) return l.permAny.some((p) => user?.permissions.includes(p));
+    return !l.perm || user?.permissions.includes(l.perm);
+  });
 
   return (
     <div className="min-h-screen bg-slate-50 flex">

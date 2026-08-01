@@ -16,6 +16,9 @@ const PERMISSIONS = [
   { kode: 'materi:create', nama: 'Buat materi' },
   { kode: 'bank_soal:read', nama: 'Baca bank soal' },
   { kode: 'bank_soal:create', nama: 'Kelola bank soal' },
+  { kode: 'ujian:read', nama: 'Baca ujian (guru)' },
+  { kode: 'ujian:create', nama: 'Kelola ujian' },
+  { kode: 'ujian:take', nama: 'Kerjakan ujian' },
   { kode: 'dashboard:admin', nama: 'Dashboard admin' },
   { kode: 'dashboard:guru', nama: 'Dashboard guru' },
   { kode: 'profil:update_diri', nama: 'Update profil sendiri' },
@@ -35,12 +38,14 @@ const ROLE_PERMISSIONS: Record<string, string[]> = {
     'materi:create',
     'bank_soal:read',
     'bank_soal:create',
+    'ujian:read',
+    'ujian:create',
     'dashboard:admin',
     'profil:update_diri',
   ],
-  GURU: ['kelas:read', 'materi:read', 'materi:create', 'bank_soal:read', 'bank_soal:create', 'dashboard:guru', 'profil:update_diri'],
+  GURU: ['kelas:read', 'materi:read', 'materi:create', 'bank_soal:read', 'bank_soal:create', 'ujian:read', 'ujian:create', 'dashboard:guru', 'profil:update_diri'],
   WALI_KELAS: ['kelas:read', 'profil:update_diri'],
-  MURID: ['materi:read', 'profil:update_diri'],
+  MURID: ['materi:read', 'ujian:take', 'profil:update_diri'],
 };
 
 async function main() {

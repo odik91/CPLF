@@ -30,6 +30,27 @@ enum SoalTingkat {
   SULIT
 }
 
+enum UjianStatus {
+  DRAFT
+  PUBLISHED
+  ONGOING
+  CLOSED
+}
+
+enum SesiStatus {
+  BELUM_MULAI
+  SEDANG_BERLANGSUNG
+  MENUNGGU_PROSES
+  SELESAI
+}
+
+enum ProsesStatus {
+  PENDING
+  PROCESSING
+  DONE
+  FAILED
+}
+
 model User {
   id                 String     @id @default(uuid())
   username           String     @unique
@@ -51,6 +72,8 @@ model User {
   kelasWali      Kelas[]        @relation("WaliKelas")
   materiDibuat   Materi[]       @relation("MateriCreator")
   soalDibuat     Soal[]         @relation("SoalCreator")
+  ujianDibuat    Ujian[]        @relation("UjianCreator")
+  ujianSesi      UjianSesi[]
 }
 
 model Role {
@@ -107,6 +130,7 @@ model Kelas {
   siswa       ProfilSiswa[]
   guruMapel   GuruMapelKelas[]
   waliKelas   User?            @relation("WaliKelas", fields: [waliKelasId], references: [id])
+  ujian       Ujian[]
   createdAt   DateTime         @default(now())
   updatedAt   DateTime         @updatedAt
 }
@@ -153,6 +177,7 @@ model Tema {
   mapel              Mapel    @relation(fields: [mapelId], references: [id], onDelete: Cascade)
   materi             Materi[]
   soal               Soal[]
+  ujian              Ujian[]
   createdAt          DateTime @default(now())
   updatedAt          DateTime @updatedAt
 }
@@ -186,6 +211,7 @@ model Soal {
   tema             Tema         @relation(fields: [temaId], references: [id], onDelete: Cascade)
   createdBy        User         @relation("SoalCreator", fields: [createdById], references: [id])
   pilihan          PilihanJawaban[]
+  sesiSoal         UjianSesiSoal[]
 }
 
 model PilihanJawaban {
@@ -195,6 +221,67 @@ model PilihanJawaban {
   isBenar Boolean @default(false)
   urutan  Int
   soal    Soal    @relation(fields: [soalId], references: [id], onDelete: Cascade)
+}
+
+model Ujian {
+  id                   String      @id @default(uuid())
+  judul                String
+  temaId               String
+  kelasId              String
+  jumlahSoal           Int
+  durasiMenit          Int
+  waktuMulai           DateTime
+  waktuSelesai         DateTime
+  acakSoal             Boolean     @default(true)
+  acakPilihan          Boolean     @default(true)
+  wajibVerifikasiWajah Boolean     @default(false)
+  status               UjianStatus @default(DRAFT)
+  createdById          String
+  createdAt            DateTime    @default(now())
+  updatedAt            DateTime    @updatedAt
+  tema                 Tema        @relation(fields: [temaId], references: [id], onDelete: Cascade)
+  kelas                Kelas       @relation(fields: [kelasId], references: [id], onDelete: Cascade)
+  createdBy            User        @relation("UjianCreator", fields: [createdById], references: [id])
+  sesi                 UjianSesi[]
+}
+
+model UjianSesi {
+  id              String      @id @default(uuid())
+  ujianId         String
+  siswaId         String
+  status          SesiStatus  @default(BELUM_MULAI)
+  waktuMulai      DateTime?
+  waktuSubmit     DateTime?
+  nilaiAkhir      Float?
+  ujian           Ujian       @relation(fields: [ujianId], references: [id], onDelete: Cascade)
+  siswa           User        @relation(fields: [siswaId], references: [id], onDelete: Cascade)
+  soalTerpilih    UjianSesiSoal[]
+
+  @@unique([ujianId, siswaId])
+  @@index([siswaId])
+}
+
+model UjianSesiSoal {
+  id                String        @id @default(uuid())
+  sesiId            String
+  soalId            String
+  urutanTampil      Int
+  pilihanUrutanJson Json?
+  sesi              UjianSesi     @relation(fields: [sesiId], references: [id], onDelete: Cascade)
+  soal              Soal          @relation(fields: [soalId], references: [id], onDelete: Cascade)
+  jawaban           JawabanSiswa?
+}
+
+model JawabanSiswa {
+  id               String        @id @default(uuid())
+  sesiSoalId       String        @unique
+  jawabanTeks      String?
+  pilihanJawabanId String?
+  isBenar          Boolean?
+  skor             Float?
+  statusProses     ProsesStatus  @default(PENDING)
+  submittedAt      DateTime      @default(now())
+  sesiSoal         UjianSesiSoal @relation(fields: [sesiSoalId], references: [id], onDelete: Cascade)
 }
 
 model CapabilityDef {

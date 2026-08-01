@@ -275,18 +275,18 @@ flowchart TD
 **Dok:** 04 · **Fase:** 1 · **Depends:** M6, M2
 
 #### BE
-- [ ] Prisma: Ujian, UjianSesi, UjianSesiSoal, JawabanSiswa
-- [ ] Create ujian draft (jumlahSoal, durasi, waktu, flags acak)
-- [ ] Publish: generate UjianSesi + UjianSesiSoal acak per siswa kelas
-- [ ] Acak urutan soal & pilihan per sesi
-- [ ] Endpoints: mulai sesi, get soal sesi, submit batch
-- [ ] Murid: list ujian aktif
+- [x] Prisma: Ujian, UjianSesi, UjianSesiSoal, JawabanSiswa
+- [x] Create ujian draft (jumlahSoal, durasi, waktu, flags acak)
+- [x] Publish: generate UjianSesi + UjianSesiSoal acak per siswa kelas
+- [x] Acak urutan soal & pilihan per sesi
+- [x] Endpoints: mulai sesi, get soal sesi, submit batch
+- [x] Murid: list ujian aktif
 
 #### FE
-- [ ] Guru: wizard buat ujian → publish
-- [ ] Murid: daftar ujian aktif
-- [ ] Murid: halaman kerjakan ujian (timer, navigasi soal)
-- [ ] Submit konfirmasi
+- [x] Guru: wizard buat ujian → publish
+- [x] Murid: daftar ujian aktif
+- [x] Murid: halaman kerjakan ujian (timer, navigasi soal)
+- [x] Submit konfirmasi
 
 #### UAT
 - [ ] 2 murid dapat paket soal urutan berbeda

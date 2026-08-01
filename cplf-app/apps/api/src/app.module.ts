@@ -12,6 +12,7 @@ import { TemaModule } from './tema/tema.module';
 import { FileModule } from './file/file.module';
 import { MateriModule } from './materi/materi.module';
 import { BankSoalModule } from './bank-soal/bank-soal.module';
+import { UjianModule } from './ujian/ujian.module';
 import { HealthController } from './health/health.controller';
 import { JwtAuthGuard } from './common/guards/jwt-auth.guard';
 import { PermissionsGuard } from './common/guards/permissions.guard';
@@ -32,6 +33,7 @@ import { ScopeService } from './common/services/scope.service';
     FileModule,
     MateriModule,
     BankSoalModule,
+    UjianModule,
   ],
   controllers: [HealthController],
   providers: [
