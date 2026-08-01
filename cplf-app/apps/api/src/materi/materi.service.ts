@@ -34,11 +34,28 @@ export class MateriService {
   }
 
   private slugify(judul: string, kode?: string) {
-    const base = (kode ?? judul)
-      .toLowerCase()
-      .replace(/[^a-z0-9]+/g, '-')
-      .replace(/^-|-$/g, '');
+    const judulPart =
+      judul
+        .toLowerCase()
+        .normalize('NFD')
+        .replace(/[\u0300-\u036f]/g, '')
+        .replace(/[^a-z0-9]+/g, '-')
+        .replace(/^-|-$/g, '') || 'materi';
+    const base = kode
+      ? `${kode.toLowerCase().replace(/[^a-z0-9]+/g, '-')}-${judulPart}`
+      : judulPart;
     return base.slice(0, 80);
+  }
+
+  private async uniqueSlug(judul: string, kode: string) {
+    let slug = this.slugify(judul, kode);
+    let counter = 2;
+    const base = slug;
+    while (await this.prisma.materi.findUnique({ where: { slug } })) {
+      slug = `${base.slice(0, 70)}-${counter}`;
+      counter++;
+    }
+    return slug;
   }
 
   async findByTema(temaId: string, user: AuthUserPayload) {
@@ -104,20 +121,26 @@ export class MateriService {
     },
     user: AuthUserPayload,
   ) {
-    const isGuru = user.roles.includes('GURU') || this.isAdmin(user);
+    const canManage =
+      user.roles.includes('GURU') || this.isAdmin(user);
 
-    if (isGuru && !this.isAdmin(user)) {
-      await this.assertGuruMapel(user.sub, materi.tema.mapelId);
-    } else if (materi.status !== MateriStatus.PUBLISHED) {
-      throw new ForbiddenException('Materi belum dipublish');
-    } else {
-      const profil = await this.prisma.profilSiswa.findUnique({
-        where: { userId: user.sub },
-        include: { kelas: true },
-      });
-      if (!profil?.kelas || profil.kelas.tingkat !== materi.tema.tingkat) {
-        throw new ForbiddenException('Materi tidak tersedia untuk kelas Anda');
+    if (canManage) {
+      if (!this.isAdmin(user)) {
+        await this.assertGuruMapel(user.sub, materi.tema.mapelId);
       }
+      return;
+    }
+
+    if (materi.status !== MateriStatus.PUBLISHED) {
+      throw new ForbiddenException('Materi belum dipublish');
+    }
+
+    const profil = await this.prisma.profilSiswa.findUnique({
+      where: { userId: user.sub },
+      include: { kelas: true },
+    });
+    if (!profil?.kelas || profil.kelas.tingkat !== materi.tema.tingkat) {
+      throw new ForbiddenException('Materi tidak tersedia untuk kelas Anda');
     }
   }
 
@@ -127,8 +150,10 @@ export class MateriService {
       await this.assertGuruMapel(user.sub, tema.mapelId);
     }
 
-    const slug = dto.slug ?? this.slugify(dto.judul, tema.kodeModulCplf);
-    const existing = await this.prisma.materi.findUnique({ where: { slug } });
+    const slug = dto.slug ?? (await this.uniqueSlug(dto.judul, tema.kodeModulCplf));
+    const existing = dto.slug
+      ? await this.prisma.materi.findUnique({ where: { slug } })
+      : null;
     if (existing) {
       throw new BadRequestException('Slug sudah dipakai');
     }

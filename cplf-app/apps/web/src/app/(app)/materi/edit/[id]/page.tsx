@@ -4,8 +4,9 @@ import { useEffect, useState } from 'react';
 import { useParams, useRouter } from 'next/navigation';
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query';
 import api from '@/lib/api';
-import { BlockEditor } from '@/components/materi/BlockEditor';
-import { MateriRenderer, emptyContent } from '@/components/materi/MateriRenderer';
+import { MateriEditor } from '@/components/materi/MateriEditor';
+import { MateriRenderer } from '@/components/materi/MateriRenderer';
+import { emptyContent, normalizeContent } from '@/lib/materi-content';
 import type { MateriContent } from '@cplf/shared';
 
 interface MateriDetail {
@@ -17,32 +18,45 @@ interface MateriDetail {
   tema: { kodeModulCplf: string; judul: string };
 }
 
+function apiErrorMessage(err: unknown, fallback: string) {
+  const msg = (err as { response?: { data?: { message?: string } } })?.response?.data?.message;
+  return typeof msg === 'string' ? msg : fallback;
+}
+
 export default function EditMateriPage() {
-  const { id } = useParams<{ id: string }>();
+  const params = useParams<{ id: string }>();
+  const id = params?.id;
   const router = useRouter();
   const qc = useQueryClient();
   const [judul, setJudul] = useState('');
   const [content, setContent] = useState<MateriContent>(emptyContent());
   const [preview, setPreview] = useState(false);
+  const [saveError, setSaveError] = useState('');
 
-  const { data, isLoading } = useQuery({
+  const { data, isLoading, isError, error } = useQuery({
     queryKey: ['materi-detail', id],
+    enabled: !!id,
+    retry: false,
     queryFn: async () => {
-      const { data } = await api.get<MateriDetail>(`/materi/detail/${id}`);
-      return data;
+      const { data: detail } = await api.get<MateriDetail>(`/materi/detail/${id}`);
+      return detail;
     },
   });
 
   useEffect(() => {
     if (data) {
       setJudul(data.judul);
-      setContent(data.contentJson ?? emptyContent());
+      setContent(normalizeContent(data.contentJson));
     }
   }, [data]);
 
   const saveMut = useMutation({
     mutationFn: () => api.patch(`/materi/${id}`, { judul, contentJson: content }),
-    onSuccess: () => qc.invalidateQueries({ queryKey: ['materi-detail', id] }),
+    onSuccess: () => {
+      setSaveError('');
+      qc.invalidateQueries({ queryKey: ['materi-detail', id] });
+    },
+    onError: (err) => setSaveError(apiErrorMessage(err, 'Gagal menyimpan')),
   });
 
   const publishMut = useMutation({
@@ -51,10 +65,31 @@ export default function EditMateriPage() {
       qc.invalidateQueries({ queryKey: ['materi'] });
       router.push('/materi');
     },
+    onError: (err) => setSaveError(apiErrorMessage(err, 'Gagal publish')),
   });
 
+  if (!id) {
+    return <div className="p-6 text-red-600">ID materi tidak valid</div>;
+  }
+
   if (isLoading) return <div className="p-6">Memuat...</div>;
-  if (!data) return <div className="p-6 text-red-600">Materi tidak ditemukan</div>;
+
+  if (isError || !data) {
+    return (
+      <div className="p-6">
+        <p className="text-red-600 mb-2">
+          {apiErrorMessage(error, 'Materi tidak ditemukan atau Anda tidak punya akses')}
+        </p>
+        <button
+          type="button"
+          onClick={() => router.push('/materi')}
+          className="text-sm text-blue-600 hover:underline"
+        >
+          ← Kembali ke daftar materi
+        </button>
+      </div>
+    );
+  }
 
   return (
     <div className="p-6 max-w-3xl">
@@ -92,22 +127,24 @@ export default function EditMateriPage() {
       {preview ? (
         <MateriRenderer content={content} />
       ) : (
-        <BlockEditor value={content} onChange={setContent} />
+        <MateriEditor key={data.id} value={content} onChange={setContent} />
       )}
+
+      {saveError && <p className="text-sm text-red-600 mt-4">{saveError}</p>}
 
       <div className="flex gap-3 mt-6">
         <button
           onClick={() => saveMut.mutate()}
           disabled={saveMut.isPending}
-          className="bg-slate-800 text-white px-4 py-2 rounded-lg text-sm"
+          className="bg-slate-800 text-white px-4 py-2 rounded-lg text-sm disabled:opacity-50"
         >
-          Simpan
+          {saveMut.isPending ? 'Menyimpan...' : 'Simpan'}
         </button>
         {data.status !== 'PUBLISHED' && (
           <button
             onClick={() => publishMut.mutate()}
             disabled={publishMut.isPending}
-            className="bg-green-600 text-white px-4 py-2 rounded-lg text-sm"
+            className="bg-green-600 text-white px-4 py-2 rounded-lg text-sm disabled:opacity-50"
           >
             Publish
           </button>

@@ -12,5 +12,9 @@ export interface ContentBlock {
 }
 
 export interface MateriContent {
-  blocks: ContentBlock[];
+  /** @deprecated legacy block format */
+  blocks?: ContentBlock[];
+  /** tiptap JSON document */
+  format?: 'blocks' | 'tiptap';
+  doc?: Record<string, unknown>;
 }
