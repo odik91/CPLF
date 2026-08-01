@@ -12,6 +12,24 @@ enum UserStatus {
   SUSPENDED
 }
 
+enum MateriStatus {
+  DRAFT
+  PUBLISHED
+  ARCHIVED
+}
+
+enum SoalTipe {
+  PILIHAN_GANDA
+  ESAI_SINGKAT
+  BENAR_SALAH
+}
+
+enum SoalTingkat {
+  MUDAH
+  SEDANG
+  SULIT
+}
+
 model User {
   id                 String     @id @default(uuid())
   username           String     @unique
@@ -31,6 +49,8 @@ model User {
   refreshTokens  RefreshToken[]
   guruMapelKelas GuruMapelKelas[]
   kelasWali      Kelas[]        @relation("WaliKelas")
+  materiDibuat   Materi[]       @relation("MateriCreator")
+  soalDibuat     Soal[]         @relation("SoalCreator")
 }
 
 model Role {
@@ -131,8 +151,50 @@ model Tema {
   unitSilabus        String?
   isProjectPertemuan Boolean  @default(false)
   mapel              Mapel    @relation(fields: [mapelId], references: [id], onDelete: Cascade)
+  materi             Materi[]
+  soal               Soal[]
   createdAt          DateTime @default(now())
   updatedAt          DateTime @updatedAt
+}
+
+model Materi {
+  id          String       @id @default(uuid())
+  temaId      String
+  judul       String
+  slug        String       @unique
+  contentJson Json         @default("{\"blocks\":[]}")
+  status      MateriStatus @default(DRAFT)
+  createdById String
+  createdAt   DateTime     @default(now())
+  updatedAt   DateTime     @updatedAt
+  tema        Tema         @relation(fields: [temaId], references: [id], onDelete: Cascade)
+  createdBy   User         @relation("MateriCreator", fields: [createdById], references: [id])
+}
+
+model Soal {
+  id               String       @id @default(uuid())
+  temaId           String
+  tipe             SoalTipe
+  pertanyaan       String
+  pertanyaanJson   Json?
+  tingkatKesulitan SoalTingkat  @default(SEDANG)
+  tags             String[]
+  createdById      String
+  isActive         Boolean      @default(true)
+  createdAt        DateTime     @default(now())
+  updatedAt        DateTime     @updatedAt
+  tema             Tema         @relation(fields: [temaId], references: [id], onDelete: Cascade)
+  createdBy        User         @relation("SoalCreator", fields: [createdById], references: [id])
+  pilihan          PilihanJawaban[]
+}
+
+model PilihanJawaban {
+  id      String  @id @default(uuid())
+  soalId  String
+  teks    String
+  isBenar Boolean @default(false)
+  urutan  Int
+  soal    Soal    @relation(fields: [soalId], references: [id], onDelete: Cascade)
 }
 
 model CapabilityDef {

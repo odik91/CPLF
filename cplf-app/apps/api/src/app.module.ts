@@ -9,6 +9,9 @@ import { KelasModule } from './kelas/kelas.module';
 import { MapelModule } from './mapel/mapel.module';
 import { PenugasanModule } from './penugasan/penugasan.module';
 import { TemaModule } from './tema/tema.module';
+import { FileModule } from './file/file.module';
+import { MateriModule } from './materi/materi.module';
+import { BankSoalModule } from './bank-soal/bank-soal.module';
 import { HealthController } from './health/health.controller';
 import { JwtAuthGuard } from './common/guards/jwt-auth.guard';
 import { PermissionsGuard } from './common/guards/permissions.guard';
@@ -26,6 +29,9 @@ import { ScopeService } from './common/services/scope.service';
     MapelModule,
     PenugasanModule,
     TemaModule,
+    FileModule,
+    MateriModule,
+    BankSoalModule,
   ],
   controllers: [HealthController],
   providers: [

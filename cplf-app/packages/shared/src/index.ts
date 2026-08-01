@@ -23,3 +23,6 @@ export interface AuthUserDto {
   permissions: string[];
   mustChangePassword: boolean;
 }
+
+export * from './materi';
+export * from './soal';

@@ -220,10 +220,10 @@ flowchart TD
 ### M4 — File Storage
 **Dok:** 01, 07 · **Fase:** 1 · **Depends:** M0 · ⚡ paralel M3
 
-- [ ] FileModule: upload ke disk lokal (`uploads/`) dev / Cloudflare R2 prod (Multer)
-- [ ] Endpoint upload gambar (auth + permission)
+- [x] FileModule: upload ke disk lokal (`uploads/`) dev / Cloudflare R2 prod (Multer)
+- [x] Endpoint upload gambar (auth + permission)
 - [ ] Sharp resize thumbnail (opsional MVP)
-- [ ] FE: komponen upload + preview URL
+- [x] FE: komponen upload + preview URL
 
 **DoD:** Upload gambar → URL publik/presigned → tampil di FE.
 
@@ -233,17 +233,17 @@ flowchart TD
 **Dok:** 07 · **Fase:** 1 · **Depends:** M3, M4
 
 #### BE
-- [ ] Prisma: Materi (contentJson, status DRAFT/PUBLISHED)
-- [ ] MateriModule: CRUD + publish/archive
-- [ ] Slug unique per materi
-- [ ] Scope: guru kelas/mapellnya, murid kelasnya (published only)
+- [x] Prisma: Materi (contentJson, status DRAFT/PUBLISHED)
+- [x] MateriModule: CRUD + publish/archive
+- [x] Slug unique per materi
+- [x] Scope: guru kelas/mapellnya, murid kelasnya (published only)
 
 #### FE
-- [ ] Tiptap editor block-based (heading, paragraph, code, video, image, list)
-- [ ] Video embed YouTube (direct client, no proxy)
+- [x] Tiptap editor block-based (heading, paragraph, code, video, image, list) — MVP BlockEditor custom
+- [x] Video embed YouTube (direct client, no proxy)
 - [ ] Code block Shiki/Prism read-only di renderer
-- [ ] Guru: buat/edit/publish materi per tema
-- [ ] Murid: baca materi `/materi/[slug]`
+- [x] Guru: buat/edit/publish materi per tema
+- [x] Murid: baca materi `/materi/[slug]`
 
 #### UAT
 - [ ] Guru publish materi P01 → murid kelas X-A bisa baca
@@ -257,14 +257,14 @@ flowchart TD
 **Dok:** 04 · **Fase:** 1 · **Depends:** M3
 
 #### BE
-- [ ] Prisma: Soal, PilihanJawaban, enums tipe/tingkat
-- [ ] BankSoalModule: CRUD + soft delete
-- [ ] Filter per temaId, isActive
-- [ ] Murid **tidak** bisa list bank soal langsung
+- [x] Prisma: Soal, PilihanJawaban, enums tipe/tingkat
+- [x] BankSoalModule: CRUD + soft delete
+- [x] Filter per temaId, isActive
+- [x] Murid **tidak** bisa list bank soal langsung
 
 #### FE
-- [ ] Guru: list/create/edit soal per tema
-- [ ] Form pilihan ganda dinamis (4 opsi, 1 benar)
+- [x] Guru: list/create/edit soal per tema
+- [x] Form pilihan ganda dinamis (4 opsi, 1 benar)
 - [ ] Preview soal (guru)
 
 **DoD:** Min. 5 soal per tema bisa dibuat; data siap untuk ujian.

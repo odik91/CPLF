@@ -1,10 +1,12 @@
 import { NestFactory } from '@nestjs/core';
 import { ValidationPipe } from '@nestjs/common';
+import { NestExpressApplication } from '@nestjs/platform-express';
 import * as cookieParser from 'cookie-parser';
+import { join } from 'path';
 import { AppModule } from './app.module';
 
 async function bootstrap() {
-  const app = await NestFactory.create(AppModule);
+  const app = await NestFactory.create<NestExpressApplication>(AppModule);
 
   app.setGlobalPrefix('api/v1');
   app.use(cookieParser());
@@ -15,6 +17,9 @@ async function bootstrap() {
       transform: true,
     }),
   );
+
+  const uploadDir = process.env.UPLOAD_DIR ?? join(process.cwd(), 'uploads');
+  app.useStaticAssets(uploadDir, { prefix: '/api/v1/files/' });
 
   const corsOrigin = process.env.CORS_ORIGIN ?? 'http://localhost:3000';
   app.enableCors({
