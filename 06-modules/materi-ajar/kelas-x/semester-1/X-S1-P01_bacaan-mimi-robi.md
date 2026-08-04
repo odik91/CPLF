@@ -314,6 +314,8 @@ Guru buka kelas tanpa slide panjang. Cuma satu instruksi:
 
 > “Tulis **satu masalah nyata** di kelas atau madrasah—bukan ‘PR banyak’, tapi kondisi yang beneran ngeganjel. Sticky note. Jangan ditandai namamu dulu.”
 
+![Opening: sticky note — Robi nulis “belum ada solusi”](./assets/mimi-robi/p01-06-opening-sticky.jpg)
+
 Robi langsung nulis: *“Masalah: belum ada solusi.”*  
 Aku coret.
 
@@ -560,7 +562,7 @@ Sampai ketemu di pertemuan berikutnya. Jangan share hoaks di WA tanpa ngecek dul
 
 - Bagian 1–3: perkenalan + metode + rule ✅  
 - Bagian 4: materi pertemuan P01 (opening → transfer) ✅  
-- Ilustrasi narasi: `assets/mimi-robi/p01-01` … `p01-05` (.jpg, dari base karakter)  
+- Ilustrasi narasi: `assets/mimi-robi/p01-01` … `p01-06` (.jpg, dari base karakter)  
 - PDF siswa: `X-S1-P01_bacaan-mimi-robi.pdf` (tanpa catatan internal)  
 - Regenerasi: `06-modules/materi-ajar/scripts/md_to_pdf_bacaan.py`  
 - **Pola nada:** POV Mimi, ringan Gen Z — dipakai lagi di bacaan pertemuan berikutnya
