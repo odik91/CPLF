@@ -18,7 +18,9 @@ Halo.
 Aku **Mimi**.  
 Dan ini—tunggu, jangan panik, dia ramah kok—**Robi**. Nama lengkapnya RoboPatuh. Si robot yang… ya, patuh banget. Kadang *terlalu* patuh. Nanti aku ceritain.
 
-![Ini kami berdua](./assets/mimi-robi/mimi-robopatuh-karakter.png)
+![Kenalan: Mimi & Robi](./assets/mimi-robi/p01-01-kenalan.jpg)
+
+![Lembar karakter kami](./assets/mimi-robi/mimi-robopatuh-karakter.png)
 
 Kalian baru masuk kelas Multimedia, kan? Santai. Ini bukan sesi “hafalin definisi sampai pusing.” Kita kenalan dulu. Kayak nonton trailer sebelum filmnya.
 
@@ -147,6 +149,8 @@ Robi centang checklist **Patuh!** lalu keluarin solusi kilat:
 
 Aku pegang papan **KRISIS!** sambil ketawa digigit.
 
+![Robi usul helikopter buat antre kantin](./assets/mimi-robi/p01-02-helikopter-kantin.jpg)
+
 > “Robi. Helikopter itu *bisa* dibeli di dunia fiksi. Tapi… masalah aslinya apa, sih?”
 
 Dia senyum di layarnya. Checklist-nya hijau. Baginya: *selesai.*
@@ -156,6 +160,8 @@ Bagi kalian: solusi bisa keren, bisa teknis, bisa “executable”—tapi **gaga
 ---
 
 ## Trap favorit kelas (seriusan sering kejadian)
+
+![KRISIS! Robi centang “buat app”](./assets/mimi-robi/p01-03-krisis-app.jpg)
 
 Di kepala banyak orang (termasuk aku kadang, hehe), alurnya otomatis:
 
@@ -245,6 +251,8 @@ Oke, biar gak salah paham kayak dia: ini **kontrak tim**. Bukan peraturan biar k
 ---
 
 ## Enam rule (tempel di kepala, bukan cuma di dinding)
+
+![Rule kelas — Robi salah paham literal](./assets/mimi-robi/p01-05-rule-kelas.jpg)
 
 ### 1. Tidak takut salah
 Error = info. Bukan aib.  
@@ -433,6 +441,8 @@ Kesel = perasaan. Masalah = kondisi yang bisa diobservasi & dibatasi.
 
 ## Concept: problem framing · scope · stakeholder
 
+![Framing di papan: Masalah · Siapa · Batas · Pertanyaan](./assets/mimi-robi/p01-04-framing-papan.jpg)
+
 Baru sekarang guru kasih nama konsepnya (setelah kalian ngerasain dulu):
 
 | Istilah | Arti singkat |
@@ -550,6 +560,7 @@ Sampai ketemu di pertemuan berikutnya. Jangan share hoaks di WA tanpa ngecek dul
 
 - Bagian 1–3: perkenalan + metode + rule ✅  
 - Bagian 4: materi pertemuan P01 (opening → transfer) ✅  
+- Ilustrasi narasi: `assets/mimi-robi/p01-01` … `p01-05` (.jpg, dari base karakter)  
 - PDF siswa: `X-S1-P01_bacaan-mimi-robi.pdf` (tanpa catatan internal)  
 - Regenerasi: `06-modules/materi-ajar/scripts/md_to_pdf_bacaan.py`  
 - **Pola nada:** POV Mimi, ringan Gen Z — dipakai lagi di bacaan pertemuan berikutnya
