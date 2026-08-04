@@ -335,6 +335,8 @@ Terus tulis di papan dengan muka serius banget:
 
 > **SOLUSI: Beli helikopter antar-jemput ke kantin.**
 
+![Hook: solusi helikopter di papan — Robi angkat tangan](./assets/mimi-robi/p01-07-hook-helikopter-papan.jpg)
+
 Kelas hening sebentar. Ada yang ketawa. Ada yang “…serius?”
 
 Guru:
@@ -562,7 +564,7 @@ Sampai ketemu di pertemuan berikutnya. Jangan share hoaks di WA tanpa ngecek dul
 
 - Bagian 1–3: perkenalan + metode + rule ✅  
 - Bagian 4: materi pertemuan P01 (opening → transfer) ✅  
-- Ilustrasi narasi: `assets/mimi-robi/p01-01` … `p01-06` (.jpg, dari base karakter)  
+- Ilustrasi narasi: `assets/mimi-robi/p01-01` … `p01-07` (.jpg, dari base karakter)  
 - PDF siswa: `X-S1-P01_bacaan-mimi-robi.pdf` (tanpa catatan internal)  
 - Regenerasi: `06-modules/materi-ajar/scripts/md_to_pdf_bacaan.py`  
 - **Pola nada:** POV Mimi, ringan Gen Z — dipakai lagi di bacaan pertemuan berikutnya
