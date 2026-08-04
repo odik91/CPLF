@@ -2,6 +2,8 @@
 
 **Handout siswa (bagikan):** [X-S1-P03_chatgpt-klarifikasi_siswa.md](./X-S1-P03_chatgpt-klarifikasi_siswa.md)
 
+**Bacaan pendamping siswa:** [X-S1-P03_bacaan-mimi-robi.md](./X-S1-P03_bacaan-mimi-robi.md) · [PDF](./X-S1-P03_bacaan-mimi-robi.pdf)
+
 **Modul:** [X-S1-P03_chatgpt-klarifikasi.md](../../../kelas-x/semester-1/X-S1-P03_chatgpt-klarifikasi.md)
 
 **Materi pendukung sumber:** [X-S1-P03_chatgpt-klarifikasi.md](../../../materi-pendukung/kelas-x/semester-1/X-S1-P03_chatgpt-klarifikasi.md)
