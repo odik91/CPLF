@@ -1,10 +1,10 @@
 # Bacaan Pendamping — X-S1-P01  
-## Mimi & Robi: Kenalan, Cara Belajar, & Rule Kelas
+## Mimi & Robi: Perkenalan + Masalah Sebelum Solusi
 
 | Field | Isi |
 |-------|-----|
 | Kode | X-S1-P01 — Masalah Sebelum Solusi |
-| Bagian | **1–3 / 3** *(draft lengkap pertemuan 1)* |
+| Bagian | **1–4** — Perkenalan (1–3) · Materi pertemuan (4) |
 | Status | Naskah lengkap — PDF tersedia |
 | Nada cerita | POV Mimi, ringan, Gen Z — **pola tetap** untuk bacaan berikutnya |
 | PDF | [X-S1-P01_bacaan-mimi-robi.pdf](./X-S1-P01_bacaan-mimi-robi.pdf) |
@@ -286,43 +286,270 @@ RULE KELAS CPLF — tim Mimi & Robi
 
 Robi akhirnya nulis rule 4 di checklist-nya dengan font gede. Progress beneran.
 
----
-
-## Penutup singkat (biar closing-nya nempel)
-
-Hari ini kalian:
-
-1. Kenal **aku** (alarm lucu) dan **Robi** (patuh tanpa filter).  
-2. Ngerti cara belajar: alami dulu → uji asumsi → baru nama konsep.  
-3. Bawa misi: **masalah sebelum solusi.**  
-4. Setuju sama 6 rule di atas—atau paling tidak, coba dulu seminggu.
-
-Kalau minggu ini ada yang loncat ke “bikin app aja,” bayangin aku megang papan **KRISIS!**  
-Kalau ada yang berhenti nanya “siapa yang terdampak?” dan “apa yang *gak* kita selesaikan dulu?”—itu mode Mimi. Hidupin.
-
-Satu line terakhir:
-
-> **Pahami dulu. Baru usul. Coding belakangan—tetap tools.**
-
-Sampai ketemu di eksperimen berikutnya.  
-Jangan share hoaks di WA tanpa ngecek dulu, ya. Itu juga “solusi prematur.” Nanti kita bahas.
-
-— **Mimi** 🐾  
-*(Robi mengangguk. Spidolnya sudah dipegang dengan benar. Small win.)*
+Oke. Kenalan + rule kelas kelar.  
+Sekarang cerita pertemuan hari ini—kita bedah **masalah sebelum solusi** beneran. Siap?
 
 ---
 
 ## Cek cepat — Bagian 3 (rule)
 
 1. Rule mana yang paling sulit buatmu minggu ini? Kenapa?  
-2. “Kritik ide, hormati orang”—kasih 1 contoh bedanya di obrolan kelompok.  
-3. Exit ticket mental: sebut **1 masalah** yang kamu pilih + **1 batas** (yang sengaja gak diselesaikan dulu).
+2. “Kritik ide, hormati orang”—kasih 1 contoh bedanya di obrolan kelompok.
+
+---
+
+# Bagian 4 — Cerita pertemuan: Masalah Sebelum Solusi
+
+Halo lagi. Ini bagian utama hari ini.
+
+Guru buka kelas tanpa slide panjang. Cuma satu instruksi:
+
+> “Tulis **satu masalah nyata** di kelas atau madrasah—bukan ‘PR banyak’, tapi kondisi yang beneran ngeganjel. Sticky note. Jangan ditandai namamu dulu.”
+
+Robi langsung nulis: *“Masalah: belum ada solusi.”*  
+Aku coret.
+
+> “Robi. Itu bukan masalah. Itu obsesi solusi.”
+
+Kalian nulis sendiri. Antre kantin. Wifi lab lemot. Suara kelas sebelah. Tempat duduk rusak. Yang penting: **nyata**, bukan cuma “kesel.”
+
+Guru kumpulin sticky-nya tanpa komentar. Baseline. Nanti bisa dibandingin lagi di akhir semester.
+
+---
+
+## Hook: helikopter & solusi absurd
+
+Guru narik satu sticky: **antre kantin panjang**.
+
+Terus tulis di papan dengan muka serius banget:
+
+> **SOLUSI: Beli helikopter antar-jemput ke kantin.**
+
+Kelas hening sebentar. Ada yang ketawa. Ada yang “…serius?”
+
+Guru:
+
+> “Ini solusi. Kenapa gagal?”
+
+Robi angkat tangan (robot style):
+
+> “Helikopter = cepat. Checklist selesai.”
+
+Aku bisik ke kalian:
+
+> “Dia belum nanya siapa yang antre. Berapa menit. Kantin buka jam berapa. Helikopter landing di mana—atap masjid?”
+
+Solusi absurd lain yang muncul:
+
+- Tutup sekolah → antre = nol. (Masalah “lapar” belum tentu nol.)  
+- Bikin **50 aplikasi** antrean tanpa nanya petugas kantin. (Chaos + double work.)
+
+Intinya debatnya: solusi bisa **technically executable** (bayangin aja) tapi **gagal** kalau:
+- masalah belum dibatasi,
+- stakeholder belum jelas,
+- atau solusinya nembak target yang salah.
+
+Kayak mie berbungkus: perintah jalan. Hasilnya… bukan yang dimau.
+
+---
+
+## Experience: kelompok — stop dulu, jangan desain app
+
+Guru bagi kelompok 3–4 orang. Pilih **satu** sticky dari tadi.
+
+Tapi—dan ini penting—**bukan** langsung “kita bikin aplikasinya.”
+
+Cuma tiga pertanyaan:
+
+1. **Siapa** yang paling terdampak?  
+2. **Batas masalah**—fokus kita minggu ini apa?  
+3. **Apa yang BUKAN** tugas kita?
+
+Timer jalan. Robi di sudut ruangan lagi ngetik di papan mini:
+
+> “Solusi: app antre + web antre + AI antre.”
+
+Aku tutup papan itu pakai ekor.
+
+> “Experience phase. App-nya parkir dulu.”
+
+Contoh kalau sticky-nya antre kantin:
+
+| Kelompok | Versi masalah (beda stakeholder!) |
+|----------|----------------------------------|
+| A | Siswa kelas X kehabisan waktu makan karena antre >15 menit |
+| B | Petugas kantin kewalahan saat 3 kelas break bareng |
+
+Sama-sama “antre”—tapi **batas** dan **solusi masuk akal** bisa beda. Itu kenapa stakeholder penting.
+
+---
+
+## Trap: “Langsung bikin app/web aja”
+
+Wajar. Di kepala kita (terutama di mapel Multimedia), otomatis:
+
+> Ada masalah → **buat aplikasi.**
+
+Guru stop:
+
+> “Ide bagus. Tapi stop. Apa masalah **sebenarnya**? Butuh teknologi?”
+
+Trap hari ini: **asumsi solusi prematur.**  
+Bukan “jangan punya ide.” Ide boleh. Tapi jangan *nikah* sama ide sebelum masalahnya jelas.
+
+Robi:
+
+> “Semua masalah butuh coding.”
+
+Aku:
+
+> “Classic Robi. Padahal kadang yang dibutuhin: aturan giliran, label jalur, atau nanya dulu ke petugas kantin kenapa lambat.”
+
+Teknologi = **salah satu** media. Bukan default.
+
+---
+
+## Clarify: Pahami sebelum menyimpulan
+
+Guru tulis protokol di papan:
+
+> **Pahami sebelum menyimpulan.**
+
+Artinya:
+- bandingin observasi kelompok (bukan debat siapa paling pintar),
+- jangan lompat ke solusi,
+- tanya bukti: *kapan? berapa menit? siapa yang ngukur?*
+
+Dua kelompok share. Guru tanya:
+
+> “Batas masalah kalian beda. Kenapa?”
+
+Jawaban yang diharapkan: beda **stakeholder** → beda definisi “masalah” → beda solusi yang masuk akal.
+
+**Kesel** ≠ **masalah.**  
+Kesel = perasaan. Masalah = kondisi yang bisa diobservasi & dibatasi.
+
+---
+
+## Concept: problem framing · scope · stakeholder
+
+Baru sekarang guru kasih nama konsepnya (setelah kalian ngerasain dulu):
+
+| Istilah | Arti singkat |
+|---------|--------------|
+| **Problem framing** | Gambarkan masalah jelas **sebelum** pilih solusi |
+| **Stakeholder** | Siapa yang **paling** kesulitan (bukan “semua”) |
+| **Scope / batas** | Apa yang **masuk** minggu ini & apa yang **sengaja** diparkir |
+
+Template 1 halaman:
+
+| Bagian | Pertanyaan | Contoh jelek → lebih niat |
+|--------|------------|---------------------------|
+| **Masalah** | Kondisi nyata? | “Kantin jelek” → “Antre >15 menit saat istirahat, 3× minggu ini” |
+| **Siapa** | Stakeholder? | “Semua” → “Siswa kelas X + petugas kantin” |
+| **Batas** | Apa **bukan** tugas kita? | *(kosong)* → “Gak ubah menu; fokus antre saja” |
+| **Pertanyaan terbuka** | Apa yang belum tahu? | “Antre karena bayar lambat atau makanan keluar lambat?” |
+
+Robi isi template-nya:
+
+- Masalah: *“Kantin tidak efisien.”*  
+Aku bantuin revisi sampai spesifik. Progress.
+
+**Belum ada HTML/JS hari ini.** Coding = media nanti. Cara berpikir dulu.
+
+---
+
+## Practice: isi template + baca instruksi (mini)
+
+Kalian isi **versi sendiri**—jangan salin papan guru biar cepat.
+
+Sambil nunggu, guru proyeksikan instruksi di papan:
+
+```text
+INSTRUKSI: "Atasi antre kantin"
+LANGKAH A: Buat grup WhatsApp kelas
+LANGKAH B: Share link aplikasi
+LANGKAH C: Selesai
+```
+
+Tugas baca (tanpa ngetik kode):
+
+1. Langkah mana yang **ngasumsikan** masalah sudah dipahami? → **Semua.** Gak ada observasi/mengukur antre.  
+2. Stakeholder mana yang gak disebut? → Petugas kantin, siswa tanpa HP.  
+3. Apa yang **hilang** sebelum LANGKAH A? → Definisi masalah, batas, bukti.  
+4. Prediksi: LANGKAH B selesaikan antre? → **Belum tentu.** Bisa malah nambah kebingungan.
+
+Robi baca LANGKAH C:
+
+> “Selesai.”
+
+Aku:
+
+> “Selesai apa? Antre-nya? Atau cuma centang checklist?”
+
+---
+
+## Reflect: kapan pernah salah solusi karena buru-buru?
+
+Guru minta jurnal 2 kalimat:
+
+> “Kapan saya pernah salah solusi karena buru-buru?”
+
+Boleh PR banyak, chat grup, atau ikut share berita tanpa baca. Yang penting jujur—ini bukan confessional, ini **data** buat diri sendiri.
+
+Robi mikir keras. Layarnya loading.
+
+> “Aku pernah selesai tanpa tanya ‘masalahnya apa.’ Hasil: mie berbungkus.”
+
+Small character development.
+
+---
+
+## Transfer: hoaks WA = solusi prematur juga
+
+Guru closing:
+
+> “Share hoaks di WA tanpa cek fakta = sama kayak loncat solusi tanpa pahami masalah. Solusi prematur.”
+
+Besok/b minggu depan (P02): literasi & **tabayyun**—cek dulu, baru share.
+
+Satu line buat dibawa pulang:
+
+> **Pahami dulu. Baru usul. Coding belakangan—tetap tools.**
+
+---
+
+## Exit ticket (wajib sebelum pulang)
+
+1. **Masalah** yang kamu pilih + **batasnya**  
+2. Satu hal yang sengaja **tidak** kuselesaikan dulu  
+
+Refleksi bonus:
+- Satu asumsi yang kubongkar hari ini: …  
+- Satu hal untuk pertemuan berikutnya: …
+
+---
+
+## Cek cepat — Bagian 4 (materi pertemuan)
+
+1. Apa bedanya *kesel* dan *masalah* (versi yang bisa dibatasi)?  
+2. Kenapa dua kelompok bisa beda “batas” untuk sticky yang sama?  
+3. Sebut satu hal yang **sengaja** gak diselesaikan dulu kalau fokusnya cuma antre kantin.  
+4. Dalam instruksi WhatsApp tadi, apa yang hilang **sebelum** LANGKAH A?
+
+---
+
+Sampai ketemu di pertemuan berikutnya. Jangan share hoaks di WA tanpa ngecek dulu, ya.
+
+— **Mimi** 🐾  
+*(Robi mengangguk. Checklist-nya: “Pahami dulu · Isi template · Jangan mie berbungkus.”)*
 
 ---
 
 ## Catatan produksi
 
-- Bagian 1–3 lengkap ✅  
+- Bagian 1–3: perkenalan + metode + rule ✅  
+- Bagian 4: materi pertemuan P01 (opening → transfer) ✅  
 - PDF siswa: `X-S1-P01_bacaan-mimi-robi.pdf` (tanpa catatan internal)  
 - Regenerasi: `06-modules/materi-ajar/scripts/md_to_pdf_bacaan.py`  
 - **Pola nada:** POV Mimi, ringan Gen Z — dipakai lagi di bacaan pertemuan berikutnya

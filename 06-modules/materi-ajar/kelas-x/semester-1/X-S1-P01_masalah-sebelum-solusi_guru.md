@@ -2,6 +2,8 @@
 
 **Handout siswa (bagikan):** [X-S1-P01_masalah-sebelum-solusi_siswa.md](./X-S1-P01_masalah-sebelum-solusi_siswa.md)
 
+**Bacaan pendamping siswa:** [X-S1-P01_bacaan-mimi-robi.md](./X-S1-P01_bacaan-mimi-robi.md) · [PDF](./X-S1-P01_bacaan-mimi-robi.pdf)
+
 **Modul:** [X-S1-P01_masalah-sebelum-solusi.md](../../../kelas-x/semester-1/X-S1-P01_masalah-sebelum-solusi.md)
 
 **Materi pendukung sumber:** [X-S1-P01_masalah-sebelum-solusi.md](../../../materi-pendukung/kelas-x/semester-1/X-S1-P01_masalah-sebelum-solusi.md)

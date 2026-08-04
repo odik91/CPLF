@@ -4,6 +4,8 @@
 
 **Modul acuan:** [X-S1-P01_masalah-sebelum-solusi.md](../../../kelas-x/semester-1/X-S1-P01_masalah-sebelum-solusi.md)
 
+**Bacaan pendamping (cerita):** [X-S1-P01_bacaan-mimi-robi.md](./X-S1-P01_bacaan-mimi-robi.md) · [PDF](./X-S1-P01_bacaan-mimi-robi.pdf)
+
 ---
 
 ## 1. Tujuan pembelajaran
