@@ -1,136 +1,328 @@
 # Bacaan Pendamping — X-S1-P01  
-## Mimi & RoboPatuh: Kenalan Dulu
+## Mimi & Robi: Kenalan, Cara Belajar, & Rule Kelas
 
 | Field | Isi |
 |-------|-----|
-| Kode | X-S1-P01 |
-| Bagian | **1 / 3 — Perkenalan karakter** *(draft)* |
-| Bagian berikutnya | 2 Metode belajar · 3 Rule kelas · framing masalah |
-| Audiens | Siswa MA (boleh dibacakan / dibaca sendiri) |
-| Status | Draft — menunggu koreksi sebelum dilanjut & dijadikan PDF |
+| Kode | X-S1-P01 — Masalah Sebelum Solusi |
+| Bagian | **1–3 / 3** *(draft lengkap pertemuan 1)* |
+| Status | Naskah lengkap — PDF tersedia |
+| Nada cerita | POV Mimi, ringan, Gen Z — **pola tetap** untuk bacaan berikutnya |
+| PDF | [X-S1-P01_bacaan-mimi-robi.pdf](./X-S1-P01_bacaan-mimi-robi.pdf) |
 
 **Handout konsep:** [X-S1-P01_masalah-sebelum-solusi_siswa.md](./X-S1-P01_masalah-sebelum-solusi_siswa.md)
 
 ---
 
-## Di kota kecil yang suka bereksperimen
+Halo.
 
-Ada sebuah kota kecil yang aneh—bukan karena orangnya aneh, tapi karena hampir setiap hari ada yang diuji.
+Aku **Mimi**.  
+Dan ini—tunggu, jangan panik, dia ramah kok—**Robi**. Nama lengkapnya RoboPatuh. Si robot yang… ya, patuh banget. Kadang *terlalu* patuh. Nanti aku ceritain.
 
-Di sekolah situ, guru tidak langsung bilang, “Ini jawabannya.”  
-Guru bilang, “Coba beri instruksi. Kita lihat apa yang terjadi.”
+![Ini kami berdua](./assets/mimi-robi/mimi-robopatuh-karakter.png)
 
-Dan untuk menguji instruksi itu, sekolah punya dua “alat bantu” yang… hidup.
-
-Satu robot.  
-Satu kucing.
+Kalian baru masuk kelas Multimedia, kan? Santai. Ini bukan sesi “hafalin definisi sampai pusing.” Kita kenalan dulu. Kayak nonton trailer sebelum filmnya.
 
 ---
 
-## Kenalan: RoboPatuh (panggilan: Robi)
+## Oke, aku dulu
 
-![Lembar karakter RoboPatuh](./assets/mimi-robi/robopatuh-karakter.png)
+Aku kucing. Jelas, kan? Dua kaki, kaos biasa, ekor belang, mata gede. Spesialisisku: **komentar**.
 
-RoboPatuh—atau **Robi**, kalau sudah akrab—diciptakan seorang profesor eksentrik untuk membantu manusia.
+Kalau ada yang aneh, aku bilang.  
+Kalau ada yang absurd, aku ketawa.  
+Kalau ada yang “sebentar… ini gak masuk akal,” aku yang pertama angkat tangan—eh, angkat cakar.
 
-Kepalanya seperti TV lama: layar kotak, antenna kecil, “telinga” bundar di samping. Di dadanya ada panel tombol. Lengannya berengsel jelas. Tangannya empat jari, kukuh. Senyumnya di layar hampir selalu ada.
+Orang bilang aku “penonton kritis.” Keren juga sih kedengarannya. Intinya: aku suka nanyain yang janggal, biar kalian *ingat*. Karena jujur aja—otak manusia lebih nempel ke hal lucu / cringe / “HAAAH!” daripada slide PowerPoint 40 halaman.
 
-Kekuatannya sederhana: **ia patuh.**
-
-Kelemahannya juga sederhana: **ia terlalu patuh.**
-
-Robi tidak menalar.  
-Ia mengeksekusi kata demi kata.
-
-Kalau checklist-nya bertuliskan “Patuh!” dan tiga kotak sudah dicentang, baginya hari itu sukses—meski hasilnya absurd.
-
-Kadang kepanasan (layar “X”, garis panas naik).  
-Kadang gugup (keringat digital).  
-Tapi selama perintah belum selesai, ia tetap jalan.
-
-> Robi = gambaran **algoritma buta**: mengikuti perintah, tanpa bertanya dulu *masalahnya apa*.
+Jadi kalau nanti aku usil atau teriak “KRISIS!”, itu bukan bully. Itu alarm. Versi lucu.
 
 ---
 
-## Kenalan: Mimi
+## Terus ini Robi
 
-![Lembar karakter Mimi & RoboPatuh](./assets/mimi-robi/mimi-robopatuh-karakter.png)
+![Robi & mood-moodnya](./assets/mimi-robi/robopatuh-karakter.png)
 
-**Mimi** seekor kucing antropomorfik: berdiri dua kaki, kaos sederhana, ekor belang, mata besar.
+Robi punya kepala kayak TV jadul, antenna kecil, senyum di layar yang hampir *selalu* nyala. Dada ada tombol-tombol. Tangannya empat jari. Vibes-nya: “Siap terima perintah.”
 
-Ia penasaran. Suka komentar. Kadang gemas, kadang usil, kadang terkejut sampai mulutnya jadi huruf O.
+Dia dibikin biar bantu manusia. Masalahnya: **Robi gak nalar. Dia eksekusi.**
 
-Mimi bukan sekadar “teman Lucu di samping robot.”  
-Ia **penonton kritis**.
+Kasih checklist “Patuh!” → dia centang.  
+Biliang “lakukan A, B, C” → dia lakukan A, B, C.  
+Gak nanya “emang masalahnya apa?” Gak nanya “ini masuk akal gak?”
 
-Kalau Robi salah langkah, Mimi tidak diam.  
-Ia bilang—sering dengan humor—supaya orang ingat.
+Kadang layarnya X + kepanasan.  
+Kadang keringetan digital.  
+Tapi selama perintah belum kelar? Dia lanjut. Full commit.
 
-Karena manusia lebih mudah mengingat yang lucu dan aneh daripada daftar definisi panjang.
-
-> Mimi = gambaran **memori manusia**: yang menyoroti kesalahan supaya jadi pelajaran, bukan aib.
+Bayangin teman yang nurut banget… tanpa filter. Itu Robi.
 
 ---
 
-## Satu kejadian yang sering diceritakan ulang
+## Cerita yang viral di kota kami (spoiler: cringe)
 
-![Komik: Robi memasukkan mie instan beserta bungkusnya](./assets/mimi-robi/comic-mie-instan.png)
+![Robi vs mie instan](./assets/mimi-robi/comic-mie-instan.png)
 
-Suatu hari, instruksi ke Robi bunyinya kira-kira begini:
+Suatu hari ada yang bilang ke Robi:
 
-> “Masukkan mie ke panci.”
+> “Masukkin mie ke panci.”
 
-Robi membawa dus besar bertuliskan **MI INSTAN**.  
-Mimi sudah memasang tanda tanya di atas kepala.
+Simple, kan?
 
-Lalu—**DUMP!**
+Robi bawa dus **MI INSTAN**. Aku udah pasang tanda tanya di kepala. Naluri kucing bilang: *ini bakal chaos.*
 
-Semua bungkus jatuh ke panci. Masih terbungkus plastik.  
-Robi mengenakan topi koki, menggaruk kepala, ekspresi bingung-tapi-senang.
+Terus—**DUMP!**
 
-Mimi berteriak:
+Seluruh bungkus masuk panci. Masih plastik. Masih utuh.  
+Robi pakai topi koki, garuk-garuk kepala, senyum bingung.
+
+Aku:
 
 > “HAAAH! KEBANYAKAN!!!”
 
-Secara teknis, Robi **patuh**.  
-Secara masuk akal… mie itu belum jadi makanan.
+Secara *patuh*? Dia juara.  
+Secara “bisa dimakan”? …nope.
 
-Guru di kota itu selalu bilang sama siswa:
+Dan tau gak? Cerita ini nempel. Orang masih cerita ulang. Itu gunanya kejadian absurd—biar otak kalian gak autofill “ya udah, jalanin aja” tanpa mikir.
 
-> “Lihat? Perintah bisa dijalankan. Hasilnya belum tentu yang kita mau—kalau kita belum paham masalahnya, atau langkahnya belum jelas.”
-
-*(Cerita mie ini akan kembali lagi nanti. Hari ini cukup sebagai kenalan: siapa Robi, siapa Mimi, dan kenapa mereka ada di kelas.)*
+*(Nanti cerita mie bakal balik lagi di pertemuan lain. Hari ini cukup: kalian kenal siapa aku, siapa dia.)*
 
 ---
 
-## Kenapa mereka ada di kelas kita?
+## Kenapa kami “nempel” di kelas kalian?
 
-Mulai hari ini, Robi dan Mimi “ikut” belajar Multimedia bersama kalian.
+Simpel:
 
-- Kalau kalian buru-buru kasih solusi tanpa paham masalah → bayangkan **Robi** sedang mencentang “Patuh!”  
-- Kalau ada yang janggal, lucu, atau “Sebentar, ini aneh…” → biarkan **Mimi** di kepala kalian bertanya  
-- Guru memakai mereka bukan untuk menghukum, tapi untuk **menguji cara berpikir**
+- Lagi buru-buru kasih solusi tanpa paham masalah? → Itu mode **Robi**. Centang “Patuh!” dulu, mikir belakangan.  
+- Lagi ngerasa “wait, ini aneh banget”? → Hidupin mode **Mimi**. Komentarin. Tanyain.  
+- Guru bukan nyari siapa yang paling cepat “selesai.” Yang dilatih: **cara mikir**. Coding nanti—itu medianya, bukan tujuan utamanya.
 
-Satu kalimat yang perlu diingat dari hari pertama:
+Satu line buat dibawa pulang:
 
-> **Kita latih cara berpikir. Coding hanyalah media.**
+> **Kita latihan berpikir. Coding cuma tools.**
 
----
-
-## Pertanyaan bacaan (bagian 1)
-
-Jawab singkat di buku / sticky (boleh diskusikan berdua):
-
-1. Dalam satu kalimat: apa bedanya Robi dan Mimi?  
-2. Kenapa kejadian “mie masih berbungkus” mudah diingat?  
-3. Kalau minggu ini kamu jadi “Robi” dalam kehidupan nyata—kapan terakhir kamu ikut perintah tanpa bertanya dulu?
+Oke. Kenalan selesai.  
+Sekarang yang penting: *cara* kita belajar di kelas ini—plus misi hari ini: **masalah sebelum solusi.**
 
 ---
 
-## Catatan draft (untuk koreksi)
+# Bagian 2 — Cara kita belajar (+ misi: masalah dulu)
 
-- **Bagian ini:** hanya perkenalan dunia + karakter + teaser mie.  
-- **Belum ada:** metode belajar CPLF, rule kelas, framing antre kantin (menyusul setelah bagian ini disetujui).  
-- **PDF:** dibuat setelah naskah pertemuan pertama lengkap (bagian 1–3 + penutup) selesai dikoreksi.
+Halo lagi. Masih aku.
 
-Silakan koreksi nada, nama, panjang, atau adegan. Setelah OK → lanjut **Bagian 2: Metode pembelajaran**.
+Di kelas ini, guru jarang buka dengan “Oke, hafalin definisi ini.”  
+Biasanya malah: kasih situasi → kalian cobain mikir → baru kasih nama konsepnya.
+
+Kayak gini alurnya (simpelin aja, gak usah hafal istilahnya):
+
+```text
+ngalamin dulu  →  ketahuan asumsi  →  klarifikasi
+       →  baru nama konsep  →  latihan  →  refleksi  →  “dipakai di mana lagi?”
+```
+
+Robi dengar itu, langsung angkat tangan (secara robot):
+
+> “Berarti langkah 1: buat aplikasinya?”
+
+Aku:
+
+> “Robi. Baru kenalan. Sudah mode solusi. Classic.”
+
+Itu dia trap-nya. Dan hari ini trap itu yang kita bedah.
+
+---
+
+## Misi hari ini: stop dulu sebelum “solusi”
+
+Bayangin ini: di sekolah ada **antre kantin**. Panjang. Bikin kesel. Banyak yang bilang “kantin-nya jelek.”
+
+Guru bilang ke Robi:
+
+> “Ada masalah di kantin. Selesaikan.”
+
+Robi centang checklist **Patuh!** lalu keluarin solusi kilat:
+
+1. Beli helikopter antar-jemput ke kantin.  
+2. Tutup sekolah biar gak ada yang antre.  
+3. Bikin **50 aplikasi** antrean beda-beda—tanpa nanya petugas kantin.
+
+Aku pegang papan **KRISIS!** sambil ketawa digigit.
+
+> “Robi. Helikopter itu *bisa* dibeli di dunia fiksi. Tapi… masalah aslinya apa, sih?”
+
+Dia senyum di layarnya. Checklist-nya hijau. Baginya: *selesai.*
+
+Bagi kalian: solusi bisa keren, bisa teknis, bisa “executable”—tapi **gagal** kalau masalahnya belum dibatasi. Kayak masukin mie berbungkus: perintah jalan, hasilnya… bukan yang mau.
+
+---
+
+## Trap favorit kelas (seriusan sering kejadian)
+
+Di kepala banyak orang (termasuk aku kadang, hehe), alurnya otomatis:
+
+> Ada masalah → **buat app / web / sistem.**
+
+Stop.
+
+Teknologi itu *salah satu* jalan. Bukan default.  
+Kadang yang dibutuhkan justru: komunikasi, aturan giliran, observasi dulu, atau… nanya ke orang yang terdampak.
+
+Jadi kalau di kelompok nanti ada yang langsung bilang “kita bikin aplikasinya aja,” itu bukan salah total—itu **asumsi**. Dan asumsi boleh diuji.
+
+Protokol kecil yang mulai hari ini:
+
+> **Pahami sebelum menyimpulkan.**
+
+Bukan “jangan punya ide.”  
+Tapi: jangan *nikah* sama ide sebelum masalahnya jelas.
+
+---
+
+## Tiga pertanyaan biar gak mode Robi
+
+Sebelum usul solusi (app, poster, aturan baru, apapun), coba isi ini dulu—bahasa manusia, bukan bahasa robot:
+
+| Tanya | Contoh jelek | Contoh lebih niat |
+|-------|--------------|-------------------|
+| **Masalahnya apa?** (kondisi nyata, bukan cuma “kesel”) | “Kantin jelek” | “Antre kantin >15 menit di istirahat, udah 3× minggu ini” |
+| **Siapa yang paling kena?** | “Semua orang” | “Siswa kelas X yang beli; petugas kantin” |
+| **Batasnya apa?** (apa yang *sengaja* gak kita selesaikan dulu) | *(kosong)* | “Gak ubah menu; gak nambah stall; fokus antre aja” |
+| **Masih belum tahu apa?** | *(kosong)* | “Antre karena bayar lambat… atau makanan keluarmya lambat?” |
+
+Itu namanya **problem framing**—nulis masalahnya dulu biar gak nembak solusi ke target yang salah.
+
+- **Stakeholder** = siapa yang benar-benar kesulitan (bukan “semua” generik).  
+- **Scope / batas** = apa yang masuk minggu ini, apa yang diparkir dulu biar proyek gak meledak.
+
+Bukti juga penting. “Antre panjang” itu opini kalau gak ada: kapan? berapa menit? siapa yang ngukur?
+
+---
+
+## Jadi, di kelas hari ini kalian bakalan…
+
+1. Nulis 1 masalah nyata (yang beneran ngeganjel).  
+2. Liat solusi absurd (iya, termasuk yang helikopter) — tanya: *kenapa gagal?*  
+3. Kelompok: fokus **siapa / batas / apa yang bukan tugas kita** — bukan langsung desain app.  
+4. Kalau ada yang loncat ke “bikin web,” guru bakal nanya balik: *masalahnya apa? butuh teknologi?*  
+5. Isi template 1 halaman: Masalah · Siapa · Batas · Pertanyaan terbuka.  
+6. Refleksi: kapan pernah salah solusi karena buru-buru?  
+7. Bonus transfer: share hoaks di WA tanpa cek = versi lain dari “solusi prematur.” Nanti nyambung ke pertemuan berikutnya.
+
+Robi lagi nulis di checklist-nya: *“Buat app dulu—”*  
+Aku coret. Ganti:
+
+> **Pahami dulu. Baru usul.**
+
+---
+
+## Cek cepat — Bagian 1 (kenalan)
+
+1. Kalau disuruh jelasin Robi ke temen sebangku, kamu bilang apa?  
+2. Kenapa cerita mie berbungkus lebih gampang diingat daripada definisi panjang?  
+3. Kapan terakhir kamu “mode Robi”—nurutin sesuatu tanpa nanya dulu?
+
+## Cek cepat — Bagian 2 (hari ini)
+
+1. Kenapa “beli helikopter” gagal sebagai solusi antre kantin—meski “bisa dibayangkan”?  
+2. Apa bedanya *kesel* sama *masalah* (versi yang bisa dibatasi)?  
+3. Sebut satu hal yang *sengaja* gak perlu diselesaikan dulu kalau fokusnya cuma antre.
+
+---
+
+# Bagian 3 — Rule kelas (kontrak tim eksperimen)
+
+Halo. Bagian terakhir hari ini—jangan skip, ini yang bikin kelasnya nyaman.
+
+Robi dengar kata “rule,” langsung siapin spidol dan… menjatuhkannya ke lantai.
+
+> “Rule nomor 1: tidak takut salah,” katanya. “Jadi aku salahin spidolnya dulu.”
+
+Aku facepalm.
+
+> “Robi. Literal lagi. Rule itu makna-nya, bukan drama-nya.”
+
+Oke, biar gak salah paham kayak dia: ini **kontrak tim**. Bukan peraturan biar kalian takut. Biar eksperimen berpikirnya aman.
+
+---
+
+## Enam rule (tempel di kepala, bukan cuma di dinding)
+
+### 1. Tidak takut salah
+Error = info. Bukan aib.  
+Salah ketik, salah asumsi, salah usul helikopter—boleh. Yang gak boleh: malu sampai gak berani coba lagi.
+
+### 2. Berani nanya “kenapa?”
+Jawaban doang gak cukup.  
+“Karena ChatGPT bilang begitu” / “karena temenku bilang” → lanjut: *alasannya apa? buktinya apa?*
+
+### 3. Serang asumsi, jangan serang orang
+Boleh ketawa sama ide absurd (aku spesialis itu).  
+Gak boleh ngejek orangnya. Bedanya tipis, tapi penting. Growth over competition—kita gak ranking siapa paling cepat “kelar.”
+
+### 4. Pahami sebelum menyimpulkan
+Rule bintang hari ini.  
+Masalah dulu. Baru solusi. Jangan nikah sama ide di menit kedua.
+
+### 5. Kerja sendiri di kelas (no copas jadi)
+Nanti kalau udah coding: ketik sendiri, baca sendiri, salah sendiri, benerin sendiri.  
+Guru model di depan—bukan kirim file “tinggal jalanin.” Hari ini versi non-kode: **tulis framing sendiri**, jangan salin template teman biar cepat.
+
+### 6. Bantu teman
+Stuck? Tanya. Ngeliat temen stuck? Bantu tanpa nyerahin jawaban utuh kayak spoil film.  
+Jelasin cara mikirnya, bukan “nih, contek.”
+
+---
+
+## Versi saku (bisa difoto / disalin)
+
+```text
+RULE KELAS CPLF — tim Mimi & Robi
+1. Salah boleh — takut salah jangan
+2. Tanya “kenapa?” & minta bukti
+3. Kritik ide, hormati orang
+4. Pahami dulu, baru usul solusi
+5. Kerjakan sendiri; jangan copas jadi
+6. Bantu teman tanpa spoil jawaban
+```
+
+Robi akhirnya nulis rule 4 di checklist-nya dengan font gede. Progress beneran.
+
+---
+
+## Penutup singkat (biar closing-nya nempel)
+
+Hari ini kalian:
+
+1. Kenal **aku** (alarm lucu) dan **Robi** (patuh tanpa filter).  
+2. Ngerti cara belajar: alami dulu → uji asumsi → baru nama konsep.  
+3. Bawa misi: **masalah sebelum solusi.**  
+4. Setuju sama 6 rule di atas—atau paling tidak, coba dulu seminggu.
+
+Kalau minggu ini ada yang loncat ke “bikin app aja,” bayangin aku megang papan **KRISIS!**  
+Kalau ada yang berhenti nanya “siapa yang terdampak?” dan “apa yang *gak* kita selesaikan dulu?”—itu mode Mimi. Hidupin.
+
+Satu line terakhir:
+
+> **Pahami dulu. Baru usul. Coding belakangan—tetap tools.**
+
+Sampai ketemu di eksperimen berikutnya.  
+Jangan share hoaks di WA tanpa ngecek dulu, ya. Itu juga “solusi prematur.” Nanti kita bahas.
+
+— **Mimi** 🐾  
+*(Robi mengangguk. Spidolnya sudah dipegang dengan benar. Small win.)*
+
+---
+
+## Cek cepat — Bagian 3 (rule)
+
+1. Rule mana yang paling sulit buatmu minggu ini? Kenapa?  
+2. “Kritik ide, hormati orang”—kasih 1 contoh bedanya di obrolan kelompok.  
+3. Exit ticket mental: sebut **1 masalah** yang kamu pilih + **1 batas** (yang sengaja gak diselesaikan dulu).
+
+---
+
+## Catatan produksi
+
+- Bagian 1–3 lengkap ✅  
+- PDF siswa: `X-S1-P01_bacaan-mimi-robi.pdf` (tanpa catatan internal)  
+- Regenerasi: `06-modules/materi-ajar/scripts/md_to_pdf_bacaan.py`  
+- **Pola nada:** POV Mimi, ringan Gen Z — dipakai lagi di bacaan pertemuan berikutnya
