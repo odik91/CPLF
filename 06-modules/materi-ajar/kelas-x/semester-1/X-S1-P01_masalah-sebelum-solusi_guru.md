@@ -34,17 +34,20 @@ Dari “langsung cari solusi/coding” → “berhenti sejenak memahami & membat
 
 | Menit | Fase | Aktivitas | Catatan guru |
 |-------|------|-----------|--------------|
-| 0–5 | Opening | Do Now: tulis 1 masalah di kelas/MA yang mengganggu (sticky note) | Kumpulkan tanpa komentar |
-| 5–15 | Hook | Tampilkan 2 “solusi” absurd untuk masalah antre kantin (mis. “beli helikopter”) — tanya: kenapa gagal? | Jangan evaluasi ide dulu |
-| 15–30 | Experience | Kelompok 3–4: pilih 1 masalah dari sticky → **hanya** tulis: siapa terdampak? batas masalah? apa **bukan** tugas kita? | Timer 12 menit |
-| 30–40 | Trap + Q | Trap: siswa langsung usul app/web. Tanya: “Apa masalah sebenarnya? Butuh teknologi?” | Serang asumsi “solusi = app” |
-| 40–50 | Clarify | Protokol: *Pahami sebelum menyimpulan.* Bandingkan 2 kelompok — beda batas masalah? | Tulis di papan |
-| 50–60 | Concept | **Problem framing** · scope · stakeholder | Belum sebut HTML/JS |
-| 60–75 | Practice | Template 1 halaman: Masalah · Siapa · Batas · Pertanyaan terbuka | Kumpulkan foto/PDF |
-| 75–85 | Reflect | “Kapan saya pernah salah solusi karena buru-buru?” | 2 kalimat jurnal |
-| 85–90 | Transfer | Hoaks di WA: solusi share tanpa cek fakta = sama | Preview P02 literasi |
+| 0–20 | **Orientation** | Learning Compass + kenalan CPLF (bacaan Mimi–Robi bag. 1–3) · transformasi · rule kelas | **Bukan** langsung diskusi |
+| 20–30 | **Scaffold** | I do: guru model **live** framing antre kantin (think-aloud) · We do: 1 kotak template bersama | Siswa lihat contoh sebelum kerja sendiri |
+| 30–35 | Do Now | Sticky: 1 masalah nyata (setelah tahu apa yang diminta) | Kumpulkan tanpa komentar |
+| 35–45 | Hook | 2 solusi absurd antre kantin — kenapa gagal? | Jangan evaluasi ide dulu |
+| 45–58 | Experience | Kelompok 3–4: siapa terdampak? batas? apa **bukan** tugas kita? | Timer 12 menit |
+| 58–65 | Trap + Q | Trap: langsung usul app/web | Challenge asumsi solusi prematur |
+| 65–72 | Clarify | *Pahami sebelum menyimpulan.* Bandingkan 2 kelompok | Tulis di papan |
+| 72–80 | Concept | Problem framing · scope · stakeholder | Belum HTML/JS |
+| 80–88 | Practice | Template 1 halaman | Kumpulkan foto/PDF |
+| 88–90 | Exit | Exit ticket + preview P02 | Reflect singkat di kelas atau PR |
 
-**Adaptasi 1 JP (45 menit):** Opening 3’ · Experience 15’ · Clarify 10’ · Practice 12’ · Exit 5’.
+**Adaptasi 1 JP (45 menit):** Orientation 8’ · Scaffold 7’ · Experience 12’ · Clarify 8’ · Practice 8’ · Exit 2’.
+
+**Rujukan:** [03_Learning_Compass_CPLF.md](../../../../03-framework/03_Learning_Compass_CPLF.md)
 
 ---
 
@@ -66,7 +69,8 @@ Dari “langsung cari solusi/coding” → “berhenti sejenak memahami & membat
 ## Props / Fallback
 
 - Sticky note · papan  
-- Offline: kertas + diskusi oral
+- Offline: kertas + diskusi oral  
+- Bacaan: [X-S1-P01_bacaan-mimi-robi.md](./X-S1-P01_bacaan-mimi-robi.md)
 
 ---
 
@@ -85,7 +89,7 @@ Fokus: **REA**, **OBS** — lihat [09_Rubrik_Formatif_Unit.md](../../../09-rubri
 
 ## Catatan Guru
 
-Pertemuan pembuka: perkenalkan CPLF ringkas (*kita latih cara berpikir, coding = media*). Jangan overload aturan.
+Pertemuan pembuka: **Orientation + Scaffold wajib** sebelum diskusi terbuka. Bacaan Mimi–Robi bag. 1–3 = orientasi; bag. 4 dimulai setelah guru model framing live. Jangan asumsikan siswa seperti SWE yang siap brainstorm.
 
 
 ---
@@ -168,14 +172,12 @@ Pertemuan **pertama** — tidak ada recall dari pertemuan CPLF sebelumnya.
 ### Alur konseptual (90 menit)
 
 ```text
-Do Now (masalah nyata)
-  → Hook solusi absurd (helikopter untuk antre)
-  → Experience: batas masalah kelompok
-  → Trap: "langsung usul app"
-  → Clarify: protokol Pahami dulu
-  → Concept: framing · scope · stakeholder
-  → Practice: template 1 halaman
-  → Reflect + Transfer (hoaks WA)
+Orientation (Learning Compass + rule)
+  → Scaffold (guru model framing 1×)
+  → Do Now (masalah nyata)
+  → Hook solusi absurd
+  → Experience kelompok
+  → Trap → Clarify → Concept → Practice → Reflect + Transfer
 ```
 
 ### Template problem framing (1 halaman)
@@ -219,41 +221,57 @@ Pertemuan **non-kode** — skrip **live modeling papan**.
 ### Skrip live modeling
 
 ```text
-[LANGKAH 1 — Do Now]
+[LANGKAH 0 — Orientation / Learning Compass]
+Ucapkan: "Hari ini kita Latihan berpikir. Coding = media nanti. Peta: lihat contoh guru → baru kalian coba."
+Tulis di papan: ORIENTASI → CONTOH GURU → BARU KAMU COBA
+Tampil: transformasi 1 kalimat + rule kelas ringkas (atau bacaan Mimi–Robi bag. 1–3)
+Scope/blok: ~15–20 menit · JANGAN langsung sticky/diskusi
+
+[LANGKAH 1 — Scaffold I do / We do]
+Tulis template 4 kotak kosong: Masalah · Siapa · Batas · Pertanyaan
+Ucapkan think-aloud (contoh antre kantin):
+  Masalah: "Antre >15 menit saat istirahat, 3× minggu ini"
+  Siapa: "Siswa kelas X; petugas kantin"
+  Batas: "Fokus antre — tidak ubah menu"
+  Pertanyaan: "Bayar lambat atau makanan keluar lambat?"
+We do: tanya siswa lengkapi 1 kotak (mis. Siapa lagi?)
+Scope/blok: ~10 menit · siswa LIHAT dulu, belum isi sticky
+
+[LANGKAH 2 — Do Now]
 Ketik/Tulis: (siswa tulis sendiri di sticky)
-Ucapkan: "Tulis satu masalah nyata di kelas atau MA — bukan 'PR banyak', tapi kondisi yang mengganggu."
+Ucapkan: "Sekarang giliran kalian — formatnya sudah kalian lihat. Tulis satu masalah nyata."
 Tanya siswa: "Siapa yang merasakan langsung?"
 Scope/blok: 5 menit · kumpulkan tanpa komentar guru
 
-[LANGKAH 2 — Hook solusi absurd]
+[LANGKAH 3 — Hook solusi absurd]
 Tulis: "SOLUSI: Beli helikopter untuk antre kantin"
 Ucapkan: "Saya serius — ini solusi. Kenapa gagal?"
 Tanya siswa: "Apa masalah aslinya? Siapa yang antre? Helikopter selesaikan bagian mana?"
 Scope/blok: Satu solusi absurd per baris · jangan langsung jawab — tunggu 3–4 siswa
 
-[LANGKAH 3 — Experience kelompok]
+[LANGKAH 4 — Experience kelompok]
 Tulis: (kosong — siswa isi kertas kelompok)
 Ucapkan: "Pilih satu sticky. Hanya tiga pertanyaan: siapa terdampak? batas masalah? apa BUKAN tugas kita?"
 Tanya siswa: "Batas masalah artinya kita sengaja tidak menyelesaikan apa?"
 Scope/blok: Timer 12 menit · guru keliling tanya TTS per kelompok
 
-[LANGKAH 4 — Trap app]
+[LANGKAH 5 — Trap app]
 Ucapkan: (dengar ide kelompok) "Bagus — aplikasi antre. Stop."
 Tanya siswa: "Apa masalah sebenarnya? Butuh teknologi?"
 Scope/blok: Challenge asumsi · jangan hina ide · redirect ke framing
 
-[LANGKAH 5 — Concept live di papan]
+[LANGKAH 6 — Concept live di papan]
 Tulis baris 1: "Problem framing = ..."
 Tulis baris 2: "Stakeholder = ..."
 Tulis baris 3: "Scope = ..."
 Ucapkan per baris (TTS): Tebak definisi → siswa jawab → guru spelling definisi final
-Scope/blok: Tiga konsep · ~10 menit · contoh dari sticky kelompok A vs B
+Scope/blok: Tiga konsep · contoh dari sticky kelompok A vs B
 
-[LANGKAH 6 — Practice template]
+[LANGKAH 7 — Practice template]
 Tulis: Header template 4 bagian di papan
 Ucapkan: "Isi versi kalian — bukan salin papan saya."
 Tanya siswa: "Bagian mana paling sulit? Batas atau masalah?"
-Scope/blok: 15 menit · kumpulkan foto/PDF · 1 kelompok share oral
+Scope/blok: kumpulkan foto/PDF · 1 kelompok share oral · exit ticket
 ```
 
 ---
@@ -298,6 +316,7 @@ LANGKAH C: Selesai
 | Batas masalah kosong — proyek membengkak | Guru mengevaluasi ide solusi terlalu dini ("jelek/bagus") |
 | Stakeholder = "semua orang" | Guru overload aturan CPLF + administrasi tahun ajaran |
 | Menganggap pertemuan ini "belum coding jadi bosan" | Guru skip Experience/Trap, langsung lecture |
+| Bingung karena langsung diskusi tanpa contoh | Guru skip Orientation/Scaffold — asumsi siswa = SWE |
 
 ---
 
@@ -308,11 +327,14 @@ LANGKAH C: Selesai
 - Rubrik formatif: [09_Rubrik_Formatif_Unit.md](../../../../09-rubrik/09_Rubrik_Formatif_Unit.md) — fokus **REA**, **OBS**
 - MM: MM-01, MM-00 (pengantar)
 - Preview literasi: P02 [EXP_03](../../../../07-experience_library/EXP_03_Google_Jaguar.md)
+- Learning Compass: [03_Learning_Compass_CPLF.md](../../../../03-framework/03_Learning_Compass_CPLF.md)
 
 ---
 
 ## 10. Checklist Exit Guru
 
+- [ ] **Learning Compass** ditampilkan (peta fase + transformasi)
+- [ ] **Scaffold I do** selesai sebelum sticky/diskusi kelompok
 - [ ] Live modeling papan — bukan slide jawaban penuh
 - [ ] TTS per scope (Masalah / Siapa / Batas / Pertanyaan)
 - [ ] Recall hidup (Do Now) terpasang — baseline tercatat
