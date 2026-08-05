@@ -4,6 +4,8 @@
 
 **Modul acuan:** [X-S1-P04_robot-mie-algoritma.md](../../../kelas-x/semester-1/X-S1-P04_robot-mie-algoritma.md)
 
+**Bacaan pendamping (cerita):** [X-S1-P04_bacaan-mimi-robi.md](./X-S1-P04_bacaan-mimi-robi.md) · [PDF](./X-S1-P04_bacaan-mimi-robi.pdf)
+
 ---
 
 ## 1. Tujuan pembelajaran
