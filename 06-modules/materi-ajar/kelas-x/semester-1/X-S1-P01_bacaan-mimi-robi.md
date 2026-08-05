@@ -9,7 +9,8 @@
 | Nada cerita | POV Mimi, ringan, Gen Z — **pola tetap** untuk bacaan berikutnya |
 | PDF | [X-S1-P01_bacaan-mimi-robi.pdf](./X-S1-P01_bacaan-mimi-robi.pdf) |
 
-**Handout konsep:** [X-S1-P01_masalah-sebelum-solusi_siswa.md](./X-S1-P01_masalah-sebelum-solusi_siswa.md)
+**Handout konsep:** [X-S1-P01_masalah-sebelum-solusi_siswa.md](./X-S1-P01_masalah-sebelum-solusi_siswa.md)  
+**Framework v0.2:** [03_Learning_Compass_CPLF.md](../../../../03-framework/03_Learning_Compass_CPLF.md)
 
 ---
 
@@ -107,83 +108,56 @@ Sekarang yang penting: *cara* kita belajar di kelas ini—plus misi hari ini: **
 
 ---
 
-# Bagian 2 — Cara kita belajar (+ misi: masalah dulu)
+# Bagian 2 — Learning Compass (kompas belajar)
 
 Halo lagi. Masih aku.
 
-Di kelas ini, guru jarang buka dengan “Oke, hafalin definisi ini.”  
-Biasanya malah: kasih situasi → kalian cobain mikir → baru kasih nama konsepnya.
+Sebelum kalian disuruh diskusi atau nulis apa pun, guru kasih **peta** dulu. Namanya **Learning Compass** — biar gak bingung “kok belum dijelasin udah disuruh ngomong?”
 
-Kayak gini alurnya (simpelin aja, gak usah hafal istilahnya):
+Valid banget kalau pernah mikir gitu. Kalian **bukan** software engineer yang udah terbiasa langsung brainstorm. Kalian **lagi belajar cara berpikir**.
+
+### Peta hari ini
 
 ```text
-ngalamin dulu  →  ketahuan asumsi  →  klarifikasi
-       →  baru nama konsep  →  latihan  →  refleksi  →  “dipakai di mana lagi?”
+ORIENTASI  →  CONTOH GURU  →  BARU KAMU COBA
+     ↓              ↓                ↓
+  (bag. 1–3)    (scaffold)      (diskusi & latihan)
 ```
 
-Robi dengar itu, langsung angkat tangan (secara robot):
+Alur lengkap CPLF (gak usah hafal istilahnya):
+
+```text
+orientasi  →  contoh guru (I do / We do)
+  →  alami situasi  →  ketahuan asumsi  →  klarifikasi
+  →  nama konsep  →  latihan  →  refleksi  →  transfer
+```
+
+Robi dengar “contoh guru,” langsung:
 
 > “Berarti langkah 1: buat aplikasinya?”
 
 Aku:
 
-> “Robi. Baru kenalan. Sudah mode solusi. Classic.”
+> “Robi. Itu langkah terakhir yang kamu pikirin. Bukan langkah pertama.”
 
-Itu dia trap-nya. Dan hari ini trap itu yang kita bedah.
+### Kompas 4 arah (versi siswa)
 
----
+| Arah | Artinya hari ini |
+|------|------------------|
+| **Tujuan** | Dari buru-buru solusi → pahami & batasi masalah dulu |
+| **Cara** | Lihat contoh guru → baru kamu coba sendiri |
+| **Peran kamu** | Amati, tanya, tulis — bukan langsung jadi ahli app |
+| **Dukungan** | Guru model 1× di papan sebelum sticky note & kelompok |
 
-## Misi hari ini: stop dulu sebelum “solusi”
+**Transformasi hari ini (1 kalimat):**
 
-Bayangin ini: di sekolah ada **antre kantin**. Panjang. Bikin kesel. Banyak yang bilang “kantin-nya jelek.”
+> Berhenti sejenak memahami masalah **sebelum** loncat ke solusi/coding.
 
-Guru bilang ke Robi:
-
-> “Ada masalah di kantin. Selesaikan.”
-
-Robi centang checklist **Patuh!** lalu keluarin solusi kilat:
-
-1. Beli helikopter antar-jemput ke kantin.  
-2. Tutup sekolah biar gak ada yang antre.  
-3. Bikin **50 aplikasi** antrean beda-beda—tanpa nanya petugas kantin.
-
-Aku pegang papan **KRISIS!** sambil ketawa digigit.
-
-![Robi usul helikopter buat antre kantin](./assets/mimi-robi/p01-02-helikopter-kantin.jpg)
-
-> “Robi. Helikopter itu *bisa* dibeli di dunia fiksi. Tapi… masalah aslinya apa, sih?”
-
-Dia senyum di layarnya. Checklist-nya hijau. Baginya: *selesai.*
-
-Bagi kalian: solusi bisa keren, bisa teknis, bisa “executable”—tapi **gagal** kalau masalahnya belum dibatasi. Kayak masukin mie berbungkus: perintah jalan, hasilnya… bukan yang mau.
+Misi kita: **masalah sebelum solusi.** Tapi setelah compass + contoh guru — bukan langsung diskusi kosong.
 
 ---
 
-## Trap favorit kelas (seriusan sering kejadian)
-
-![KRISIS! Robi centang “buat app”](./assets/mimi-robi/p01-03-krisis-app.jpg)
-
-Di kepala banyak orang (termasuk aku kadang, hehe), alurnya otomatis:
-
-> Ada masalah → **buat app / web / sistem.**
-
-Stop.
-
-Teknologi itu *salah satu* jalan. Bukan default.  
-Kadang yang dibutuhkan justru: komunikasi, aturan giliran, observasi dulu, atau… nanya ke orang yang terdampak.
-
-Jadi kalau di kelompok nanti ada yang langsung bilang “kita bikin aplikasinya aja,” itu bukan salah total—itu **asumsi**. Dan asumsi boleh diuji.
-
-Protokol kecil yang mulai hari ini:
-
-> **Pahami sebelum menyimpulkan.**
-
-Bukan “jangan punya ide.”  
-Tapi: jangan *nikah* sama ide sebelum masalahnya jelas.
-
----
-
-## Tiga pertanyaan biar gak mode Robi
+## Tiga pertanyaan (preview — dipakai nanti setelah contoh guru)
 
 Sebelum usul solusi (app, poster, aturan baru, apapun), coba isi ini dulu—bahasa manusia, bukan bahasa robot:
 
@@ -203,34 +177,22 @@ Bukti juga penting. “Antre panjang” itu opini kalau gak ada: kapan? berapa m
 
 ---
 
-## Jadi, di kelas hari ini kalian bakalan…
+## Jadi, di kelas hari ini urutannya…
 
-1. Nulis 1 masalah nyata (yang beneran ngeganjel).  
-2. Liat solusi absurd (iya, termasuk yang helikopter) — tanya: *kenapa gagal?*  
-3. Kelompok: fokus **siapa / batas / apa yang bukan tugas kita** — bukan langsung desain app.  
-4. Kalau ada yang loncat ke “bikin web,” guru bakal nanya balik: *masalahnya apa? butuh teknologi?*  
-5. Isi template 1 halaman: Masalah · Siapa · Batas · Pertanyaan terbuka.  
-6. Refleksi: kapan pernah salah solusi karena buru-buru?  
-7. Bonus transfer: share hoaks di WA tanpa cek = versi lain dari “solusi prematur.” Nanti nyambung ke pertemuan berikutnya.
+1. **Orientation** — kenalan, compass, rule (bagian 1–3)  
+2. **Scaffold** — guru tunjukkan contoh framing di papan (**I do**)  
+3. **Baru kamu** — sticky note, diskusi kelompok, template  
 
-Robi lagi nulis di checklist-nya: *“Buat app dulu—”*  
-Aku coret. Ganti:
-
-> **Pahami dulu. Baru usul.**
+Robi lagi nulis: *“Buat app dulu—”*  
+Aku coret. Ganti: **“Lihat contoh guru dulu.”**
 
 ---
 
-## Cek cepat — Bagian 1 (kenalan)
+## Cek cepat — Bagian 2 (Learning Compass)
 
-1. Kalau disuruh jelasin Robi ke temen sebangku, kamu bilang apa?  
-2. Kenapa cerita mie berbungkus lebih gampang diingat daripada definisi panjang?  
-3. Kapan terakhir kamu “mode Robi”—nurutin sesuatu tanpa nanya dulu?
-
-## Cek cepat — Bagian 2 (hari ini)
-
-1. Kenapa “beli helikopter” gagal sebagai solusi antre kantin—meski “bisa dibayangkan”?  
-2. Apa bedanya *kesel* sama *masalah* (versi yang bisa dibatasi)?  
-3. Sebut satu hal yang *sengaja* gak perlu diselesaikan dulu kalau fokusnya cuma antre.
+1. Kenapa kita tidak langsung diskusi di menit pertama?  
+2. Apa bedanya “orientasi” dan “latihan”?  
+3. Transformasi hari ini dalam 1 kalimat versi kamu?
 
 ---
 
@@ -308,11 +270,44 @@ Sekarang cerita pertemuan hari ini—kita bedah **masalah sebelum solusi** bener
 
 # Bagian 4 — Cerita pertemuan: Masalah Sebelum Solusi
 
-Halo lagi. Ini bagian utama hari ini.
+Halo lagi. Compass & rule sudah. Sekarang **contoh guru** dulu — baru kamu coba.
 
-Guru buka kelas tanpa slide panjang. Cuma satu instruksi:
+---
 
-> “Tulis **satu masalah nyata** di kelas atau madrasah—bukan ‘PR banyak’, tapi kondisi yang beneran ngeganjel. Sticky note. Jangan ditandai namamu dulu.”
+## Scaffold: guru model framing (I do)
+
+Guru ambil masalah contoh: **antre kantin panjang**.
+
+Bukan langsung solusi. Guru **think-aloud** sambil nulis di papan:
+
+| Bagian | Contoh guru (live) |
+|--------|-------------------|
+| **Masalah** | “Antre >15 menit saat istirahat, 3× minggu ini” — bukan “kantin jelek” |
+| **Siapa** | Siswa kelas X yang beli; petugas kantin |
+| **Batas** | Fokus antre saja — gak ubah menu, gak nambah stall |
+| **Pertanyaan terbuka** | Antre karena bayar lambat atau makanan keluar lambat? |
+
+Robi nonton. Layar loading.
+
+> “Oh. Jadi **bukan** langsung helikopter.”
+
+Aku:
+
+> “Helikopter itu solusi prematur. Masalahnya belum kebaca.”
+
+**We do:** kelas bantu lengkapi **1 kotak** bareng guru (mis. “Siapa stakeholder-nya?”). Baru setelah ini kalian kerja sendiri.
+
+![Framing di papan: Masalah · Siapa · Batas · Pertanyaan](./assets/mimi-robi/p01-04-framing-papan.jpg)
+
+---
+
+## Do Now (setelah contoh — You do mulai)
+
+Sekarang giliran kalian. Guru:
+
+> “Tulis **satu masalah nyata** di kelas atau madrasah—bukan ‘PR banyak’, tapi kondisi yang beneran ngeganjel. Sticky note.”
+
+Kalian **sudah tahu** formatnya karena lihat contoh guru tadi.
 
 ![Opening: sticky note — Robi nulis “belum ada solusi”](./assets/mimi-robi/p01-06-opening-sticky.jpg)
 
@@ -335,7 +330,9 @@ Terus tulis di papan dengan muka serius banget:
 
 > **SOLUSI: Beli helikopter antar-jemput ke kantin.**
 
-![Hook: solusi helikopter di papan — Robi angkat tangan](./assets/mimi-robi/p01-07-hook-helikopter-papan.jpg)
+![Hook: solusi helikopter di papan](./assets/mimi-robi/p01-07-hook-helikopter-papan.jpg)
+
+![Robi usul helikopter](./assets/mimi-robi/p01-02-helikopter-kantin.jpg)
 
 Kelas hening sebentar. Ada yang ketawa. Ada yang “…serius?”
 
@@ -400,6 +397,8 @@ Sama-sama “antre”—tapi **batas** dan **solusi masuk akal** bisa beda. Itu 
 
 ## Trap: “Langsung bikin app/web aja”
 
+![KRISIS! Robi centang “buat app”](./assets/mimi-robi/p01-03-krisis-app.jpg)
+
 Wajar. Di kepala kita (terutama di mapel Multimedia), otomatis:
 
 > Ada masalah → **buat aplikasi.**
@@ -446,8 +445,6 @@ Kesel = perasaan. Masalah = kondisi yang bisa diobservasi & dibatasi.
 ---
 
 ## Concept: problem framing · scope · stakeholder
-
-![Framing di papan: Masalah · Siapa · Batas · Pertanyaan](./assets/mimi-robi/p01-04-framing-papan.jpg)
 
 Baru sekarang guru kasih nama konsepnya (setelah kalian ngerasain dulu):
 
@@ -564,8 +561,10 @@ Sampai ketemu di pertemuan berikutnya. Jangan share hoaks di WA tanpa ngecek dul
 
 ## Catatan produksi
 
-- Bagian 1–3: perkenalan + metode + rule ✅  
-- Bagian 4: materi pertemuan P01 (opening → transfer) ✅  
+- Bagian 1–3: Orientation (kenalan + rule) ✅  
+- Bagian 2: Learning Compass ✅  
+- Bagian 4: Scaffold → materi (Do Now setelah contoh guru) ✅  
+- Framework: `03_Learning_Compass_CPLF.md` v0.2  
 - Ilustrasi narasi: `assets/mimi-robi/p01-01` … `p01-08` (.jpg, dari base karakter)  
 - PDF siswa: `X-S1-P01_bacaan-mimi-robi.pdf` (tanpa catatan internal)  
 - Regenerasi: `06-modules/materi-ajar/scripts/md_to_pdf_bacaan.py`  

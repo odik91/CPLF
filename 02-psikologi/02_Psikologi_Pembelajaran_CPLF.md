@@ -15,7 +15,8 @@ CPLF merancang pembelajaran berdasarkan cara manusia (khususnya remaja) belajar,
 
 | Asumsi | Implikasi di kelas |
 |--------|-------------------|
-| Pengalaman mendahului definisi | Experience & Cognitive Trap sebelum konsep |
+| Pengalaman mendahului definisi — **dengan peta & contoh dulu** | Orientation + Scaffold → baru Experience & Trap |
+| Siswa awal bukan problem solver profesional | I do / We do wajib sebelum diskusi terbuka (terutama S1) |
 | Error adalah bagian belajar | Debug = informasi, bukan aib |
 | Emosi memperkuat memori | Momen yang bisa diceritakan ulang (retrieval) |
 | Refleksi memperkuat pemahaman | Setiap unit punya Reflect + Transfer |
@@ -55,11 +56,26 @@ Definisi → Hafalan → Latihan soal → Ujian
 Alur CPLF:
 
 ```text
-Experience → Observe → Question → Clarify → Reason
-→ Concept → Practice → Reflect → Transfer
+Orientation (Learning Compass) → Scaffold (I do / We do)
+  → Experience → Observe → Question → Clarify → Reason
+  → Concept → Practice → Reflect → Transfer
 ```
 
-Referensi arah (tidak perlu diajarkan ke siswa sebagai istilah): Piaget (skema & akomodasi), Vygotsky (scaffolding & diskusi), pengalaman bermakna sebelum abstraksi.
+**Nuansa penting (v0.2):** “Pengalaman mendahului definisi” **bukan** “siswa dibiarkan tanpa peta.” Siswa MA Kelas X bukan software engineer — mereka butuh **orientasi** dan **scaffolding** sebelum diskusi/kelompok terbuka. Lihat [03_Learning_Compass_CPLF.md](../03-framework/03_Learning_Compass_CPLF.md).
+
+Alur yang dihindari:
+
+```text
+Definisi panjang → Hafalan → Latihan soal → Ujian
+```
+
+Alur yang juga dihindari (revisi observasi kelas):
+
+```text
+Langsung diskusi / kelompok tanpa contoh → siswa bingung
+```
+
+Referensi arah (tidak perlu diajarkan ke siswa sebagai istilah): Piaget (skema & akomodasi), **Vygotsky (scaffolding & ZPD)**, pengalaman bermakna sebelum abstraksi — **dengan dukungan sementara yang ditarik bertahap**.
 
 ---
 
@@ -154,6 +170,7 @@ Setiap modul idealnya memuat:
 ## 10. Anti-Pattern Psikologis
 
 - Menguji hafalan definisi tanpa pengalaman
+- **Memasukkan siswa ke diskusi/kelompok sebelum orientasi & contoh (mengasumsikan siswa = SWE)**
 - Mempermalukan siswa yang terkena trap
 - Memakai AI sebagai “kunci jawaban” tanpa klarifikasi
 - Membandingkan siswa hanya lewat kecepatan ketik kode

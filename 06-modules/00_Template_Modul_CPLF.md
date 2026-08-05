@@ -49,7 +49,9 @@ Masalah nyata / konteks yang dibawa ke kelas.
 Deskripsikan skenario pembuka (boleh tanpa laptop).  
 Karakter opsional (mis. ROBI) boleh dipakai jika membantu konsistensi cerita — bukan wajib.
 
-**Durasi saran:** 5–15 menit.
+**Durasi saran:** 5–15 menit — **setelah** Orientation + Scaffold (lihat [03_Learning_Compass_CPLF.md](../../03-framework/03_Learning_Compass_CPLF.md)).
+
+**P01 / awal semester:** jangan loncat ke Experience terbuka sebelum guru model 1× (I do).
 
 ---
 

@@ -50,14 +50,12 @@ Dari “langsung cari solusi/coding” → “berhenti sejenak memahami & membat
 ### Alur konseptual (90 menit)
 
 ```text
-Do Now (masalah nyata)
-  → Hook solusi absurd (helikopter untuk antre)
-  → Experience: batas masalah kelompok
-  → Trap: "langsung usul app"
-  → Clarify: protokol Pahami dulu
-  → Concept: framing · scope · stakeholder
-  → Practice: template 1 halaman
-  → Reflect + Transfer (hoaks WA)
+Orientation (Learning Compass + rule)
+  → Scaffold (guru model framing 1×)
+  → Do Now (masalah nyata)
+  → Hook solusi absurd
+  → Experience kelompok
+  → Trap → Clarify → Concept → Practice → Reflect + Transfer
 ```
 
 ### Template problem framing (1 halaman)
@@ -110,18 +108,20 @@ Hoaks di WA = solusi prematur "share tanpa cek fakta" — sama dengan lompat sol
 
 ## 7. Alur pertemuan (90 menit)
 
+| Menit | Fase | Aktivitas |
 |-------|------|-----------|
-| 0–5 | Opening | Do Now: tulis 1 masalah di kelas/MA yang mengganggu (sticky note) |
-| 5–15 | Hook | Tampilkan 2 “solusi” absurd untuk masalah antre kantin (mis. “beli helikopter”) — tanya: kenapa gagal? |
-| 15–30 | Experience | Kelompok 3–4: pilih 1 masalah dari sticky → **hanya** tulis: siapa terdampak? batas masalah? apa **bukan** tugas kita? |
-| 30–40 | Trap + Q | Trap: siswa langsung usul app/web. Tanya: “Apa masalah sebenarnya? Butuh teknologi?” |
-| 40–50 | Clarify | Protokol: *Pahami sebelum menyimpulan.* Bandingkan 2 kelompok — beda batas masalah? |
-| 50–60 | Concept | **Problem framing** · scope · stakeholder |
-| 60–75 | Practice | Template 1 halaman: Masalah · Siapa · Batas · Pertanyaan terbuka |
-| 75–85 | Reflect | “Kapan saya pernah salah solusi karena buru-buru?” |
-| 85–90 | Transfer | Hoaks di WA: solusi share tanpa cek fakta = sama |
+| 0–20 | **Orientation** | Learning Compass · kenalan cara belajar CPLF · rule kelas (bacaan Mimi–Robi) |
+| 20–30 | **Scaffold** | Guru tunjukkan contoh framing masalah (live di papan) — **baru** kamu coba |
+| 30–35 | Do Now | Sticky: 1 masalah nyata di kelas/MA |
+| 35–45 | Hook | Solusi absurd antre kantin — kenapa gagal? |
+| 45–58 | Experience | Kelompok: siapa terdampak? batas? bukan tugas kita? |
+| 58–65 | Trap + Q | Langsung usul app? Apa masalah sebenarnya? |
+| 65–72 | Clarify | *Pahami sebelum menyimpulan.* |
+| 72–80 | Concept | Problem framing · scope · stakeholder |
+| 80–88 | Practice | Template 1 halaman |
+| 88–90 | Exit + Transfer | Exit ticket · hoaks WA = solusi prematur (preview P02) |
 
-**Adaptasi 1 JP (45 menit):** Opening 3’ · Experience 15’ · Clarify 10’ · Practice 12’ · Exit 5’.
+**Adaptasi 1 JP:** Orientation 8’ · Scaffold 7’ · Experience 12’ · Clarify 8’ · Practice 8’ · Exit 2’.
 
 ---
 

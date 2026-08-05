@@ -87,12 +87,17 @@ Perjalanan spiral: konsep lama kembali dengan pemahaman lebih matang. Istilah op
 ## 4. Learning Cycle
 
 ```text
-Experience → Observe → Question → Clarify → Reason
-→ Concept → Practice → Reflect → Transfer
+Orientation (Learning Compass)
+  → Scaffold (I do / We do)
+  → Experience → Observe → Question
+  → Trap → Clarify → Reason
+  → Concept → Practice → Reflect → Transfer
 ```
 
 | Tahap | Peran |
 |-------|--------|
+| **Orientation** | Peta belajar hari ini; identitas; rule; preview — siswa tahu *cara* kelas ini bekerja |
+| **Scaffold** | Guru model 1× (think-aloud) sebelum tugas terbuka — terutama Kelas X awal |
 | Experience | Situasi nyata / simulasi (sering dengan Cognitive Trap) |
 | Observe | Apa yang terjadi? Apa yang aneh? |
 | Question | Apa yang ingin diketahui? |
@@ -158,11 +163,14 @@ Setiap modul resmi CPLF wajib memiliki:
 4. Menilai hanya output benar/salah tanpa reasoning.
 5. Menelan jawaban AI tanpa klarifikasi di depan kelas.
 6. Dobel narasi dokumen (dua roadmap saling bertentangan).
+7. **Langsung diskusi/kelompok tanpa Orientation & scaffold** — mengasumsikan siswa sudah seperti software engineer.
 
 ---
 
 ## 9. Checklist Guru (per pertemuan / unit)
 
+- [ ] **Learning Compass** ditampilkan (peta fase + transformasi 1 kalimat).
+- [ ] **Scaffold I do** selesai sebelum tugas terbuka (diskusi/kelompok/coding mandiri).
 - [ ] Transformasi berpikir hari ini sudah ditulis (satu kalimat).
 - [ ] Ada Experience + Cognitive Trap yang aman.
 - [ ] Ada momen Clarify (bukan langsung “ini jawabannya”).
@@ -196,6 +204,7 @@ Framework ini memisahkan **apa yang abadi** (cara bernalar, mental model) dari *
 
 - [01-Filosofi-CPLF.md](../01-filosofi/01-Filosofi-CPLF.md)
 - [02_Psikologi_Pembelajaran_CPLF.md](../02-psikologi/02_Psikologi_Pembelajaran_CPLF.md)
+- [03_Learning_Compass_CPLF.md](./03_Learning_Compass_CPLF.md)
 - [03_Mental_Model_CPLF.md](./03_Mental_Model_CPLF.md)
 - [04_Roadmap_Global_CPLF.md](../04-roadmap/04_Roadmap_Global_CPLF.md)
 - [05_Capability_Framework_CPLF.md](../05-silabus/05_Capability_Framework_CPLF.md)

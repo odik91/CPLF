@@ -21,17 +21,20 @@ Dari “langsung cari solusi/coding” → “berhenti sejenak memahami & membat
 
 | Menit | Fase | Aktivitas | Catatan guru |
 |-------|------|-----------|--------------|
-| 0–5 | Opening | Do Now: tulis 1 masalah di kelas/MA yang mengganggu (sticky note) | Kumpulkan tanpa komentar |
-| 5–15 | Hook | Tampilkan 2 “solusi” absurd untuk masalah antre kantin (mis. “beli helikopter”) — tanya: kenapa gagal? | Jangan evaluasi ide dulu |
-| 15–30 | Experience | Kelompok 3–4: pilih 1 masalah dari sticky → **hanya** tulis: siapa terdampak? batas masalah? apa **bukan** tugas kita? | Timer 12 menit |
-| 30–40 | Trap + Q | Trap: siswa langsung usul app/web. Tanya: “Apa masalah sebenarnya? Butuh teknologi?” | Serang asumsi “solusi = app” |
-| 40–50 | Clarify | Protokol: *Pahami sebelum menyimpulan.* Bandingkan 2 kelompok — beda batas masalah? | Tulis di papan |
-| 50–60 | Concept | **Problem framing** · scope · stakeholder | Belum sebut HTML/JS |
-| 60–75 | Practice | Template 1 halaman: Masalah · Siapa · Batas · Pertanyaan terbuka | Kumpulkan foto/PDF |
-| 75–85 | Reflect | “Kapan saya pernah salah solusi karena buru-buru?” | 2 kalimat jurnal |
-| 85–90 | Transfer | Hoaks di WA: solusi share tanpa cek fakta = sama | Preview P02 literasi |
+| 0–20 | **Orientation** | Learning Compass + kenalan CPLF (bacaan Mimi–Robi bag. 1–3) · transformasi · rule kelas | **Bukan** langsung diskusi |
+| 20–30 | **Scaffold** | I do: guru model **live** framing antre kantin (think-aloud) · We do: 1 kotak template bersama | Siswa lihat contoh sebelum kerja sendiri |
+| 30–35 | Do Now | Sticky: 1 masalah nyata (setelah tahu apa yang diminta) | Kumpulkan tanpa komentar |
+| 35–45 | Hook | 2 solusi absurd antre kantin — kenapa gagal? | Jangan evaluasi ide dulu |
+| 45–58 | Experience | Kelompok 3–4: siapa terdampak? batas? apa **bukan** tugas kita? | Timer 12 menit |
+| 58–65 | Trap + Q | Trap: langsung usul app/web | Challenge asumsi solusi prematur |
+| 65–72 | Clarify | *Pahami sebelum menyimpulan.* Bandingkan 2 kelompok | Tulis di papan |
+| 72–80 | Concept | Problem framing · scope · stakeholder | Belum HTML/JS |
+| 80–88 | Practice | Template 1 halaman | Kumpulkan foto/PDF |
+| 88–90 | Exit | Exit ticket + preview P02 | Reflect singkat di kelas atau PR |
 
-**Adaptasi 1 JP (45 menit):** Opening 3’ · Experience 15’ · Clarify 10’ · Practice 12’ · Exit 5’.
+**Adaptasi 1 JP (45 menit):** Orientation 8’ · Scaffold 7’ · Experience 12’ · Clarify 8’ · Practice 8’ · Exit 2’.
+
+**Rujukan:** [03_Learning_Compass_CPLF.md](../../../03-framework/03_Learning_Compass_CPLF.md)
 
 ---
 
@@ -72,4 +75,4 @@ Fokus: **REA**, **OBS** — lihat [09_Rubrik_Formatif_Unit.md](../../../09-rubri
 
 ## Catatan Guru
 
-Pertemuan pembuka: perkenalkan CPLF ringkas (*kita latih cara berpikir, coding = media*). Jangan overload aturan.
+Pertemuan pembuka: **Orientation + Scaffold wajib** sebelum diskusi terbuka. Bacaan Mimi–Robi bag. 1–3 = orientasi; bag. 4 dimulai setelah guru model framing live. Jangan asumsikan siswa seperti SWE yang siap brainstorm.
