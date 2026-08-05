@@ -33,7 +33,24 @@ Aku:
 
 ---
 
-## Opening: recall P01
+## Learning Compass (5 menit)
+
+Sebelum search bareng, guru kasih peta dulu — biar gak “langsung cobain tanpa arah.”
+
+| Arah | Hari ini |
+|------|----------|
+| **Tujuan** | Dari “Google tahu maksudku” → output = f(input); wajib verifikasi |
+| **Cara** | Lihat contoh guru search → baru bandingkan / worksheet |
+| **Peran kamu** | Amati input, bandingkan hasil, cek 2 sumber |
+| **Dukungan** | Guru model `jaguar` → `jaguar animal` dulu |
+
+```text
+ORIENTASI  →  CONTOH GURU (scaffold)  →  BARU KAMU COBA
+```
+
+---
+
+## Orientation: recall P01
 
 Guru buka singkat:
 
@@ -51,11 +68,33 @@ Guru nyambung:
 
 ---
 
+## Scaffold: guru model search dulu
+
+Guru proyeksikan mesin pencari. **I do** — think-aloud:
+
+1. Ketik `jaguar` → “Hasil campur. Kenapa? Input-ku ambigu.”  
+2. Ketik `jaguar animal` → “Satu kata tambah = halaman beda.”  
+
+**We do:** kelas tebak — kalau mau mobil, keyword apa?
+
+Robi:
+
+> “Langsung `jaguar` aja. Google pasti tahu aku mau macan.”
+
+Aku:
+
+> “Itu asumsi ‘paham maksud.’ Tunggu — kita baru lihat contoh. Baru kalian cobain.”
+
+Baru setelah ini: Experience terbuka.
+
+---
+
 ## Experience: live search `jaguar`
 
-Guru proyeksikan mesin pencari. Ketik live—**jangan** pakai slide hasil jadi:
+Guru proyeksikan mesin pencari. Ketik live—**jangan** pakai slide hasil jadi.  
+(Kalau scaffold tadi sudah `jaguar` + `jaguar animal`, lanjut bandingkan / input berikutnya.)
 
-**Input 1:** `jaguar`
+**Input 1:** `jaguar` *(atau review hasil scaffold)*
 
 Hasil campur aduk: mobil, olahraga, hewan macan…  
 Kelas: “Kok beda-beda?” “Yang mana yang bener?”
@@ -263,6 +302,6 @@ Sampai P03—Robi sudah janji gak share screenshot tanpa baca. We'll see.
 
 ## Catatan produksi
 
-- P02: materi pertemuan + ilustrasi dialog Mimi–Robi (`p02-01` … `p02-07`)  
+- P02: materi + ilustrasi dialog + Learning Compass/Scaffold (v0.2)  
 - PDF: `X-S1-P02_bacaan-mimi-robi.pdf`  
 - Regenerasi: `06-modules/materi-ajar/scripts/md_to_pdf_bacaan.py`

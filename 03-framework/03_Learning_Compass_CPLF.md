@@ -120,7 +120,9 @@ Orientation (Learning Compass)
 | Konteks | Orientation | Scaffold |
 |---------|-------------|----------|
 | **P01 S1** | Penuh (15’) + bacaan Mimi–Robi bagian 1–3 | Model framing kantin live (10’) |
-| **P02–P04 S1** | Compass ringkas + recall | Model 1 langkah (keyword / klarifikasi / algoritma) |
+| **P02 S1** | Compass 5’ + recall P01 | Model live search `jaguar` → `jaguar animal` |
+| **P03 S1** | Compass 5’ + moto MM-00 | Model Klaim + Alasan (We do: Bukti) |
+| **P04 S1** | Compass 5’ + recap P01–P03 | Model teh implisit vs eksplisit sebelum drama mie |
 | **S2+ / XI / XII** | Compass 1–2’ | Scaffold menurut kebutuhan unit |
 | **Project build** | Checkpoint + kriteria DoD | Starter kosong + contoh 1 file referensi (bukan solusi penuh) |
 

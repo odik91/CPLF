@@ -88,16 +88,17 @@ Langkah yang diucap guru ke ROBI (volunteer siswa):
 
 | Menit | Fase | Aktivitas |
 |-------|------|-----------|
-| 0–5 | Opening | ROBI muncul — recap “masalah sebelum solusi” |
-| 5–22 | Experience | ROBI masak mie (bungkus ikut) — dramatisasi |
-| 22–35 | Trap + Q | Debate: ROBI patuh — kenapa gagal? |
-| 35–45 | Clarify | Tulis langkah ROBI vs langkah manusia side-by-side |
-| 45–55 | Concept | **Algoritma** · urutan · eksplisit |
-| 55–75 | Practice | Kelompok: algoritma “buat teh” / “piket kelas” 8 langkah; teman = ROBI literal |
-| 75–85 | Reflect | Langkah implisit apa yang sering ketinggalan? |
+| 0–5 | **Orientation** | Learning Compass · ROBI muncul · recap P01–P03 ringkas |
+| 5–12 | **Scaffold** | Guru model: 3 langkah “buat teh” implisit vs eksplisit — kelas tambah 1 langkah hilang |
+| 12–25 | Experience | ROBI masak mie (bungkus ikut) — dramatisasi |
+| 25–38 | Trap + Q | ROBI patuh — kenapa gagal? |
+| 38–48 | Clarify | Langkah ROBI vs manusia side-by-side |
+| 48–58 | Concept | **Algoritma** · urutan · eksplisit |
+| 58–78 | Practice | Kelompok: algoritma teh/piket 8 langkah; teman = ROBI literal |
+| 78–85 | Reflect | Langkah implisit apa yang sering ketinggalan? |
 | 85–90 | Exit | 1 langkah yang wajib ditulis eksplisit |
 
-**Adaptasi 1 JP:** Kurangi practice — 6 langkah saja.
+**Adaptasi 1 JP:** Orientation 3’ · Scaffold 5’ · Experience 10’ · Clarify 7’ · Practice 15’ · Exit 5’.
 
 ---
 

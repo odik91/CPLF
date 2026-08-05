@@ -30,16 +30,21 @@ Dari “AI bilang = benar/salah total” → “klarifikasi: alasan, bukti, alte
 
 ## Timeline (90 menit)
 
-| Menit | Fase | Aktivitas |
-|-------|------|-----------|
-| 0–5 | Opening | Tulis di papan moto: *Jangan cepat percaya. Jangan cepat menolak. Pahami dulu.* |
-| 5–22 | Experience | Tampilkan jawaban AI plausibel tapi salah (HTML= bahasa pemrograman / fakta ringan) |
-| 22–32 | Trap | Bomb: “AI salah — siapa salah?” Debate 3 menit |
-| 32–42 | Clarify | Rantai 4 langkah Prinsip Bernalar di papan; latih 1x dengan jawaban AI |
-| 42–52 | Concept | Klarifikasi · AI = partner berpikir · bukti > opini |
-| 52–70 | Practice | Pasangan: 1 klaim AI (disiapkan guru) → worksheet klarifikasi 4 langkah |
-| 70–85 | Reflect | Kapan pernah share info WA tanpa cek? |
-| 85–90 | Exit | 1 pertanyaan klarifikasi yang akan selalu kutanyakan |
+| Menit | Fase | Aktivitas | Catatan guru |
+|-------|------|-----------|--------------|
+| 0–5 | **Orientation** | Learning Compass · moto MM-00 · recall P02 | Transformasi 1 kalimat |
+| 5–12 | **Scaffold** | I do: Klaim + Alasan dari 1 jawaban AI · We do: 1 Bukti | Model sebelum worksheet |
+| 12–25 | Experience | AI plausibel-salah (HTML = bahasa pemrograman / fakta ringan) | |
+| 25–35 | Trap | “AI salah — siapa salah?” Debate 3 menit | |
+| 35–45 | Clarify | Rantai 4 langkah; latih 1× | |
+| 45–55 | Concept | Klarifikasi · AI partner · bukti > opini | |
+| 55–75 | Practice | Pasangan worksheet klarifikasi | |
+| 75–85 | Reflect | Share WA tanpa cek? + AI Policy | |
+| 85–90 | Exit | 1 pertanyaan klarifikasi pribadi | |
+
+**Adaptasi 1 JP:** Orientation 3’ · Scaffold 5’ · Experience 10’ · Clarify 8’ · Practice 14’ · Exit 5’.
+
+**Rujukan:** [03_Learning_Compass_CPLF.md](../../../../03-framework/03_Learning_Compass_CPLF.md)
 
 ---
 

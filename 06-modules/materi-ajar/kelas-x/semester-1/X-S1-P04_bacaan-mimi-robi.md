@@ -30,13 +30,48 @@ Aku:
 
 ---
 
-## Opening: recap singkat
+## Learning Compass (5 menit)
+
+| Arah | Hari ini |
+|------|----------|
+| **Tujuan** | Dari “komputer paham maksud” → instruksi eksplisit berurutan |
+| **Cara** | Lihat contoh teh (implisit vs eksplisit) → baru drama mie → baru kamu tulis algoritma |
+| **Peran kamu** | Amati langkah yang hilang; tulis eksplisit |
+| **Dukungan** | Guru model 3 langkah teh dulu |
+
+```text
+ORIENTASI  →  CONTOH GURU (scaffold)  →  ALAMI MIE  →  LATIHAN
+```
+
+---
+
+## Orientation: recap singkat
 
 Guru:
 
-> “P01—masalah sebelum solusi. Hari ini: instruksi sebelum ‘mesin ngerti.’”
+> “P01—masalah sebelum solusi. P02—input. P03—klarifikasi. Hari ini: instruksi sebelum ‘mesin ngerti.’”
 
 Robi angguk. Dia disuruh angguk.
+
+---
+
+## Scaffold: teh dulu (sebelum mie)
+
+Guru tulis dua kolom kecil di papan (**I do**):
+
+| Diucap (implisit-ish) | Eksplisit |
+|----------------------|-----------|
+| “Bikin teh.” | Siapkan gelas · masukkan teh · **tuang air panas** · aduk · cek rasa |
+
+**We do:** “Langkah mana yang sering orang gak bilang?” → kelas jawab (air panas, takaran, dll.).
+
+Robi:
+
+> “Buat apa teh? Langsung masak mie aja. Aku sudah paham maksud ‘masak.’”
+
+Aku:
+
+> “Justru itu. Scaffold dulu biar kalian punya bahasa ‘yang gak diucap.’ Baru kita biarin Robi chaos di dapur.”
 
 ---
 
@@ -207,6 +242,6 @@ Sampai P05—flowchart & pseudocode. Robi janji kali ini kupas bungkus dulu. (Di
 
 ## Catatan produksi
 
-- P04: materi algoritma + ilustrasi (`p04-01` … `p04-06`) + komik mie  
+- P04: materi algoritma + ilustrasi + Learning Compass/Scaffold (v0.2) sebelum drama mie  
 - PDF: `X-S1-P04_bacaan-mimi-robi.pdf`  
 - Regenerasi: `06-modules/materi-ajar/scripts/md_to_pdf_bacaan.py`

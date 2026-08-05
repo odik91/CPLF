@@ -57,14 +57,15 @@ Pahami dulu.
 ### Experience flow
 
 ```text
-Tulis moto di papan
-  → Tampilkan jawaban AI plausibel tapi salah
+Orientation + Compass + moto
+  → Scaffold: guru model Klaim + Alasan (We do: Bukti)
+  → Experience: jawaban AI plausibel tapi salah
   → Bomb: siapa salah?
-  → Rantai klarifikasi 4 langkah (live)
+  → Rantai klarifikasi 4 langkah
   → Concept: AI partner · bukti > opini
-  → Practice pasangan dengan klaim disiapkan guru
-  → Reflect: share WA tanpa cek
-  → Exit: 1 pertanyaan klarifikasi pribadi
+  → Practice pasangan
+  → Reflect + AI Policy
+  → Exit
 ```
 
 ### Worksheet klarifikasi (practice)
@@ -89,14 +90,17 @@ Tulis moto di papan
 
 | Menit | Fase | Aktivitas |
 |-------|------|-----------|
-| 0–5 | Opening | Tulis di papan moto: *Jangan cepat percaya. Jangan cepat menolak. Pahami dulu.* |
-| 5–22 | Experience | Tampilkan jawaban AI plausibel tapi salah (HTML= bahasa pemrograman / fakta ringan) |
-| 22–32 | Trap | Bomb: “AI salah — siapa salah?” Debate 3 menit |
-| 32–42 | Clarify | Rantai 4 langkah Prinsip Bernalar di papan; latih 1x dengan jawaban AI |
-| 42–52 | Concept | Klarifikasi · AI = partner berpikir · bukti > opini |
-| 52–70 | Practice | Pasangan: 1 klaim AI (disiapkan guru) → worksheet klarifikasi 4 langkah |
-| 70–85 | Reflect | Kapan pernah share info WA tanpa cek? |
+| 0–5 | **Orientation** | Learning Compass · moto: *Jangan cepat percaya. Jangan cepat menolak. Pahami dulu.* |
+| 5–12 | **Scaffold** | Guru model: isi **Klaim** + **Alasan** dari 1 jawaban AI — kelas bantu 1 **Bukti** |
+| 12–25 | Experience | Jawaban AI plausibel tapi salah (HTML = bahasa pemrograman / fakta ringan) |
+| 25–35 | Trap | “AI salah — siapa salah?” Debate singkat |
+| 35–45 | Clarify | Rantai 4 langkah Prinsip Bernalar; latih 1× |
+| 45–55 | Concept | Klarifikasi · AI = partner berpikir · bukti > opini |
+| 55–75 | Practice | Pasangan: 1 klaim → worksheet klarifikasi |
+| 75–85 | Reflect | Share WA tanpa cek? + AI Policy kelas |
 | 85–90 | Exit | 1 pertanyaan klarifikasi yang akan selalu kutanyakan |
+
+**Adaptasi 1 JP:** Orientation 3’ · Scaffold 5’ · Experience 10’ · Clarify 8’ · Practice 14’ · Exit 5’.
 
 ---
 

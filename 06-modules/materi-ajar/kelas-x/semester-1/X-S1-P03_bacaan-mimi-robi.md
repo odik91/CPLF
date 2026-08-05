@@ -36,7 +36,22 @@ Pahami dulu.
 
 ---
 
-## Opening: recall P01–P02
+## Learning Compass (5 menit)
+
+| Arah | Hari ini |
+|------|----------|
+| **Tujuan** | Dari “AI bilang = benar/salah total” → klarifikasi (alasan, bukti, alternatif, konteks) |
+| **Cara** | Lihat guru isi 1–2 langkah klarifikasi → baru worksheet berdua |
+| **Peran kamu** | Baca klaim, uji, jangan copas jadi |
+| **Dukungan** | Guru model Klaim + Alasan dulu |
+
+```text
+ORIENTASI  →  CONTOH GURU (scaffold)  →  BARU KAMU COBA
+```
+
+---
+
+## Orientation: recall P01–P02
 
 Guru singkat:
 
@@ -51,9 +66,29 @@ Hari ini sambungannya: prompt AI = input juga. Jawaban AI yang keren ≠ otomati
 
 ---
 
+## Scaffold: guru model 2 langkah klarifikasi
+
+Guru tampilkan **satu** kalimat klaim AI (belum full dump). Think-aloud:
+
+1. **Klaim:** “HTML adalah bahasa pemrograman.”  
+2. **Alasan:** “Karena ada tag `<>` dan dipakai di web — terdengar masuk akal.”  
+
+**We do:** “Bukti apa yang bisa kita uji?” → kelas usul: coba cari `if` di HTML murni.
+
+Robi:
+
+> “AI udah jelasin. Selesai. Percaya aja.”
+
+Aku:
+
+> “Itu loncat. Kita baru model 2 langkah. Nanti baru full experience + worksheet.”
+
+---
+
 ## Experience: AI plausibel tapi salah
 
-Guru proyeksikan chat AI (live). Prompt kira-kira: *“Jelaskan apa itu HTML.”*
+Guru proyeksikan chat AI (live). Prompt kira-kira: *“Jelaskan apa itu HTML.”*  
+(Lanjut dari scaffold — sekarang jawaban lengkapnya.)
 
 Jawaban AI keluar meyakinkan banget:
 
@@ -225,5 +260,6 @@ Sampai P04—Robi janji gak masak mie dari jawaban AI tanpa klarifikasi. (Kita p
 ## Catatan produksi
 
 - P03: materi pertemuan + ilustrasi dialog (`p03-01` … `p03-07`)  
+- Learning Compass + Scaffold (v0.2) di awal bacaan  
 - PDF: `X-S1-P03_bacaan-mimi-robi.pdf`  
 - Regenerasi: `06-modules/materi-ajar/scripts/md_to_pdf_bacaan.py`

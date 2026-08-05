@@ -52,7 +52,8 @@ Dari “Google tahu maksudku” → “output = f(input); wajib verifikasi.”
 ### Timeline inti
 
 ```text
-Recall P01 → Live search jaguar → Trap "Google salah"
+Orientation + Scaffold (guru model search)
+  → Experience jaguar → Trap "Google salah"
   → Clarify: jangan cepat percaya
   → Concept: input·keyword·verifikasi
   → Practice: 3 keyword + screenshot + sumber kedua
@@ -101,16 +102,17 @@ Siswa pilih **topik tugas MA nyata** (bukan jaguar):
 
 | Menit | Fase | Aktivitas |
 |-------|------|-----------|
-| 0–5 | Opening | Recall: batas masalah dari P01 — 1 siswa share |
-| 5–20 | Experience | Live search `jaguar` → diskusi hasil → tambah kata kunci → bandingkan |
-| 20–30 | Trap + Q | Trap: “Google salah” vs “keyword kurang” — siapa yang perlu diperbaiki? |
-| 30–40 | Clarify | *Jangan cepat percaya.* Bandingkan 2 sumber untuk 1 fakta tugas |
-| 40–50 | Concept | Input→output · keyword · verifikasi sumber |
-| 50–70 | Practice | Worksheet: 3 keyword untuk topik tugas MA + screenshot + 1 sumber kedua |
-| 70–85 | Reflect + Transfer | Hoaks judul clickbait = keyword emosional; AI prompt singkat = sama |
+| 0–5 | **Orientation** | Learning Compass · transformasi · recall P01 (1 siswa share batas) |
+| 5–12 | **Scaffold** | Guru model live: `jaguar` → `jaguar animal` (think-aloud) — **baru** kamu coba |
+| 12–25 | Experience | Bandingkan hasil · tambah keyword |
+| 25–35 | Trap + Q | “Google salah” vs “keyword kurang” — siapa diperbaiki? |
+| 35–45 | Clarify | *Jangan cepat percaya.* 2 sumber untuk 1 fakta |
+| 45–55 | Concept | Input→output · keyword · verifikasi sumber |
+| 55–75 | Practice | Worksheet: 3 keyword topik MA + screenshot + 1 sumber kedua |
+| 75–85 | Reflect + Transfer | Clickbait = keyword emosional; prompt AI singkat = sama |
 | 85–90 | Exit | 1 strategi keyword + 1 sumber terpercaya |
 
-**Adaptasi 1 JP:** Experience 15’ · Clarify 10’ · Practice 15’ · Exit 5’.
+**Adaptasi 1 JP:** Orientation 3’ · Scaffold 5’ · Experience 10’ · Clarify 7’ · Practice 15’ · Exit 5’.
 
 ---
 
