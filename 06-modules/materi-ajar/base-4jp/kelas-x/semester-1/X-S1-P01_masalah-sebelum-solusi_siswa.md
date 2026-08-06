@@ -2,9 +2,11 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [X-S1-P01_masalah-sebelum-solusi.md](../../../kelas-x/semester-1/X-S1-P01_masalah-sebelum-solusi.md)
+**Modul acuan:** [X-S1-P01_masalah-sebelum-solusi.md](../../../base-4jp/kelas-x/semester-1/X-S1-P01_masalah-sebelum-solusi.md)
 
 **Bacaan pendamping (cerita):** [X-S1-P01_bacaan-mimi-robi.md](./X-S1-P01_bacaan-mimi-robi.md) · [PDF](./X-S1-P01_bacaan-mimi-robi.pdf)
+
+**Basis:** 4JP · Pertemuan 1/34 · [Indeks S1](../../../base-4jp/kelas-x/semester-1/X-S1_Index.md)
 
 ---
 

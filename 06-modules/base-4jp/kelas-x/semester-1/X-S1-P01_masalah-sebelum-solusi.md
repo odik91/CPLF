@@ -5,7 +5,7 @@
 | Kode | X-S1-P01 |
 | Semester | 1 · Pertemuan 1/18 |
 | Unit | X1.1 |
-| Durasi | 2 JP = **90 menit** |
+| Durasi | 2 JP = **90 menit** · Basis **4JP** (P01/34) |
 | Capability | CX-B1, CX-C1 |
 | CP | BK, LD |
 | MM | MM-01, MM-00 (pengantar) |
@@ -34,7 +34,7 @@ Dari “langsung cari solusi/coding” → “berhenti sejenak memahami & membat
 
 **Adaptasi 1 JP (45 menit):** Orientation 8’ · Scaffold 7’ · Experience 12’ · Clarify 8’ · Practice 8’ · Exit 2’.
 
-**Rujukan:** [03_Learning_Compass_CPLF.md](../../../03-framework/03_Learning_Compass_CPLF.md)
+**Rujukan:** [03_Learning_Compass_CPLF.md](../../../../03-framework/03_Learning_Compass_CPLF.md) · [Indeks 34P](./X-S1_Index.md)
 
 ---
 

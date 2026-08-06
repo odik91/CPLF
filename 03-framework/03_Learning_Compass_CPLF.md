@@ -119,11 +119,11 @@ Orientation (Learning Compass)
 
 | Konteks | Orientation | Scaffold |
 |---------|-------------|----------|
-| **P01 S1** | Penuh (15’) + bacaan Mimi–Robi bagian 1–3 | Model framing kantin live (10’) |
-| **P02 S1** | Compass 5’ + recall P01 | Model live search `jaguar` → `jaguar animal` |
-| **P03 S1** | Compass 5’ + moto MM-00 | Model Klaim + Alasan (We do: Bukti) |
-| **P04 S1** | Compass 5’ + recap P01–P03 | Model teh implisit vs eksplisit sebelum drama mie |
-| **S2+ / XI / XII** | Compass 1–2’ | Scaffold menurut kebutuhan unit |
+| **P01 S1 (4JP)** | Penuh (15–20’) + bacaan Mimi–Robi | Model framing kantin live |
+| **P02 S1 (4JP)** | Compass 5’ + recall | Model live search jaguar |
+| **P03 S1 (4JP)** | Compass: impact AI · **bukan** debug | Demo generate + buka HTML 1× |
+| **P04–P06** | Compass ringkas | Sesuai modul |
+| **S2+ / XI / XII** | Compass 1–2’ | Scaffold menurut unit |
 | **Project build** | Checkpoint + kriteria DoD | Starter kosong + contoh 1 file referensi (bukan solusi penuh) |
 
 ---
@@ -133,7 +133,8 @@ Orientation (Learning Compass)
 - [03_Framework_CPLF.md](./03_Framework_CPLF.md) — Learning Cycle revisi  
 - [02_Psikologi_Pembelajaran_CPLF.md](../02-psikologi/02_Psikologi_Pembelajaran_CPLF.md) — scaffolding  
 - [00_Panduan_Pertemuan.md](../06-modules/kelas-x/00_Panduan_Pertemuan.md) — blok waktu  
-- Bacaan siswa P01: [X-S1-P01_bacaan-mimi-robi.md](../06-modules/materi-ajar/kelas-x/semester-1/X-S1-P01_bacaan-mimi-robi.md)
+- Bacaan siswa P01: [X-S1-P01_bacaan-mimi-robi.md](../06-modules/materi-ajar/base-4jp/kelas-x/semester-1/X-S1-P01_bacaan-mimi-robi.md)
+- Indeks aktif: [base-4jp X-S1_Index](../06-modules/base-4jp/kelas-x/semester-1/X-S1_Index.md)
 
 ## Catatan versi
 
