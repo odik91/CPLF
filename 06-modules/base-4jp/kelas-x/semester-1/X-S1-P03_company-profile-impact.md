@@ -5,7 +5,7 @@
 | Kode | X-S1-P03 |
 | Basis | **4JP** · Pertemuan 3/34 |
 | Unit | X1.1 |
-| Durasi | 2 JP = 90 menit |
+| Durasi | **4 JP = 180 menit** |
 | Capability | CX-B4, CX-B1 (draft) |
 | MM | MM-00, MM-16 (lanjutan P02) |
 | Status | **Outline** — isi penuh menyusul |
@@ -28,18 +28,18 @@ Dari “bisa generate = sudah bisa” → “hasil tanpa paham = deadlock & rasa
 - **ChatGPT klarifikasi (P05):** protokol formal menyusul setelah rasa P03  
 - **Gambar rumah (P04):** requirement/ambiguitas — “kita minta apa sebenarnya?”
 
-## Timeline (draft 90')
+## Timeline (180' · 4 JP)
 
 | Menit | Fase | Aktivitas |
 |-------|------|-----------|
-| 0–5 | Orientation | Compass: tujuan impact · peran: generate + bandingkan · bukan debug |
-| 5–12 | Scaffold | Guru demo **1×** generate singkat + buka file HTML di editor (I do) |
-| 12–35 | Experience | Siswa generate **company profile** (prompt seragam dari guru) |
-| 35–50 | Observe | Gallery: bandingkan 2–3 hasil teman — apa sama/beda? |
-| 50–65 | Trap | Deadlock: “Mana yang benar? Kok beda padahal prompt sama?” — **jangan** selesaikan dengan patch |
-| 65–75 | Clarify ringkas | “Yang hilang = pemahaman & requirement” — parkir ke P04–P05 |
-| 75–85 | Touch coding | Buka 1 file hasil → tunjuk tag yang dikenali (html/body/h1) — **sentuhan pertama** |
-| 85–90 | Exit | 1 hal yang bikin penasaran + 1 pertanyaan untuk minggu depan |
+| 0–10 | Orientation | Compass: impact · bandingkan · **bukan** debug / bukan ajar vibe coding |
+| 10–40 | Scaffold + Experience | Guru demo generate 1× · siswa generate company profile (prompt seragam) |
+| 40–70 | Observe | Gallery bandingkan hasil teman |
+| 70–90 | Trap | Deadlock “mana yang benar?” — **parkir**, jangan patch |
+| 90–100 | Transisi | |
+| 100–130 | Clarify ringkas + Concept | Yang hilang = paham & requirement → preview P04–P05 |
+| 130–170 | **Practice touch coding** | Buka HTML hasil · kenali `html/head/body/h1` · catat 3 pertanyaan penasaran |
+| 170–180 | Exit | 1 kebingungan + 1 pertanyaan belajar |
 
 ## Exit ticket
 

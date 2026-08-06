@@ -5,7 +5,7 @@
 | Kode | X-S1-P01 |
 | Semester | 1 · Pertemuan 1/18 |
 | Unit | X1.1 |
-| Durasi | 2 JP = **90 menit** · Basis **4JP** (P01/34) |
+| Durasi | **4 JP = 180 menit** · Basis **4JP** (P01/34) · pola ~2+2 |
 | Capability | CX-B1, CX-C1 |
 | CP | BK, LD |
 | MM | MM-01, MM-00 (pengantar) |
@@ -17,24 +17,23 @@ Dari “langsung cari solusi/coding” → “berhenti sejenak memahami & membat
 
 ---
 
-## Timeline (90 menit)
+## Timeline (180 menit · 4 JP)
 
 | Menit | Fase | Aktivitas | Catatan guru |
 |-------|------|-----------|--------------|
-| 0–20 | **Orientation** | Learning Compass + kenalan CPLF (bacaan Mimi–Robi bag. 1–3) · transformasi · rule kelas | **Bukan** langsung diskusi |
-| 20–30 | **Scaffold** | I do: guru model **live** framing antre kantin (think-aloud) · We do: 1 kotak template bersama | Siswa lihat contoh sebelum kerja sendiri |
-| 30–35 | Do Now | Sticky: 1 masalah nyata (setelah tahu apa yang diminta) | Kumpulkan tanpa komentar |
-| 35–45 | Hook | 2 solusi absurd antre kantin — kenapa gagal? | Jangan evaluasi ide dulu |
-| 45–58 | Experience | Kelompok 3–4: siapa terdampak? batas? apa **bukan** tugas kita? | Timer 12 menit |
-| 58–65 | Trap + Q | Trap: langsung usul app/web | Challenge asumsi solusi prematur |
-| 65–72 | Clarify | *Pahami sebelum menyimpulan.* Bandingkan 2 kelompok | Tulis di papan |
-| 72–80 | Concept | Problem framing · scope · stakeholder | Belum HTML/JS |
-| 80–88 | Practice | Template 1 halaman | Kumpulkan foto/PDF |
-| 88–90 | Exit | Exit ticket + preview P02 | Reflect singkat di kelas atau PR |
+| 0–20 | **Orientation** | Learning Compass + kenalan CPLF (bacaan Mimi–Robi bag. 1–3) · transformasi · rule | Bukan langsung diskusi |
+| 20–40 | **Scaffold teori** | I do: framing antre kantin live · We do: 1 kotak bersama | |
+| 40–50 | Do Now | Sticky: 1 masalah nyata | Setelah contoh |
+| 50–70 | Hook + Experience | Solusi absurd · kelompok siapa/batas/bukan tugas | ~teori/experiential |
+| 70–85 | Trap + Clarify | App prematur · *Pahami sebelum menyimpulan* | |
+| 85–95 | Concept | Framing · scope · stakeholder | Transisi ke praktik |
+| 95–110 | **Scaffold praktik** | Guru model: buat folder + `index.html` kerangka dari masalah yang diframe | I do |
+| 110–165 | **Practice** | Siswa: kerangka halaman + tulis ulang framing di halaman (heading/paragraf) | You do · terkait framing |
+| 165–180 | Reflect + Exit | Jurnal · exit ticket · preview P02 | |
 
-**Adaptasi 1 JP (45 menit):** Orientation 8’ · Scaffold 7’ · Experience 12’ · Clarify 8’ · Practice 8’ · Exit 2’.
+**Adaptasi ketat:** jangan potong Practice dulu — potong Hook.
 
-**Rujukan:** [03_Learning_Compass_CPLF.md](../../../../03-framework/03_Learning_Compass_CPLF.md) · [Indeks 34P](./X-S1_Index.md)
+**Rujukan:** [03_Learning_Compass_CPLF.md](../../../../03-framework/03_Learning_Compass_CPLF.md) · [Panduan 4JP](../00_Panduan_Pertemuan_4JP.md) · [Indeks 34P](./X-S1_Index.md)
 
 ---
 

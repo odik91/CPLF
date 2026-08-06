@@ -5,7 +5,7 @@
 | Kode | X-S1-P04 |
 | Basis | **4JP** · Pertemuan 4/34 |
 | Unit | X1.3 |
-| Durasi | 2 JP = 90 menit |
+| Durasi | **4 JP = 180 menit** · pola ~2+2 (timeline penuh menyusul) |
 | Status | Outline — geser dari P06 base-2jp |
 | DNA | [base-2jp P06](../../../base-2jp/kelas-x/semester-1/X-S1-P06_gambar-rumah-requirement.md) |
 

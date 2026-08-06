@@ -138,4 +138,5 @@ Orientation (Learning Compass)
 
 ## Catatan versi
 
-v0.2 — revisi pasca observasi: siswa bingung diskusi sebelum penjelasan. Orientation + scaffold wajib sebelum Experience terbuka (Kelas X awal).
+v0.2 — Orientation + scaffold.  
+v0.3 — Base 4JP: pertemuan 180' (2+2); HTML/CSS di S1 sebagai pengayaan terpisah dari freeze 2JP.

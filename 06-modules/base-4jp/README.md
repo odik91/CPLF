@@ -1,35 +1,33 @@
-# Base 4JP — Jalur Aktif (Evaluasi pasca-pilot)
+# Base 4JP — Jalur Aktif (Pengayaan)
 
-**Version:** 0.1 (Draft)  
-**Keputusan:** 34 pertemuan · 2× pertemuan/minggu · 2JP/pertemuan (= **4JP/minggu**)  
-**Fondasi:** [Learning Compass](../../03-framework/03_Learning_Compass_CPLF.md)
+**Version:** 0.2  
+**Bukan pengganti filosofi** — pengayaan dari arsip [base-2jp](../base-2jp/README.md).  
+**Freeze 2JP / roadmap global tidak diubah.**
 
-## Apa yang berubah dari base-2jp
+## Model waktu (terkunci)
 
-| Aspek | Base 2JP (arsip) | Base 4JP (aktif) |
-|-------|------------------|------------------|
-| Pertemuan S1 | 18 | **34** |
-| Teori beruntun | Panjang di awal | Diselingi praktik; coding mulai **P03** |
-| AI di awal | ChatGPT sebagai klarifikasi formal | **Impact**: generate company profile → bandingkan → deadlock = rasa penasaran (bukan debug, bukan ajar “vibe coding”) |
-| Opening | Compass (setelah revisi) | Compass **wajib** tiap pertemuan |
+| Item | Nilai |
+|------|-------|
+| 1 pertemuan | **4 JP = 180 menit** |
+| 1 minggu | **2 pertemuan = 8 JP** |
+| Semester 1 | **34 pertemuan** |
+| Pola isi | **~2 JP teori + ~2 JP praktik terkait** |
+| Bridging | Digabung dalam pertemuan yang sama |
 
-## Struktur folder
+Fondasi: [Learning Compass](../../03-framework/03_Learning_Compass_CPLF.md) · [Panduan 4JP](./kelas-x/00_Panduan_Pertemuan_4JP.md)
 
-```text
-06-modules/base-4jp/kelas-x/semester-1/     ← modul pertemuan
-06-modules/materi-ajar/base-4jp/...         ← handout + bacaan
-06-modules/materi-pendukung/base-4jp/...    ← skrip guru
-05-silabus/rpp-kbc/base-4jp/...             ← RPP (menyusul)
+## Keputusan media (pengayaan vs freeze)
 
-Arsip: 06-modules/base-2jp/...
-```
+| Semester | Base 4JP (pengayaan) | Base 2JP / freeze (arsip) |
+|----------|----------------------|---------------------------|
+| X S1 | HTML + CSS + JS dasar → **static page** | Bernalar + JS; HTML/CSS tipis |
+| X S2 | **Advance DOM** | HTML/CSS + DOM sangat dasar |
+| XI S4 | Lokal → masalah → **DB sungguhan** | Fetch + persistensi lokal |
 
 ## Indeks
 
-- [X-S1_Index — 34 pertemuan](./kelas-x/semester-1/X-S1_Index.md)
-
-## Catatan evaluasi (ringkas)
-
-1. Compass berjalan; siswa tetap butuh keyboard lebih awal → **P03 coding pertama**.  
-2. AI dipakai untuk **merasakan dampak** “bisa generate tapi belum mahir”, bukan mengajarkan vibe coding sebagai skill.  
-3. Deadlock antar hasil AI/teman → disimpan sebagai **motivasi belajar**, bukan sesi debug.
+- [Evaluasi & keputusan](./00_Evaluasi_Roadmap_4JP.md)
+- [S1 — 34 pertemuan](./kelas-x/semester-1/X-S1_Index.md)
+- [S2 — outline DOM](./kelas-x/semester-2/X-S2_Index.md) (draft)
+- [XI — Spiral BE lokal→DB](./kelas-xi/00_Spiral_BE_Lokal_ke_DB.md) (draft)
+- Materi ajar: `materi-ajar/base-4jp/`

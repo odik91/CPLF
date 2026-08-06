@@ -5,7 +5,7 @@
 | Kode | X-S1-P02 |
 | Basis | **4JP** · Pertemuan 2/34 |
 | Unit | X1.1 |
-| Durasi | 2 JP = 90 menit |
+| Durasi | **4 JP = 180 menit** · pola ~2+2 (timeline penuh menyusul) |
 | Status | Outline — port dari base-2jp + Compass |
 | DNA | [base-2jp P02](../../../base-2jp/kelas-x/semester-1/X-S1-P02_google-jaguar-literasi.md) |
 

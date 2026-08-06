@@ -1,96 +1,117 @@
 # Indeks Semester 1 — Kelas X (Base 4JP)
 
-**Tema:** Fondasi bernalar + sentuhan web, spiral ke JS & project  
-**Pertemuan:** **34** × 2 JP (90 menit) · **2 pertemuan/minggu** (= 4JP/minggu)  
-**Minggu efektif:** ±17 (sisanya minggu bebas — tidak diisi nomor P)  
-**Fondasi:** Learning Compass · Scaffold sebelum You do  
-**Arsip 2JP:** [base-2jp S1](../../base-2jp/kelas-x/semester-1/X-S1_Index.md)
+**Tema:** Bernalar + **static page** (HTML/CSS) + JS dasar  
+**Pertemuan:** **34** × **4 JP** (180 menit) · 2 pertemuan/minggu  
+**Pola:** ~2 JP teori + ~2 JP praktik terkait · bridging digabung  
+**Fondasi:** [Learning Compass](../../../../03-framework/03_Learning_Compass_CPLF.md) · [Panduan 4JP](../00_Panduan_Pertemuan_4JP.md)  
+**Arsip 2JP (jangan diubah untuk “menyamakan”):** [base-2jp S1](../../base-2jp/kelas-x/semester-1/X-S1_Index.md)  
+**Keputusan:** [00_Evaluasi_Roadmap_4JP.md](../00_Evaluasi_Roadmap_4JP.md)
+
+> Pengayaan: HTML/CSS masuk S1 (static page). Di freeze 2JP, HTML/CSS lebih ke S2 — itu disengaja terpisah.
 
 ---
 
-## Peta keputusan evaluasi
+## Outcome S1 (base-4jp)
 
-| Keputusan | Isi |
-|-----------|-----|
-| Jumlah | 34 |
-| Coding pertama | **P03** |
-| Blok AI | **P03** — impact generate company profile (bukan ajar vibe coding; deadlock → rasa penasaran) |
-| Selaras materi lama | Jaguar input (P02) · AI impact/klarifikasi (P03–P05) · Gambar rumah (P04) |
-
----
-
-## Blok A — Orientasi & literasi dunia digital (P01–P06)
-
-| P | Kode usulan | Fokus | Coding? | Sumber DNA lama |
-|---|-------------|-------|---------|-----------------|
-| 01 | `masalah-sebelum-solusi` | Orientation + Compass + framing | Belum | P01 |
-| 02 | `google-jaguar-literasi` | Input→output, keyword, verifikasi | Belum | P02 |
-| 03 | `company-profile-impact` | **Generate** halaman company profile (AI/tools) → bandingkan teman → deadlock = penasaran; **sentuhan coding pertama** (buka/lihat HTML hasil) | **Ya (sentuh)** | P03 + impact baru |
-| 04 | `gambar-rumah-requirement` | Requirement & ambiguitas | Ringan | P06 |
-| 05 | `protokol-klarifikasi` | Klarifikasi formal (alasan·bukti·alternatif·konteks) setelah rasa P03 | Ringan | P03 lama |
-| 06 | `robot-mie-algoritma` | Instruksi eksplisit | Belum formal | P04 |
-
-## Blok B — Representasi & kontrak (P07–P10)
-
-| P | Fokus | DNA lama |
-|---|-------|----------|
-| 07 | Flowchart & pseudocode (+ jembatan 3 baris ke editor) | P05 |
-| 08 | Spesifikasi & acceptance | P07 |
-| 09 | HTML struktur halaman (praktik setelah pernah lihat di P03) | baru / S2 awal digeser |
-| 10 | CSS ringkas / keterbacaan dasar **atau** lanjut HTML form | baru ringkas |
-
-## Blok C — JS inti (P11–P20)
-
-| P | Fokus | DNA lama |
-|---|-------|----------|
-| 11–12 | Kondisi: ATM konsep → if/else JS | P08–P09 |
-| 13–14 | Variabel & data | P10 |
-| 15–16 | Loop: kasir → JS | P11–P12 |
-| 17–18 | Function + kombinasi | P12 |
-| 19 | Error = informasi / debug | P13 |
-| 20 | Review spiral mini | P14 |
-
-## Blok D — Project S1 (P21–P34)
-
-| P | Fokus | DNA lama |
-|---|-------|----------|
-| 21–22 | Kickoff + framing ulang project | P15 |
-| 23–28 | Build (6 slot — lebih longgar karena 4JP/minggu) | P16–P17 |
-| 29–30 | Peer review + revisi | — |
-| 31–32 | Polish + uji acceptance | — |
-| 33–34 | Showcase + refleksi S1 | P18 |
+Siswa dapat:
+1. Membingkai masalah & menulis requirement sederhana  
+2. Membangun **halaman statis** (HTML + CSS) yang terbaca  
+3. Memakai **JS dasar** (kondisi, variabel, loop/fungsi ringan) pada halaman  
+4. Menjelaskan alasan solusi — bukan hanya “sudah generate / sudah copy”
 
 ---
 
-## Status pengisian file
+## Blok 1 — Orientasi & literasi (P01–P05) · bridging digabung
+
+| P | Fokus | Teori (~2JP) | Praktik (~2JP) | DNA 2JP |
+|---|-------|--------------|----------------|---------|
+| 01 | Compass + framing | Orientation, rule, problem framing | Sticky → mulai folder project + `index.html` kerangka | P01 |
+| 02 | Literasi input | Jaguar: output = f(input), verifikasi | Catat hasil di halaman HTML sederhana / form pencarian | P02 |
+| 03 | Impact AI + sentuhan kode | Generate company profile → bandingkan → deadlock = penasaran (**bukan** vibe-coding lesson, **bukan** debug) | Buka HTML hasil, kenali tag; simpan pertanyaan untuk P04–P05 | P03 + impact |
+| 04 | Requirement + acceptance | Gambar rumah + spek + acceptance (**digabung**) | Tulis spek 1 section → bangun section itu di HTML | P06+P07 |
+| 05 | Klarifikasi + algoritma jembatan | Protokol klarifikasi (pasca-impact) + ROBI/algoritma ringkas **atau** pecah bila berat* | Perbaiki 1 bagian halaman berdasarkan spek; / langkah eksplisit | P03+P04 |
+
+\*Jika P05 terlalu padat: P05 = klarifikasi+HTML polish; P06 = algoritma penuh (lihat Blok 2).
+
+---
+
+## Blok 2 — Static page & representasi (P06–P12)
+
+| P | Fokus | Teori (~2JP) | Praktik (~2JP) |
+|---|-------|--------------|----------------|
+| 06 | Algoritma eksplisit (ROBI mie) | Instruksi, implisit vs eksplisit | Flowchart/pseudocode → 5 baris di editor |
+| 07 | HTML semantik | Struktur dokumen, hierarki | Lengkapi company/profil sesuai spek |
+| 08 | CSS dasar | Presentasi vs struktur | Styling halaman S1 |
+| 09 | CSS layout / keterbacaan | Spacing, hierarki visual | Perbaiki keterbacaan halaman |
+| 10 | Halaman multi-section | Navigasi antar section (static) | Build 2–3 section |
+| 11 | Form HTML | Input sebagai data | Form + tampilan ringkas |
+| 12 | Review static + spek | Checklist acceptance | Perbaiki sesuai spek teman/guru |
+
+---
+
+## Blok 3 — JS dasar di halaman (P13–P22)
+
+| P | Fokus | Teori (~2JP) | Praktik (~2JP) |
+|---|-------|--------------|----------------|
+| 13 | JS di browser | Script, console, “halaman bisa bereaksi” | `console` / ubah teks 1 elemen |
+| 14 | Kondisi (ATM/satpam) | If/else, validasi | Cabang sederhana di halaman |
+| 15 | Kondisi lanjut | Nested / beberapa syarat | Form + pesan error |
+| 16 | Variabel & data | Menyimpan info | Simpan input form ke variabel / tampilkan |
+| 17 | Loop (kasir) | Pengulangan | Hitung / daftar mini |
+| 18 | Function | Bungkus proses | Refactor script jadi fungsi |
+| 19 | Function + loop | Kombinasi | Mini fitur otomasi di halaman |
+| 20 | Error = info | Baca error, hipotesis | Debug 1 bug yang disiapkan |
+| 21 | Integrasi mini | Spiral HTML/CSS/JS | Halaman static + 1–2 interaksi JS |
+| 22 | Review spiral | Klarifikasi + spek + kode | Peer review artefak |
+
+---
+
+## Blok 4 — Project S1 static+JS (P23–P34)
+
+| P | Fokus | Teori / proses (~2JP) | Praktik (~2JP) |
+|---|-------|----------------------|----------------|
+| 23 | Kickoff | Framing ulang + spek project | Repo/folder + kerangka |
+| 24 | Build HTML | Struktur sesuai spek | Section utama |
+| 25 | Build CSS | Keterbacaan | Layout |
+| 26 | Build JS | Fitur 1 | Implementasi |
+| 27 | Build JS | Fitur 2 / polish logika | Implementasi |
+| 28 | Checkpoint | Uji acceptance | Perbaiki |
+| 29 | Peer review | Feedback berdasar spek | Catat revisi |
+| 30 | Revisi | Prioritas revisi | Kerjakan |
+| 31 | Polish | UX ringan / aksesibilitas dasar | Sentuhan akhir |
+| 32 | Uji final | Checklist DoD | Bugfix kecil |
+| 33 | Showcase | Presentasi reasoning | Demo |
+| 34 | Refleksi S1 | Transfer · preview S2 DOM | Jurnal + arsip artefak |
+
+---
+
+## Status file
 
 | Rentang | Status |
 |---------|--------|
-| P01 | Port dari base-2jp + Compass — **aktif** |
-| P02–P06 | Outline modul di indeks ini; file detail menyusul |
-| P07–P34 | Slot terencana; isi penuh bertahap |
+| P01 | Port Compass — perlu **update timeline 180'** (2+2) |
+| P02–P05 | Outline modul ada / perlu rewrite penuh 4JP |
+| P03 | Outline impact — perlu penuh |
+| P06–P34 | Slot terencana di indeks ini |
+
+### File modul saat ini
+
+| P | Modul |
+|---|-------|
+| 01 | [P01](./X-S1-P01_masalah-sebelum-solusi.md) |
+| 02 | [P02](./X-S1-P02_google-jaguar-literasi.md) |
+| 03 | [P03](./X-S1-P03_company-profile-impact.md) |
+| 04 | [P04](./X-S1-P04_gambar-rumah-requirement.md) |
+| 05 | [P05](./X-S1-P05_protokol-klarifikasi.md) |
+| 06 | [P06](./X-S1-P06_robot-mie-algoritma.md) |
+
+Materi ajar P01: [guru](../../../materi-ajar/base-4jp/kelas-x/semester-1/X-S1-P01_masalah-sebelum-solusi_guru.md) · [siswa](../../../materi-ajar/base-4jp/kelas-x/semester-1/X-S1-P01_masalah-sebelum-solusi_siswa.md) · [bacaan](../../../materi-ajar/base-4jp/kelas-x/semester-1/X-S1-P01_bacaan-mimi-robi.md)
 
 ---
 
-## File tersedia
+## Prinsip pengayaan (wajib)
 
-| P | Modul | Materi ajar |
-|---|-------|-------------|
-| 01 | [P01](./X-S1-P01_masalah-sebelum-solusi.md) | [guru](../../../materi-ajar/base-4jp/kelas-x/semester-1/X-S1-P01_masalah-sebelum-solusi_guru.md) · [siswa](../../../materi-ajar/base-4jp/kelas-x/semester-1/X-S1-P01_masalah-sebelum-solusi_siswa.md) · [bacaan](../../../materi-ajar/base-4jp/kelas-x/semester-1/X-S1-P01_bacaan-mimi-robi.md) |
-| 02 | [P02](./X-S1-P02_google-jaguar-literasi.md) | outline |
-| 03 | [P03](./X-S1-P03_company-profile-impact.md) | outline — **impact AI + coding pertama** |
-| 04 | [P04](./X-S1-P04_gambar-rumah-requirement.md) | outline |
-| 05 | [P05](./X-S1-P05_protokol-klarifikasi.md) | outline |
-| 06 | [P06](./X-S1-P06_robot-mie-algoritma.md) | outline |
-| 07–34 | lihat peta blok di atas | bertahap |
-
----
-
-## Prinsip anti-bosan (wajib di base-4jp)
-
-1. Learning Compass di opening.  
-2. Scaffold I do sebelum You do.  
-3. Maksimal **satu** pertemuan “hanya diskusi/teori” berturut — pertemuan berikutnya ada **keyboard**.  
-4. P03: impact AI ≠ pelajaran vibe coding; deadlock ≠ sesi debug.
-
-[← Base 4JP](../README.md) · [Arsip 2JP →](../../base-2jp/kelas-x/semester-1/X-S1_Index.md)
+1. Jangan menyentuh isi `base-2jp` untuk “menyamakan”.  
+2. Tiap pertemuan 4JP: ada praktik terkait.  
+3. Bridging digabung.  
+4. P03 = impact + rasa penasaran, bukan pelajaran vibe coding / debug.

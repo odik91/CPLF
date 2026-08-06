@@ -5,7 +5,7 @@
 | Kode | X-S1-P05 |
 | Basis | **4JP** · Pertemuan 5/34 |
 | Unit | X1.1 |
-| Durasi | 2 JP = 90 menit |
+| Durasi | **4 JP = 180 menit** · pola ~2+2 (timeline penuh menyusul) |
 | Status | Outline — dari P03 base-2jp, digeser setelah impact |
 | DNA | [base-2jp P03](../../../base-2jp/kelas-x/semester-1/X-S1-P03_chatgpt-klarifikasi.md) |
 
