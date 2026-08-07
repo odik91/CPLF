@@ -49,15 +49,17 @@ Dari “langsung cari solusi/coding” → “berhenti sejenak memahami & membat
 
 ## 3. Materi praktik
 
-### Alur konseptual (90 menit)
+### Alur konseptual (180 menit · 4 JP)
 
 ```text
 Orientation (Learning Compass + rule)
-  → Scaffold (guru model framing 1×)
+  → Scaffold teori (guru model framing 1×)
   → Do Now (masalah nyata)
-  → Hook solusi absurd
-  → Experience kelompok
-  → Trap → Clarify → Concept → Practice → Reflect + Transfer
+  → Hook + Experience kelompok
+  → Trap → Clarify → Concept
+  → Scaffold praktik (index.html kerangka)
+  → Practice (tulis framing di halaman)
+  → Reflect + Exit
 ```
 
 ### Template problem framing (1 halaman)
@@ -108,22 +110,21 @@ Hoaks di WA = solusi prematur "share tanpa cek fakta" — sama dengan lompat sol
 
 ---
 
-## 7. Alur pertemuan (90 menit)
+## 7. Alur pertemuan (180 menit · 4 JP)
 
 | Menit | Fase | Aktivitas |
 |-------|------|-----------|
-| 0–20 | **Orientation** | Learning Compass · kenalan cara belajar CPLF · rule kelas (bacaan Mimi–Robi) |
-| 20–30 | **Scaffold** | Guru tunjukkan contoh framing masalah (live di papan) — **baru** kamu coba |
-| 30–35 | Do Now | Sticky: 1 masalah nyata di kelas/MA |
-| 35–45 | Hook | Solusi absurd antre kantin — kenapa gagal? |
-| 45–58 | Experience | Kelompok: siapa terdampak? batas? bukan tugas kita? |
-| 58–65 | Trap + Q | Langsung usul app? Apa masalah sebenarnya? |
-| 65–72 | Clarify | *Pahami sebelum menyimpulan.* |
-| 72–80 | Concept | Problem framing · scope · stakeholder |
-| 80–88 | Practice | Template 1 halaman |
-| 88–90 | Exit + Transfer | Exit ticket · hoaks WA = solusi prematur (preview P02) |
+| 0–20 | **Orientation** | Learning Compass · kenalan CPLF · rule kelas (bacaan Mimi–Robi) |
+| 20–40 | **Scaffold teori** | Guru model framing live — **baru** kamu coba |
+| 40–50 | Do Now | Sticky: 1 masalah nyata |
+| 50–70 | Hook + Experience | Solusi absurd · kelompok: siapa / batas / bukan tugas |
+| 70–85 | Trap + Clarify | App prematur? *Pahami sebelum menyimpulan.* |
+| 85–95 | Concept | Framing · scope · stakeholder |
+| 95–110 | **Scaffold praktik** | Guru model folder + `index.html` kerangka |
+| 110–165 | **Practice** | Tulis ulang framing di halamanmu |
+| 165–180 | Reflect + Exit | Exit ticket · preview P02 |
 
-**Adaptasi 1 JP:** Orientation 8’ · Scaffold 7’ · Experience 12’ · Clarify 8’ · Practice 8’ · Exit 2’.
+**Adaptasi ketat:** jangan potong Practice dulu — potong Hook.
 
 ---
 

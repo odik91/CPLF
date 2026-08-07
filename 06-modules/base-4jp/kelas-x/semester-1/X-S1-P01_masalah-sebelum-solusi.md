@@ -3,9 +3,9 @@
 | Field | Isi |
 |-------|-----|
 | Kode | X-S1-P01 |
-| Semester | 1 · Pertemuan 1/18 |
+| Semester | 1 · Pertemuan 1/34 |
 | Unit | X1.1 |
-| Durasi | **4 JP = 180 menit** · Basis **4JP** (P01/34) · pola ~2+2 |
+| Durasi | **4 JP = 180 menit** · Basis **4JP** |
 | Capability | CX-B1, CX-C1 |
 | CP | BK, LD |
 | MM | MM-01, MM-00 (pengantar) |

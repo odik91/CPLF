@@ -2,6 +2,14 @@
 
 Jalur aktif. Arsip: [base-2jp](../../base-2jp/kelas-x/semester-1/).
 
+## Standar file guru (wajib)
+
+Setiap `*_guru.md` harus **mandiri dipakai mengajar**, pola P01:
+
+1. **A. Modul** — metadata + transformasi + **timeline menit demi menit** + trap + exit + formatif  
+2. **B. Pendukung** — pengetahuan · recall · etika · **skrip live per blok waktu** · kesalahan umum · checklist · KBC  
+3. Jangan hanya “ringkas + lihat file lain” — itu menimbulkan ambiguitas penyampaian
+
 | P | File |
 |---|------|
 | 01 | [guru](./X-S1-P01_masalah-sebelum-solusi_guru.md) · [siswa](./X-S1-P01_masalah-sebelum-solusi_siswa.md) · [bacaan](./X-S1-P01_bacaan-mimi-robi.md) |
