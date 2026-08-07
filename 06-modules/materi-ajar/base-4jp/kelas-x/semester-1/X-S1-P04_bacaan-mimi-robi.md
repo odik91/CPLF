@@ -1,12 +1,12 @@
 # Bacaan Pendamping — X-S1-P04  
-## Mimi & Robi: Rumah Beda-beda & Spek yang Bisa Dicentang
+## Mimi & Robi: Rumah yang “Salah”, Checklist yang Menyelamatkan, & Twist Kata KEREN
 
 | Field | Isi |
 |-------|-----|
 | Kode | X-S1-P04 — Requirement & Acceptance |
 | Pertemuan | **4 / 34** · Basis **4JP** |
-| Status | Naskah · sketch khusus menyusul |
-| Nada | POV Mimi, ringan, Gen Z |
+| Status | Naskah humor · sketch khusus menyusul |
+| Nada | POV Mimi, Gen Z, **plot twist** — teori dibungkus cerita |
 
 **Handout:** [X-S1-P04_gambar-rumah-requirement_siswa.md](./X-S1-P04_gambar-rumah-requirement_siswa.md)  
 **Modul:** [X-S1-P04 …](../../../base-4jp/kelas-x/semester-1/X-S1-P04_gambar-rumah-requirement.md)
@@ -15,110 +15,218 @@
 
 Halo. Mimi.
 
-Kemarin Robi macet: prompt sama, company profile beda, “mana yang benar?” tidak ada jawabannya. Dia simpan file dengan nama panjang *bukti-proses-bukan-karya-final*. Progress.
+Kalau minggu-minggu ini terasa “banyak teori,” jangan panik. Ini bukan hukuman. Ini **bab awal journey software engineer** yang jarang ditayangin di trailer: sebelum hero ngetik kode keren, dia harus bisa bilang *apa yang diminta* tanpa bikin drama.
 
-Hari ini guru bilang:
+Robi hari ini masuk kelas dengan aura *final boss unlock*:
 
-> “Gambarlah rumah.”
-
-Tiga menit. Kertas. Pensil. Selesai.
-
-Pajang di papan: ada joglo, ada kotak empat jendela, ada yang cuma atap segitiga, ada yang kasih cerobong asap karena “rumah kan biasanya…”.
-
-Robi:
-
-> “Instruksinya sama. Kok hasilnya kacau?”
+> “Akhirnya. Kemarin kita macet di company profile. Hari ini pasti **langsung build**. Aku sudah warmup jari.”
 
 Aku:
 
-> “Sama kayak kemarin. Yang sama cuma kalimatnya. Yang di kepala kalian — beda.”
+> “Spoiler: warmup-nya… pensil.”
+
+Layar di kepalanya lag 0,3 detik. Classic.
 
 ---
 
-## Learning Compass
+## Learning Compass (biar gak nyasar)
 
 | Arah | Hari ini |
 |------|----------|
-| Tujuan | Spek spesifik + cara uji (bukan “bagus”) |
-| Peranmu | Gambar → daftar yang hilang → tulis AC → bangun 1 section |
-| Bukan | Debat siapa paling jago gambar / full website |
+| Tujuan | Spek spesifik + cara uji (bukan “bagus/keren”) |
+| Peranmu | Gambar → sadar yang hilang → tulis AC → bangun 1 section |
+| Bukan | Lomba gambar / full website / debat selera |
+
+```text
+LIHAT CONTOH  →  ALAMI AMBIGU  →  BARU TULIS SPEK  →  BARU BUILD
+```
 
 ---
 
-## Clarify — info yang tidak diberikan
+## Adegan 1 — Misi rahasia (yang ternyata pensil)
 
-Kami daftar bareng:
+Guru:
+
+> “Gambarlah rumah.”
+
+Tiga menit. Kertas. Tanpa slide. Tanpa AI. Tanpa “boleh tanya detail?”
+
+Robi *locked in*. Dia gambar… bukan rumah. Dia gambar **gedung 40 lantai + helipad + neon “FUTURE HQ”**, karena di kepalanya “rumah” = markas engineer masa depan.
+
+Teman sebelah: joglo.  
+Belakang: kotak + cerobong.  
+Depan: cuma segitiga atap karena “ya rumah gitu.”
+
+Pajang. Kelas diam. Lalu:
+
+> “Instruksinya sama. Kok hasilnya kayak pameran seni yang lagi bertengkar?”
+
+Aku angkat cakar:
+
+> **KRISIS!** (versi lucu.)  
+> “Yang sama cuma kalimatnya. Yang di kepala kalian — beda galaxy.”
+
+Robi:
+
+> “Jadi aku yang salah?”
+
+> “Enggak. Instruksinya yang terlalu… *vibes*.”
+
+---
+
+## Plot twist #1 — “Salah” bukan karena jelek
+
+Robi siap menerima nilai jelek. Dia sudah siapkan alasan:
+
+> “Helipad itu inovasi—”
+
+Guru:
+
+> “Tidak ada yang dinilai cantik hari ini.”
+
+Plot twist: **yang “salah” bukan gambarnya.**  
+Yang goyah adalah asumsi:
+
+> “Instruksi sama = hasil sama.”
+
+Daftar bareng yang **tidak** diberikan:
 
 - Berapa lantai?  
 - Ada atap? pintu? jendela berapa?  
 - Tampak depan atau denah?  
-- Ukuran kertas? hitam-putih atau warna?
+- Hitam-putih atau warna?  
+- Rumah tinggal… atau markas dengan helipad? *(Robi mengangkat tangan pelan, lalu nurunin lagi.)*
 
-Robi bilang pelan:
+Aku bisik:
 
-> “Jadi ‘gambar rumah’ itu… bukan requirement.”
+> “Kemarin company profile deadlock. Hari ini versi kertasnya. Sama penyakitnya: **minta tanpa spek**.”
+
+Robi pelan:
+
+> “Jadi ‘gambar rumah’ itu… undangan chaos.”
+
+> “Undangan interpretasi. Requirement itu yang bisa dijawab **ya / tidak**.”
+
+---
+
+## Adegan 2 — Dendam manis: “yang KEREN”
+
+Setelah paham, Robi mau balas dendam ke ambiguitas. Dia tulis brief section web:
+
+> **Tentang kami yang KEREN BANGET, modern, profesional, wow.**
+
+Dia bangga. Empat kata power. Kayak trailer Marvel.
+
+Teman tukar brief. Lima menit sketsa. Lalu centang acceptance.
+
+Hasil review:
+
+| Kriteria Robi | Hasil |
+|---------------|-------|
+| Keren banget | ❌ “Menurutku biasa.” |
+| Modern | ❌ “Menurutku jadul.” |
+| Profesional | ❌ “Menurutku cute?” |
+| Wow | ❌ *(teman cuma ketawa)* |
+
+Robi overheat:
+
+> “Ini subjektif! Ini perang selera!”
 
 Aku:
 
-> “Itu undangan interpretasi. Requirement itu yang bisa dijawab **ya/tidak**.”
+> “Exactly. Kau baru temukan musuh alami engineer: kata yang **terasa dalam**, tapi **tidak bisa dicentang**.”
 
 ---
 
-## Concept — acceptance
+## Plot twist #2 — Checklist “membosankan” yang menang
 
-Guru ubah di papan:
+Guru coret kata **bagus / keren / modern** di papan (merah. Dramatis. Robi hampir minta tissue digital).
 
-| Buruk | Lebih baik |
-|-------|------------|
-| Section tentang kami yang **bagus** | [ ] Ada `h2` nama usaha |
+Lalu ubah bareng:
+
+| Harapan (vibes) | Acceptance (bisa diuji) |
+|-----------------|-------------------------|
+| Section tentang kami yang keren | [ ] Ada `h2` berisi nama usaha |
 | | [ ] Minimal 2 paragraf |
-| | [ ] Ada 1 kalimat “kami tidak …” (batas) |
+| | [ ] Ada 1 kalimat batas: “Kami tidak …” |
 
-Kata **bagus** digaris merah. Robi hampir nangis kecil di dalam speaker-nya.
+Robi terpaksa tulis ulang. Brief-nya sekarang… polos. Kayak nasi putih.
 
-> “Tapi aku suka yang bagus.”
+Teman sketsa lagi. Peer review:
 
-> “Suka boleh. Menilai tugas — pakai centang. Bukan perasaan.”
+> “AC 1 ✅ · AC 2 ✅ · AC 3 ✅”
+
+Robi:
+
+> “…menang? Dengan nasi putih?”
+
+Aku:
+
+> “Di dunia nyata, nasi putih yang bisa dicentang lebih berharga daripada trailer ‘wow’ yang bikin meeting 3 jam.”
+
+Ini bagian journey engineer yang jarang difoto:  
+**bukan anti-kreatif — anti-debat sia-sia.**  
+Kreatif boleh. Tapi syarat tugas harus observable. Kalau tidak, yang menang = siapa paling keras bilang “kerasa keren.”
 
 ---
 
-## Practice
+## Adegan 3 — Keyboard (1 section, bukan full saga)
 
-Kami tulis brief **satu section** saja — Tentang kami warung mie. Tukar. Teman sketsa lima menit. Centang AC.
+Lanjut build: satu `<section>` sesuai spek. Bukan full page. Bukan CSS pelangi.
 
-Lalu keyboard: bangun `<section>` sesuai spek. Bukan full page. Bukan CSS rainbow.
+Robi hampir nambah animasi:
 
-Peer review:
+> “Sedikit saja—”
+
+Aku:
+
+> “Scope. Ingat P01. Helikopter antre kantin masih trauma kolektif.”
+
+Peer:
 
 > “AC nomor 2: ❌ — cuma satu paragraf.”
 
-Robi mau debat. Aku pegang sticky:
+Robi mau debat. Aku tempel sticky di antenna-nya:
 
-> “❌ itu hadiah. Lebih jujur dari ‘hmm lumayan.’”
+> “❌ itu hadiah. Lebih jujur dari ‘hmm lumayan, tapi…’”
 
----
+Dia diam. Lalu nambah paragraf. Centang. Selesai.
 
-## Reflect
-
-Deadlock P03 sekarang punya bahasa:
-
-1. Ambiguitas  
-2. Requirement  
-3. Acceptance  
-
-Besok (P05): kalau spek masih bolong — **klarifikasi**. Jangan pura-pura sudah jelas.
+Plot twist kecil terakhir: dia *senang* dapat ❌.  
+Karena ❌ punya aturan. Bukan feeling.
 
 ---
 
-## Exit
+## Reflect — bahasa buat deadlock kemarin
 
-1. Poin requirement paling penting  
-2. AC paling sulit  
-3. Kata subjektif yang kamu bunuh hari ini
+Sekarang P03 punya kamus:
 
-Satu line:
+1. **Ambiguitas** — banyak tafsir  
+2. **Requirement** — apa yang harus ada  
+3. **Acceptance** — cara bilang selesai tanpa perang selera  
 
-> **Kalau tidak bisa dicentang, itu belum spek — itu harapan.**
+Besok (P05): kalau spek masih bolong — **klarifikasi**. Jangan pura-pura “udah jelas di kepala.”
+
+Robi nulis di margin (all caps, sedikit traumatized):
+
+> DILARANG PAKAI KATA “KEREN” DI AC.
+
+Aku:
+
+> “Character development. Bagus— eh. Maksudku: ✅.”
+
+---
+
+## Exit (isi di kelas / PR singkat)
+
+1. Poin requirement paling penting hari ini: …  
+2. AC paling sulit dipenuhi: …  
+3. Kata subjektif yang kamu “bunuh”: …
+
+Satu line dibawa pulang:
+
+> **Kalau tidak bisa dicentang, itu belum spek — itu harapan.**  
+> Dan harapan tanpa spek = sumber bug sosial sebelum bug kode.
 
 — **Mimi** 🐾  
-*(Robi menulis di margin: dilarang pakai kata “keren” di AC.)*
+*(Robi menutup helipad di gambarnya dengan sticky note: “out of scope.”)*
