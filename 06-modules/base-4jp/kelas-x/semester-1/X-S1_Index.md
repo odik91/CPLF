@@ -89,10 +89,10 @@ Siswa dapat:
 
 | Rentang | Status |
 |---------|--------|
-| P01 | Port Compass — perlu **update timeline 180'** (2+2) |
-| P02–P05 | Outline modul ada / perlu rewrite penuh 4JP |
-| P03 | Outline impact — perlu penuh |
-| P06–P34 | Slot terencana di indeks ini |
+| P01 | Timeline 180' ada · materi ajar ada |
+| P02–P03 | **Isi penuh** (modul + guru/siswa/bacaan/pendukung) |
+| P04–P06 | Outline · perlu rewrite penuh 4JP |
+| P07–P34 | Slot terencana di indeks ini |
 
 ### File modul saat ini
 
@@ -105,7 +105,7 @@ Siswa dapat:
 | 05 | [P05](./X-S1-P05_protokol-klarifikasi.md) |
 | 06 | [P06](./X-S1-P06_robot-mie-algoritma.md) |
 
-Materi ajar P01: [guru](../../../materi-ajar/base-4jp/kelas-x/semester-1/X-S1-P01_masalah-sebelum-solusi_guru.md) · [siswa](../../../materi-ajar/base-4jp/kelas-x/semester-1/X-S1-P01_masalah-sebelum-solusi_siswa.md) · [bacaan](../../../materi-ajar/base-4jp/kelas-x/semester-1/X-S1-P01_bacaan-mimi-robi.md)
+Materi ajar: [00_Index_Materi_Ajar](../../../materi-ajar/base-4jp/kelas-x/semester-1/00_Index_Materi_Ajar.md)
 
 ---
 
