@@ -29,9 +29,9 @@ Siswa dapat:
 | 02 | Literasi input | Jaguar: output = f(input), verifikasi | Catat hasil di halaman HTML sederhana / form pencarian | P02 |
 | 03 | Impact AI + sentuhan kode | Generate company profile → bandingkan → deadlock = penasaran (**bukan** vibe-coding lesson, **bukan** debug) | Buka HTML hasil, kenali tag; simpan pertanyaan untuk P04–P05 | P03 + impact |
 | 04 | Requirement + acceptance | Gambar rumah + spek + acceptance (**digabung**) | Tulis spek 1 section → bangun section itu di HTML | P06+P07 |
-| 05 | Klarifikasi + algoritma jembatan | Protokol klarifikasi (pasca-impact) + ROBI/algoritma ringkas **atau** pecah bila berat* | Perbaiki 1 bagian halaman berdasarkan spek; / langkah eksplisit | P03+P04 |
+| 05 | Klarifikasi + AI Policy | Protokol klarifikasi (pasca-impact) + AI Policy | Polish 1 bagian halaman berdasar spek/klarifikasi | P03 2JP |
 
-\*Jika P05 terlalu padat: P05 = klarifikasi+HTML polish; P06 = algoritma penuh (lihat Blok 2).
+\*Algoritma ROBI penuh **tidak** digabung di P05 — pecah sadar ke **P06** agar tidak padat.
 
 ---
 
@@ -90,8 +90,8 @@ Siswa dapat:
 | Rentang | Status |
 |---------|--------|
 | P01 | Timeline 180' ada · materi ajar ada |
-| P02–P04 | **Isi penuh** (modul + guru/siswa/bacaan/pendukung) |
-| P05–P06 | Outline · perlu rewrite penuh 4JP |
+| P02–P05 | **Isi penuh** (modul + guru/siswa/bacaan/pendukung) |
+| P06 | Outline · perlu rewrite penuh 4JP |
 | P07–P34 | Slot terencana di indeks ini |
 
 ### File modul saat ini
