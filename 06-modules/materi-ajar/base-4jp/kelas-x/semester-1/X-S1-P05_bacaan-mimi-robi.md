@@ -1,11 +1,11 @@
 # Bacaan Pendamping — X-S1-P05  
-## Mimi & Robi: AI “Salah”, Siapa yang Diadili, & Policy yang Menyelamatkan WA
+## Mimi & Robi: AI “Salah”, Siapa yang Diadili, & Aturan Kelas yang Menyelamatkan WA
 
 | Field | Isi |
 |-------|-----|
-| Kode | X-S1-P05 — Protokol Klarifikasi & AI Policy |
+| Kode | X-S1-P05 — Protokol Klarifikasi & Aturan AI kelas |
 | Pertemuan | **5 / 34** · Basis **4JP** |
-| Status | Naskah humor · sketch khusus menyusul |
+| Status | Naskah humor · istilah penuh (hindari singkatan kosong makna) |
 | Nada | POV Mimi, Gen Z, **plot twist** |
 
 **Handout:** [X-S1-P05_protokol-klarifikasi_siswa.md](./X-S1-P05_protokol-klarifikasi_siswa.md)  
@@ -15,15 +15,17 @@
 
 Halo. Mimi.
 
+Otak manusia itu bukan hard disk. Dia nempel ke **makna**, cerita, dan “Haaah, masuk akal!” — bukan ke kode huruf acak. Jadi hari ini kita pakai **nama lengkap** konsepnya. Kalau cuma singkatan, Robi hafal; kalian… lupa besok pagi. Neuroscience 101 versi kucing.
+
 Robi masuk dengan sticky note di antenna:
 
-> DILARANG PAKAI KATA “KEREN” DI AC.
+> DILARANG PAKAI KATA “KEREN” DI KRITERIA PENERIMAAN.
 
 Character development minggu lalu. Dia bangga banget, kayak baru lulus dojo.
 
-Hari ini dia bawa mood baru:
+Hari ini mood baru:
 
-> “Oke. Spek sudah. AC sudah. Sekarang aku tinggal tanya AI: ‘Apakah sectionku sudah benar?’ Kalau bilang ya — selesai. Journey engineer selesai lebih cepat dari trailer.”
+> “Oke. Spesifikasi sudah. Kriteria penerimaan sudah. Sekarang aku tinggal tanya AI: ‘Apakah sectionku sudah benar?’ Kalau bilang ya — selesai. Journey engineer selesai lebih cepat dari trailer.”
 
 Aku:
 
@@ -35,12 +37,12 @@ Aku:
 
 | Arah | Hari ini |
 |------|----------|
-| Tujuan | Klarifikasi sebelum percaya/menolak |
-| Peranmu | Isi rantai 4 langkah → polish 1 bagian HTML |
-| Bukan | Vonis “AI jahat/pintar” · generate ulang full page · ROBI mie penuh (itu P06) |
+| Tujuan | Klarifikasi sebelum percaya atau menolak |
+| Peranmu | Isi rantai klarifikasi → perbaiki satu bagian HTML |
+| Bukan | Vonis “AI jahat/pintar” · generate ulang full page · algoritma ROBI penuh (itu pertemuan berikutnya) |
 
 ```text
-MOTO  →  LIHAT CONTOH  →  DEBAT “SIAPA SALAH?”  →  PROTOCOL  →  POLICY  →  POLISH
+MOTO  →  CONTOH  →  “SIAPA SALAH?”  →  PROTOCOL  →  ATURAN AI  →  PERBAIKI HALAMAN
 ```
 
 ---
@@ -55,22 +57,20 @@ Jangan cepat menolak.
 Pahami dulu.
 ```
 
-Lalu satu klaim muncul (live, dramaturgi ringan):
+Satu klaim muncul:
 
 > “HTML adalah bahasa pemrograman.”
 
-Robi langsung angkat tangan (well, antenna):
+Robi:
 
 > “SALAH. Vonis: AI bodoh. Next.”
-
-Kelas setengah setuju karena vibes “kami sudah kritis.”
 
 Aku:
 
 > **KRISIS!**  
-> “Kamu baru cepat menolak. Baca motonya lagi. Baris dua.”
+> “Kamu baru cepat menolak. Baca moto baris dua.”
 
-Robi scan papan. Lag. Kipas internal nyala.
+Kipas internalnya nyala.
 
 ---
 
@@ -78,120 +78,115 @@ Robi scan papan. Lag. Kipas internal nyala.
 
 Guru: “AI salah. **Siapa** yang salah?”
 
-Debat meletus:
+Debat: AI · prompt · kita yang percaya buta · konteks hilang · semuanya agak-agak.
 
-- “AI-nya.”  
-- “Prompt-nya.”  
-- “Kita yang percaya buta.”  
-- “Konteksnya hilang.”  
-- “Semuanya agak-agak.”
+Plot twist: ini bukan sidang menghukum robot. Ini menghentikan **vonis kilat**.
 
-Plot twist: sidang ini **bukan** untuk menghukum robot.  
-Ini untuk menghentikan kebiasaan vonis kilat — dosa klasik engineer muda *dan* netizen.
+Kami isi rantai — dan langkah 4–5 yang biasanya bikin bingung, aku jelasin biar tidak ambigu:
 
-Kami isi kolom:
+### Alternatif = penjelasan *lain* yang masih masuk akal
 
-| Klaim | Alasan terdengar masuk akal | Bukti / uji | Alternatif & konteks |
-|-------|----------------------------|-------------|----------------------|
-| HTML = bahasa pemrograman | Ada tag, “kek coding” | Coba `if` / variabel di HTML murni? | HTML = struktur; logika biasanya di JS, dll. |
+Bukan cari jawaban random. Tapi: *kalau alasan pertama salah/kurang, apa hipotesis kedua?*
 
-Robi pelan:
+Untuk klaim HTML:
 
-> “Jadi… aku ikut bersalah karena buru-buru?”
+- Alasan pertama: “Ada tag, kek coding.”  
+- **Alternatif:** “HTML itu bahasa **markup** — menyusun struktur halaman. Logika program (`if`, variabel) biasanya di JavaScript.”
 
-> “Selamat. Itu level 1 tabayyun. Badge belum keluar, tapi otaknya sudah.”
+### Konteks = *batas berlaku* klaim
+
+Bukan “kadang-kadang” tanpa contoh. Tapi: *di situasi apa klaim ini aman, dan di situasi apa berbahaya dipakai sebagai keputusan final?*
+
+- **Boleh longgar:** obrolan “kita lagi programming web.”  
+- **Tidak berlaku:** definisi formal, jawaban ujian, atau alasan nilai tugas.
+
+Robi:
+
+> “Jadi alternatif = penjelasan lain. Konteks = kapan boleh / tidak boleh pakai klaim itu.”
+
+> “✅. Otak manusia suka rumus pendek yang bermakna — bukan teka-teki.”
 
 ---
 
 ## Adegan 2 — Dendam ke tombol Generate (lagi)
 
-Robi buka chat AI, mau balas dendam:
+Robi ketik:
 
 > “Jelaskan dengan sangat yakin apakah section HTML-ku sudah sempurna dan profesional.”
 
-Aku cubit kabel (figuratif):
+Aku:
 
-> “Itu prompt vibes. Ingat jaguar. Ingat ‘keren’. Kau sedang minta otoritas, bukan uji.”
+> “Itu minta otoritas, bukan uji. Ingat jaguar. Ingat kata ‘keren’.”
 
 Dia ganti:
 
-> “Berdasarkan AC berikut: […]. AC mana yang belum terpenuhi? Jangan bilang ‘bagus’.”
+> “Berdasarkan **kriteria penerimaan** berikut: […]. Mana yang belum terpenuhi? Jangan bilang ‘bagus’.”
 
-Jawaban AI… tidak menyembahnya. Ada yang ❌.
+AI tidak menyembahnya. Ada yang belum terpenuhi.
 
-Robi:
-
-> “Dia kurang ajar.”
-
-> “Dia berguna. Bedanya jauh.”
+Robi: “Dia kurang ajar.”  
+Aku: “Dia berguna. Bedanya jauh.”
 
 ---
 
-## Plot twist #2 — Policy yang “melarang” ternyata membebaskan
+## Plot twist #2 — aturan yang “melarang” ternyata membebaskan
 
-Kelas sepakat AI Policy. Robi kira ini peraturan penjara:
+Kelas sepakat **aturan AI kelas**:
 
-- Boleh AI, **dengan** log klarifikasi  
-- Copas tanpa paham ≠ lulus REA  
-- AI = partner, bukan hakim nilai  
-- Jangan WA “tugas selesai” tanpa spek/AC  
+- AI boleh dipakai **dengan catatan klarifikasi singkat** (klaim + bukti/uji).  
+- Copas tanpa paham = **belum** memenuhi aspek **Penalaran** — artinya: alasanmu belum diuji; kamu baru menelan.  
+- AI = partner berpikir, bukan hakim nilai.  
+- Jangan kirim ke WA sebagai “tugas selesai” tanpa spesifikasi + kriteria penerimaan yang tercentang.
 
-Lalu dia sadar plot twist-nya:
+Robi kira ini penjara. Lalu sadar:
 
 > “Oh. Jadi aku **boleh** pakai AI… asal aku tidak pura-pura sudah paham.”
 
-> “Exactly. Policy ini bukan anti-AI. Anti-**bohong ke diri sendiri**.”
+> “Exactly. Anti-**bohong ke diri sendiri** — bukan anti-AI.”
 
-Di dunia engineer, itu skill bertahan hidup. Klien, AI, Stack Overflow, teman sebangku — semua bisa terdengar yakin. Yang nolong: protokol.
+Itu skill bertahan hidup engineer: semua pihak bisa terdengar yakin. Yang nolong = protokol bermakna, bukan singkatan kosong.
 
 ---
 
-## Adegan 3 — Polish, bukan reboot
+## Adegan 3 — Perbaiki, bukan reboot
 
-Praktik: bukan generate company profile lagi (trauma P03 masih berbau mie).
+Ambil section pertemuan lalu. Ambil satu klaim (“sudah benar”). Klarifikasi. Cari **kriteria penerimaan** yang belum terpenuhi. Ubah **satu bagian** HTML.
 
-Ambil section P04. Ambil 1 klaim (“sudah benar”). Klarifikasi. Temukan AC yang ❌. Ubah **satu bagian** HTML.
+Teman:
 
-Peer:
+> “Kriteria target: terpenuhi.”
 
-> “AC target: ✅.”
+Robi mau caption WA “DONE🔥”. Aku:
 
-Robi hampir kirim ke WA grup dengan caption “DONE🔥”.
-
-Aku:
-
-> “Caption dulu: klaim + AC yang baru ✅. Atau jangan kirim. Nafas.”
-
-Dia simpan draft. Progress. Lagi.
+> “Caption: klaim + kriteria yang baru terpenuhi. Atau jangan kirim. Nafas.”
 
 ---
 
 ## Reflect
 
-Journey sejauh ini:
-
-| P | Badge tidak resmi |
-|---|-------------------|
+| Pertemuan | Badge tidak resmi |
+|-----------|-------------------|
 | 01 | Stop helikopter |
 | 02 | Stop “Google salah” buta |
 | 03 | Stop “generate = bisa” |
-| 04 | Stop kata “keren” di AC |
-| **05** | Stop vonis kilat · mulai protokol |
+| 04 | Stop kata “keren” di kriteria penerimaan |
+| **05** | Stop vonis kilat · mulai protokol (alternatif + batas konteks) |
 
-Besok (P06): Robi patuh. Masalahnya biasanya langkah yang **implisit**. Algoritma masuk.
+Besok: Robi patuh. Yang berantakan biasanya langkah **implisit**. Algoritma masuk.
 
 ---
 
 ## Exit
 
 1. Satu pertanyaan klarifikasi pribadi: …  
-2. Satu poin AI Policy yang paling nempel: …  
-3. Satu perubahan HTML + AC yang ✅: …
+2. Satu poin aturan AI yang paling nempel: …  
+3. Satu perubahan HTML + kriteria penerimaan yang baru terpenuhi: …
 
 Satu line:
 
 > **Jangan cepat percaya. Jangan cepat menolak. Pahami dulu.**  
+> Alternatif = penjelasan lain. Konteks = kapan klaim boleh / tidak boleh.  
 > AI boleh ikut — otakmu tetap ketua tim.
 
 — **Mimi** 🐾  
-*(Robi menamai file: `klarifikasi-bukan-vonis.md` — agak lebay, tapi ✅.)*
+*(Robi menamai file: `klarifikasi-bukan-vonis.md` — lebay, tapi terpenuhi.)*

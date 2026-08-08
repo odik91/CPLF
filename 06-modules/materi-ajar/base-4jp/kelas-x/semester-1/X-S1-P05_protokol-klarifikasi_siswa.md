@@ -10,7 +10,8 @@
 
 ## 1. Tujuan
 
-Dari “AI/teman bilang = benar atau salah total” → “klarifikasi: klaim · alasan · bukti · alternatif · konteks.”
+Dari “AI/teman bilang = benar atau salah total”  
+→ “klarifikasi: klaim · alasan · bukti · **alternatif** · **konteks (batas berlaku)**.”
 
 ---
 
@@ -24,31 +25,41 @@ Pahami dulu.
 
 ---
 
-## 3. Konsep
+## 3. Rantai klarifikasi (arti jelas)
 
-### Rantai klarifikasi
+Isi **berurutan**. Jangan putuskan benar/salah sebelum langkah 4–5.
 
-| Langkah | Tanya ke diri sendiri |
-|---------|------------------------|
-| **Klaim** | Apa yang dikatakan (persis)? |
-| **Alasan** | Kenapa terdengar masuk akal? |
-| **Bukti** | Apa yang bisa diuji / dicek? |
-| **Alternatif & konteks** | Penjelasan lain? Kapan klaim tidak berlaku? |
+| No | Langkah | Arti | Pertanyaan wajib |
+|----|---------|------|------------------|
+| 1 | **Klaim** | Kalimat yang diuji (kutip apa adanya) | Apa yang dikatakan (persis)? |
+| 2 | **Alasan** | Kenapa klaim *terdengar* masuk akal (belum tentu benar) | Kenapa orang/AI bisa bilang begitu? |
+| 3 | **Bukti** | Yang bisa dicek/diuji hari ini | Apa yang bisa kita uji sekarang? |
+| 4 | **Alternatif** | **Penjelasan lain** yang masih masuk akal (hipotesis kedua) | Kalau bukan itu, apa penjelasan lain yang masuk akal? |
+| 5 | **Konteks** | **Batas berlaku**: kapan klaim aman vs menyesatkan | Di situasi apa boleh? Di situasi apa **tidak** boleh jadi keputusan final? |
+
+### Jangan campur Alternatif dengan Konteks
+
+| | Alternatif | Konteks (batas berlaku) |
+|--|------------|-------------------------|
+| Inti | “Mungkin maksudnya / penjelasannya **yang lain**…” | “Klaim ini **hanya aman jika…**; **berbahaya jika…**” |
+| Contoh (HTML = bahasa pemrograman) | HTML = bahasa **markup** (struktur); logika biasanya di JavaScript | Boleh longgar di obrolan “bikin web”; **tidak berlaku** sebagai definisi formal / alasan nilai tugas |
+| Lulus jika | Ada ≥1 penjelasan lain yang masuk akal | Ada ≥1 situasi “berlaku” **dan** ≥1 “tidak berlaku” |
+
+**Pengingat satu baris:**  
+Alternatif = *penjelasan lain.* · Konteks = *kapan boleh / tidak boleh pakai klaim itu.*
 
 ### Trap hari ini
 
-“AI salah” → bukan otomatis “AI bodoh.” Bisa: prompt kurang, kita kurang cek, konteks hilang, atau model.
+“AI salah” ≠ otomatis “AI bodoh.” Bisa: prompt kurang, kita kurang cek, konteks hilang, atau model.
 
-### Hubungkan P02–P04
+### Hubungkan pertemuan sebelumnya
 
-- P02: output = f(**input**) — prompt juga input  
-- P03: generate tanpa paham = deadlock  
-- P04: “bagus” bukan AC — harus ✅/❌  
+- P02: output mengikuti **input** (prompt juga input)  
+- P03: generate tanpa paham = deadlock (macet)  
+- P04: “bagus/keren” bukan **kriteria penerimaan** — harus bisa dicentang terpenuhi / belum  
 - **P05:** cara **bertanya** sebelum percaya atau menolak  
 
-### Algoritma ROBI?
-
-Preview saja. Penuh di **P06**.
+Algoritma ROBI penuh → pertemuan berikutnya (P06).
 
 ---
 
@@ -58,9 +69,9 @@ Preview saja. Penuh di **P06**.
 Orientation + moto
   → Guru model klarifikasi 1 klaim
   → Baca jawaban AI per kalimat
-  → “Siapa salah?” → rantai 4 langkah
-  → AI Policy kelas
-  → Polish 1 bagian HTML dari spek/klarifikasi
+  → “Siapa salah?” → rantai 5 langkah
+  → Aturan AI kelas
+  → Perbaiki 1 bagian HTML dari spek/klarifikasi
   → Exit
 ```
 
@@ -70,63 +81,64 @@ Orientation + moto
 
 **Sumber klaim:** ☐ AI  ☐ Teman  ☐ Diriku (tentang halaman)
 
-1. Klaim: …  
-2. Alasan terdengar masuk akal: …  
-3. Bukti / cara uji: …  
-4. Alternatif penjelasan: …  
-5. Konteks di mana klaim tidak berlaku: …  
+1. **Klaim:** …  
+2. **Alasan** terdengar masuk akal: …  
+3. **Bukti** / cara uji: …  
+4. **Alternatif** (penjelasan lain yang masuk akal): …  
+5. **Konteks — berlaku** (situasi aman): …  
+6. **Konteks — tidak berlaku** (situasi berbahaya / menyesatkan): …  
 
 ---
 
-## 6. AI Policy kelas (isi bersama guru)
+## 6. Aturan AI kelas (isi bersama guru)
 
-- [ ] AI boleh dipakai **dengan** log klarifikasi singkat  
-- [ ] Copy-paste tanpa paham = belum lulus **REA**  
-- [ ] AI = partner berpikir, bukan otoritas nilai  
-- [ ] Jangan kirim ke WA sebagai “selesai” tanpa spek/AC  
+- [ ] AI boleh dipakai **dengan** catatan klarifikasi singkat (klaim + bukti/uji)  
+- [ ] Menyalin tempel tanpa paham = belum memenuhi aspek **Penalaran** (alasan diuji, bukan menelan mentah)  
+- [ ] AI = partner berpikir, bukan hakim nilai  
+- [ ] Jangan kirim ke WA sebagai “selesai” tanpa spesifikasi + **kriteria penerimaan** tercentang  
 
-Catatanku — poin paling penting: …
+Poin paling penting bagiku: …
 
 ---
 
-## 7. Praktik HTML — polish 1 bagian
+## 7. Praktik HTML — perbaiki 1 bagian
 
-Bawa section + spek/AC dari P04.
+Bawa section + spesifikasi + kriteria penerimaan dari P04.
 
-1. Klaim tentang halamanmu (contoh: “sudah benar / sudah bagus”): …  
-2. Setelah klarifikasi, AC mana yang masih ❌? …  
-3. Ubah **satu bagian** HTML agar AC itu ✅  
+1. Klaim tentang halamanmu: …  
+2. Setelah klarifikasi, kriteria mana yang **belum terpenuhi**? …  
+3. Ubah **satu bagian** HTML agar kriteria itu **terpenuhi**  
 
 ```html
 <!-- Klaim yang diklarifikasi: ... -->
-<!-- AC target: [ ] ... -->
+<!-- Kriteria penerimaan target: [ ] ... -->
 <section>
   <!-- perbaiki bagian terkait saja -->
 </section>
 ```
 
-Peer: centang AC target — ✅ / ❌ + catatan singkat.
+Teman: centang kriteria target — terpenuhi / belum + catatan singkat.
 
 ---
 
 ## 8. Pertanyaan pemandu
 
 1. Klaim persisnya apa?  
-2. Bukti/AC apa yang bisa diuji hari ini?  
-3. Perbaiki prompt, spek, atau asumsimu dulu?
+2. Bukti atau kriteria penerimaan apa yang bisa diuji hari ini?  
+3. Perbaiki prompt, spesifikasi, atau asumsimu dulu?
 
 ---
 
 ## 9. Exit ticket
 
 1. Satu pertanyaan klarifikasi pribadi: …  
-2. Satu poin AI Policy penting: …  
-3. Perubahan HTML hari ini + AC yang ✅: …
+2. Satu poin aturan AI penting: …  
+3. Perubahan HTML hari ini + kriteria penerimaan yang baru terpenuhi: …
 
 ## 10. Preview P06
 
-Instruksi ke mesin (dan ke diri sendiri) harus **eksplisit** — algoritma. Robi patuh; yang berantakan biasanya langkah yang implisit.
+Instruksi harus **eksplisit** (algoritma). Yang berantakan biasanya langkah yang implisit.
 
 ---
 
-_Isi worksheet sendiri. Jangan copas jawaban klarifikasi teman._
+_Isi worksheet sendiri. Jangan menyalin jawaban klarifikasi teman._

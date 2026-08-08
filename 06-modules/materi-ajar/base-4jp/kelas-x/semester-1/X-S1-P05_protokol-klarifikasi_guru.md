@@ -8,13 +8,14 @@
 
 **Materi pendukung sumber:** [X-S1-P05_protokol-klarifikasi.md](../../../materi-pendukung/base-4jp/kelas-x/semester-1/X-S1-P05_protokol-klarifikasi.md)
 
-> File ini **mandiri untuk mengajar**: timeline + skrip + pendukung ada di sini (pola sama P01).
+> File ini **mandiri untuk mengajar**: timeline + skrip + pendukung ada di sini (pola sama P01).  
+> Ke siswa: sebut **nama konsep lengkap**. Kode rubrik (REA/OBS) hanya catatan internal guru.
 
 ---
 
 ## A. Modul pertemuan (referensi mengajar)
 
-# X-S1-P05 — Protokol Klarifikasi & AI Policy
+# X-S1-P05 — Protokol Klarifikasi & Aturan AI Kelas
 
 | Field | Isi |
 |-------|-----|
@@ -29,11 +30,11 @@
 
 ## Learning Transformation
 
-Dari “AI/teman bilang = benar/salah total” → “klarifikasi: klaim · alasan · bukti · alternatif · konteks.”
+Dari “AI/teman bilang = benar/salah total” → “klarifikasi: klaim · alasan · bukti · alternatif · konteks (batas berlaku).”
 
 ## Kaitan
 
-P03 = rasa · P04 = spek/AC · **P05 = protokol + AI Policy + polish HTML.**
+P03 = rasa · P04 = spek + kriteria penerimaan · **P05 = protokol + aturan AI + perbaiki HTML.**
 
 ---
 
@@ -45,14 +46,12 @@ P03 = rasa · P04 = spek/AC · **P05 = protokol + AI Policy + polish HTML.**
 | 10–25 | **Scaffold** | I do: Klaim + Alasan · We do: 1 Bukti | Sebelum worksheet |
 | 25–50 | **Experience** | Baca jawaban AI kalimat per kalimat | Prediksi dulu |
 | 50–65 | **Trap** | “AI salah — siapa salah?” | Nuansa, bukan vonis |
-| 65–85 | **Clarify + Concept** | Rantai 4 langkah · AI = partner · bukti > opini | TTS |
-| 85–95 | **AI Policy** | Sepakati aturan kelas | Tulis permanen |
+| 65–85 | **Clarify + Concept** | Rantai lengkap · **bedakan Alternatif vs Konteks** · AI = partner | TTS |
+| 85–95 | **Aturan AI kelas** | Sepakati (sebut Penalaran & kriteria penerimaan) | Tulis permanen |
 | 95–105 | Transisi | Buka artefak P04 | |
 | 105–120 | **Scaffold praktik** | Klarifikasi klaim tentang halaman → ubah 1 bagian HTML | I do |
-| 120–165 | **Practice** | Worksheet + polish 1 bagian · peer AC | You do |
+| 120–165 | **Practice** | Worksheet + perbaiki 1 bagian · peer kriteria | You do |
 | 165–180 | Reflect + Exit | WA tanpa cek? · exit · preview P06 | |
-
-**Adaptasi ketat:** jangan potong Trap/Clarify atau Practice.
 
 ---
 
@@ -64,16 +63,22 @@ Jangan cepat menolak.
 Pahami dulu.
 ```
 
-## Worksheet Klarifikasi
+## Alternatif vs Konteks (wajib tidak ambigu)
 
-1. Klaim?  2. Alasan?  3. Bukti/uji?  4. Alternatif?  5. Konteks tidak berlaku?
+| | **Alternatif** | **Konteks (batas berlaku)** |
+|--|----------------|------------------------------|
+| Tanya | Penjelasan **lain** yang masih masuk akal? | Situasi **boleh** vs **tidak boleh** jadi keputusan final? |
+| Contoh HTML | Markup (struktur); logika di JS | Boleh longgar di obrolan; tidak untuk definisi formal / nilai tugas |
+| Lulus | ≥1 penjelasan lain | ≥1 “berlaku” **dan** ≥1 “tidak berlaku” |
 
-## AI Policy (kunci)
+Detail + contoh tabel lengkap: lihat modul.
 
-- Boleh AI + log klarifikasi  
-- Copas tanpa paham ≠ lulus REA  
-- AI = partner, bukan otoritas  
-- Jangan WA “selesai” tanpa spek/AC  
+## Aturan AI kelas (kunci)
+
+- Boleh AI + catatan klarifikasi singkat  
+- Salin tanpa paham ≠ aspek **Penalaran** (alasan diuji, bukan menelan)  
+- AI = partner, bukan hakim nilai  
+- Jangan WA “selesai” tanpa spesifikasi + **kriteria penerimaan**  
 
 ## Cognitive Trap
 
@@ -82,22 +87,24 @@ AI bodoh **atau** AI selalu benar → ganti dengan rantai klarifikasi.
 ## Guiding Questions
 
 1. Klaim persisnya apa?  
-2. Bukti/AC apa yang bisa diuji hari ini?  
+2. Bukti / kriteria penerimaan apa yang bisa diuji hari ini?  
 3. Perbaiki prompt, spek, atau asumsi kita dulu?
 
 ## Exit Ticket
 
 1. Satu pertanyaan klarifikasi pribadi  
-2. Satu poin AI Policy penting  
-3. Satu perubahan HTML + AC yang ✅  
+2. Satu poin aturan AI penting  
+3. Satu perubahan HTML + kriteria penerimaan yang baru terpenuhi  
 
 ## Formatif
 
-**REA** (wajib) · **OBS**
+**Penalaran** (wajib) · **Observasi** (pendukung).  
+Internal rubrik: Penalaran = REA · Observasi = OBS — **jangan** lempar kode ke siswa tanpa nama.
 
 ## Catatan Guru
 
-Hindari topik agama/politik. Jangan selip ROBI penuh (P06).
+Hindari topik agama/politik. Jangan selip ROBI penuh (P06).  
+Bacaan & handout: istilah penuh (Penalaran, kriteria penerimaan) — selaras cara ingat manusia (makna > singkatan).
 
 ---
 
@@ -109,35 +116,36 @@ Hindari topik agama/politik. Jangan selip ROBI penuh (P06).
 
 Jawaban AI plausibel ≠ benar. Bomb “siapa salah?” = prompt / verifikasi / konteks / kita / model.  
 Contoh aman: “HTML = bahasa pemrograman.”  
-Hubung P04: klaim “sudah bagus” diuji dengan AC, bukan feeling.
+Hubung P04: klaim “sudah bagus” diuji dengan **kriteria penerimaan**, bukan feeling.
 
 ### 2. Recall spiral
 
 | Tanya | Inti |
 |-------|------|
 | P02 input? | Keyword/prompt |
-| P04 AC? | ✅/❌ observable |
+| P04 kriteria penerimaan? | Checklist terpenuhi/belum — bisa diamati |
 | P03 deadlock? | Generate tanpa paham |
 
 ### 3. Etika
 
-No copas worksheet terisi. Live prompt. Baca kalimat per kalimat. Polish ikut spek siswa.
+Jangan kirim worksheet terisi. Live prompt. Baca kalimat per kalimat. Perbaikan ikut spek siswa.  
+Ke kelas: **nama lengkap konsep**, bukan kode REA/AC.
 
 ### 4. Klaim cadangan
 
 | Klaim | Uji |
 |-------|-----|
 | HTML = bahasa pemrograman | Bandingkan JS (`if`/variabel) |
-| Section sudah bagus | Centang AC P04 |
-| AI bilang sudah benar | Minta bukti + AC |
+| Section sudah bagus | Centang kriteria penerimaan P04 |
+| AI bilang sudah benar | Minta bukti + kriteria penerimaan |
 
 ### 5. Skrip live (180')
 
 ```text
 [0 — Orientation 0–10]
 Tulis moto MM-00 di papan.
-"Kemarin spek & AC. Hari ini: cara bertanya sebelum percaya/menolak."
-Recall: 1 siswa — beda keyword P02; 1 siswa — 1 AC P04.
+"Kemarin spesifikasi & kriteria penerimaan. Hari ini: cara bertanya sebelum percaya/menolak."
+Recall: 1 siswa — beda keyword P02; 1 siswa — 1 kriteria penerimaan P04.
 
 [1 — Scaffold 10–25]
 Tampilkan/generate 1 klaim (mis. HTML = bahasa pemrograman).
@@ -157,29 +165,31 @@ Debat 3–5 menit. Jangan vonis. Catat opsi: prompt / kita / model / kurang cek.
 [4 — Clarify + Concept 65–85]
 Kolom: Klaim | Alasan | Bukti | Alternatif | Konteks
 Isi bareng contoh HTML (TTS per kolom).
+TEKAN beda Alternatif vs Konteks (tabel bagian A) — jangan digabung samar.
 Concept: AI = partner berpikir · bukti > opini.
-Hubung: sama seperti AC — harus bisa diuji.
+Hubung: sama seperti kriteria penerimaan — harus bisa diuji.
 
-[5 — AI Policy 85–95]
-Tulis 4 poin policy (lihat bagian A).
+[5 — Aturan AI 85–95]
+Tulis 4 poin (lihat bagian A) dengan istilah:
+  Penalaran · kriteria penerimaan
 Tanya: "Mana yang paling sering dilanggar di WA kelas?"
 Sepakati. Foto papan / tempel permanen.
 
 [6 — Transisi 95–105]
-Buka section HTML + spek/AC dari P04.
+Buka section HTML + spek + kriteria penerimaan dari P04.
 
 [7 — Scaffold praktik 105–120]
 I do klaim: "Section ini sudah benar karena AI bilang / karena kelihatan bagus."
-Isi 4 langkah cepat.
-Ubah 1 bagian HTML agar 1 AC yang ❌ jadi ✅.
-Think-aloud: "Klarifikasi dulu — baru patch."
+Isi rantai (termasuk alternatif + konteks berlaku/tidak).
+Ubah 1 bagian HTML agar 1 kriteria yang belum terpenuhi menjadi terpenuhi.
+Think-aloud: "Klarifikasi dulu — baru perbaiki."
 
 [8 — Practice 120–165]
 Pasangan:
   a) Pilih 1 klaim (AI / teman / klaim sendiri tentang halaman)
-  b) Worksheet klarifikasi
-  c) Polish 1 bagian HTML
-  d) Peer centang AC terkait
+  b) Worksheet klarifikasi (alternatif DAN konteks terisi)
+  c) Perbaiki 1 bagian HTML
+  d) Peer: kriteria target terpenuhi / belum
 Tolak: generate ulang full page; debat agama/politik; ROBI mie.
 
 [9 — Exit 165–180]
@@ -193,8 +203,9 @@ Exit ticket + preview P06: instruksi harus eksplisit (algoritma).
 |-------|------|
 | Langsung “AI bodoh/pintar” | Memihak terlalu cepat di trap |
 | Worksheet kosong, langsung edit CSS | Skip klarifikasi |
+| Campur alternatif dengan konteks | Membiarkan jawaban “kadang-kadang” tanpa situasi |
 | Generate ulang full company profile | Mengizinkan mengulang P03 |
-| Topik sensitif | Tidak ganti klaim aman |
+| Bingung karena guru bilang “REA/AC” tanpa arti | Lempar singkatan tanpa nama konsep |
 | Minta materi ROBI penuh | Meladeni — parkir ke P06 |
 
 ### 7. Checklist exit guru
@@ -202,9 +213,9 @@ Exit ticket + preview P06: instruksi harus eksplisit (algoritma).
 - [ ] Moto di papan  
 - [ ] Scaffold sebelum trap panjang  
 - [ ] Bomb “siapa salah?”  
-- [ ] Rantai 4 langkah  
-- [ ] AI Policy disepakati  
-- [ ] Klarifikasi + polish 1 bagian HTML  
+- [ ] Alternatif vs Konteks dijelaskan + dilatih  
+- [ ] Aturan AI disepakati (istilah Penalaran & kriteria penerimaan)  
+- [ ] Klarifikasi + perbaiki 1 bagian HTML  
 - [ ] Preview P06  
 - [ ] Pendukung tidak ke siswa  
 

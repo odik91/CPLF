@@ -27,12 +27,16 @@ Pahami dulu.
 
 ### Rantai klarifikasi
 
-| Langkah | Pertanyaan |
-|---------|------------|
-| 1. Klaim | Apa yang dikatakan? |
-| 2. Alasan | Mengapa terdengar masuk akal? |
-| 3. Bukti | Data/sumber/uji apa? |
-| 4. Alternatif & konteks | Penjelasan lain? Kapan tidak berlaku? |
+| Langkah | Arti tetap | Pertanyaan |
+|---------|------------|------------|
+| 1. Klaim | Kutip apa adanya | Apa yang dikatakan? |
+| 2. Alasan | Kenapa terdengar masuk akal (bukan bukti) | Mengapa terdengar masuk akal? |
+| 3. Bukti | Yang bisa diuji hari ini | Data/sumber/uji apa? |
+| 4. Alternatif | **Penjelasan lain** yang masih masuk akal (hipotesis kedua) | Kalau bukan itu, penjelasan lain apa? |
+| 5. Konteks | **Batas berlaku**: situasi aman vs menyesatkan | Kapan boleh? Kapan **tidak** boleh jadi keputusan final? |
+
+**Jangan campur:** Alternatif = isi makna/penjelasan lain · Konteks = situasi berlaku/tidak.  
+Lihat tabel beda di modul pertemuan.
 
 ### Bomb “AI salah — siapa salah?”
 
@@ -44,13 +48,15 @@ Jawaban nuanced: bisa prompt, kurang verifikasi, konteks hilang, model, atau kit
 |-------|-----------|
 | HTML = bahasa pemrograman | Ada `if`/variabel di HTML murni? |
 | CSS cukup untuk logika hitung harga | Coba hanya CSS |
-| “Halaman ini sudah benar karena AI bilang” | Bandingkan ke AC P04 |
+| “Halaman ini sudah benar karena AI bilang” | Bandingkan ke **kriteria penerimaan** P04 |
 
-### AI Policy (kunci hari ini)
+### Aturan AI kelas (kunci hari ini)
 
 - Boleh AI + log klarifikasi  
-- Copas tanpa paham ≠ lulus REA  
+- Salin tanpa paham ≠ aspek **Penalaran** (alasan diuji)  
 - AI = partner, bukan otoritas  
+
+Ke siswa: sebut **Penalaran** / **kriteria penerimaan** — jangan lempar kode REA/AC tanpa nama.  
 
 ### Pecah beban
 
@@ -64,7 +70,7 @@ ROBI / algoritma eksplisit penuh = **P06**. Di P05 cukup 1 kalimat jembatan di e
 |-------|------|
 | P02: output tergantung? | Input |
 | P02: verifikasi? | ≥2 sumber |
-| P04: AC itu? | Checklist ✅/❌ observable |
+| P04: kriteria penerimaan? | Checklist terpenuhi/belum — bisa diamati, bukan “bagus” |
 | P03: deadlock karena? | Generate tanpa paham/spek |
 
 ---
@@ -85,8 +91,8 @@ ROBI / algoritma eksplisit penuh = **P06**. Di P05 cukup 1 kalimat jembatan di e
 | Klaim | Plausible karena | Uji |
 |-------|------------------|-----|
 | HTML = bahasa pemrograman | Kelihatan “coding” | Bandingkan JS |
-| Section sudah bagus | Visual oke | Centang AC P04 |
-| AI bilang sudah benar | Percaya otoritas | Minta bukti + AC |
+| Section sudah bagus | Visual oke | Centang kriteria penerimaan P04 |
+| AI bilang sudah benar | Percaya otoritas | Minta bukti + kriteria penerimaan |
 
 ---
 
@@ -95,8 +101,8 @@ ROBI / algoritma eksplisit penuh = **P06**. Di P05 cukup 1 kalimat jembatan di e
 - [ ] Moto MM-00 di papan  
 - [ ] Scaffold Klaim+Alasan sebelum trap panjang  
 - [ ] Bomb “siapa salah?” jalan  
-- [ ] Rantai 4 langkah dilatih  
-- [ ] AI Policy disepakati  
+- [ ] Rantai lengkap + beda Alternatif vs Konteks dilatih  
+- [ ] Aturan AI disepakati (sebut Penalaran & kriteria penerimaan, bukan kode kosong)  
 - [ ] Practice: klarifikasi + polish 1 bagian HTML  
 - [ ] Preview P06  
 - [ ] Pendukung tidak ke siswa  
