@@ -90,9 +90,9 @@ Siswa dapat:
 | Rentang | Status |
 |---------|--------|
 | P01 | Timeline 180' ada · materi ajar ada |
-| P02–P05 | **Isi penuh** (modul + guru/siswa/bacaan/pendukung) |
-| P06 | Outline · perlu rewrite penuh 4JP |
-| P07–P34 | Slot terencana di indeks ini |
+| P02–P06 | **Isi penuh** (modul + guru/siswa/bacaan/pendukung) |
+| P07–P12 | Slot Blok 2 · perlu tulis penuh 4JP |
+| P13–P34 | Slot terencana di indeks ini |
 
 ### File modul saat ini
 
