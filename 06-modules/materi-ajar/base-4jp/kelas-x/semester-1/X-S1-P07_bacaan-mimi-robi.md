@@ -73,7 +73,7 @@ Aku:
 > “Tampilan bisa mirip. **Peran** tidak. Ini seperti dua orang bilang ‘sudah sampai’ — satu ikut peta, satu nyasar tapi kebetulan ketemu warung yang sama.”
 
 Twist: “kelihatan sama” bukan bukti “struktur tidak penting.”  
-Itu bukti mata manusia mudah dibohongi oleh piksel, sementara spek, teman, dan masa depan-CSS butuh **nama jujur**.
+Itu bukti mata manusia mudah dibohongi oleh piksel, sementara spek, teman, masa depan-CSS, **dan mesin pencari** butuh **nama jujur**.
 
 Hubung P06: langkah implisit bikin mie berbungkus.  
 `div` tanpa peran = bagian implisit di halaman.
@@ -118,6 +118,49 @@ Bukan biar keren. Biar spek ketemu struktur — seperti kriteria penerimaan kete
 
 ---
 
+## Adegan 2,5 — “Buat siapa sih semantik ini?”
+
+Robi masih belum puas:
+
+> “Oke. Spek. Teman. CSS nanti. Tapi aku bikin web warung. Yang penting pengunjung lihat di HP. Mesin pencari? Itu urusan orang SEO misterius.”
+
+Aku:
+
+> “Spoiler: ‘orang SEO misterius’ itu sering… kamu sendiri. Atau guru. Atau teman yang ngetik nama warung di Google.”
+
+### SEO — nama lengkap dulu, biar nempel
+
+**SEO** = *Search Engine Optimization*  
+Bahasa manusia: **optimasi mesin pencari** — cara bikin halaman lebih gampang **dipahami** dan **ditemukan** oleh Google, Bing, dan kawan-kawannya.
+
+Bukan sihir. Bukan wajib hafal 50 trik.  
+Intinya sederhana: mesin pencari itu **bukan mata manusia**. Dia tidak “lihat” desain cantik dulu. Dia **baca struktur & teks**.
+
+Kalau semua `div`:
+
+> “Hmm. Kotak. Kotak. Kotak. Judul… di mana ya yang utama?”
+
+Kalau semantik + satu `h1` yang jujur + `h2` per bagian:
+
+> “Oh. Ini judul utama warung. Ini bagian Tentang. Ini Menu. Ini kaki kontak.”
+
+Robi:
+
+> “Jadi semantik itu… peta untuk Google?”
+
+> “Peta untuk **teman**, untuk **dirimu 3 bulan lagi**, untuk **CSS**, *dan* untuk **mesin pencari**. Satu kebiasaan, banyak yang terbantu.”
+
+### Plot twist kecil #SEO
+
+Halaman yang “kelihatan sama” di browser bisa **tidak sama** di mata mesin pencari.  
+Sup `div` = mie berbungkus versi web: patuh tampil, tapi isyarat makna hilang.
+
+Untuk warung MA / profil usaha: semantik membantu sinyal “ini nama usaha, ini menu, ini kontak” — agar orang yang cari di Google tidak cuma nemu poster random tanpa struktur.
+
+*(Catatan jujur dari Mimi: SEO itu laut dalam. Hari ini cukup satu pelampung: **struktur bermakna = isyarat yang lebih jelas untuk mesin pencari**. Sisanya belakangan.)*
+
+---
+
 ## Adegan 3 — Peta dulu, ketik kemudian
 
 Robi mau langsung ngetik 200 baris.
@@ -143,7 +186,7 @@ Plot twist kecil: dia senang ditebak. Karena ditebak = strukturnya **komunikatif
 | Pertemuan | Badge tidak resmi |
 |-----------|-------------------|
 | 06 | Anti-telepati (algoritma) |
-| **07** | Anti-lem-semua-sisi (`div` soup) · nama bagian jujur |
+| **07** | Anti-lem-semua-sisi (`div` soup) · nama bagian jujur · isyarat untuk mesin pencari |
 
 Besok (P08): CSS — bikin tampilan rapi **tanpa** merusak kerangka hari ini.  
 Kalau kerangka bohong, CSS cuma makeup di atas kekacauan.
@@ -152,14 +195,14 @@ Kalau kerangka bohong, CSS cuma makeup di atas kekacauan.
 
 ## Exit
 
-1. Alasan `section` + `h2` bukan semua `div`: …  
+1. Alasan `section` + `h2` bukan semua `div` (boleh sebut spek **atau** mesin pencari): …  
 2. Kesalahan hierarki yang kuhindari: …  
 3. Bagian spek yang sudah ketemu di HTML: …
 
 Satu line:
 
 > **Kalau di browser kelihatan sama, belum tentu strukturnya jujur.**  
-> Semantik = nama bagian sesuai peran — biar spek, teman, dan masa depanmu tidak menebak.
+> Semantik = nama bagian sesuai peran — biar spek, teman, CSS nanti, **dan mesin pencari** (SEO: optimasi mesin pencari) tidak menebak.
 
 — **Mimi** 🐾  
-*(Robi menghapus empat `h1`. Antenna-nya berkabung sebentar, lalu ✅ — eh, maksudku: terpenuhi.)*
+*(Robi menghapus empat `h1`. Antenna-nya berkabung sebentar, lalu menamai file: `bukan-sup-div-agar-google-ngerti.html` — lebay, tapi isyaratnya jelas.)*
