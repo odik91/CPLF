@@ -38,20 +38,40 @@ P03 = rasa · P04 = spek + kriteria penerimaan · **P05 = protokol + aturan AI +
 
 ---
 
+## Capaian pembelajaran (Taksonomi Bloom revisi)
+
+Rujukan: [00_Taksonomi_Bloom_CPLF_4JP.md](../../../base-4jp/kelas-x/00_Taksonomi_Bloom_CPLF_4JP.md)
+
+| Kode | Level | Siswa mampu … |
+|------|-------|----------------|
+| **C1** | Mengingat | Menyebut moto MM-00 dan langkah klaim→alasan→bukti→alternatif→konteks |
+| **C2** | Memahami | Menjelaskan beda alternatif vs konteks; AI = partner bukan otoritas |
+| **C3** | Menerapkan | Mengisi worksheet klarifikasi; memperbaiki 1 bagian HTML berdasar hasil klarifikasi |
+| **C4** | Menganalisis | Memecah jawaban AI per kalimat; membedakan “AI salah” vs prompt/kita/kurang bukti |
+| **C5** | Mengevaluasi | Menilai klaim dengan bukti/uji; mencentang kriteria penerimaan terkait perbaikan |
+| **C6** | Mencipta | Menyusun pertanyaan klarifikasi pribadi + aturan AI kelas yang dipegang sendiri |
+
+**Fokus utama:** C2–C5 · **Puncak:** C3–C5 (polish HTML)
+
+> **Bloom:** C1 Mengingat · C2 Memahami · C3 Menerapkan · C4 Menganalisis · C5 Mengevaluasi · C6 Mencipta  
+> Rujukan: [00_Taksonomi_Bloom_CPLF_4JP.md](../../../base-4jp/kelas-x/00_Taksonomi_Bloom_CPLF_4JP.md)
+
 ## Timeline (180 menit · 4 JP)
 
-| Menit | Fase | Aktivitas | Catatan guru |
-|-------|------|-----------|--------------|
-| 0–10 | **Orientation** | Compass · moto MM-00 · recall P02 + P04 | |
-| 10–25 | **Scaffold** | I do: Klaim + Alasan · We do: 1 Bukti | Sebelum worksheet |
-| 25–50 | **Experience** | Baca jawaban AI kalimat per kalimat | Prediksi dulu |
-| 50–65 | **Trap** | “AI salah — siapa salah?” | Nuansa, bukan vonis |
-| 65–85 | **Clarify + Concept** | Rantai lengkap · **bedakan Alternatif vs Konteks** · AI = partner | TTS |
-| 85–95 | **Aturan AI kelas** | Sepakati (sebut Penalaran & kriteria penerimaan) | Tulis permanen |
-| 95–105 | Transisi | Buka artefak P04 | |
-| 105–120 | **Scaffold praktik** | Klarifikasi klaim tentang halaman → ubah 1 bagian HTML | I do |
-| 120–165 | **Practice** | Worksheet + perbaiki 1 bagian · peer kriteria | You do |
-| 165–180 | Reflect + Exit | WA tanpa cek? · exit · preview P06 | |
+| Menit | Fase | Bloom | Aktivitas | Catatan guru |
+|-------|------|-------|-----------|--------------|
+| 0–10 | **Orientation** | C1 | Compass · moto MM-00 · recall P02 + P04 | |
+| 10–25 | **Scaffold teori** | C2 | I do Klaim+Alasan · We do 1 Bukti | |
+| 25–50 | **Experience** | C2–C4 | Baca jawaban AI kalimat per kalimat | |
+| 50–65 | **Trap + Q** | C4 | “AI salah — siapa salah?” | |
+| 65–85 | **Clarify + Concept** | C2–C4 | Rantai lengkap · bedakan Alternatif vs Konteks | |
+| 85–95 | **Aturan AI kelas** | C5 | Sepakati aturan (Penalaran · kriteria penerimaan) | |
+| 95–105 | Transisi | — | Artefak P04 | |
+| 105–120 | **Scaffold praktik** | C2–C3 | Klarifikasi klaim halaman → ubah 1 bagian HTML | |
+| 120–165 | **Practice** | C3–C6 | Worksheet + polish · peer kriteria | |
+| 165–180 | Reflect + Exit | C5 | Exit ticket · preview P06 | |
+
+
 
 ---
 

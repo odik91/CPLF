@@ -19,13 +19,45 @@ Dari “AI/teman bilang = benar atau salah total” → “klarifikasi: klaim ·
 
 ---
 
+## Capaian pembelajaran (Taksonomi Bloom revisi)
+
+Rujukan: [00_Taksonomi_Bloom_CPLF_4JP.md](../../00_Taksonomi_Bloom_CPLF_4JP.md)
+
+| Kode | Level | Siswa mampu … |
+|------|-------|----------------|
+| **C1** | Mengingat | Menyebut moto MM-00 dan langkah klaim→alasan→bukti→alternatif→konteks |
+| **C2** | Memahami | Menjelaskan beda alternatif vs konteks; AI = partner bukan otoritas |
+| **C3** | Menerapkan | Mengisi worksheet klarifikasi; memperbaiki 1 bagian HTML berdasar hasil klarifikasi |
+| **C4** | Menganalisis | Memecah jawaban AI per kalimat; membedakan “AI salah” vs prompt/kita/kurang bukti |
+| **C5** | Mengevaluasi | Menilai klaim dengan bukti/uji; mencentang kriteria penerimaan terkait perbaikan |
+| **C6** | Mencipta | Menyusun pertanyaan klarifikasi pribadi + aturan AI kelas yang dipegang sendiri |
+
+**Fokus utama:** C2–C5 · **Puncak:** C3–C5 (polish HTML)
+
+---
+
+## Timeline (180 menit · 4 JP)
+
+| Menit | Fase | Bloom | Aktivitas | Catatan guru |
+|-------|------|-------|-----------|--------------|
+| 0–10 | **Orientation** | C1 | Compass · moto MM-00 · recall P02 + P04 | |
+| 10–25 | **Scaffold teori** | C2 | I do Klaim+Alasan · We do 1 Bukti | |
+| 25–50 | **Experience** | C2–C4 | Baca jawaban AI kalimat per kalimat | |
+| 50–65 | **Trap + Q** | C4 | “AI salah — siapa salah?” | |
+| 65–85 | **Clarify + Concept** | C2–C4 | Rantai lengkap · bedakan Alternatif vs Konteks | |
+| 85–95 | **Aturan AI kelas** | C5 | Sepakati aturan (Penalaran · kriteria penerimaan) | |
+| 95–105 | Transisi | — | Artefak P04 | |
+| 105–120 | **Scaffold praktik** | C2–C3 | Klarifikasi klaim halaman → ubah 1 bagian HTML | |
+| 120–165 | **Practice** | C3–C6 | Worksheet + polish · peer kriteria | |
+| 165–180 | Reflect + Exit | C5 | Exit ticket · preview P06 | |
+
 ## Kaitan P03–P04
 
 | Pertemuan | Yang sudah punya siswa |
 |-----------|------------------------|
 | P03 | Rasa deadlock / penasaran |
 | P04 | Bahasa requirement + **kriteria penerimaan** |
-| **P05** | **Protokol** bernalar + AI Policy + perbaiki 1 bagian halaman berdasar spek/klarifikasi |
+| **P05** | **Protokol** bernalar + aturan AI + perbaiki 1 bagian halaman berdasar spek/klarifikasi |
 
 ## Bukan / Melainkan
 
@@ -35,26 +67,9 @@ Dari “AI/teman bilang = benar atau salah total” → “klarifikasi: klaim ·
 | Algoritma ROBI mie penuh | Preview singkat saja → penuh di **P06** |
 | Debat “AI jahat/bagus” | Nuansa: prompt · verifikasi · model · kita |
 
----
-
-## Timeline (180 menit · 4 JP)
-
-| Menit | Fase | Aktivitas | Catatan guru |
-|-------|------|-----------|--------------|
-| 0–10 | **Orientation** | Compass · moto MM-00 di papan · recall P02 (input) + P04 (kriteria penerimaan harus bisa diamati) | Transformasi 1 kalimat |
-| 10–25 | **Scaffold teori** | I do: 1 klaim AI · think-aloud isi **Klaim** + **Alasan** · We do: kelas usul 1 **Bukti** | Model sebelum worksheet |
-| 25–50 | **Experience** | Baca jawaban AI plausibel-salah **kalimat per kalimat** (HTML = bahasa pemrograman / fakta ringan) | Prediksi sebelum lanjut |
-| 50–65 | **Trap + Q** | Bomb: “AI salah — siapa salah?” Debat 3–5’ | Nuansa: prompt / verifikasi / kita / model |
-| 65–85 | **Clarify + Concept** | Rantai lengkap di papan · bedakan **Alternatif** vs **Konteks** · AI = partner · bukti > opini | TTS per langkah |
-| 85–95 | **Aturan AI kelas** | Sepakati: boleh AI + log klarifikasi; salin tanpa paham ≠ Penalaran; jangan WA “selesai” tanpa spek+kriteria | Simpan di papan/kelas |
-| 95–105 | Transisi | Siap artefak P04 (section + spek + kriteria penerimaan) | |
-| 105–120 | **Scaffold praktik** | I do: klaim tentang halaman → klarifikasi → ubah 1 bagian HTML agar 1 kriteria terpenuhi | Think-aloud |
-| 120–165 | **Practice** | Pasangan: worksheet + perbaiki **1 bagian** halaman | You do |
-| 165–180 | Reflect + Exit | Share WA tanpa cek? · exit ticket · preview P06 | |
-
 **Adaptasi ketat:** jangan potong Trap/Clarify atau Practice polish — potong Reflect tertulis.
 
-**Rujukan:** [Learning Compass](../../../../03-framework/03_Learning_Compass_CPLF.md) · [Panduan 4JP](../00_Panduan_Pertemuan_4JP.md) · [Indeks](./X-S1_Index.md)
+**Rujukan:** [Learning Compass](../../../../03-framework/03_Learning_Compass_CPLF.md) · [Panduan 4JP](../00_Panduan_Pertemuan_4JP.md) · [Indeks](./X-S1_Index.md) · [Bloom C1–C6](../../00_Taksonomi_Bloom_CPLF_4JP.md)
 
 ---
 

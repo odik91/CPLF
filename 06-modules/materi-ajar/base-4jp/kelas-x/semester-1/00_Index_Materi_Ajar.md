@@ -6,9 +6,11 @@ Jalur aktif. Arsip: [base-2jp](../../base-2jp/kelas-x/semester-1/).
 
 Setiap `*_guru.md` harus **mandiri dipakai mengajar**, pola P01:
 
-1. **A. Modul** — metadata + transformasi + **timeline menit demi menit** + trap + exit + formatif  
+1. **A. Modul** — metadata + transformasi + **capaian Bloom C1–C6** + **timeline menit + kolom Bloom** + trap + exit + formatif  
 2. **B. Pendukung** — pengetahuan · recall · etika · **skrip live per blok waktu** · kesalahan umum · checklist · KBC  
-3. Jangan hanya “ringkas + lihat file lain” — itu menimbulkan ambiguitas penyampaian
+3. Jangan hanya “ringkas + lihat file lain” — itu menimbulkan ambiguitas penyampaian  
+4. **Bloom:** sebut nama level + kode ke siswa (`Memahami · C2`); bedakan dari Elemen CP Merdeka (`BK`/`LD`/…)  
+5. Rujukan: [00_Taksonomi_Bloom_CPLF_4JP](../../../base-4jp/kelas-x/00_Taksonomi_Bloom_CPLF_4JP.md)
 
 | P | File |
 |---|------|

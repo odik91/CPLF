@@ -12,6 +12,26 @@
 
 Dari “bisa generate = sudah bisa” → “hasil tanpa paham = deadlock & rasa penasaran untuk belajar.”
 
+
+## Capaian pembelajaran (Taksonomi Bloom revisi)
+
+Rujukan: [00_Taksonomi_Bloom_CPLF_4JP.md](../../../base-4jp/kelas-x/00_Taksonomi_Bloom_CPLF_4JP.md)
+
+| Kode | Level | Siswa mampu … |
+|------|-------|----------------|
+| **C1** | Mengingat | Menyebut moto: bandingkan, jangan patch; prompt = input |
+| **C2** | Memahami | Menjelaskan kenapa hasil generate bisa beda / kenapa “cantik ≠ benar” |
+| **C3** | Menerapkan | Generate dengan prompt seragam; mengenali tag dasar pada file hasil |
+| **C4** | Menganalisis | Membandingkan hasil teman; memisahkan observasi vs keinginan debug |
+| **C5** | Mengevaluasi | Menilai apa yang hilang (paham & spek) tanpa menutup deadlock dengan patch |
+| **C6** | Mencipta | Menyusun 3 pertanyaan penasaran milik sendiri sebagai bahan P04–P05 |
+
+**Fokus utama:** C2–C5 · **Puncak:** C4–C6 (pertanyaan) — bukan C6 “bikin web cantik”
+
+> **Bloom:** C1 Mengingat · C2 Memahami · C3 Menerapkan · C4 Menganalisis · C5 Mengevaluasi · C6 Mencipta  
+> Rujukan: [00_Taksonomi_Bloom_CPLF_4JP.md](../../../base-4jp/kelas-x/00_Taksonomi_Bloom_CPLF_4JP.md)
+
+
 ---
 
 ## 2. Hari ini **bukan** / **melainkan**

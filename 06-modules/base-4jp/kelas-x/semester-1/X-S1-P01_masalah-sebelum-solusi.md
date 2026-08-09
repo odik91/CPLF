@@ -6,8 +6,8 @@
 | Semester | 1 · Pertemuan 1/34 |
 | Unit | X1.1 |
 | Durasi | **4 JP = 180 menit** · Basis **4JP** |
+| CP Merdeka | BK, LD |
 | Capability | CX-B1, CX-C1 |
-| CP | BK, LD |
 | MM | MM-01, MM-00 (pengantar) |
 | EXP | — (setup tahun ajaran) |
 
@@ -17,19 +17,36 @@ Dari “langsung cari solusi/coding” → “berhenti sejenak memahami & membat
 
 ---
 
+## Capaian pembelajaran (Taksonomi Bloom revisi)
+
+Rujukan: [00_Taksonomi_Bloom_CPLF_4JP.md](../../00_Taksonomi_Bloom_CPLF_4JP.md)
+
+| Kode | Level | Siswa mampu … |
+|------|-------|----------------|
+| **C1** | Mengingat | Menyebut rule kelas & transformasi “masalah sebelum solusi” |
+| **C2** | Memahami | Menjelaskan beda masalah vs kesal; stakeholder; batas (scope) |
+| **C3** | Menerapkan | Mengisi template framing pada kasus nyata (kertas + `index.html`) |
+| **C4** | Menganalisis | Mengenali solusi prematur (mis. “langsung app”) dan bagian yang belum dibatasi |
+| **C5** | Mengevaluasi | Memilih apa yang sengaja **tidak** diselesaikan dulu (exit ticket) |
+| **C6** | Mencipta | Menyusun artefak framing milik sendiri (bukan salinan contoh guru) |
+
+**Fokus utama hari ini:** C2–C4 · **Puncak praktik:** C3 + C6 (ringan)
+
+---
+
 ## Timeline (180 menit · 4 JP)
 
-| Menit | Fase | Aktivitas | Catatan guru |
-|-------|------|-----------|--------------|
-| 0–20 | **Orientation** | Learning Compass + kenalan CPLF (bacaan Mimi–Robi bag. 1–3) · transformasi · rule | Bukan langsung diskusi |
-| 20–40 | **Scaffold teori** | I do: framing antre kantin live · We do: 1 kotak bersama | |
-| 40–50 | Do Now | Sticky: 1 masalah nyata | Setelah contoh |
-| 50–70 | Hook + Experience | Solusi absurd · kelompok siapa/batas/bukan tugas | ~teori/experiential |
-| 70–85 | Trap + Clarify | App prematur · *Pahami sebelum menyimpulan* | |
-| 85–95 | Concept | Framing · scope · stakeholder | Transisi ke praktik |
-| 95–110 | **Scaffold praktik** | Guru model: buat folder + `index.html` kerangka dari masalah yang diframe | I do |
-| 110–165 | **Practice** | Siswa: kerangka halaman + tulis ulang framing di halaman (heading/paragraf) | You do · terkait framing |
-| 165–180 | Reflect + Exit | Jurnal · exit ticket · preview P02 | |
+| Menit | Fase | Bloom | Aktivitas | Catatan guru |
+|-------|------|-------|-----------|--------------|
+| 0–20 | **Orientation** | C1–C2 | Learning Compass + kenalan CPLF (bacaan bag. 1–3) · transformasi · rule | Bukan langsung diskusi |
+| 20–40 | **Scaffold teori** | C2 | I do: framing antre kantin live · We do: 1 kotak bersama | |
+| 40–50 | Do Now | C3 | Sticky: 1 masalah nyata | Setelah contoh |
+| 50–70 | Hook + Experience | C2–C4 | Solusi absurd · kelompok siapa/batas/bukan tugas | |
+| 70–85 | Trap + Clarify | C4 | App prematur · *Pahami sebelum menyimpulan* | |
+| 85–95 | Concept | C2 | Framing · scope · stakeholder | Transisi ke praktik |
+| 95–110 | **Scaffold praktik** | C2–C3 | Guru model: folder + `index.html` kerangka | I do |
+| 110–165 | **Practice** | C3–C6 | Siswa: kerangka halaman + tulis ulang framing | You do |
+| 165–180 | Reflect + Exit | C5 | Jurnal · exit ticket · preview P02 | |
 
 **Adaptasi ketat:** jangan potong Practice dulu — potong Hook.
 

@@ -12,6 +12,26 @@
 
 Dari “Google tahu maksudku” → “output = f(input); wajib verifikasi.”
 
+
+## Capaian pembelajaran (Taksonomi Bloom revisi)
+
+Rujukan: [00_Taksonomi_Bloom_CPLF_4JP.md](../../../base-4jp/kelas-x/00_Taksonomi_Bloom_CPLF_4JP.md)
+
+| Kode | Level | Siswa mampu … |
+|------|-------|----------------|
+| **C1** | Mengingat | Menyebut: output mengikuti input; hasil #1 ≠ fakta #1 |
+| **C2** | Memahami | Menjelaskan beda niat di kepala vs kata yang diketik; peran verifikasi 2 sumber |
+| **C3** | Menerapkan | Mencoba ≥3 keyword untuk topik MA dan mencatat di `cari.html` |
+| **C4** | Menganalisis | Membandingkan perubahan hasil saat satu kata ditambah; membedakan “Google salah” vs keyword kurang |
+| **C5** | Mengevaluasi | Memilih keyword terbaik + menilai kredibilitas sumber kedua |
+| **C6** | Mencipta | Menyusun halaman catatan pencarian milik sendiri (bukan salin guru) |
+
+**Fokus utama:** C2–C4 · **Puncak praktik:** C3–C6
+
+> **Bloom:** C1 Mengingat · C2 Memahami · C3 Menerapkan · C4 Menganalisis · C5 Mengevaluasi · C6 Mencipta  
+> Rujukan: [00_Taksonomi_Bloom_CPLF_4JP.md](../../../base-4jp/kelas-x/00_Taksonomi_Bloom_CPLF_4JP.md)
+
+
 ---
 
 ## 2. Konsep

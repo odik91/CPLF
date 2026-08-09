@@ -18,6 +18,23 @@ Dari “instruksi sudah jelas di kepala / ‘bagus’ sudah cukup” → “requ
 
 ---
 
+## Capaian pembelajaran (Taksonomi Bloom revisi)
+
+Rujukan: [00_Taksonomi_Bloom_CPLF_4JP.md](../../00_Taksonomi_Bloom_CPLF_4JP.md)
+
+| Kode | Level | Siswa mampu … |
+|------|-------|----------------|
+| **C1** | Mengingat | Menyebut: ambiguitas · requirement · kriteria penerimaan |
+| **C2** | Memahami | Menjelaskan kenapa instruksi sama bisa hasil beda; beda “bagus” vs syarat yang bisa dicentang |
+| **C3** | Menerapkan | Menulis spek 5 poin + kriteria penerimaan untuk 1 section; membangun `<section>` sesuai spek |
+| **C4** | Menganalisis | Mendaftar info yang tidak diberikan pada “gambar rumah”; membedakan kata subjektif vs observable |
+| **C5** | Mengevaluasi | Mencentang kriteria penerimaan pada sketsa/HTML teman (terpenuhi / belum) |
+| **C6** | Mencipta | Menyusun spek + 1 section HTML milik sendiri (bukan salin teman) |
+
+**Fokus utama:** C2–C5 · **Puncak:** C5–C6
+
+---
+
 ## Kaitan P03
 
 Deadlock company profile kemarin = versi digital dari “gambar rumah beda.”  
@@ -27,18 +44,18 @@ Hari ini bahasa formal: **ambiguitas → requirement → acceptance.**
 
 ## Timeline (180 menit · 4 JP)
 
-| Menit | Fase | Aktivitas | Catatan guru |
-|-------|------|-----------|--------------|
-| 0–10 | **Orientation** | Compass · transformasi · recall P03 (1 siswa: apa yang bikin deadlock?) | Papan: *Spesifik & bisa diuji* |
-| 10–20 | **Scaffold teori** | I do: instruksi buruk vs baik (1 contoh live di papan) · We do: ubah 1 frasa “bagus” → testable | Sebelum gambar |
-| 20–35 | **Experience** | “Gambarlah rumah.” (3’) · pajang 4–6 hasil beda | Timer ketat · tanpa detail |
-| 35–50 | **Trap + Clarify** | Kenapa beda padahal instruksi sama? · daftar info yang **tidak** diberikan | Serang ambiguitas, bukan selera gambar |
-| 50–70 | **Concept** | Requirement · ambiguitas · **acceptance criteria** · pengantar DoD | Gabung DNA P06+P07 |
-| 70–90 | **Practice spek (kertas)** | Brief 5 poin “1 section halaman” (hero / tentang / menu) · tukar · teman sketsa 5’ · centang AC | Transfer ke web |
-| 90–100 | Transisi | Siap editor · buka artefak P03 (opsional) | |
-| 100–115 | **Scaffold praktik** | I do: spek 1 section → bangun `section` HTML sesuai AC (think-aloud) | Model ✅/❌ di akhir |
-| 115–165 | **Practice HTML** | Siswa: tulis spek + AC di komentar/halaman · bangun **1 section** sesuai spek · peer centang AC | You do · anti “hias dulu” |
-| 165–180 | Reflect + Exit | Jurnal · exit ticket · preview P05 (klarifikasi prompt/spek) | |
+| Menit | Fase | Bloom | Aktivitas | Catatan guru |
+|-------|------|-------|-----------|--------------|
+| 0–10 | **Orientation** | C1 | Compass · recall P03 deadlock | *Spesifik & bisa diuji* |
+| 10–20 | **Scaffold teori** | C2 | Buruk vs baik · ubah “bagus” → testable | |
+| 20–35 | **Experience** | C3 | “Gambarlah rumah.” · pajang beda | |
+| 35–50 | **Trap + Clarify** | C4 | Kenapa beda? · info yang tidak diberikan | |
+| 50–70 | **Concept** | C2 | Requirement · ambiguitas · kriteria penerimaan · DoD | |
+| 70–90 | **Practice spek** | C3–C5 | Brief 5 poin · tukar · sketsa · centang | |
+| 90–100 | Transisi | — | Editor | |
+| 100–115 | **Scaffold praktik** | C2–C3 | Spek → `<section>` HTML · uji kriteria | |
+| 115–165 | **Practice HTML** | C3–C6 | 1 section + peer kriteria | |
+| 165–180 | Reflect + Exit | C5 | Exit ticket · preview P05 | |
 
 **Adaptasi ketat:** jangan potong Experience gambar rumah atau peer-AC — potong Reflect tertulis.
 

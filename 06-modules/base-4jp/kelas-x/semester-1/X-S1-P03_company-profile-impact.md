@@ -17,6 +17,38 @@ Dari “bisa generate = sudah bisa” → “hasil tanpa paham = deadlock & rasa
 
 ---
 
+## Capaian pembelajaran (Taksonomi Bloom revisi)
+
+Rujukan: [00_Taksonomi_Bloom_CPLF_4JP.md](../../00_Taksonomi_Bloom_CPLF_4JP.md)
+
+| Kode | Level | Siswa mampu … |
+|------|-------|----------------|
+| **C1** | Mengingat | Menyebut moto: bandingkan, jangan patch; prompt = input |
+| **C2** | Memahami | Menjelaskan kenapa hasil generate bisa beda / kenapa “cantik ≠ benar” |
+| **C3** | Menerapkan | Generate dengan prompt seragam; mengenali tag dasar pada file hasil |
+| **C4** | Menganalisis | Membandingkan hasil teman; memisahkan observasi vs keinginan debug |
+| **C5** | Mengevaluasi | Menilai apa yang hilang (paham & spek) tanpa menutup deadlock dengan patch |
+| **C6** | Mencipta | Menyusun 3 pertanyaan penasaran milik sendiri sebagai bahan P04–P05 |
+
+**Fokus utama:** C2–C5 · **Puncak:** C4–C6 (pertanyaan) — bukan C6 “bikin web cantik”
+
+---
+
+## Timeline (180 menit · 4 JP)
+
+| Menit | Fase | Bloom | Aktivitas | Catatan guru |
+|-------|------|-------|-----------|--------------|
+| 0–10 | **Orientation** | C1–C2 | Compass · *Bandingkan, jangan patch* · recall P02 | |
+| 10–25 | **Scaffold** | C2 | Guru generate 1× · buka HTML · output dari input | Jangan kuliah semua tag |
+| 25–55 | **Experience** | C3 | Siswa generate prompt seragam · simpan file | |
+| 55–80 | **Observe** | C4 | Gallery bandingkan hasil | |
+| 80–95 | **Trap** | C4–C5 | “Mana yang benar?” · jangan patch | |
+| 95–110 | **Clarify + Concept** | C2–C5 | Yang hilang = paham & requirement | |
+| 110–120 | Transisi | — | Siap baca, jangan perbaiki | |
+| 120–135 | **Scaffold praktik** | C2–C3 | Tunjuk tag `html/head/body/h1/p` | |
+| 135–165 | **Practice** | C3–C6 | Lembar kenali tag + 3 pertanyaan penasaran | Anti-debug |
+| 165–180 | Reflect + Exit | C5 | Exit ticket · preview P04 | |
+
 ## Bukan / Melainkan
 
 | Bukan | Melainkan |
@@ -34,26 +66,9 @@ Dari “bisa generate = sudah bisa” → “hasil tanpa paham = deadlock & rasa
 | **P04 Gambar rumah** | Deadlock hari ini → “kita minta apa sebenarnya?” (requirement) |
 | **P05 Klarifikasi** | Protokol formal menyusul setelah rasa impact |
 
----
-
-## Timeline (180 menit · 4 JP)
-
-| Menit | Fase | Aktivitas | Catatan guru |
-|-------|------|-----------|--------------|
-| 0–10 | **Orientation** | Compass: impact · bandingkan · **bukan** debug / bukan ajar vibe coding · recall P02 (1 siswa: input→output) | Tulis di papan: *Bandingkan, jangan patch* |
-| 10–25 | **Scaffold** | I do: guru generate **1×** company profile (prompt seragam) · buka file HTML di editor · think-aloud “ini output dari input ini” | Jangan jelaskan semua tag |
-| 25–55 | **Experience** | Siswa generate dengan **prompt seragam** · simpan file hasil | Satu prompt kelas; tool sesuai kebijakan lab |
-| 55–80 | **Observe (gallery)** | Putar 2–3 layar / print · bandingkan: sama prompt, beda hasil? apa beda struktur/isi? | Siswa catat di sticky |
-| 80–95 | **Trap** | Deadlock: “Mana yang benar?” · biarkan frustrasi produktif · **jangan** selesaikan dengan patch/debug | Parkir ke P04–P05 |
-| 95–110 | **Clarify + Concept** | Yang hilang = paham & requirement · AI ≠ otoritas kebenaran · jembatan: “nanti kita belajar minta & baca kode” | Ringkas, bukan ceramah panjang |
-| 110–120 | Transisi | Siap “baca HTML, bukan perbaiki” | |
-| 120–135 | **Scaffold praktik** | I do: tunjuk `html` / `head` / `body` / `h1` / `p` pada **satu** file · We do: siswa tunjuk di layar teman | Label nama tag saja |
-| 135–165 | **Practice touch coding** | Buka HTML sendiri · isi lembar “kenali tag” · tulis **3 pertanyaan penasaran** (bukan perbaikan) | You do · anti-debug |
-| 165–180 | Reflect + Exit | 1 kebingungan + 1 pertanyaan belajar · preview P04 (requirement / gambar rumah) | Simpan artefak + sticky |
-
 **Adaptasi ketat:** jangan potong Observe/Trap — itu inti impact. Jika waktu mepet, potong Reflect tertulis (lisan saja).
 
-**Rujukan:** [Learning Compass](../../../../03-framework/03_Learning_Compass_CPLF.md) · [Panduan 4JP](../00_Panduan_Pertemuan_4JP.md) · [Indeks 34P](./X-S1_Index.md)
+**Rujukan:** [Learning Compass](../../../../03-framework/03_Learning_Compass_CPLF.md) · [Panduan 4JP](../00_Panduan_Pertemuan_4JP.md) · [Indeks 34P](./X-S1_Index.md) · [Bloom C1–C6](../../00_Taksonomi_Bloom_CPLF_4JP.md)
 
 ---
 

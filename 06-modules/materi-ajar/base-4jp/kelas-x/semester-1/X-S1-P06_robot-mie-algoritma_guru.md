@@ -33,20 +33,40 @@ Dari “komputer/AI paham maksud” → “instruksi eksplisit berurutan (**algo
 
 ---
 
+## Capaian pembelajaran (Taksonomi Bloom revisi)
+
+Rujukan: [00_Taksonomi_Bloom_CPLF_4JP.md](../../../base-4jp/kelas-x/00_Taksonomi_Bloom_CPLF_4JP.md)
+
+| Kode | Level | Siswa mampu … |
+|------|-------|----------------|
+| **C1** | Mengingat | Menyebut definisi algoritma; beda implisit vs eksplisit |
+| **C2** | Memahami | Menjelaskan kenapa ROBI patuh tetap bisa gagal |
+| **C3** | Menerapkan | Menulis 5–8 langkah eksplisit (kertas + `algoritma.html`) |
+| **C4** | Menganalisis | Menemukan langkah implisit yang hilang saat uji literal |
+| **C5** | Mengevaluasi | Menilai langkah mana boleh/tidak boleh dibalik; merevisi setelah uji peer |
+| **C6** | Mencipta | Menyusun algoritma topik sendiri (bukan salin contoh guru) |
+
+**Fokus utama:** C2–C4 · **Puncak:** C3–C6
+
+> **Bloom:** C1 Mengingat · C2 Memahami · C3 Menerapkan · C4 Menganalisis · C5 Mengevaluasi · C6 Mencipta  
+> Rujukan: [00_Taksonomi_Bloom_CPLF_4JP.md](../../../base-4jp/kelas-x/00_Taksonomi_Bloom_CPLF_4JP.md)
+
 ## Timeline (180 menit · 4 JP)
 
-| Menit | Fase | Aktivitas | Catatan guru |
-|-------|------|-----------|--------------|
-| 0–10 | **Orientation** | Compass · ROBI masuk · recall P05 | |
-| 10–25 | **Scaffold** | Teh: implisit vs eksplisit side-by-side · We do +1 langkah | Sebelum drama mie |
-| 25–50 | **Experience** | ROBI masak mie (bungkus ikut) | Literal |
-| 50–65 | **Trap** | Patuh tapi gagal — kenapa? | |
-| 65–85 | **Clarify + Concept** | ROBI vs manusia · definisi algoritma · urutan | |
-| 85–95 | **Practice mini** | 6–8 langkah teh/piket · teman = ROBI | |
-| 95–105 | Transisi | Editor | |
-| 105–120 | **Scaffold praktik** | I do: `algoritma.html` dengan `ol`/`li` | |
-| 120–165 | **Practice** | 5–8 langkah → HTML · peer ROBI · revisi | |
-| 165–180 | Reflect + Exit | Preview P07 HTML semantik | |
+| Menit | Fase | Bloom | Aktivitas | Catatan guru |
+|-------|------|-------|-----------|--------------|
+| 0–10 | **Orientation** | C1 | Compass · ROBI masuk · recall P05 | |
+| 10–25 | **Scaffold teori** | C2 | Teh implisit vs eksplisit · We do +1 langkah | Sebelum drama mie |
+| 25–50 | **Experience** | C3 | ROBI masak mie (bungkus ikut) | |
+| 50–65 | **Trap + Q** | C4 | Patuh tapi gagal — kenapa? | |
+| 65–85 | **Clarify + Concept** | C2 | ROBI vs manusia · definisi algoritma · urutan | |
+| 85–95 | **Practice mini** | C3–C5 | 6–8 langkah · teman = ROBI | |
+| 95–105 | Transisi | — | Editor | |
+| 105–120 | **Scaffold praktik** | C2–C3 | I do `algoritma.html` | |
+| 120–165 | **Practice** | C3–C6 | 5–8 langkah HTML · peer ROBI · revisi | |
+| 165–180 | Reflect + Exit | C5 | Exit ticket · preview P07 | |
+
+
 
 **Adaptasi ketat:** jangan potong Experience atau Practice HTML.
 

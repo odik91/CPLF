@@ -12,6 +12,26 @@
 
 Dari “komputer/AI paham maksudku” → “instruksi **eksplisit** berurutan = **algoritma**.”
 
+
+## Capaian pembelajaran (Taksonomi Bloom revisi)
+
+Rujukan: [00_Taksonomi_Bloom_CPLF_4JP.md](../../../base-4jp/kelas-x/00_Taksonomi_Bloom_CPLF_4JP.md)
+
+| Kode | Level | Siswa mampu … |
+|------|-------|----------------|
+| **C1** | Mengingat | Menyebut definisi algoritma; beda implisit vs eksplisit |
+| **C2** | Memahami | Menjelaskan kenapa ROBI patuh tetap bisa gagal |
+| **C3** | Menerapkan | Menulis 5–8 langkah eksplisit (kertas + `algoritma.html`) |
+| **C4** | Menganalisis | Menemukan langkah implisit yang hilang saat uji literal |
+| **C5** | Mengevaluasi | Menilai langkah mana boleh/tidak boleh dibalik; merevisi setelah uji peer |
+| **C6** | Mencipta | Menyusun algoritma topik sendiri (bukan salin contoh guru) |
+
+**Fokus utama:** C2–C4 · **Puncak:** C3–C6
+
+> **Bloom:** C1 Mengingat · C2 Memahami · C3 Menerapkan · C4 Menganalisis · C5 Mengevaluasi · C6 Mencipta  
+> Rujukan: [00_Taksonomi_Bloom_CPLF_4JP.md](../../../base-4jp/kelas-x/00_Taksonomi_Bloom_CPLF_4JP.md)
+
+
 ---
 
 ## 2. Istilah (nama lengkap)

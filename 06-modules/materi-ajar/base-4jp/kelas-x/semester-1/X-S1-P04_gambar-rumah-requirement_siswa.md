@@ -12,6 +12,26 @@
 
 Dari “instruksi di kepala sudah jelas / ‘bagus’ sudah cukup” → “requirement spesifik + acceptance yang bisa dicentang ✅/❌.”
 
+
+## Capaian pembelajaran (Taksonomi Bloom revisi)
+
+Rujukan: [00_Taksonomi_Bloom_CPLF_4JP.md](../../../base-4jp/kelas-x/00_Taksonomi_Bloom_CPLF_4JP.md)
+
+| Kode | Level | Siswa mampu … |
+|------|-------|----------------|
+| **C1** | Mengingat | Menyebut: ambiguitas · requirement · kriteria penerimaan |
+| **C2** | Memahami | Menjelaskan kenapa instruksi sama bisa hasil beda; beda “bagus” vs syarat yang bisa dicentang |
+| **C3** | Menerapkan | Menulis spek 5 poin + kriteria penerimaan untuk 1 section; membangun `<section>` sesuai spek |
+| **C4** | Menganalisis | Mendaftar info yang tidak diberikan pada “gambar rumah”; membedakan kata subjektif vs observable |
+| **C5** | Mengevaluasi | Mencentang kriteria penerimaan pada sketsa/HTML teman (terpenuhi / belum) |
+| **C6** | Mencipta | Menyusun spek + 1 section HTML milik sendiri (bukan salin teman) |
+
+**Fokus utama:** C2–C5 · **Puncak:** C5–C6
+
+> **Bloom:** C1 Mengingat · C2 Memahami · C3 Menerapkan · C4 Menganalisis · C5 Mengevaluasi · C6 Mencipta  
+> Rujukan: [00_Taksonomi_Bloom_CPLF_4JP.md](../../../base-4jp/kelas-x/00_Taksonomi_Bloom_CPLF_4JP.md)
+
+
 ---
 
 ## 2. Konsep

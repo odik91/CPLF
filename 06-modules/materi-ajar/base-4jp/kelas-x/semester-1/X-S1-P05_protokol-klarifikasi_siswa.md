@@ -13,6 +13,26 @@
 Dari “AI/teman bilang = benar atau salah total”  
 → “klarifikasi: klaim · alasan · bukti · **alternatif** · **konteks (batas berlaku)**.”
 
+
+## Capaian pembelajaran (Taksonomi Bloom revisi)
+
+Rujukan: [00_Taksonomi_Bloom_CPLF_4JP.md](../../../base-4jp/kelas-x/00_Taksonomi_Bloom_CPLF_4JP.md)
+
+| Kode | Level | Siswa mampu … |
+|------|-------|----------------|
+| **C1** | Mengingat | Menyebut moto MM-00 dan langkah klaim→alasan→bukti→alternatif→konteks |
+| **C2** | Memahami | Menjelaskan beda alternatif vs konteks; AI = partner bukan otoritas |
+| **C3** | Menerapkan | Mengisi worksheet klarifikasi; memperbaiki 1 bagian HTML berdasar hasil klarifikasi |
+| **C4** | Menganalisis | Memecah jawaban AI per kalimat; membedakan “AI salah” vs prompt/kita/kurang bukti |
+| **C5** | Mengevaluasi | Menilai klaim dengan bukti/uji; mencentang kriteria penerimaan terkait perbaikan |
+| **C6** | Mencipta | Menyusun pertanyaan klarifikasi pribadi + aturan AI kelas yang dipegang sendiri |
+
+**Fokus utama:** C2–C5 · **Puncak:** C3–C5 (polish HTML)
+
+> **Bloom:** C1 Mengingat · C2 Memahami · C3 Menerapkan · C4 Menganalisis · C5 Mengevaluasi · C6 Mencipta  
+> Rujukan: [00_Taksonomi_Bloom_CPLF_4JP.md](../../../base-4jp/kelas-x/00_Taksonomi_Bloom_CPLF_4JP.md)
+
+
 ---
 
 ## 2. Moto kelas

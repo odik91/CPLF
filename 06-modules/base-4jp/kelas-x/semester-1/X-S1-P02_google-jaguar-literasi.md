@@ -18,20 +18,37 @@ Dari “Google tahu maksudku” → “output = f(input); wajib verifikasi.”
 
 ---
 
+## Capaian pembelajaran (Taksonomi Bloom revisi)
+
+Rujukan: [00_Taksonomi_Bloom_CPLF_4JP.md](../../00_Taksonomi_Bloom_CPLF_4JP.md)
+
+| Kode | Level | Siswa mampu … |
+|------|-------|----------------|
+| **C1** | Mengingat | Menyebut: output mengikuti input; hasil #1 ≠ fakta #1 |
+| **C2** | Memahami | Menjelaskan beda niat di kepala vs kata yang diketik; peran verifikasi 2 sumber |
+| **C3** | Menerapkan | Mencoba ≥3 keyword untuk topik MA dan mencatat di `cari.html` |
+| **C4** | Menganalisis | Membandingkan perubahan hasil saat satu kata ditambah; membedakan “Google salah” vs keyword kurang |
+| **C5** | Mengevaluasi | Memilih keyword terbaik + menilai kredibilitas sumber kedua |
+| **C6** | Mencipta | Menyusun halaman catatan pencarian milik sendiri (bukan salin guru) |
+
+**Fokus utama:** C2–C4 · **Puncak praktik:** C3–C6
+
+---
+
 ## Timeline (180 menit · 4 JP)
 
-| Menit | Fase | Aktivitas | Catatan guru |
-|-------|------|-----------|--------------|
-| 0–10 | **Orientation** | Compass · transformasi 1 kalimat · recall P01 (1 siswa share **batas**) | Peta: lihat contoh → baru coba |
-| 10–25 | **Scaffold teori** | I do: live search `jaguar` (ketik karakter demi karakter) → think-aloud → `jaguar animal` · We do: kelas tebak input berikutnya | **Sebelum** siswa search sendiri |
-| 25–50 | **Experience** | Lanjut bandingkan · opsional `jaguar macan` / habitat · siswa prediksi sebelum Enter | TTS: Tebak → Tanya input → Spelling |
-| 50–65 | **Trap + Q** | “Google salah” vs “keyword kurang” — siapa diperbaiki? | Serang asumsi, bukan orang |
-| 65–80 | **Clarify** | *Jangan cepat percaya.* Demo 2 sumber untuk 1 fakta | Protokol verifikasi |
-| 80–95 | **Concept** | Input→output · keyword · niat vs kata · verifikasi · transfer clickbait & prompt AI | Preview P03: prompt = input juga |
-| 95–105 | Transisi / istirahat singkat | Siap editor · buka folder project P01 | |
-| 105–120 | **Scaffold praktik** | I do: kerangka `cari.html` — judul, pertanyaan, 3 baris keyword, tempat catatan fakta | Model di proyektor |
-| 120–165 | **Practice** | Siswa: search topik MA sendiri (3 keyword + 1 sumber kedua) → **tulis ulang di halaman HTML** | You do · terkait literasi |
-| 165–180 | Reflect + Exit | Jurnal · exit ticket · preview P03 (generate = input juga) | |
+| Menit | Fase | Bloom | Aktivitas | Catatan guru |
+|-------|------|-------|-----------|--------------|
+| 0–10 | **Orientation** | C1 | Compass · transformasi · recall P01 (batas) | |
+| 10–25 | **Scaffold teori** | C2 | Live search `jaguar` → `jaguar animal` · We do tebak input | Sebelum siswa search |
+| 25–50 | **Experience** | C2–C3 | Bandingkan hasil · prediksi sebelum Enter | TTS |
+| 50–65 | **Trap + Q** | C4 | “Google salah” vs “keyword kurang” | |
+| 65–80 | **Clarify** | C4–C5 | Demo 2 sumber untuk 1 fakta | |
+| 80–95 | **Concept** | C2 | Input→output · keyword · verifikasi · preview prompt AI | |
+| 95–105 | Transisi | — | Siap editor | |
+| 105–120 | **Scaffold praktik** | C2–C3 | I do: kerangka `cari.html` | |
+| 120–165 | **Practice** | C3–C6 | 3 keyword topik MA + sumber kedua → HTML | |
+| 165–180 | Reflect + Exit | C5 | Exit ticket · preview P03 | |
 
 **Adaptasi ketat:** jangan potong Practice dulu — potong Transfer/Reflect.
 
