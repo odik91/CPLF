@@ -29,20 +29,40 @@ Dari “asal tampil / semua `div`” → “struktur HTML **bermakna** selaras s
 
 ---
 
+## Capaian pembelajaran (Taksonomi Bloom revisi)
+
+Rujukan: [00_Taksonomi_Bloom_CPLF_4JP.md](../../../base-4jp/kelas-x/00_Taksonomi_Bloom_CPLF_4JP.md)
+
+| Kode | Level | Siswa mampu … |
+|------|-------|----------------|
+| **C1** | Mengingat | Menyebut landmark (`header`/`main`/`section`/`footer`) dan aturan satu `h1` |
+| **C2** | Memahami | Menjelaskan semantik = nama sesuai peran; alasan untuk spek, tim, CSS, dan mesin pencari (SEO) |
+| **C3** | Menerapkan | Membangun kerangka company/profil sesuai spek |
+| **C4** | Menganalisis | Membandingkan HTML bermakna vs sup `div`; menemukan hierarki judul yang salah |
+| **C5** | Mengevaluasi | Mencentang kriteria penerimaan struktur; menilai apakah spek terbaca dari HTML saja |
+| **C6** | Mencipta | Menyusun peta bagian + halaman semantik milik sendiri |
+
+**Fokus utama:** C2–C5 · **Puncak:** C3–C6
+
+> **Bloom:** C1 Mengingat · C2 Memahami · C3 Menerapkan · C4 Menganalisis · C5 Mengevaluasi · C6 Mencipta  
+> Rujukan: [00_Taksonomi_Bloom_CPLF_4JP.md](../../../base-4jp/kelas-x/00_Taksonomi_Bloom_CPLF_4JP.md)
+
 ## Timeline (180 menit · 4 JP)
 
-| Menit | Fase | Aktivitas | Catatan guru |
-|-------|------|-----------|--------------|
-| 0–10 | **Orientation** | Compass · recall P06 · “bagian halaman = eksplisit” | |
-| 10–30 | **Scaffold** | Kerangka bermakna vs sup `div` · We do nama peran 1 blok | |
-| 30–50 | **Experience** | Baca 2 cuplikan HTML — prediksi isi | Tanpa browser dulu |
-| 50–65 | **Trap** | “Kelihatan sama = semantik tidak penting?” | |
-| 65–85 | **Clarify + Concept** | Semantik · `h1`–`h3` · landmark · spek→peta | |
-| 85–95 | **Practice mini** | Peta bagian di kertas dari spek | |
-| 95–105 | Transisi | Editor + artefak | |
-| 105–120 | **Scaffold praktik** | I do: spek → kerangka semantik | |
-| 120–165 | **Practice** | Lengkapi profil/company · peer baca struktur | |
-| 165–180 | Reflect + Exit | Preview P08 CSS | |
+| Menit | Fase | Bloom | Aktivitas | Catatan guru |
+|-------|------|-------|-----------|--------------|
+| 0–10 | **Orientation** | C1 | Compass · recall P06 | |
+| 10–30 | **Scaffold teori** | C2 | Bermakna vs sup `div` · We do nama peran | |
+| 30–50 | **Experience** | C2–C4 | Baca 2 cuplikan HTML tanpa browser dulu | |
+| 50–65 | **Trap + Q** | C4 | “Kelihatan sama = semantik sia-sia?” | + isyarat mesin pencari |
+| 65–85 | **Clarify + Concept** | C2 | Semantik · hierarki · landmark · SEO ringkas | |
+| 85–95 | **Practice mini** | C3 | Peta bagian dari spek (kertas) | |
+| 95–105 | Transisi | — | Editor | |
+| 105–120 | **Scaffold praktik** | C2–C3 | Spek → kerangka semantik | |
+| 120–165 | **Practice** | C3–C6 | Lengkapi profil · peer baca struktur | |
+| 165–180 | Reflect + Exit | C5 | Exit ticket · preview P08 | |
+
+
 
 **Adaptasi ketat:** jangan potong Trap / Practice.
 

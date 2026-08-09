@@ -37,20 +37,40 @@ Deadlock company profile = versi digital “gambar rumah beda.” Hari ini: ambi
 
 ---
 
+## Capaian pembelajaran (Taksonomi Bloom revisi)
+
+Rujukan: [00_Taksonomi_Bloom_CPLF_4JP.md](../../../base-4jp/kelas-x/00_Taksonomi_Bloom_CPLF_4JP.md)
+
+| Kode | Level | Siswa mampu … |
+|------|-------|----------------|
+| **C1** | Mengingat | Menyebut: ambiguitas · requirement · kriteria penerimaan |
+| **C2** | Memahami | Menjelaskan kenapa instruksi sama bisa hasil beda; beda “bagus” vs syarat yang bisa dicentang |
+| **C3** | Menerapkan | Menulis spek 5 poin + kriteria penerimaan untuk 1 section; membangun `<section>` sesuai spek |
+| **C4** | Menganalisis | Mendaftar info yang tidak diberikan pada “gambar rumah”; membedakan kata subjektif vs observable |
+| **C5** | Mengevaluasi | Mencentang kriteria penerimaan pada sketsa/HTML teman (terpenuhi / belum) |
+| **C6** | Mencipta | Menyusun spek + 1 section HTML milik sendiri (bukan salin teman) |
+
+**Fokus utama:** C2–C5 · **Puncak:** C5–C6
+
+> **Bloom:** C1 Mengingat · C2 Memahami · C3 Menerapkan · C4 Menganalisis · C5 Mengevaluasi · C6 Mencipta  
+> Rujukan: [00_Taksonomi_Bloom_CPLF_4JP.md](../../../base-4jp/kelas-x/00_Taksonomi_Bloom_CPLF_4JP.md)
+
 ## Timeline (180 menit · 4 JP)
 
-| Menit | Fase | Aktivitas | Catatan guru |
-|-------|------|-----------|--------------|
-| 0–10 | **Orientation** | Compass · transformasi · recall P03 (apa yang bikin deadlock?) | Papan: *Spesifik & bisa diuji* |
-| 10–20 | **Scaffold teori** | I do: buruk vs baik · We do: ubah 1 “bagus” → testable | Sebelum gambar |
-| 20–35 | **Experience** | “Gambarlah rumah.” (3’) · pajang 4–6 hasil beda | Timer · tanpa detail |
-| 35–50 | **Trap + Clarify** | Kenapa beda? · daftar info yang **tidak** diberikan | Bukan debat selera |
-| 50–70 | **Concept** | Requirement · ambiguitas · AC · DoD pengantar | Gabung P06+P07 |
-| 70–90 | **Practice spek** | Brief 5 poin 1 section · tukar · sketsa 5’ · centang AC | Transfer ke web |
-| 90–100 | Transisi | Siap editor | |
-| 100–115 | **Scaffold praktik** | I do: spek → `<section>` HTML · uji AC di akhir | Think-aloud |
-| 115–165 | **Practice HTML** | Spek+AC di komentar · bangun **1 section** · peer AC | Anti “hias dulu” |
-| 165–180 | Reflect + Exit | Exit ticket · preview P05 | |
+| Menit | Fase | Bloom | Aktivitas | Catatan guru |
+|-------|------|-------|-----------|--------------|
+| 0–10 | **Orientation** | C1 | Compass · recall P03 deadlock | *Spesifik & bisa diuji* |
+| 10–20 | **Scaffold teori** | C2 | Buruk vs baik · ubah “bagus” → testable | |
+| 20–35 | **Experience** | C3 | “Gambarlah rumah.” · pajang beda | |
+| 35–50 | **Trap + Clarify** | C4 | Kenapa beda? · info yang tidak diberikan | |
+| 50–70 | **Concept** | C2 | Requirement · ambiguitas · kriteria penerimaan · DoD | |
+| 70–90 | **Practice spek** | C3–C5 | Brief 5 poin · tukar · sketsa · centang | |
+| 90–100 | Transisi | — | Editor | |
+| 100–115 | **Scaffold praktik** | C2–C3 | Spek → `<section>` HTML · uji kriteria | |
+| 115–165 | **Practice HTML** | C3–C6 | 1 section + peer kriteria | |
+| 165–180 | Reflect + Exit | C5 | Exit ticket · preview P05 | |
+
+
 
 **Adaptasi ketat:** jangan potong gambar rumah / peer-AC — potong Reflect tertulis.
 

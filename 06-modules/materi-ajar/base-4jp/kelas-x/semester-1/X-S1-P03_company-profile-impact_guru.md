@@ -43,20 +43,40 @@ Dari “bisa generate = sudah bisa” → “hasil tanpa paham = deadlock & rasa
 
 ---
 
+## Capaian pembelajaran (Taksonomi Bloom revisi)
+
+Rujukan: [00_Taksonomi_Bloom_CPLF_4JP.md](../../../base-4jp/kelas-x/00_Taksonomi_Bloom_CPLF_4JP.md)
+
+| Kode | Level | Siswa mampu … |
+|------|-------|----------------|
+| **C1** | Mengingat | Menyebut moto: bandingkan, jangan patch; prompt = input |
+| **C2** | Memahami | Menjelaskan kenapa hasil generate bisa beda / kenapa “cantik ≠ benar” |
+| **C3** | Menerapkan | Generate dengan prompt seragam; mengenali tag dasar pada file hasil |
+| **C4** | Menganalisis | Membandingkan hasil teman; memisahkan observasi vs keinginan debug |
+| **C5** | Mengevaluasi | Menilai apa yang hilang (paham & spek) tanpa menutup deadlock dengan patch |
+| **C6** | Mencipta | Menyusun 3 pertanyaan penasaran milik sendiri sebagai bahan P04–P05 |
+
+**Fokus utama:** C2–C5 · **Puncak:** C4–C6 (pertanyaan) — bukan C6 “bikin web cantik”
+
+> **Bloom:** C1 Mengingat · C2 Memahami · C3 Menerapkan · C4 Menganalisis · C5 Mengevaluasi · C6 Mencipta  
+> Rujukan: [00_Taksonomi_Bloom_CPLF_4JP.md](../../../base-4jp/kelas-x/00_Taksonomi_Bloom_CPLF_4JP.md)
+
 ## Timeline (180 menit · 4 JP)
 
-| Menit | Fase | Aktivitas | Catatan guru |
-|-------|------|-----------|--------------|
-| 0–10 | **Orientation** | Compass · *Bandingkan, jangan patch* · recall P02 (input→output) | Bukan debug / vibe-coding |
-| 10–25 | **Scaffold** | I do: generate **1×** · buka HTML · “ini output dari input ini” | Jangan kuliah semua tag |
-| 25–55 | **Experience** | Siswa generate **prompt seragam** · simpan file | Satu prompt kelas |
-| 55–80 | **Observe** | Gallery 2–3 hasil · sticky sama/beda | |
-| 80–95 | **Trap** | “Mana yang benar?” · frustrasi produktif · **jangan patch** | Parkir P04–P05 |
-| 95–110 | **Clarify + Concept** | Yang hilang = paham & requirement · AI ≠ otoritas | Ringkas |
-| 110–120 | Transisi | Siap “baca, jangan perbaiki” | |
-| 120–135 | **Scaffold praktik** | I do: tunjuk `html/head/body/h1/p` · We do: tunjuk di layar teman | Label nama saja |
-| 135–165 | **Practice** | Lembar kenali tag + **3 pertanyaan penasaran** | Anti-debug |
-| 165–180 | Reflect + Exit | Exit ticket · preview P04 | |
+| Menit | Fase | Bloom | Aktivitas | Catatan guru |
+|-------|------|-------|-----------|--------------|
+| 0–10 | **Orientation** | C1–C2 | Compass · *Bandingkan, jangan patch* · recall P02 | |
+| 10–25 | **Scaffold** | C2 | Guru generate 1× · buka HTML · output dari input | Jangan kuliah semua tag |
+| 25–55 | **Experience** | C3 | Siswa generate prompt seragam · simpan file | |
+| 55–80 | **Observe** | C4 | Gallery bandingkan hasil | |
+| 80–95 | **Trap** | C4–C5 | “Mana yang benar?” · jangan patch | |
+| 95–110 | **Clarify + Concept** | C2–C5 | Yang hilang = paham & requirement | |
+| 110–120 | Transisi | — | Siap baca, jangan perbaiki | |
+| 120–135 | **Scaffold praktik** | C2–C3 | Tunjuk tag `html/head/body/h1/p` | |
+| 135–165 | **Practice** | C3–C6 | Lembar kenali tag + 3 pertanyaan penasaran | Anti-debug |
+| 165–180 | Reflect + Exit | C5 | Exit ticket · preview P04 | |
+
+
 
 **Adaptasi ketat:** jangan potong Observe/Trap — potong Reflect tertulis bila mepet.
 

@@ -32,20 +32,40 @@ Dari “Google tahu maksudku” → “output = f(input); wajib verifikasi.”
 
 ---
 
+## Capaian pembelajaran (Taksonomi Bloom revisi)
+
+Rujukan: [00_Taksonomi_Bloom_CPLF_4JP.md](../../../base-4jp/kelas-x/00_Taksonomi_Bloom_CPLF_4JP.md)
+
+| Kode | Level | Siswa mampu … |
+|------|-------|----------------|
+| **C1** | Mengingat | Menyebut: output mengikuti input; hasil #1 ≠ fakta #1 |
+| **C2** | Memahami | Menjelaskan beda niat di kepala vs kata yang diketik; peran verifikasi 2 sumber |
+| **C3** | Menerapkan | Mencoba ≥3 keyword untuk topik MA dan mencatat di `cari.html` |
+| **C4** | Menganalisis | Membandingkan perubahan hasil saat satu kata ditambah; membedakan “Google salah” vs keyword kurang |
+| **C5** | Mengevaluasi | Memilih keyword terbaik + menilai kredibilitas sumber kedua |
+| **C6** | Mencipta | Menyusun halaman catatan pencarian milik sendiri (bukan salin guru) |
+
+**Fokus utama:** C2–C4 · **Puncak praktik:** C3–C6
+
+> **Bloom:** C1 Mengingat · C2 Memahami · C3 Menerapkan · C4 Menganalisis · C5 Mengevaluasi · C6 Mencipta  
+> Rujukan: [00_Taksonomi_Bloom_CPLF_4JP.md](../../../base-4jp/kelas-x/00_Taksonomi_Bloom_CPLF_4JP.md)
+
 ## Timeline (180 menit · 4 JP)
 
-| Menit | Fase | Aktivitas | Catatan guru |
-|-------|------|-----------|--------------|
-| 0–10 | **Orientation** | Compass · transformasi 1 kalimat · recall P01 (1 siswa share **batas**) | Peta: lihat contoh → baru coba |
-| 10–25 | **Scaffold teori** | I do: live search `jaguar` (ketik karakter demi karakter) → think-aloud → `jaguar animal` · We do: tebak input berikutnya | **Sebelum** siswa search sendiri |
-| 25–50 | **Experience** | Bandingkan hasil · opsional `jaguar macan` / habitat · prediksi sebelum Enter | TTS: Tebak → Tanya input → Spelling |
-| 50–65 | **Trap + Q** | “Google salah” vs “keyword kurang” — siapa diperbaiki? | Serang asumsi, bukan orang |
-| 65–80 | **Clarify** | *Jangan cepat percaya.* Demo 2 sumber untuk 1 fakta | Protokol verifikasi |
-| 80–95 | **Concept** | Input→output · keyword · niat vs kata · verifikasi · transfer clickbait & prompt AI | Preview P03 |
-| 95–105 | Transisi | Siap editor · buka folder project P01 | Istirahat singkat OK |
-| 105–120 | **Scaffold praktik** | I do: kerangka `cari.html` (judul, pertanyaan, 3 keyword, fakta+sumber) | Model di proyektor |
-| 120–165 | **Practice** | Siswa: 3 keyword topik MA + 1 sumber kedua → tulis di HTML | You do · terkait literasi |
-| 165–180 | Reflect + Exit | Jurnal · exit ticket · preview P03 | |
+| Menit | Fase | Bloom | Aktivitas | Catatan guru |
+|-------|------|-------|-----------|--------------|
+| 0–10 | **Orientation** | C1 | Compass · transformasi · recall P01 (batas) | |
+| 10–25 | **Scaffold teori** | C2 | Live search `jaguar` → `jaguar animal` · We do tebak input | Sebelum siswa search |
+| 25–50 | **Experience** | C2–C3 | Bandingkan hasil · prediksi sebelum Enter | TTS |
+| 50–65 | **Trap + Q** | C4 | “Google salah” vs “keyword kurang” | |
+| 65–80 | **Clarify** | C4–C5 | Demo 2 sumber untuk 1 fakta | |
+| 80–95 | **Concept** | C2 | Input→output · keyword · verifikasi · preview prompt AI | |
+| 95–105 | Transisi | — | Siap editor | |
+| 105–120 | **Scaffold praktik** | C2–C3 | I do: kerangka `cari.html` | |
+| 120–165 | **Practice** | C3–C6 | 3 keyword topik MA + sumber kedua → HTML | |
+| 165–180 | Reflect + Exit | C5 | Exit ticket · preview P03 | |
+
+
 
 **Adaptasi ketat:** jangan potong Practice — potong Transfer/Reflect.
 

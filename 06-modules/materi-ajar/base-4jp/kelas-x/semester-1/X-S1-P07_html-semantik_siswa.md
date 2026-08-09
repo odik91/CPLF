@@ -12,6 +12,26 @@
 
 Dari “asal tampil / semua pakai `div`” → “struktur HTML **bermakna (semantik)** yang selaras spek.”
 
+
+## Capaian pembelajaran (Taksonomi Bloom revisi)
+
+Rujukan: [00_Taksonomi_Bloom_CPLF_4JP.md](../../../base-4jp/kelas-x/00_Taksonomi_Bloom_CPLF_4JP.md)
+
+| Kode | Level | Siswa mampu … |
+|------|-------|----------------|
+| **C1** | Mengingat | Menyebut landmark (`header`/`main`/`section`/`footer`) dan aturan satu `h1` |
+| **C2** | Memahami | Menjelaskan semantik = nama sesuai peran; alasan untuk spek, tim, CSS, dan mesin pencari (SEO) |
+| **C3** | Menerapkan | Membangun kerangka company/profil sesuai spek |
+| **C4** | Menganalisis | Membandingkan HTML bermakna vs sup `div`; menemukan hierarki judul yang salah |
+| **C5** | Mengevaluasi | Mencentang kriteria penerimaan struktur; menilai apakah spek terbaca dari HTML saja |
+| **C6** | Mencipta | Menyusun peta bagian + halaman semantik milik sendiri |
+
+**Fokus utama:** C2–C5 · **Puncak:** C3–C6
+
+> **Bloom:** C1 Mengingat · C2 Memahami · C3 Menerapkan · C4 Menganalisis · C5 Mengevaluasi · C6 Mencipta  
+> Rujukan: [00_Taksonomi_Bloom_CPLF_4JP.md](../../../base-4jp/kelas-x/00_Taksonomi_Bloom_CPLF_4JP.md)
+
+
 ---
 
 ## 2. Istilah (nama lengkap)
