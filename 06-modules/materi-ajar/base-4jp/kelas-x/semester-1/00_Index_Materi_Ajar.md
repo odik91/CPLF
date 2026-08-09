@@ -23,5 +23,6 @@ Setiap `*_guru.md` harus **mandiri dipakai mengajar**, pola P01:
 | 07 | [guru](./X-S1-P07_html-semantik_guru.md) · [siswa](./X-S1-P07_html-semantik_siswa.md) · [bacaan](./X-S1-P07_bacaan-mimi-robi.md) |
 | 08 | [guru](./X-S1-P08_css-dasar_guru.md) · [siswa](./X-S1-P08_css-dasar_siswa.md) · [bacaan](./X-S1-P08_bacaan-mimi-robi.md) |
 | 09 | [guru](./X-S1-P09_css-layout-keterbacaan_guru.md) · [siswa](./X-S1-P09_css-layout-keterbacaan_siswa.md) · [bacaan](./X-S1-P09_bacaan-mimi-robi.md) |
+| 10 | [guru](./X-S1-P10_halaman-multi-section_guru.md) · [siswa](./X-S1-P10_halaman-multi-section_siswa.md) · [bacaan](./X-S1-P10_bacaan-mimi-robi.md) |
 
 Indeks modul: [X-S1_Index](../../../base-4jp/kelas-x/semester-1/X-S1_Index.md)
