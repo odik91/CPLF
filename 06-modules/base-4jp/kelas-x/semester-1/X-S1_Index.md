@@ -91,7 +91,8 @@ Siswa dapat:
 |---------|--------|
 | P01 | Timeline 180' ada · materi ajar ada |
 | P02–P12 | **Isi penuh** (modul + guru/siswa/bacaan/pendukung + Bloom) · **Blok 2 selesai** |
-| P13–P22 | Slot Blok 3 (JS dasar) · perlu tulis penuh 4JP |
+| P13 | **Isi penuh** · pembuka **Blok 3** (JS dasar) |
+| P14–P22 | Slot Blok 3 · perlu tulis penuh 4JP |
 | P23–P34 | Slot Blok 4 (project) · terencana di indeks ini |
 
 ### File modul saat ini
@@ -110,6 +111,7 @@ Siswa dapat:
 | 10 | [P10](./X-S1-P10_halaman-multi-section.md) |
 | 11 | [P11](./X-S1-P11_form-html.md) |
 | 12 | [P12](./X-S1-P12_review-static-spek.md) |
+| 13 | [P13](./X-S1-P13_js-di-browser.md) |
 
 Materi ajar: [00_Index_Materi_Ajar](../../../materi-ajar/base-4jp/kelas-x/semester-1/00_Index_Materi_Ajar.md)
 
