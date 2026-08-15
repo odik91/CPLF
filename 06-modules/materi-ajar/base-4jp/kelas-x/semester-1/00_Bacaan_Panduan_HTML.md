@@ -15,6 +15,59 @@
 
 ---
 
+## Setup proyek (lakukan sekali)
+
+Tujuan: punya **folder latihan sendiri** yang rapi, terpisah dari file contoh guru (supaya boleh diutak-atik tanpa takut “menghapus asli”).
+
+### Langkah
+
+1. Buat folder proyek di komputer, misalnya:
+   ```text
+   Documents/CPLF-X-S1/
+   ```
+2. Di dalamnya buat dua subfolder:
+   ```text
+   CPLF-X-S1/
+   ├── skill-html/          ← salinan contoh latihan (dari materi)
+   └── project/             ← halaman milikmu (index.html, nanti style.css, dll.)
+   ```
+3. **Salin** seluruh isi folder materi `skill-html/` ke `CPLF-X-S1/skill-html/`  
+   (jangan hanya memindahkan file asli di repo sekolah jika itu dibagikan read-only).
+4. Buka folder `skill-html/` di editor (VS Code / editor sekolah).
+5. Buka [skill-html/index.html](./skill-html/index.html) di browser:
+   - Klik kanan file → *Open with* → browser, **atau**
+   - Di VS Code: Live Server / preview (jika tersedia).
+6. Untuk halaman milikmu: di `project/` buat `index.html` mulai dari pola [01_boilerplate.html](./skill-html/01_boilerplate.html).
+
+### Cek setup berhasil
+
+- [ ] `skill-html/index.html` terbuka di browser dan daftar 01–08 terlihat  
+- [ ] Klik satu contoh (mis. `03_tipografi.html`) — isinya muncul  
+- [ ] Folder `project/` sudah ada (boleh masih kosong kecuali `index.html`)
+
+**Catatan:** Nama folder boleh beda; yang penting **contoh latihan** dan **project milikmu** terpisah.
+
+---
+
+## Rujukan file latihan
+
+Mulai di sini: **[skill-html/index.html](./skill-html/index.html)**
+
+| No | File | Kelompok |
+|----|------|----------|
+| 01 | [01_boilerplate.html](./skill-html/01_boilerplate.html) | Boilerplate |
+| 02 | [02_semantik.html](./skill-html/02_semantik.html) | Basis semantik |
+| 03 | [03_tipografi.html](./skill-html/03_tipografi.html) | Tipografi |
+| 04 | [04_daftar.html](./skill-html/04_daftar.html) | Daftar |
+| 05 | [05_layout.html](./skill-html/05_layout.html) | Layout HTML (`div`/`span`) |
+| 06 | [06_navigasi.html](./skill-html/06_navigasi.html) | Navigasi & tautan |
+| 07 | [07_media.html](./skill-html/07_media.html) | Media |
+| 08 | [08_formulir.html](./skill-html/08_formulir.html) | Formulir |
+| — | [assets/placeholder.svg](./skill-html/assets/placeholder.svg) | Gambar contoh untuk `07` |
+| — | [skill-html/README.md](./skill-html/README.md) | Ringkas isi folder |
+
+---
+
 ## Mengapa bacaan ini ada?
 
 Di P01–P02 kamu sudah mulai berkas HTML. Di P03 muncul **company profile** — banyak siswa bingung: *tag apa ini? harus pakai yang mana?*
