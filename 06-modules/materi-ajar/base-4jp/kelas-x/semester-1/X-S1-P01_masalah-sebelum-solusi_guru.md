@@ -103,6 +103,8 @@ Rujukan: [00_Taksonomi_Bloom_CPLF_4JP.md](../../../base-4jp/kelas-x/00_Taksonomi
 
 **Orientation + Scaffold wajib** sebelum diskusi terbuka. Bacaan bag. 1–3 = orientasi; bag. 4 setelah model framing live. Jangan asumsikan siswa seperti SWE.
 
+**Setelah P01 (luar jam):** bagikan [00_Bacaan_Panduan_HTML.md](./00_Bacaan_Panduan_HTML.md) + folder [skill-html/](./skill-html/) — pengenalan tag + file contoh. Target selesai dicoba **sebelum P03**, agar company profile tidak panik “ini tag apa?”. Bukan pengganti praktik kelas; di P07+ diulang sesuai alur CPLF.
+
 ---
 
 ## B. Materi pendukung (lengkap)

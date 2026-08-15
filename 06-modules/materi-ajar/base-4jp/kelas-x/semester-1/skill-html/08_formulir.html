@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Contoh Formulir — CPLF</title>
+</head>
+<body>
+  <h1>Formulir &amp; data</h1>
+  <p>
+    <code>label</code> untuk manusia · <code>name</code> identitas data.
+    Di S1 static, struktur jujur lebih penting daripada “benar-benar terkirim.”
+  </p>
+
+  <form action="#" method="get">
+    <p>
+      <label for="nama">Nama</label><br />
+      <input id="nama" name="nama" type="text" />
+    </p>
+    <p>
+      <label for="email">Email</label><br />
+      <input id="email" name="email" type="email" />
+    </p>
+    <p>
+      <label for="pesan">Pesan</label><br />
+      <textarea id="pesan" name="pesan" rows="4" cols="40"></textarea>
+    </p>
+    <p>
+      <button type="submit">Kirim</button>
+    </p>
+  </form>
+
+  <p>
+    <small>
+      Setelah submit dengan <code>method="get"</code>, lihat alamat di bilah URL —
+      data muncul sebagai nama=nilai. Itu bukti field punya <code>name</code>.
+    </small>
+  </p>
+
+  <p><a href="index.html">← Daftar contoh</a></p>
+</body>
+</html>

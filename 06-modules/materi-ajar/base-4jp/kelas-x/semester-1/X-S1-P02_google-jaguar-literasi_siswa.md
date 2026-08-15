@@ -6,6 +6,8 @@
 
 **Bacaan:** [X-S1-P02_bacaan-mimi-robi.md](./X-S1-P02_bacaan-mimi-robi.md)
 
+**Skill HTML (luar jam · sebelum P03):** [00_Bacaan_Panduan_HTML.md](./00_Bacaan_Panduan_HTML.md) · [skill-html/](./skill-html/)
+
 ---
 
 ## 1. Tujuan

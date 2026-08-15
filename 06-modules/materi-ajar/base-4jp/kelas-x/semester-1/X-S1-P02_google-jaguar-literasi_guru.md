@@ -101,6 +101,8 @@ Rujukan: [00_Taksonomi_Bloom_CPLF_4JP.md](../../../base-4jp/kelas-x/00_Taksonomi
 
 Scaffold live search **wajib** sebelum siswa search. Ketik, jangan paste. Rotasi varian `apple`/`MA` antar kelas paralel.
 
+**Reminder skill HTML (luar jam):** pastikan siswa sudah mulai [skill-html/](./skill-html/) sebelum P03 — lihat [00_Bacaan_Panduan_HTML.md](./00_Bacaan_Panduan_HTML.md).
+
 ---
 
 ## B. Materi pendukung (lengkap)

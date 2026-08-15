@@ -26,6 +26,8 @@ Rujukan: [00_Taksonomi_Bloom_CPLF_4JP.md](../../../base-4jp/kelas-x/00_Taksonomi
 
 **Bacaan pendamping (cerita):** [X-S1-P01_bacaan-mimi-robi.md](./X-S1-P01_bacaan-mimi-robi.md) · [PDF](./X-S1-P01_bacaan-mimi-robi.pdf)
 
+**Skill HTML (luar jam · mulai setelah pertemuan ini):** [00_Bacaan_Panduan_HTML.md](./00_Bacaan_Panduan_HTML.md) · contoh [skill-html/](./skill-html/)
+
 **Basis:** 4JP · Pertemuan 1/34 · [Indeks S1](../../../base-4jp/kelas-x/semester-1/X-S1_Index.md)
 
 ---

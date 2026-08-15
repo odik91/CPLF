@@ -12,6 +12,12 @@ Setiap `*_guru.md` harus **mandiri dipakai mengajar**, pola P01:
 4. **Bloom:** sebut nama level + kode ke siswa (`Memahami · C2`); bedakan dari Elemen CP Merdeka (`BK`/`LD`/…)  
 5. Rujukan: [00_Taksonomi_Bloom_CPLF_4JP](../../../base-4jp/kelas-x/00_Taksonomi_Bloom_CPLF_4JP.md)
 
+## Bacaan keterampilan (lintas pertemuan · luar jam)
+
+| Topik | File | Kapan bagikan |
+|-------|------|----------------|
+| HTML skill + contoh file | [00_Bacaan_Panduan_HTML.md](./00_Bacaan_Panduan_HTML.md) · folder [skill-html/](./skill-html/) | **Setelah P01** · **sebaiknya sebelum P03** |
+
 | P | File |
 |---|------|
 | 01 | [guru](./X-S1-P01_masalah-sebelum-solusi_guru.md) · [siswa](./X-S1-P01_masalah-sebelum-solusi_siswa.md) · [bacaan](./X-S1-P01_bacaan-mimi-robi.md) |
