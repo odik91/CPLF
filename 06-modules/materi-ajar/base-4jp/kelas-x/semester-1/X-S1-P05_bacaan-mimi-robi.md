@@ -7,7 +7,7 @@
 | Pertemuan | **5 / 34** · Basis **4JP** |
 | Status | Naskah humor + **7 sketch khusus klarifikasi & aturan AI** |
 | Nada | POV Mimi, Gen Z, **plot twist** |
-| PDF | generate setelah naskah/ilustrasi disetujui |
+| PDF | [X-S1-P05_bacaan-mimi-robi.pdf](./X-S1-P05_bacaan-mimi-robi.pdf) |
 
 **Handout:** [X-S1-P05_protokol-klarifikasi_siswa.md](./X-S1-P05_protokol-klarifikasi_siswa.md)  
 **Modul:** [X-S1-P05 …](../../../base-4jp/kelas-x/semester-1/X-S1-P05_protokol-klarifikasi.md)
@@ -211,4 +211,5 @@ Satu line:
 ## Catatan produksi
 
 - Ilustrasi: `assets/mimi-robi/p05-clar-01` … `p05-clar-07` (`.jpg`)  
-- PDF: generate setelah naskah/ilustrasi disetujui
+- PDF: `X-S1-P05_bacaan-mimi-robi.pdf` (generate 2026-08-16)  
+- Regenerasi PDF: `06-modules/materi-ajar/scripts/md_to_pdf_bacaan.py`
