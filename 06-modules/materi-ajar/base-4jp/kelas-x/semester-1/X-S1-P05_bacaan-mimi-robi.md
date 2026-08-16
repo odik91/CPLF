@@ -5,8 +5,9 @@
 |-------|-----|
 | Kode | X-S1-P05 — Protokol Klarifikasi & Aturan AI kelas |
 | Pertemuan | **5 / 34** · Basis **4JP** |
-| Status | Naskah humor · istilah penuh (hindari singkatan kosong makna) |
+| Status | Naskah humor + **7 sketch khusus klarifikasi & aturan AI** |
 | Nada | POV Mimi, Gen Z, **plot twist** |
+| PDF | generate setelah naskah/ilustrasi disetujui |
 
 **Handout:** [X-S1-P05_protokol-klarifikasi_siswa.md](./X-S1-P05_protokol-klarifikasi_siswa.md)  
 **Modul:** [X-S1-P05 …](../../../base-4jp/kelas-x/semester-1/X-S1-P05_protokol-klarifikasi.md)
@@ -30,6 +31,8 @@ Hari ini mood baru:
 Aku:
 
 > “Spoiler: itu bukan shortcut. Itu jebakan emas berlapis saran sopan.”
+
+![Robi minta AI mengesahkan section — Mimi menyebutnya jebakan emas](./assets/mimi-robi/p05-clar-01-jebakan-shortcut.jpg)
 
 ---
 
@@ -70,6 +73,8 @@ Aku:
 > **KRISIS!**  
 > “Kamu baru cepat menolak. Baca moto baris dua.”
 
+![Sidang dadakan: klaim HTML adalah bahasa pemrograman — jangan cepat menolak](./assets/mimi-robi/p05-clar-02-sidang-moto.jpg)
+
 Kipas internalnya nyala.
 
 ---
@@ -81,6 +86,8 @@ Guru: “AI salah. **Siapa** yang salah?”
 Debat: AI · prompt · kita yang percaya buta · konteks hilang · semuanya agak-agak.
 
 Plot twist: ini bukan sidang menghukum robot. Ini menghentikan **vonis kilat**.
+
+![AI salah — siapa yang salah? Stop vonis kilat](./assets/mimi-robi/p05-clar-03-siapa-yang-salah.jpg)
 
 Kami isi rantai — dan langkah 4–5 yang biasanya bikin bingung, aku jelasin biar tidak ambigu:
 
@@ -106,6 +113,8 @@ Robi:
 
 > “✅. Otak manusia suka rumus pendek yang bermakna — bukan teka-teki.”
 
+![Alternatif = penjelasan lain · Konteks = kapan klaim boleh atau tidak](./assets/mimi-robi/p05-clar-04-alternatif-konteks.jpg)
+
 ---
 
 ## Adegan 2 — Dendam ke tombol Generate (lagi)
@@ -127,6 +136,8 @@ AI tidak menyembahnya. Ada yang belum terpenuhi.
 Robi: “Dia kurang ajar.”  
 Aku: “Dia berguna. Bedanya jauh.”
 
+![Prompt otoritas versus prompt uji berdasarkan kriteria penerimaan](./assets/mimi-robi/p05-clar-05-prompt-otoritas-vs-uji.jpg)
+
 ---
 
 ## Plot twist #2 — aturan yang “melarang” ternyata membebaskan
@@ -144,6 +155,8 @@ Robi kira ini penjara. Lalu sadar:
 
 > “Exactly. Anti-**bohong ke diri sendiri** — bukan anti-AI.”
 
+![Aturan AI kelas membebaskan: boleh pakai AI asal proses jujur](./assets/mimi-robi/p05-clar-06-aturan-ai-membebaskan.jpg)
+
 Itu skill bertahan hidup engineer: semua pihak bisa terdengar yakin. Yang nolong = protokol bermakna, bukan singkatan kosong.
 
 ---
@@ -159,6 +172,8 @@ Teman:
 Robi mau caption WA “DONE🔥”. Aku:
 
 > “Caption: klaim + kriteria yang baru terpenuhi. Atau jangan kirim. Nafas.”
+
+![Perbaiki satu bagian HTML — bukan reboot; jangan kirim DONE ke WA tanpa bukti](./assets/mimi-robi/p05-clar-07-perbaiki-bukan-reboot.jpg)
 
 ---
 
@@ -190,3 +205,10 @@ Satu line:
 
 — **Mimi** 🐾  
 *(Robi menamai file: `klarifikasi-bukan-vonis.md` — lebay, tapi terpenuhi.)*
+
+---
+
+## Catatan produksi
+
+- Ilustrasi: `assets/mimi-robi/p05-clar-01` … `p05-clar-07` (`.jpg`)  
+- PDF: generate setelah naskah/ilustrasi disetujui
