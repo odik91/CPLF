@@ -1,173 +1,124 @@
-# Bacaan Pendamping — X-S1-P14  
-## Mimi & Robi: Satpam di Gerbang, Tombol yang Selalu Bilang “Lulus”, & Cabang yang Harus Diuji
+# Bacaan Pendamping — X-S1-P14
+## Mimi & Robi: Nama untuk Nilai, Const yang Dipaksa Berubah, & Variabel Bernama “x”
 
 | Field | Isi |
-|-------|-----|
-| Kode | X-S1-P14 — Kondisi If / Else |
+|---|---|
+| Kode | X-S1-P14 — JavaScript Vanilla: Variabel & Ekspresi |
 | Pertemuan | **14 / 34** · Basis **4JP** |
-| Status | Naskah · **sketch ditunda** (kelas masih di P05) |
-| Nada | POV Mimi, Gen Z, **plot twist** |
+| Status | Naskah · sketch ditunda |
+| Nada | POV Mimi · humor · plot twist |
 
-**Handout:** [X-S1-P14_kondisi-if-else_siswa.md](./X-S1-P14_kondisi-if-else_siswa.md)  
-**Modul:** [X-S1-P14 …](../../../base-4jp/kelas-x/semester-1/X-S1-P14_kondisi-if-else.md)
+**Handout:** [X-S1-P14_variabel-ekspresi_siswa.md](./X-S1-P14_variabel-ekspresi_siswa.md)
 
 ---
 
 Halo. Mimi.
 
-Kemarin (P13) Robi berhasil bikin teks berubah saat diklik. Dia bangga.
+Kemarin Robi punya nilai berserakan:
 
-> “Satu tombol. Satu reaksi. Aku sudah master JavaScript.”
+```javascript
+12000
+2
+"Mie Sehat"
+```
 
-Aku:
+Hari ini guru bertanya: “Dua belas ribu itu apa?”
 
-> “Spoiler: dunia nyata punya **satpam**. Tidak semua orang boleh masuk lewat jalur yang sama.”
+Robi:
 
-Antenna goyang. Dia belum siap jadi satpam.
+> “Angka.”
 
----
+> “Harga apa? Untuk apa?”
+
+Diam. Angka tanpa nama kehilangan konteks.
 
 ## Learning Compass
 
 | Arah | Hari ini |
-|------|----------|
-| Tujuan | `if` / `else` — halaman bereaksi **menurut syarat** |
-| Peranmu | Tulis satu aturan · uji cabang YA dan TIDAK |
-| Bukan | Nested panjang · validasi form penuh · paste AI |
+|---|---|
+| Tujuan | Memberi nilai nama, lalu memprosesnya |
+| Alat | `const`, `let`, ekspresi, `console.log` |
+| Bukan | DOM · form · event · if/else |
 
-```text
-SATPAM/ATM  →  IF DI KONSOL  →  TRAP  →  CABANG DI HALAMAN  →  UJI DUA JALUR
-```
-
----
-
-## Adegan 1 — Role-play 120 detik
-
-Guru jadi satpam gerbang.
-
-> “Kartu pelajar?”
-
-Robi tanpa kartu. Ditolak.  
-Teman dengan kartu. Masuk.
-
-Papan:
-
-| Syarat | Jika ya | Jika tidak |
-|--------|---------|------------|
-| Ada kartu | Boleh masuk | Ditolak |
-
-Aku:
-
-> “Itu **kondisi**. Program juga bisa jadi satpam — asal aturannya **eksplisit**. Ingat ROBI mie.”
-
----
-
-## Plot twist #1 — tombol yang selalu “Lulus”
-
-Robi tulis tanpa `if`:
+## Adegan 1 — label yang jujur
 
 ```javascript
-pesan.textContent = "Lulus";
+const hargaMie = 12000;
+const jumlahPorsi = 2;
+const total = hargaMie * jumlahPorsi;
 ```
 
-Setiap klik: Lulus. Skor 10? Lulus. Nama kosong? Lulus.
+Sekarang `12000` bukan angka misterius. Namanya menjelaskan niat.
 
-> “UX-ku positif.”
-
-Aku:
-
-> **KRISIS!** (versi ATM.)  
-> “ATM yang selalu keluar uang meski PIN salah bukan ramah. Itu **maling.**”
-
-Dia menambah:
+Robi memilih nama:
 
 ```javascript
-if (skor >= 75) {
-  pesan.textContent = "Lulus";
-} else {
-  pesan.textContent = "Remidi";
-}
+const x = 12000;
+const y = 2;
+const z = x * y;
 ```
 
-Plot twist: pesan “Remidi” bukan kekalahan. Itu **cabang yang jujur**.
+Aku:
 
----
+> “Kode atau teka-teki silang?”
 
-## Adegan 2 — Drama satu karakter: `=` vs `===`
-
-Dia ketik:
+## Plot twist — const dipaksa berubah
 
 ```javascript
-if (nama.value = "") {
+const jumlah = 2;
+jumlah = 3;
 ```
 
-Konsol aneh. Halaman aneh. Antenna kepanasan.
+Konsol protes.
 
-Aku:
+> “JavaScript keras kepala.”
 
-> “`=` = **isi nilai**. `===` = **bandingkan**. Satpam yang menaruh kartu kosong ke saku orang lalu bilang ‘sudah dicek’ — itu bukan prosedur. Itu sabotage.”
+> “Kamu berjanji lewat `const`: nama ini tidak akan ditugasi ulang. Kalau memang berubah, pilih `let`.”
 
-Ganti `===`. Dunia kembali.
+```javascript
+let jumlah = 2;
+jumlah = 3;
+```
 
----
+Bukan berarti semua memakai `let`. Default `const`; `let` hanya jika rencana memang berubah.
 
-## Concept — nama lengkap
+## Adegan 2 — IPO mini
 
-| Istilah | Arti manusia |
-|---------|----------------|
-| Kondisi | Syarat yang dicek |
-| Percabangan | Jalan A atau jalan B |
-| `if` / `else` | Jika ya / jika tidak |
-| Validasi dasar | Cek aturan sederhana |
-| Boolean | Benar atau salah |
+```javascript
+const harga = 12000; // input
+let jumlah = 2;      // input
+const total = harga * jumlah; // process
+console.log(total);  // output
+```
 
-Robi rencana di kertas dulu (vibes spek P04):
+Robi ingin membaca input dari form. Aku parkir lagi.
 
-> Syarat: nama tidak kosong.  
-> YA: sapaan.  
-> TIDAK: “isi dulu.”
+> “Form berarti DOM. Kita belum ke sana. Hari ini data tersedia di kode supaya fokusmu tidak pecah.”
 
-Baru kode. Peer harus memicu **kedua** jalur — seperti acceptance yang bisa dicentang.
+Plot twist: menahan fitur bukan mundur. Itu menjaga beban belajar.
 
----
+## Concept
 
-## Adegan 3 — Peer: dua tombol imajiner
+| Istilah | Arti |
+|---|---|
+| Variabel | Nama yang menunjuk nilai |
+| Deklarasi | Membuat nama |
+| Assignment | Memberi nilai dengan `=` |
+| `const` | Tidak ditugasi ulang |
+| `let` | Akan ditugasi ulang |
+| Ekspresi | Menghasilkan nilai |
 
-Teman:
+## Peer trace
 
-> “Kosong → pesan kosong ✅. Isi ‘Robi’ → halo ✅.”
-
-Robi hampir bilang “keren.”
-
-Aku:
-
-> “Kata terlarang. Bilang: **kedua cabang terpenuhi kriteria penerimaan**.”
-
-Dia mengangguk. Menamai fungsi mentalnya: `satpamNama`.
-
----
-
-## Reflect
-
-| Pertemuan | Badge tidak resmi |
-|-----------|-------------------|
-| 13 | Halaman bereaksi (satu jalur) |
-| **14** | Halaman memilih (dua jalur) |
-
-Besok (P15): beberapa syarat · pesan error form yang lebih lengkap. Jangan panik — fondasi hari ini: satu `if` + satu `else` yang jujur.
-
----
+Teman membaca kode baris demi baris dan mencatat nilai `jumlah` sebelum/sesudah. Tidak ada tombol. Tidak ada sulap. Hanya perubahan eksplisit.
 
 ## Exit
 
-1. `if` / `else` = …  
-2. Syaratku: …  
-3. Kesalahan yang kuhindari: …
+1. Beda `const` dan `let`
+2. Nama `x` yang kamu perbaiki
+3. IPO program mini
 
-Satu line:
+> **Variabel bukan hafalan sintaks. Variabel memberi data nama dan jejak perubahan.**
 
-> **Satpam yang adil punya aturan eksplisit.**  
-> **Cabang yang tidak diuji = bug yang belum ketahuan — atau kebohongan ramah.**
-
-— **Mimi** 🐾  
-*(Robi menulis di komentar: `// uji YA dan TIDAK — jangan cuma lulus` — lebay, tapi prosedur.)*
+— **Mimi** 🐾
+*(Robi mengganti `z` menjadi `totalBelanja`. Character development yang bisa dibaca.)*

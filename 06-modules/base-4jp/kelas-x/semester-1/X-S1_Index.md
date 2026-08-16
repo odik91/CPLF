@@ -49,20 +49,20 @@ Siswa dapat:
 
 ---
 
-## Blok 3 — JS dasar di halaman (P13–P22)
+## Blok 3 — Fondasi JavaScript vanilla → integrasi halaman (P13–P22)
 
 | P | Fokus | Teori (~2JP) | Praktik (~2JP) |
 |---|-------|--------------|----------------|
-| 13 | JS di browser | Script, console, “halaman bisa bereaksi” | `console` / ubah teks 1 elemen |
-| 14 | Kondisi (ATM/satpam) | If/else, validasi | Cabang sederhana di halaman |
-| 15 | Kondisi lanjut | Nested / beberapa syarat | Form + pesan error |
-| 16 | Variabel & data | Menyimpan info | Simpan input form ke variabel / tampilkan |
-| 17 | Loop (kasir) | Pengulangan | Hitung / daftar mini |
-| 18 | Function | Bungkus proses | Refactor script jadi fungsi |
-| 19 | Function + loop | Kombinasi | Mini fitur otomasi di halaman |
-| 20 | Error = info | Baca error, hipotesis | Debug 1 bug yang disiapkan |
-| 21 | Integrasi mini | Spiral HTML/CSS/JS | Halaman static + 1–2 interaksi JS |
-| 22 | Review spiral | Klarifikasi + spek + kode | Peer review artefak |
+| 13 | Nilai & tipe data | Literal, string, number, boolean, `typeof` | Eksperimen dan prediksi di konsol |
+| 14 | Variabel & ekspresi | `const`, `let`, assignment, input–proses–output | Program console mini + trace nilai |
+| 15 | Perbandingan & Boolean | `===`, `!==`, `>`, `<`, `>=`, `<=` | Uji ekspresi benar/salah di konsol |
+| 16 | Kondisi vanilla | `if`/`else`, satu syarat | Program satpam/kelulusan di konsol |
+| 17 | Kondisi lanjut | Beberapa syarat, operator logika | Keputusan multi-syarat tanpa DOM |
+| 18 | Loop | Pengulangan dan trace | Hitung / daftar mini di konsol |
+| 19 | Function | Parameter, hasil, bungkus proses | Refactor logika menjadi fungsi |
+| 20 | Error = info | Baca error, hipotesis | Debug bug vanilla yang disiapkan |
+| 21 | DOM & event pertama | Pilih elemen, baca/ubah teks, klik | Satu interaksi halaman yang dipahami |
+| 22 | Integrasi + review spiral | HTML/CSS/JS + acceptance | Mini fitur dan peer review artefak |
 
 ---
 
@@ -111,8 +111,8 @@ Siswa dapat:
 | 10 | [P10](./X-S1-P10_halaman-multi-section.md) |
 | 11 | [P11](./X-S1-P11_form-html.md) |
 | 12 | [P12](./X-S1-P12_review-static-spek.md) |
-| 13 | [P13](./X-S1-P13_js-di-browser.md) |
-| 14 | [P14](./X-S1-P14_kondisi-if-else.md) |
+| 13 | [P13](./X-S1-P13_js-vanilla-nilai-tipe.md) |
+| 14 | [P14](./X-S1-P14_variabel-ekspresi.md) |
 
 Materi ajar: [00_Index_Materi_Ajar](../../../materi-ajar/base-4jp/kelas-x/semester-1/00_Index_Materi_Ajar.md)
 
