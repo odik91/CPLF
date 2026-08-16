@@ -5,7 +5,7 @@
 |-------|-----|
 | Kode | X-S1-P03 — Company Profile Impact |
 | Pertemuan | **3 / 34** · Basis **4JP** |
-| Status | Naskah · sketch khusus impact menyusul (aset P03 lama = klarifikasi 2JP) |
+| Status | Naskah + **6 sketch khusus impact 4JP** |
 | Nada | POV Mimi, ringan, Gen Z |
 | PDF | generate belakangan bila perlu |
 
@@ -26,6 +26,8 @@ Aku:
 
 > “Spoiler: kamu baru bisa **minta**. Belum tentu bisa **tahu**.”
 
+![Robi merasa sekali generate berarti sudah bisa web — Mimi membedakan meminta dan mengetahui](./assets/mimi-robi/p03-impact-01-sekali-generate.jpg)
+
 ---
 
 ## Learning Compass
@@ -33,6 +35,8 @@ Aku:
 Sebelum klik Generate, guru nulis di papan:
 
 > **Bandingkan, jangan patch.**
+
+![Papan Bandingkan, jangan patch — satu prompt menghasilkan tiga halaman berbeda](./assets/mimi-robi/p03-impact-02-bandingkan-jangan-patch.jpg)
 
 | Arah | Hari ini |
 |------|----------|
@@ -70,6 +74,8 @@ Aku:
 
 > “Dan… mana yang **benar**?”
 
+![Prompt sama, hasil company profile berbeda — mana yang benar?](./assets/mimi-robi/p03-impact-03-prompt-sama-hasil-beda.jpg)
+
 Diam. Productive awkward silence. Itu yang kita mau.
 
 ---
@@ -86,6 +92,8 @@ Kelas mulai ribut:
 Guru:
 
 > “Parkir. Jangan patch. Tulis apa yang bikin kalian macet.”
+
+![Deadlock kelas — parkir, jangan patch, tulis yang bikin macet](./assets/mimi-robi/p03-impact-04-deadlock-parkir.jpg)
 
 Deadlock bukan kegagalan. Deadlock = alarm: **kita belum punya cara menilai**, karena **kita belum paham yang kita minta**.
 
@@ -115,6 +123,8 @@ Bukan kuliah. Cuma nama + “kira-kira buat apa.”
 
 Kamu buka file sendiri. Isi lembar kenali tag. Tulis **3 pertanyaan penasaran** — yang bukan “cara benerin CSS.”
 
+![Kenali tag HTML dulu, jangan perbaiki — Robi menulis pertanyaan penasaran](./assets/mimi-robi/p03-impact-05-kenali-tag.jpg)
+
 Contoh bagus:
 
 > “Kenapa ada yang di `head` dan ada yang di `body`?”
@@ -135,6 +145,8 @@ Aku:
 
 > “Itu kalimat paling jujur hari ini. Simpan. Itu bahan bakar P04.”
 
+![Robi jujur belum tahu apakah halaman itu benar — bahan bakar P04](./assets/mimi-robi/p03-impact-06-halaman-benar.jpg)
+
 ---
 
 ## Exit
@@ -151,3 +163,11 @@ Sampai P04 — kita bahas “minta apa sebenarnya.”
 
 — **Mimi** 🐾  
 *(Robi menyimpan file HTML dengan nama `bukti-proses-bukan-karya-final.html`.)*
+
+---
+
+## Catatan produksi
+
+- Ilustrasi: `assets/mimi-robi/p03-impact-01` … `p03-impact-06` (`.jpg`)  
+- Aset `p03-01` … `p03-07` lama tetap disimpan sebagai arsip alur klarifikasi 2JP; **tidak dipakai** pada bacaan impact 4JP ini  
+- PDF: generate setelah naskah/ilustrasi disetujui
