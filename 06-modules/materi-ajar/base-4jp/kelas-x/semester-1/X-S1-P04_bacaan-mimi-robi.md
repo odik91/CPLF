@@ -5,8 +5,9 @@
 |-------|-----|
 | Kode | X-S1-P04 — Requirement & Acceptance |
 | Pertemuan | **4 / 34** · Basis **4JP** |
-| Status | Naskah humor · sketch khusus menyusul |
+| Status | Naskah humor + **7 sketch khusus requirement–acceptance** |
 | Nada | POV Mimi, Gen Z, **plot twist** — teori dibungkus cerita |
+| PDF | generate setelah naskah/ilustrasi disetujui |
 
 **Handout:** [X-S1-P04_gambar-rumah-requirement_siswa.md](./X-S1-P04_gambar-rumah-requirement_siswa.md)  
 **Modul:** [X-S1-P04 …](../../../base-4jp/kelas-x/semester-1/X-S1-P04_gambar-rumah-requirement.md)
@@ -24,6 +25,8 @@ Robi hari ini masuk kelas dengan aura *final boss unlock*:
 Aku:
 
 > “Spoiler: warmup-nya… pensil.”
+
+![Robi siap langsung build — Mimi memberi warmup pensil](./assets/mimi-robi/p04-req-01-warmup-pensil.jpg)
 
 Layar di kepalanya lag 0,3 detik. Classic.
 
@@ -66,6 +69,8 @@ Aku angkat cakar:
 > **KRISIS!** (versi lucu.)  
 > “Yang sama cuma kalimatnya. Yang di kepala kalian — beda galaxy.”
 
+![Instruksi sama menghasilkan joglo, rumah kotak, atap segitiga, dan markas berhelipad](./assets/mimi-robi/p04-req-02-rumah-beda-galaxy.jpg)
+
 Robi:
 
 > “Jadi aku yang salah?”
@@ -96,6 +101,8 @@ Daftar bareng yang **tidak** diberikan:
 - Tampak depan atau denah?  
 - Hitam-putih atau warna?  
 - Rumah tinggal… atau markas dengan helipad? *(Robi mengangkat tangan pelan, lalu nurunin lagi.)*
+
+![Bukan gambarnya yang salah — detail penting tidak diberikan dalam instruksi](./assets/mimi-robi/p04-req-03-bukan-gambar-salah.jpg)
 
 Aku bisik:
 
@@ -136,6 +143,8 @@ Aku:
 
 > “Exactly. Kau baru temukan musuh alami engineer: kata yang **terasa dalam**, tapi **tidak bisa dicentang**.”
 
+![Brief keren modern profesional wow berubah menjadi perang selera](./assets/mimi-robi/p04-req-04-perang-keren.jpg)
+
 ---
 
 ## Plot twist #2 — Checklist “membosankan” yang menang
@@ -164,6 +173,8 @@ Aku:
 
 > “Di dunia nyata, nasi putih yang bisa dicentang lebih berharga daripada trailer ‘wow’ yang bikin meeting 3 jam.”
 
+![Kata subjektif dicoret dan diganti checklist acceptance yang bisa dicentang](./assets/mimi-robi/p04-req-05-checklist-menang.jpg)
+
 Ini bagian journey engineer yang jarang difoto:  
 **bukan anti-kreatif — anti-debat sia-sia.**  
 Kreatif boleh. Tapi syarat tugas harus observable. Kalau tidak, yang menang = siapa paling keras bilang “kerasa keren.”
@@ -190,6 +201,8 @@ Robi mau debat. Aku tempel sticky di antenna-nya:
 
 > “❌ itu hadiah. Lebih jujur dari ‘hmm lumayan, tapi…’”
 
+![Section hanya satu paragraf gagal AC — scope dijaga lalu paragraf kedua ditambahkan](./assets/mimi-robi/p04-req-06-section-ac-gagal.jpg)
+
 Dia diam. Lalu nambah paragraf. Centang. Selesai.
 
 Plot twist kecil terakhir: dia *senang* dapat ❌.  
@@ -215,6 +228,8 @@ Aku:
 
 > “Character development. Bagus— eh. Maksudku: ✅.”
 
+![Robi melarang kata keren di AC dan menandai helipad sebagai out of scope](./assets/mimi-robi/p04-req-07-keren-out-of-scope.jpg)
+
 ---
 
 ## Exit (isi di kelas / PR singkat)
@@ -230,3 +245,11 @@ Satu line dibawa pulang:
 
 — **Mimi** 🐾  
 *(Robi menutup helipad di gambarnya dengan sticky note: “out of scope.”)*
+
+---
+
+## Catatan produksi
+
+- Ilustrasi: `assets/mimi-robi/p04-req-01` … `p04-req-07` (`.jpg`)  
+- Aset `p04-01` … `p04-06` lama tetap disimpan sebagai arsip bacaan algoritma/mie; **tidak dipakai** pada bacaan requirement–acceptance ini  
+- PDF: generate setelah naskah/ilustrasi disetujui
