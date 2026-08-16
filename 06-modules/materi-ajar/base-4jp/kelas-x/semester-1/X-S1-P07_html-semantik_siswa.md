@@ -156,6 +156,8 @@ Spek singkat (3–5 poin) — warung / profil MA / lanjut artefakmu:
 
 CSS membuat tampilan rapi — **tanpa** merusak struktur semantik hari ini.
 
+**Skill CSS (luar jam · mulai setelah pertemuan ini):** [00_Bacaan_Panduan_CSS.md](./00_Bacaan_Panduan_CSS.md) · [skill-css/](./skill-css/)
+
 ---
 
 _Peta spek dulu, baru ketik. Jangan salin halaman jadi tanpa paham peran tag._

@@ -1,0 +1,32 @@
+/* 03 — Tipografi */
+/* menggunakan selector body untuk mengatur semua elemen body */
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1rem;
+  line-height: 1.6;
+  padding: 1rem;
+  color: #1a1a1a;
+}
+
+/* menggunakan selector h1 untuk mengatur semua elemen h1 */
+h1 {
+  font-size: 1.9rem;
+  font-weight: bold;
+  line-height: 1.25;
+}
+
+/* menggunakan selector h2 untuk mengatur semua elemen h2 */
+h2 {
+  font-size: 1.35rem;
+  font-weight: bold;
+}
+
+/* menggunakan selector class .tebal untuk mengatur semua elemen dengan class .tebal */
+.tebal {
+  font-weight: bold;
+}
+
+/* menggunakan selector class .tengah untuk mengatur semua elemen dengan class .tengah */
+.tengah {
+  text-align: center;
+}

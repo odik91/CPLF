@@ -1,0 +1,24 @@
+/* 06 — Layout keterbacaan */
+/* menggunakan selector body untuk mengatur semua elemen body */
+body {
+  font-family: Georgia, serif;
+  line-height: 1.6;
+  color: #1a1a1a;
+  background-color: #e8e4dc;
+  margin: 0;
+}
+
+/* menggunakan selector class .page untuk mengatur semua elemen dengan class .page */
+.page {
+  max-width: 42rem;
+  margin: 0 auto;
+  padding: 1rem 1.25rem;
+  background-color: #f7f4ef;
+  min-height: 100vh;
+}
+
+/* menggunakan selector h1 untuk mengatur semua elemen h1 */
+h1 {
+  color: #0b3d2e;
+  font-size: 1.8rem;
+}

@@ -87,6 +87,8 @@ Biar bagus = rusak HTML / tempel CSS buta.
 
 Bawa artefak P07. Parkir flex/grid ke P09.
 
+**Reminder skill CSS (luar jam):** pastikan siswa sudah mulai [skill-css/](./skill-css/) — lihat [00_Bacaan_Panduan_CSS.md](./00_Bacaan_Panduan_CSS.md). Di P09 lanjutkan fokus file 05–07.
+
 ---
 
 ## B. Materi pendukung (lengkap)

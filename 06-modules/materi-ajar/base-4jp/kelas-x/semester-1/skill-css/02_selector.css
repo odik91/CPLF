@@ -1,0 +1,32 @@
+/* 02 — Basis selector */
+body {
+  font-family: system-ui, sans-serif;
+  line-height: 1.5;
+  padding: 1rem;
+}
+
+/* Selector elemen */
+p {
+  color: #333;
+}
+
+h2 {
+  color: #0b3d2e;
+}
+
+section {
+  border-left: 4px solid #0b3d2e;
+  padding-left: 0.75rem;
+}
+
+/* Selector class */
+.sorot {
+  background-color: #fff3bf;
+  padding: 0.35rem 0.5rem;
+}
+
+/* Selector id */
+#judul {
+  font-size: 1.75rem;
+  color: #0b3d2e;
+}

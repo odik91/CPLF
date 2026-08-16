@@ -1,0 +1,44 @@
+/* 07 — Flex ringan (satu kasus: nav) */
+/* menggunakan selector body untuk mengatur semua elemen body */
+body {
+  font-family: system-ui, sans-serif;
+  line-height: 1.5;
+  padding: 1rem;
+  color: #1a1a1a;
+}
+
+/* 
+menggunakan selector nav ul untuk mengatur semua elemen dengan nav ul 
+di sini kita hanya menerapkan style untuk tag ul yang berada di dalam tag nav (child)
+*/
+nav ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  list-style: none;
+  padding: 0;
+  margin: 0 0 1.5rem;
+}
+
+/* 
+menggunakan selector nav a untuk mengatur semua elemen dengan nav a.
+di sini kita hanya menerapkan style untuk tag a yang berada di dalam tag nav (child)
+*/
+nav a {
+  color: #0b3d2e;
+  font-weight: bold;
+}
+
+/* menggunakan selector section untuk mengatur semua elemen dengan section */
+section {
+  margin-bottom: 1.25rem;
+}
+
+/* 
+menggunakan selector h1 dan h2 untuk mengatur semua elemen h1 dan h2 secara bersamaan.
+untuk selector yang memiliki style yang sama, kita dapat mendefinisikannya secara bersamaan dan dipisahkan dengan koma
+*/
+h1,
+h2 {
+  color: #0b3d2e;
+}

@@ -101,6 +101,8 @@ Tampilan sama ≠ struktur sama / tidak penting.
 
 Tolak CSS. AI setelah peta spek. Peer baca HTML seperti algoritma.
 
+**Setelah P07 (luar jam):** bagikan [00_Bacaan_Panduan_CSS.md](./00_Bacaan_Panduan_CSS.md) + [skill-css/](./skill-css/) — pengenalan properti + pasangan HTML/CSS. Target mulai dicoba **sebelum/saat P08**. Bukan pengganti praktik kelas.
+
 ---
 
 ## B. Materi pendukung (lengkap)

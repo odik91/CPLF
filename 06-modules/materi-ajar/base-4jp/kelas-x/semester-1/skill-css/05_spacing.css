@@ -1,0 +1,21 @@
+/* 05 — Spacing */
+/* menggunakan selector body untuk mengatur semua elemen body */
+body {
+  font-family: system-ui, sans-serif;
+  line-height: 1.5;
+  padding: 1rem;
+  color: #1a1a1a;
+}
+
+/* menggunakan selector class .kotak untuk mengatur semua elemen dengan class .kotak */
+.kotak {
+  background-color: #eef6f2;
+  border: 1px solid #0b3d2e;
+  padding: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+/* menggunakan selector class .kotak h2 untuk mengatur semua elemen dengan class .kotak h2 */
+.kotak h2 {
+  margin-top: 0;
+}

@@ -1,0 +1,29 @@
+/* 04 — Warna & latar */
+/* menggunakan selector body untuk mengatur semua elemen body */
+body {
+  font-family: system-ui, sans-serif;
+  line-height: 1.5;
+  color: #1a1a1a;
+  background-color: #f7f4ef;
+  padding: 1rem;
+}
+
+/* menggunakan selector h1 untuk mengatur semua elemen h1 */
+h1 {
+  color: #0b3d2e;
+}
+
+/* menggunakan selector class .peringatan untuk mengatur semua elemen dengan class .peringatan */
+.peringatan {
+  color: #1a1a1a;
+  background-color: #ffe8a3;
+  padding: 0.5rem 0.75rem;
+}
+
+/* Sengaja sulit dibaca — untuk diskusi trap */
+/* menggunakan selector class .jelek untuk mengatur semua elemen dengan class .jelek */
+.jelek {
+  color: #c8c8c8;
+  background-color: #efefef;
+  padding: 0.5rem 0.75rem;
+}

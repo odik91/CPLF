@@ -17,6 +17,7 @@ Setiap `*_guru.md` harus **mandiri dipakai mengajar**, pola P01:
 | Topik | File | Kapan bagikan |
 |-------|------|----------------|
 | HTML skill + contoh file | [00_Bacaan_Panduan_HTML.md](./00_Bacaan_Panduan_HTML.md) · folder [skill-html/](./skill-html/) | **Setelah P01** · **sebaiknya sebelum P03** |
+| CSS skill + contoh file | [00_Bacaan_Panduan_CSS.md](./00_Bacaan_Panduan_CSS.md) · folder [skill-css/](./skill-css/) | **Setelah skill HTML / P07** · **sebaiknya sebelum atau saat P08** |
 
 | P | File |
 |---|------|

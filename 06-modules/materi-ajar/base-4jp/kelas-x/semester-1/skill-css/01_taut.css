@@ -1,0 +1,14 @@
+/* 01 — File CSS terpisah yang ditaut dari HTML */
+/* menggunakan selector body untuk mengatur semua elemen body */
+body {
+  font-family: Georgia, serif;
+  line-height: 1.5;
+  color: #1a1a1a;
+  background-color: #f7f4ef;
+  padding: 1rem;
+}
+
+/* menggunakan selector h1 untuk mengatur semua elemen h1 */
+h1 {
+  color: #0b3d2e;
+}

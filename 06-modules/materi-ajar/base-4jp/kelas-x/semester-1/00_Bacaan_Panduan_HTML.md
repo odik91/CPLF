@@ -28,7 +28,8 @@ Tujuan: punya **folder latihan sendiri** yang rapi, terpisah dari file contoh gu
 2. Di dalamnya buat dua subfolder:
    ```text
    CPLF-X-S1/
-   ├── skill-html/          ← salinan contoh latihan (dari materi)
+   ├── skill-html/          ← salinan contoh latihan HTML
+   ├── skill-css/           ← salinan contoh latihan CSS (setelah P07)
    └── project/             ← halaman milikmu (index.html, nanti style.css, dll.)
    ```
 3. **Salin** seluruh isi folder materi `skill-html/` ke `CPLF-X-S1/skill-html/`  

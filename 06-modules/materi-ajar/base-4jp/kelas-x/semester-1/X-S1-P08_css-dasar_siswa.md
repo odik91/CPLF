@@ -6,6 +6,8 @@
 
 **Bacaan:** [X-S1-P08_bacaan-mimi-robi.md](./X-S1-P08_bacaan-mimi-robi.md)
 
+**Skill CSS (luar jam):** [00_Bacaan_Panduan_CSS.md](./00_Bacaan_Panduan_CSS.md) · contoh [skill-css/](./skill-css/)
+
 ---
 
 ## 1. Tujuan
