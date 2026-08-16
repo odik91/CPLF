@@ -37,5 +37,6 @@ Setiap `*_guru.md` harus **mandiri dipakai mengajar**, pola P01:
 | 13 | [guru](./X-S1-P13_js-vanilla-nilai-tipe_guru.md) · [siswa](./X-S1-P13_js-vanilla-nilai-tipe_siswa.md) · [bacaan](./X-S1-P13_bacaan-mimi-robi.md) · [latihan](./skill-js/p13-nilai-tipe.js) |
 | 14 | [guru](./X-S1-P14_variabel-ekspresi_guru.md) · [siswa](./X-S1-P14_variabel-ekspresi_siswa.md) · [bacaan](./X-S1-P14_bacaan-mimi-robi.md) · [latihan](./skill-js/p14-variabel-ekspresi.js) |
 | 15 | [guru](./X-S1-P15_perbandingan-boolean_guru.md) · [siswa](./X-S1-P15_perbandingan-boolean_siswa.md) · [bacaan](./X-S1-P15_bacaan-mimi-robi.md) · [latihan](./skill-js/p15-perbandingan-boolean.js) |
+| 16 | [guru](./X-S1-P16_kondisi-if-else-vanilla_guru.md) · [siswa](./X-S1-P16_kondisi-if-else-vanilla_siswa.md) · [bacaan](./X-S1-P16_bacaan-mimi-robi.md) · [latihan](./skill-js/p16-if-else-vanilla.js) |
 
 Indeks modul: [X-S1_Index](../../../base-4jp/kelas-x/semester-1/X-S1_Index.md)

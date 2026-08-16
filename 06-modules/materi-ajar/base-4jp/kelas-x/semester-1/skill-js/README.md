@@ -26,3 +26,4 @@ Selalu prediksi hasil, jalankan, lalu catat bukti dan alasan.
 | [p13-nilai-tipe.js](./p13-nilai-tipe.js) | P13 — Nilai & tipe data |
 | [p14-variabel-ekspresi.js](./p14-variabel-ekspresi.js) | P14 — Variabel & ekspresi |
 | [p15-perbandingan-boolean.js](./p15-perbandingan-boolean.js) | P15 — Perbandingan & Boolean |
+| [p16-if-else-vanilla.js](./p16-if-else-vanilla.js) | P16 — Kondisi `if` / `else` |
