@@ -7,7 +7,7 @@
 | Pertemuan | **4 / 34** · Basis **4JP** |
 | Status | Naskah humor + **7 sketch khusus requirement–acceptance** |
 | Nada | POV Mimi, Gen Z, **plot twist** — teori dibungkus cerita |
-| PDF | generate setelah naskah/ilustrasi disetujui |
+| PDF | [X-S1-P04_bacaan-mimi-robi.pdf](./X-S1-P04_bacaan-mimi-robi.pdf) |
 
 **Handout:** [X-S1-P04_gambar-rumah-requirement_siswa.md](./X-S1-P04_gambar-rumah-requirement_siswa.md)  
 **Modul:** [X-S1-P04 …](../../../base-4jp/kelas-x/semester-1/X-S1-P04_gambar-rumah-requirement.md)
@@ -252,4 +252,5 @@ Satu line dibawa pulang:
 
 - Ilustrasi: `assets/mimi-robi/p04-req-01` … `p04-req-07` (`.jpg`)  
 - Aset `p04-01` … `p04-06` lama tetap disimpan sebagai arsip bacaan algoritma/mie; **tidak dipakai** pada bacaan requirement–acceptance ini  
-- PDF: generate setelah naskah/ilustrasi disetujui
+- PDF: `X-S1-P04_bacaan-mimi-robi.pdf` (generate 2026-08-16)  
+- Regenerasi PDF: `06-modules/materi-ajar/scripts/md_to_pdf_bacaan.py`
