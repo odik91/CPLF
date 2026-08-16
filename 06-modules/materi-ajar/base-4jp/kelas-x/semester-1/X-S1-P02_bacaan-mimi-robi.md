@@ -310,5 +310,6 @@ Sampai P03—Robi sudah janji gak share screenshot tanpa baca. We'll see.
 ## Catatan produksi
 
 - P02: materi + ilustrasi dialog + Learning Compass/Scaffold (v0.2)  
-- PDF: `X-S1-P02_bacaan-mimi-robi.pdf`  
-- Regenerasi: `06-modules/materi-ajar/scripts/md_to_pdf_bacaan.py`
+- Ilustrasi: `assets/mimi-robi/p02-01` … `p02-07` (.jpg) — regenerate 2026-08-16 (teks Indonesia · cocok naskah 4JP)  
+- PDF: `X-S1-P02_bacaan-mimi-robi.pdf` *(regenerate belakangan bila perlu)*  
+- Regenerasi PDF: `06-modules/materi-ajar/scripts/md_to_pdf_bacaan.py`
