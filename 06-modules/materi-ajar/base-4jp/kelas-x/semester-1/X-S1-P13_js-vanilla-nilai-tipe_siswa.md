@@ -3,7 +3,8 @@
 **Topik:** JavaScript Vanilla — Nilai & Tipe Data · **4JP** · Pertemuan **13/34**
 
 **Modul:** [X-S1-P13_js-vanilla-nilai-tipe.md](../../../../base-4jp/kelas-x/semester-1/X-S1-P13_js-vanilla-nilai-tipe.md)  
-**Bacaan:** [X-S1-P13_bacaan-mimi-robi.md](./X-S1-P13_bacaan-mimi-robi.md)
+**Bacaan:** [X-S1-P13_bacaan-mimi-robi.md](./X-S1-P13_bacaan-mimi-robi.md)  
+**Latihan:** [skill-js/p13-nilai-tipe.js](./skill-js/p13-nilai-tipe.js)
 
 ## Tujuan
 
@@ -43,6 +44,14 @@ console.log(10 + 2);
 console.log("10" + 2);
 ```
 
+## Setup proyek dan latihan
+
+1. Buat folder `js-dasar` di komputer.  
+2. Salin file [p13-nilai-tipe.js](./skill-js/p13-nilai-tipe.js) ke folder itu.  
+3. Jalankan `node p13-nilai-tipe.js`, atau salin baris ke **Console** browser.  
+4. Baca komentar **DEFINISI** di file; jangan menambah komentar yang tidak diperlukan.  
+5. Prediksi → jalankan → catat bukti.
+
 ## Lembar eksperimen
 
 **Tulis prediksi sebelum menekan Enter.**
@@ -71,10 +80,12 @@ console.log("10" + 2);
 
 ## Kriteria penerimaan
 
+- [ ] Menjalankan `p13-nilai-tipe.js`  
 - [ ] ≥12 eksperimen  
 - [ ] `typeof` ≥3 kali  
 - [ ] Bisa menjelaskan `10 + 2` vs `"10" + 2`  
 - [ ] Tidak memakai DOM/event/if-else  
+ 
 
 ## Exit
 

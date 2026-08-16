@@ -36,7 +36,7 @@ Dari “JavaScript = kode untuk menggerakkan halaman” → “JavaScript adalah
 | 50–65 | Trap | C4 | `"10" + 2`, kutip hilang, `True` vs `true` |
 | 65–85 | Concept | C2 | Tipe data + operator dasar + ekspresi |
 | 85–95 | Practice mini | C3 | Prediksi hasil sebelum Enter |
-| 95–105 | Transisi | — | Siap lab / file `latihan.js` opsional |
+| 95–105 | Transisi | — | Setup `skill-js/p13-nilai-tipe.js` |
 | 105–120 | Scaffold praktik | C2–C3 | I do: kartu nilai–tipe–hasil |
 | 120–165 | Practice | C3–C6 | 12 eksperimen konsol + tabel bukti + peer prediksi |
 | 165–180 | Reflect + Exit | C4–C5 | Exit · preview variabel P14 |
@@ -73,6 +73,13 @@ console.log(10 + 2);          // 12
 console.log("10" + 2);        // "102"
 ```
 
+## Setup proyek & latihan
+
+1. Buat folder `js-dasar`.  
+2. Salin [skill-js/p13-nilai-tipe.js](../../../materi-ajar/base-4jp/kelas-x/semester-1/skill-js/p13-nilai-tipe.js).  
+3. Jalankan `node p13-nilai-tipe.js` atau Console browser.  
+4. Komentar di file skill hanya **DEFINISI** / **GUIDE** — jangan menambah komentar yang tidak diperlukan.
+
 ## Cognitive Trap
 
 Semua yang terlihat “angka” dianggap number. Kutip mengubah `12` menjadi teks `"12"`.
@@ -86,6 +93,7 @@ Semua yang terlihat “angka” dianggap number. Kutip mengubah `12` menjadi tek
 
 ## Kriteria penerimaan
 
+- [ ] Menjalankan file latihan `p13-nilai-tipe.js`  
 - [ ] Menjalankan ≥12 eksperimen konsol  
 - [ ] Mengelompokkan string, number, boolean dengan benar  
 - [ ] Memakai `typeof` ≥3 kali  

@@ -18,7 +18,7 @@ Setiap `*_guru.md` harus **mandiri dipakai mengajar**, pola P01:
 |-------|------|----------------|
 | HTML skill + contoh file | [00_Bacaan_Panduan_HTML.md](./00_Bacaan_Panduan_HTML.md) · folder [skill-html/](./skill-html/) | **Setelah P01** · **sebaiknya sebelum P03** |
 | CSS skill + contoh file | [00_Bacaan_Panduan_CSS.md](./00_Bacaan_Panduan_CSS.md) · folder [skill-css/](./skill-css/) | **Setelah skill HTML / P07** · **sebaiknya sebelum atau saat P08** |
-| JS latihan vanilla | folder [skill-js/](./skill-js/) | **Mulai P15** · jalankan dengan Node.js atau Console browser |
+| JS latihan vanilla | folder [skill-js/](./skill-js/) | **Mulai P13** · Node.js atau Console browser · komentar hanya definisi/panduan |
 
 | P | File |
 |---|------|
@@ -34,8 +34,8 @@ Setiap `*_guru.md` harus **mandiri dipakai mengajar**, pola P01:
 | 10 | [guru](./X-S1-P10_halaman-multi-section_guru.md) · [siswa](./X-S1-P10_halaman-multi-section_siswa.md) · [bacaan](./X-S1-P10_bacaan-mimi-robi.md) |
 | 11 | [guru](./X-S1-P11_form-html_guru.md) · [siswa](./X-S1-P11_form-html_siswa.md) · [bacaan](./X-S1-P11_bacaan-mimi-robi.md) |
 | 12 | [guru](./X-S1-P12_review-static-spek_guru.md) · [siswa](./X-S1-P12_review-static-spek_siswa.md) · [bacaan](./X-S1-P12_bacaan-mimi-robi.md) |
-| 13 | [guru](./X-S1-P13_js-vanilla-nilai-tipe_guru.md) · [siswa](./X-S1-P13_js-vanilla-nilai-tipe_siswa.md) · [bacaan](./X-S1-P13_bacaan-mimi-robi.md) |
-| 14 | [guru](./X-S1-P14_variabel-ekspresi_guru.md) · [siswa](./X-S1-P14_variabel-ekspresi_siswa.md) · [bacaan](./X-S1-P14_bacaan-mimi-robi.md) |
+| 13 | [guru](./X-S1-P13_js-vanilla-nilai-tipe_guru.md) · [siswa](./X-S1-P13_js-vanilla-nilai-tipe_siswa.md) · [bacaan](./X-S1-P13_bacaan-mimi-robi.md) · [latihan](./skill-js/p13-nilai-tipe.js) |
+| 14 | [guru](./X-S1-P14_variabel-ekspresi_guru.md) · [siswa](./X-S1-P14_variabel-ekspresi_siswa.md) · [bacaan](./X-S1-P14_bacaan-mimi-robi.md) · [latihan](./skill-js/p14-variabel-ekspresi.js) |
 | 15 | [guru](./X-S1-P15_perbandingan-boolean_guru.md) · [siswa](./X-S1-P15_perbandingan-boolean_siswa.md) · [bacaan](./X-S1-P15_bacaan-mimi-robi.md) · [latihan](./skill-js/p15-perbandingan-boolean.js) |
 
 Indeks modul: [X-S1_Index](../../../base-4jp/kelas-x/semester-1/X-S1_Index.md)

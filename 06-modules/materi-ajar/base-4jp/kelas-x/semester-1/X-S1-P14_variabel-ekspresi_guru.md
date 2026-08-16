@@ -13,6 +13,7 @@
 | Dilarang hari ini | DOM · event · form · if/else |
 | Handout | [X-S1-P14_variabel-ekspresi_siswa.md](./X-S1-P14_variabel-ekspresi_siswa.md) |
 | Bacaan | [X-S1-P14_bacaan-mimi-robi.md](./X-S1-P14_bacaan-mimi-robi.md) |
+| Latihan | [skill-js/p14-variabel-ekspresi.js](./skill-js/p14-variabel-ekspresi.js) |
 
 ## Capaian Bloom
 
@@ -27,10 +28,11 @@
 
 ## Persiapan
 
-- Konsol atau file `latihan-variabel.js`.  
+- Konsol atau file [skill-js/p14-variabel-ekspresi.js](./skill-js/p14-variabel-ekspresi.js).  
 - Kartu nilai P13 dan sticky note sebagai label.  
 - Contoh kontekstual: harga/jumlah/total, profil siswa, durasi kegiatan.  
-- Tidak perlu HTML/form.
+- Tidak perlu HTML/form.  
+- Komentar di file skill hanya definisi/panduan; siswa tidak perlu meniru gaya komentar berlebihan.
 
 ## Miskonsepsi sasaran
 
@@ -127,7 +129,10 @@ Gunakan 5 kasus handout. Siswa angkat kartu `const`/`let`, lalu satu siswa menje
 
 ### 95–105 · Transisi
 
-Buat file `latihan-variabel.js` bila lingkungan mendukung. Data ditulis di kode; form belum dipakai.
+1. Buka folder `js-dasar`.  
+2. Salin [skill-js/p14-variabel-ekspresi.js](./skill-js/p14-variabel-ekspresi.js).  
+3. Jalankan file; data ditulis di kode — form belum dipakai.  
+4. Tegaskan aturan komentar: hanya definisi/panduan bila perlu.
 
 ### 105–120 · I do: IPO · C2–C3
 

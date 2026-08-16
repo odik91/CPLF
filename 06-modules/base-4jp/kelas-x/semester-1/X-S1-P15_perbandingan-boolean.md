@@ -79,7 +79,8 @@ console.log(skor !== 80);          // true
 1. Buat folder proyek, misalnya `js-dasar`.  
 2. Salin [skill-js/p15-perbandingan-boolean.js](../../../materi-ajar/base-4jp/kelas-x/semester-1/skill-js/p15-perbandingan-boolean.js) ke folder itu.  
 3. Buka di editor. Jalankan dengan Node.js: `node p15-perbandingan-boolean.js`, **atau** salin satu eksperimen ke Console browser.  
-4. Ubah nilai satu per satu, prediksi dahulu, lalu simpan bukti hasil.
+4. Ubah nilai satu per satu, prediksi dahulu, lalu simpan bukti hasil.  
+5. Komentar di file skill hanya **DEFINISI** / **GUIDE** — jangan menambah komentar yang tidak diperlukan.
 
 ## Cognitive Trap
 

@@ -3,7 +3,8 @@
 **Topik:** JavaScript Vanilla — Variabel & Ekspresi · **4JP** · Pertemuan **14/34**
 
 **Modul:** [X-S1-P14_variabel-ekspresi.md](../../../../base-4jp/kelas-x/semester-1/X-S1-P14_variabel-ekspresi.md)  
-**Bacaan:** [X-S1-P14_bacaan-mimi-robi.md](./X-S1-P14_bacaan-mimi-robi.md)
+**Bacaan:** [X-S1-P14_bacaan-mimi-robi.md](./X-S1-P14_bacaan-mimi-robi.md)  
+**Latihan:** [skill-js/p14-variabel-ekspresi.js](./skill-js/p14-variabel-ekspresi.js)
 
 ## Tujuan
 
@@ -47,6 +48,14 @@ jumlah = 3;
 console.log(harga * jumlah);
 ```
 
+## Setup proyek dan latihan
+
+1. Buat / buka folder `js-dasar`.  
+2. Salin [p14-variabel-ekspresi.js](./skill-js/p14-variabel-ekspresi.js) ke folder itu.  
+3. Jalankan `node p14-variabel-ekspresi.js`, atau salin blok ke **Console** browser.  
+4. Baca komentar **DEFINISI** di file; komentar hanya untuk panduan, bukan hiasan.  
+5. Kerjakan IPO mini di bawah setelah memahami contoh.
+
 ## Rencana program mini
 
 | Bagian | Isi |
@@ -80,6 +89,7 @@ skor = 11; // error: const tidak boleh ditugasi ulang
 
 ## Kriteria penerimaan
 
+- [ ] Menjalankan `p14-variabel-ekspresi.js`  
 - [ ] ≥3 variabel bernama jelas  
 - [ ] `const` sebagai default  
 - [ ] Satu `let` benar-benar berubah  

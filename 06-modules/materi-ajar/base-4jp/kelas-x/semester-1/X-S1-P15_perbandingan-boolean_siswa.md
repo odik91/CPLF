@@ -47,13 +47,14 @@ console.log("75" === 75); // false
 1. Buat folder `js-dasar` di komputer.  
 2. Salin file [p15-perbandingan-boolean.js](./skill-js/p15-perbandingan-boolean.js) ke folder itu.  
 3. Buka folder dengan VS Code/editor.  
-4. Jika Node.js tersedia, buka terminal di folder tersebut lalu jalankan:
+4. Jika Node.js tersedia, jalankan:
 
 ```bash
 node p15-perbandingan-boolean.js
 ```
 
-Jika Node.js belum tersedia, salin eksperimen satu per satu ke **Console** browser. Catat prediksi sebelum hasil muncul.
+5. Jika Node.js belum tersedia, salin eksperimen ke **Console** browser. Catat prediksi sebelum hasil muncul.  
+6. Baca komentar **DEFINISI** di file; jangan menambah komentar yang tidak diperlukan.
 
 ## Prediksi → bukti
 

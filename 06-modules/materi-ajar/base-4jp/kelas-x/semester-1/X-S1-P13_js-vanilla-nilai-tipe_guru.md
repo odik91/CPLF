@@ -13,6 +13,7 @@
 | Dilarang hari ini | DOM · event · form · if/else · framework |
 | Handout | [X-S1-P13_js-vanilla-nilai-tipe_siswa.md](./X-S1-P13_js-vanilla-nilai-tipe_siswa.md) |
 | Bacaan | [X-S1-P13_bacaan-mimi-robi.md](./X-S1-P13_bacaan-mimi-robi.md) |
+| Latihan | [skill-js/p13-nilai-tipe.js](./skill-js/p13-nilai-tipe.js) |
 
 ## Capaian Bloom
 
@@ -112,7 +113,11 @@ Lakukan 4 putaran prediksi cepat. Siswa wajib menulis sebelum Enter.
 
 ### 95–105 · Transisi
 
-Buka handout. Jika memakai editor, buat `latihan-nilai.js` dan jalankan sesuai lingkungan lokal; jangan membuat proyek DOM.
+1. Buat folder `js-dasar` bila belum ada.  
+2. Salin [skill-js/p13-nilai-tipe.js](./skill-js/p13-nilai-tipe.js).  
+3. Jalankan `node p13-nilai-tipe.js` atau Console browser.  
+4. Ingatkan: komentar di file skill hanya **DEFINISI** / **GUIDE** — jangan menambah komentar yang tidak diperlukan.  
+5. Jangan membuat proyek DOM.
 
 ### 105–120 · I do · C2–C3
 

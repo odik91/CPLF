@@ -36,7 +36,7 @@ Dari “nilai ditulis ulang berkali-kali” → “nilai diberi **nama** dalam v
 | 50–65 | Trap | C4 | ubah `const` · nama `x`/`data` · pakai sebelum deklarasi |
 | 65–85 | Concept | C2 | deklarasi · assignment · ekspresi · IPO |
 | 85–95 | Practice mini | C3 | Pilih `const`/`let` + alasan |
-| 95–105 | Transisi | — | Editor `latihan-variabel.js` / konsol |
+| 95–105 | Transisi | — | Setup `skill-js/p14-variabel-ekspresi.js` |
 | 105–120 | Scaffold praktik | C2–C3 | I do: total belanja / profil data |
 | 120–165 | Practice | C3–C6 | Program mini console + peer trace |
 | 165–180 | Reflect + Exit | C4–C5 | Exit · preview Boolean P15 |
@@ -75,6 +75,13 @@ jumlah = 3;
 console.log(harga * jumlah);
 ```
 
+## Setup proyek & latihan
+
+1. Buka folder `js-dasar`.  
+2. Salin [skill-js/p14-variabel-ekspresi.js](../../../materi-ajar/base-4jp/kelas-x/semester-1/skill-js/p14-variabel-ekspresi.js).  
+3. Jalankan `node p14-variabel-ekspresi.js` atau Console browser.  
+4. Komentar di file skill hanya **DEFINISI** / **GUIDE** — jangan menambah komentar yang tidak diperlukan.
+
 ## Cognitive Trap
 
 Variabel dianggap sekadar “kotak” tanpa memperhatikan tipe, nama, dan perubahan. `const` bukan berarti nilainya “suci”; untuk pemula cukup: jangan tugasi ulang nama tersebut.
@@ -88,6 +95,7 @@ Variabel dianggap sekadar “kotak” tanpa memperhatikan tipe, nama, dan peruba
 
 ## Kriteria penerimaan
 
+- [ ] Menjalankan file latihan `p14-variabel-ekspresi.js`  
 - [ ] Minimal 3 variabel bernama jelas  
 - [ ] Memakai `const` sebagai default  
 - [ ] Memakai `let` hanya pada satu nilai yang berubah  
