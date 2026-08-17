@@ -93,7 +93,8 @@ Siswa dapat:
 | P02–P12 | **Isi penuh** (modul + guru/siswa/bacaan/pendukung + Bloom) · **Blok 2 selesai** |
 | P13–P22 | **Isi penuh** · Blok 3 selesai (fondasi JS vanilla → DOM → integrasi) |
 | P23 | **Isi penuh** · pembuka Blok 4 (kickoff) |
-| P24–P34 | Slot Blok 4 (project) · terencana di indeks ini |
+| P24 | **Isi penuh** · Build HTML sesuai spek |
+| P25–P34 | Slot Blok 4 (project) · terencana di indeks ini |
 
 ### File modul saat ini
 
@@ -122,6 +123,7 @@ Siswa dapat:
 | 21 | [P21](./X-S1-P21_dom-event-pertama.md) |
 | 22 | [P22](./X-S1-P22_integrasi-review-spiral.md) |
 | 23 | [P23](./X-S1-P23_project-s1-kickoff.md) |
+| 24 | [P24](./X-S1-P24_project-s1-html.md) |
 
 Materi ajar: [00_Index_Materi_Ajar](../../../materi-ajar/base-4jp/kelas-x/semester-1/00_Index_Materi_Ajar.md)
 
