@@ -29,3 +29,4 @@ Selalu prediksi hasil, jalankan, lalu catat bukti dan alasan.
 | [p16-if-else-vanilla.js](./p16-if-else-vanilla.js) | P16 — Kondisi `if` / `else` |
 | [p17-kondisi-multi-syarat.js](./p17-kondisi-multi-syarat.js) | P17 — Kondisi multi-syarat |
 | [p18-array-loop.js](./p18-array-loop.js) | P18 — Array & loop |
+| [p19-object-function.js](./p19-object-function.js) | P19 — Object & function |
