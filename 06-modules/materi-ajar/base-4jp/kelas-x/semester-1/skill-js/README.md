@@ -27,3 +27,4 @@ Selalu prediksi hasil, jalankan, lalu catat bukti dan alasan.
 | [p14-variabel-ekspresi.js](./p14-variabel-ekspresi.js) | P14 — Variabel & ekspresi |
 | [p15-perbandingan-boolean.js](./p15-perbandingan-boolean.js) | P15 — Perbandingan & Boolean |
 | [p16-if-else-vanilla.js](./p16-if-else-vanilla.js) | P16 — Kondisi `if` / `else` |
+| [p17-kondisi-multi-syarat.js](./p17-kondisi-multi-syarat.js) | P17 — Kondisi multi-syarat |
