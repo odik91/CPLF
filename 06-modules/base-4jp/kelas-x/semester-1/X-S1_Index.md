@@ -91,8 +91,8 @@ Siswa dapat:
 |---------|--------|
 | P01 | Timeline 180' ada · materi ajar ada |
 | P02–P12 | **Isi penuh** (modul + guru/siswa/bacaan/pendukung + Bloom) · **Blok 2 selesai** |
-| P13–P19 | **Isi penuh** · Blok 3 (fondasi JS vanilla) |
-| P20–P22 | Slot Blok 3 · perlu tulis penuh 4JP |
+| P13–P20 | **Isi penuh** · Blok 3 (fondasi JS vanilla) |
+| P21–P22 | Slot Blok 3 · perlu tulis penuh 4JP |
 | P23–P34 | Slot Blok 4 (project) · terencana di indeks ini |
 
 ### File modul saat ini
@@ -118,6 +118,7 @@ Siswa dapat:
 | 17 | [P17](./X-S1-P17_kondisi-multi-syarat.md) |
 | 18 | [P18](./X-S1-P18_array-loop.md) |
 | 19 | [P19](./X-S1-P19_object-function.md) |
+| 20 | [P20](./X-S1-P20_debugging-vanilla.md) |
 
 Materi ajar: [00_Index_Materi_Ajar](../../../materi-ajar/base-4jp/kelas-x/semester-1/00_Index_Materi_Ajar.md)
 
