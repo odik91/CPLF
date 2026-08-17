@@ -33,3 +33,4 @@ Selalu prediksi hasil, jalankan, lalu catat bukti dan alasan.
 | [p20-debug-bug.js](./p20-debug-bug.js) · [solusi](./p20-debug-solusi.js) | P20 — Debugging vanilla |
 | [p21-dom-event/](./p21-dom-event/) | P21 — DOM & event pertama (browser) |
 | [p22-integrasi-mini/](./p22-integrasi-mini/) | P22 — Integrasi mini + review spiral (browser) |
+| [p23-project-kickoff/](./p23-project-kickoff/) | P23 — Kerangka kickoff project S1 |
