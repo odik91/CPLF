@@ -58,8 +58,8 @@ Siswa dapat:
 | 15 | Perbandingan & Boolean | `===`, `!==`, `>`, `<`, `>=`, `<=` | Uji ekspresi benar/salah di konsol |
 | 16 | Kondisi vanilla | `if`/`else`, satu syarat | Program satpam/kelulusan di konsol |
 | 17 | Kondisi lanjut | Beberapa syarat, operator logika | Keputusan multi-syarat tanpa DOM |
-| 18 | Loop | Pengulangan dan trace | Hitung / daftar mini di konsol |
-| 19 | Function | Parameter, hasil, bungkus proses | Refactor logika menjadi fungsi |
+| 18 | Array & loop | Array, indeks, `length`, `for` | Cetak / jumlah daftar mini di konsol |
+| 19 | Object & function | Object dasar + parameter/hasil fungsi | Bundel data bernama + refactor proses |
 | 20 | Error = info | Baca error, hipotesis | Debug bug vanilla yang disiapkan |
 | 21 | DOM & event pertama | Pilih elemen, baca/ubah teks, klik | Satu interaksi halaman yang dipahami |
 | 22 | Integrasi + review spiral | HTML/CSS/JS + acceptance | Mini fitur dan peer review artefak |
@@ -91,8 +91,8 @@ Siswa dapat:
 |---------|--------|
 | P01 | Timeline 180' ada · materi ajar ada |
 | P02–P12 | **Isi penuh** (modul + guru/siswa/bacaan/pendukung + Bloom) · **Blok 2 selesai** |
-| P13–P17 | **Isi penuh** · Blok 3 (fondasi JS vanilla) |
-| P18–P22 | Slot Blok 3 · perlu tulis penuh 4JP |
+| P13–P18 | **Isi penuh** · Blok 3 (fondasi JS vanilla) |
+| P19–P22 | Slot Blok 3 · perlu tulis penuh 4JP |
 | P23–P34 | Slot Blok 4 (project) · terencana di indeks ini |
 
 ### File modul saat ini
@@ -116,6 +116,7 @@ Siswa dapat:
 | 15 | [P15](./X-S1-P15_perbandingan-boolean.md) |
 | 16 | [P16](./X-S1-P16_kondisi-if-else-vanilla.md) |
 | 17 | [P17](./X-S1-P17_kondisi-multi-syarat.md) |
+| 18 | [P18](./X-S1-P18_array-loop.md) |
 
 Materi ajar: [00_Index_Materi_Ajar](../../../materi-ajar/base-4jp/kelas-x/semester-1/00_Index_Materi_Ajar.md)
 
