@@ -39,3 +39,4 @@ Selalu prediksi hasil, jalankan, lalu catat bukti dan alasan.
 | [p26-js-fitur1/](./p26-js-fitur1/) | P26 — Pola listener JS fitur 1 (browser) |
 | [p27-js-fitur2/](./p27-js-fitur2/) | P27 — Pola listener JS fitur 2 + regresi (browser) |
 | [p28-checkpoint/](./p28-checkpoint/) | P28 — Lembar uji AC + demo gagal (bukan kunci project) |
+| [p29-peer-review/](./p29-peer-review/) | P29 — Lembar peer + rencana revisi P30 |

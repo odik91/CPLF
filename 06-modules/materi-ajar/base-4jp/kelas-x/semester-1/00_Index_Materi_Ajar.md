@@ -50,5 +50,6 @@ Setiap `*_guru.md` harus **mandiri dipakai mengajar**, pola P01:
 | 26 | [guru](./X-S1-P26_project-s1-js-fitur1_guru.md) · [siswa](./X-S1-P26_project-s1-js-fitur1_siswa.md) · [bacaan](./X-S1-P26_bacaan-mimi-robi.md) · [contoh](./skill-js/p26-js-fitur1/) |
 | 27 | [guru](./X-S1-P27_project-s1-js-fitur2_guru.md) · [siswa](./X-S1-P27_project-s1-js-fitur2_siswa.md) · [bacaan](./X-S1-P27_bacaan-mimi-robi.md) · [contoh](./skill-js/p27-js-fitur2/) |
 | 28 | [guru](./X-S1-P28_project-s1-checkpoint_guru.md) · [siswa](./X-S1-P28_project-s1-checkpoint_siswa.md) · [bacaan](./X-S1-P28_bacaan-mimi-robi.md) · [lembar](./skill-js/p28-checkpoint/) |
+| 29 | [guru](./X-S1-P29_project-s1-peer-review_guru.md) · [siswa](./X-S1-P29_project-s1-peer-review_siswa.md) · [bacaan](./X-S1-P29_bacaan-mimi-robi.md) · [lembar](./skill-js/p29-peer-review/) |
 
 Indeks modul: [X-S1_Index](../../../base-4jp/kelas-x/semester-1/X-S1_Index.md)
