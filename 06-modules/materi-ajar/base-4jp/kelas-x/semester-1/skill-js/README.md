@@ -36,3 +36,4 @@ Selalu prediksi hasil, jalankan, lalu catat bukti dan alasan.
 | [p23-project-kickoff/](./p23-project-kickoff/) | P23 — Kerangka kickoff project S1 |
 | [p24-html-struktur/](./p24-html-struktur/) | P24 — Contoh struktur HTML (bukan kunci project) |
 | [p25-css-keterbacaan/](./p25-css-keterbacaan/) | P25 — Contoh pola CSS keterbacaan |
+| [p26-js-fitur1/](./p26-js-fitur1/) | P26 — Pola listener JS fitur 1 (browser) |
