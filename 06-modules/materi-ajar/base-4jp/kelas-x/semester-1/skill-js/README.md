@@ -37,3 +37,4 @@ Selalu prediksi hasil, jalankan, lalu catat bukti dan alasan.
 | [p24-html-struktur/](./p24-html-struktur/) | P24 — Contoh struktur HTML (bukan kunci project) |
 | [p25-css-keterbacaan/](./p25-css-keterbacaan/) | P25 — Contoh pola CSS keterbacaan |
 | [p26-js-fitur1/](./p26-js-fitur1/) | P26 — Pola listener JS fitur 1 (browser) |
+| [p27-js-fitur2/](./p27-js-fitur2/) | P27 — Pola listener JS fitur 2 + regresi (browser) |
