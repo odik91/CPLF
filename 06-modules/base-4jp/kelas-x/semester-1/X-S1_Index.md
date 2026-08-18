@@ -99,7 +99,8 @@ Siswa dapat:
 | P27 | **Isi penuh** · Build JS Fitur 2 / polish logika |
 | P28 | **Isi penuh** · Checkpoint uji AC + perbaikan terarah |
 | P29 | **Isi penuh** · Peer review berdasar spek · antrian revisi |
-| P30–P34 | Slot Blok 4 (project) · terencana di indeks ini |
+| P30 | **Isi penuh** · Revisi prioritas antrian · uji + regresi |
+| P31–P34 | Slot Blok 4 (project) · terencana di indeks ini |
 
 ### File modul saat ini
 
@@ -134,6 +135,7 @@ Siswa dapat:
 | 27 | [P27](./X-S1-P27_project-s1-js-fitur2.md) |
 | 28 | [P28](./X-S1-P28_project-s1-checkpoint.md) |
 | 29 | [P29](./X-S1-P29_project-s1-peer-review.md) |
+| 30 | [P30](./X-S1-P30_project-s1-revisi.md) |
 
 Materi ajar: [00_Index_Materi_Ajar](../../../materi-ajar/base-4jp/kelas-x/semester-1/00_Index_Materi_Ajar.md)
 

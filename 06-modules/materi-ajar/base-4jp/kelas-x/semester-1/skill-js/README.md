@@ -40,3 +40,4 @@ Selalu prediksi hasil, jalankan, lalu catat bukti dan alasan.
 | [p27-js-fitur2/](./p27-js-fitur2/) | P27 — Pola listener JS fitur 2 + regresi (browser) |
 | [p28-checkpoint/](./p28-checkpoint/) | P28 — Lembar uji AC + demo gagal (bukan kunci project) |
 | [p29-peer-review/](./p29-peer-review/) | P29 — Lembar peer + rencana revisi P30 |
+| [p30-revisi/](./p30-revisi/) | P30 — Log revisi prioritas (satu item + uji) |
