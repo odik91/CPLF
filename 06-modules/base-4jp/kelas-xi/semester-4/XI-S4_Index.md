@@ -7,7 +7,8 @@
 **Spiral BE (wajib dibaca sebelum menulis modul Blok 3):** [00_Spiral_BE_Lokal_ke_DB.md](../00_Spiral_BE_Lokal_ke_DB.md)  
 **Peta:** [S1–S6](../../00_Index_Journey_S1-S6.md)
 
-> Bukan “minggu ini bab database.” DB = jawaban setelah lokal **terbukti** tidak layak.
+> Bukan “minggu ini bab database.” DB = jawaban setelah lokal **terbukti** tidak layak.  
+> React: **bukan** pembuka S4. Lihat catatan React di [S3](../semester-3/XI-S3_Index.md#di-mana-react-kelas-xi).
 
 ---
 
@@ -73,7 +74,7 @@ Siswa dapat:
 | 23 | Git init, commit (individu dulu) | S4-P11 |
 | 24 | Branch, merge, atribusi | S4-P12 |
 | 25 | Kickoff project tim + spek + peran | S4-P13 |
-| 26–27 | Build: UI + fetch/storage sesuai framing | S4-P14–P15 |
+| 26–27 | Build: UI + fetch/storage sesuai framing · **React opsional** (hanya UI, setelah S3 vanilla lulus) | S4-P14–P15 |
 | 28 | Checkpoint AC + Git log | — |
 | 29 | Peer + Git (bukan hanya selera) | S4-P16 |
 | 30 | Revisi | — |

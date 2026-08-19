@@ -18,7 +18,7 @@ Siswa dapat:
 3. Menyusun data **nested** + memisahkan data / UI / event  
 4. Menulis requirement + AC untuk app multi-bagian
 
-**Belum S3:** fetch/API, DB, Git tim (S4).
+**Belum S3:** fetch/API, DB, Git tim (S4). **React bukan materi inti S3** — lihat catatan di bawah.
 
 ---
 
@@ -78,7 +78,26 @@ App **multi-view** + state + SoC. Irama sama S1/S2 P23–P34 (kickoff → HTML w
 | 27 | JS: data nested + view 2 / regresi |
 | 28–32 | Checkpoint · peer · revisi · polish · DoD |
 | 33 | Showcase reasoning |
-| 34 | Refleksi S3 · preview async/data |
+| 34 | Refleksi S3 · **jendela** React (bukan bab JSX) · preview async/data |
+
+---
+
+## Di mana React (Kelas XI)
+
+Sama filosofi P01 / spiral BE: **alat setelah masalah terasa**, bukan bab karena “industri pakai React.”
+
+| Kapan | Peran | Bukan |
+|---|---|---|
+| **S3 P01–P32** | Vanilla: view, `render()`, SoC, listener | Install React, JSX, Vite sebagai syarat project S3 |
+| **S3 P18–P20** | *Masalah* yang React kelak jawab: render dobel, listener bocor, DOM campur data | “Minggu ini hook” |
+| **S3 P34** | **Jendela 10–15'**: peta `state` → `useState`, `renderApp()` → JSX. Bukan 180' tutorial | Project React dadakan |
+| **S4 Blok 1–2** | `fetch` tetap vanilla dulu (satu alat baru: async) | React + Promise di pertemuan yang sama |
+| **S4 project (P25–27), opsional** | UI React **hanya jika** S3 vanilla sudah lulus DoD | Mengganti pelajaran DB/Git |
+| **BRG-06** | Tempat **penuh** React (ekstra / pasca) | Intrakurikuler wajib rapor |
+
+Rujukan yang sudah ada (jangan dicampur jadi S3 P03): [BRG-06 React SPA](../../../materi-pendukung/jalur-kelanjutan/BRG-06_React_SPA_Pengantar.md) · mapping CPLF S3 → React ada di file itu.
+
+**Urutan resmi 4JP XI:** S3 rasa sakit SPA vanilla → P34 nama alatnya → S4 data/async → React opsional di UI project **atau** BRG-06.
 
 ---
 
