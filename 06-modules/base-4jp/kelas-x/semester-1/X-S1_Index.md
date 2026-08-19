@@ -146,6 +146,8 @@ Siswa dapat:
 
 Materi ajar: [00_Index_Materi_Ajar](../../../materi-ajar/base-4jp/kelas-x/semester-1/00_Index_Materi_Ajar.md)
 
+**Lanjut:** [S2 — halaman hidup (34 P terencana)](../semester-2/X-S2_Index.md) · [Peta S1–S6](../../00_Index_Journey_S1-S6.md)
+
 ---
 
 ## Prinsip pengayaan (wajib)

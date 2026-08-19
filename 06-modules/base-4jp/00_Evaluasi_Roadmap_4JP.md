@@ -50,13 +50,16 @@ Orientation/Compass
 
 ## Peta journey pengayaan (base-4jp)
 
-| Semester | Fokus pengayaan | Media |
-|----------|-----------------|-------|
-| **1 (X)** | Bernalar + static page | HTML, CSS, JS dasar |
-| **2 (X)** | Halaman hidup | Advance DOM, event, state UI |
-| **3 (XI)** | SPA ringan / multi-view | Modul, arsitektur front |
-| **4 (XI)** | Data & “BE spiral” | Lokal dulu → masalah kapasitas/integritas → DB sungguhan |
-| 5–6 (XII) | (mengikuti freeze + pengayaan belakangan) | ML/CV/etika |
+Indeks operasional (34 P per semester): [00_Index_Journey_S1-S6.md](./00_Index_Journey_S1-S6.md)
+
+| Semester | Fokus pengayaan | Media | Indeks 4JP |
+|----------|-----------------|-------|------------|
+| **1 (X)** | Bernalar + static page | HTML, CSS, JS dasar | [S1](./kelas-x/semester-1/X-S1_Index.md) **isi penuh** |
+| **2 (X)** | Halaman hidup | Advance DOM, event, state UI | [S2](./kelas-x/semester-2/X-S2_Index.md) terencana |
+| **3 (XI)** | SPA ringan / multi-view | Modul, arsitektur front | [S3](./kelas-xi/semester-3/XI-S3_Index.md) terencana |
+| **4 (XI)** | Data & “BE spiral” | Lokal dulu → masalah → DB | [S4](./kelas-xi/semester-4/XI-S4_Index.md) terencana |
+| **5 (XII)** | Data + ML di browser | Dataset, tfjs mini | [S5](./kelas-xii/semester-5/XII-S5_Index.md) terencana |
+| **6 (XII)** | CV, etika, capstone | Transfer learning, nilai | [S6](./kelas-xii/semester-6/XII-S6_Index.md) terencana |
 
 ### Spiral BE (selaras masalah-sebelum-solusi)
 

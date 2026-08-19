@@ -22,4 +22,4 @@
 - Trap & evidence dulu (selaras P01)  
 - Solusi teknis = respons terhadap framing yang sudah ditulis siswa  
 
-Detail unit S3–S4 base-4jp: menyusul setelah S1–S2 X stabil.
+Detail unit: [S3](./semester-3/XI-S3_Index.md) · [S4](./semester-4/XI-S4_Index.md) — modul isi penuh menyusul setelah S2 X ditulis.
