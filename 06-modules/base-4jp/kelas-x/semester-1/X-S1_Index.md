@@ -102,7 +102,8 @@ Siswa dapat:
 | P30 | **Isi penuh** · Revisi prioritas antrian · uji + regresi |
 | P31 | **Isi penuh** · Polish UX ringan / aksesibilitas dasar |
 | P32 | **Isi penuh** · Uji final DoD · bugfix kecil · kartu status |
-| P33–P34 | Slot Blok 4 (project) · terencana di indeks ini |
+| P33 | **Isi penuh** · Showcase reasoning · demo + gap jujur |
+| P34 | Slot Blok 4 (project) · terencana di indeks ini |
 
 ### File modul saat ini
 
@@ -140,6 +141,7 @@ Siswa dapat:
 | 30 | [P30](./X-S1-P30_project-s1-revisi.md) |
 | 31 | [P31](./X-S1-P31_project-s1-polish.md) |
 | 32 | [P32](./X-S1-P32_project-s1-dod.md) |
+| 33 | [P33](./X-S1-P33_project-s1-showcase.md) |
 
 Materi ajar: [00_Index_Materi_Ajar](../../../materi-ajar/base-4jp/kelas-x/semester-1/00_Index_Materi_Ajar.md)
 

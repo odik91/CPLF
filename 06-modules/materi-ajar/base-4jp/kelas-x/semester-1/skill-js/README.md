@@ -43,3 +43,4 @@ Selalu prediksi hasil, jalankan, lalu catat bukti dan alasan.
 | [p30-revisi/](./p30-revisi/) | P30 — Log revisi prioritas (satu item + uji) |
 | [p31-polish/](./p31-polish/) | P31 — Lembar polish + demo tidak ramah Tab |
 | [p32-dod/](./p32-dod/) | P32 — Lembar DoD + kartu status + demo 2 bug (**bukan** project baru; uji project S1 sendiri) |
+| [p33-showcase/](./p33-showcase/) | P33 — Kartu presentasi + lembar audiens (**bukan** project baru; tanpa HTML baru) |
