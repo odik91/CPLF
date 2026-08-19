@@ -1,0 +1,45 @@
+/* Demo P31: keterbacaan dasar ada; fokus dan target klik sengaja tidak sopan */
+
+body {
+  margin: 0;
+  font-family: Georgia, "Times New Roman", serif;
+  line-height: 1.5;
+  color: #1f1a14;
+  background: #f7f1e8;
+}
+
+header,
+main,
+footer {
+  max-width: 40rem;
+  margin: 0 auto;
+  padding: 1.25rem 1rem;
+}
+
+section {
+  margin-bottom: 1.75rem;
+}
+
+.brand {
+  font-size: 0.85rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+h1 { font-size: 1.75rem; line-height: 1.2; }
+h2 { font-size: 1.25rem; line-height: 1.2; }
+
+#pesan,
+#sorotanCadangan {
+  padding: 0.5rem 0 0.75rem;
+}
+
+button {
+  font: inherit;
+  font-size: 0.7rem;
+  padding: 0.1rem 0.25rem;
+  border: 1px solid #1f1a14;
+  background: #fff8ef;
+  cursor: pointer;
+  outline: none;
+}
