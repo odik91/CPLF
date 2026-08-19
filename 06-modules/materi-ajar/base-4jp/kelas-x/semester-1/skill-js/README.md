@@ -44,3 +44,4 @@ Selalu prediksi hasil, jalankan, lalu catat bukti dan alasan.
 | [p31-polish/](./p31-polish/) | P31 — Lembar polish + demo tidak ramah Tab |
 | [p32-dod/](./p32-dod/) | P32 — Lembar DoD + kartu status + demo 2 bug (**bukan** project baru; uji project S1 sendiri) |
 | [p33-showcase/](./p33-showcase/) | P33 — Kartu presentasi + lembar audiens (**bukan** project baru; tanpa HTML baru) |
+| [p34-refleksi/](./p34-refleksi/) | P34 — Jurnal S1 + checklist arsip (**bukan** project baru; tanpa HTML baru) |
