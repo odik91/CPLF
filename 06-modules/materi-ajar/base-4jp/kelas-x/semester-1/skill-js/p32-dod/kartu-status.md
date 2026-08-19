@@ -1,5 +1,7 @@
 # Kartu Status Project S1 — P32 → P33
 
+**Salin ke folder project S1 milikmu.** Ini bukan karya halaman baru; isinya status **project yang sama** yang akan ditunjukkan di P33.
+
 **Project:** …
 **Tanggal:** …
 

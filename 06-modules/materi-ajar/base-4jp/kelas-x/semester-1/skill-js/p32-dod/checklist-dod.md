@@ -1,6 +1,6 @@
 # Checklist DoD — Project S1 (P32)
 
-**Salin file ini ke folder projectmu.** Jangan mengubah kolom kriteria.
+**Salin file ini ke folder project S1 milikmu** (lanjutan P23–P31). Jangan mengubah kolom kriteria. File HTML/CSS/JS di folder skill adalah **demo kelas**, bukan halaman yang harus dikerjakan sebagai karya.
 
 **Project:** …
 **Brief:** A / B / C

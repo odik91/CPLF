@@ -4,9 +4,11 @@
 
 **Modul:** [X-S1-P32_project-s1-dod.md](../../../../base-4jp/kelas-x/semester-1/X-S1-P32_project-s1-dod.md)
 **Bacaan:** [X-S1-P32_bacaan-mimi-robi.md](./X-S1-P32_bacaan-mimi-robi.md)
-**Checklist:** [skill-js/p32-dod/checklist-dod.md](./skill-js/p32-dod/checklist-dod.md)
+**Lembar + demo:** [skill-js/p32-dod/](./skill-js/p32-dod/)
 
 Hari ini bukan renovasi. Bukan fitur baru. Bukan menghapus AC yang gagal. Uji 5 domain, tambal yang kecil, tulis kartu status untuk P33.
+
+**Catatan skill:** folder `p32-dod` **bukan** project baru. Demo HTML/CSS/JS hanya untuk prediksi kelas. Yang diuji dan ditambal adalah **project S1 milikmu** (lanjutan P23–P31). Salin lembar ke folder itu; jangan menimpa halamanmu dengan demo.
 
 ## DoD — 5 domain (semua wajib diisi)
 

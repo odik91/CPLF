@@ -45,7 +45,9 @@ Dari halaman yang "sudah dipolish dan direvisi" → halaman yang **terbukti siap
 | **Perilaku (JS)** | AC fitur 1 lulus + regresi; AC fitur 2/polish lulus |
 | **Sopan (UX/a11y)** | `lang`, label aksi, fokus Tab, tanpa `outline: none` kosong |
 
-Lembar: [skill-js/p32-dod/checklist-dod.md](../../../materi-ajar/base-4jp/kelas-x/semester-1/skill-js/p32-dod/checklist-dod.md)
+Lembar + demo: [skill-js/p32-dod/](../../../materi-ajar/base-4jp/kelas-x/semester-1/skill-js/p32-dod/)
+
+**Catatan:** folder skill **bukan** artefak baru. Template (`checklist-dod.md`, `kartu-status.md`) disalin ke project S1 siswa. Demo HTML/CSS/JS hanya untuk prediksi kelas (2 bug ditanam) — jangan menimpa project.
 
 ## Bugfix kecil (< 10 menit)
 

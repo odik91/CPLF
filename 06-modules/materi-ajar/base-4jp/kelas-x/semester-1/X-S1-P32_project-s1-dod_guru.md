@@ -13,8 +13,7 @@
 | Dilarang | Fitur baru · renovasi besar · AC dihapus · regresi diabaikan |
 | Handout | [X-S1-P32_project-s1-dod_siswa.md](./X-S1-P32_project-s1-dod_siswa.md) |
 | Bacaan | [X-S1-P32_bacaan-mimi-robi.md](./X-S1-P32_bacaan-mimi-robi.md) |
-| Checklist/kartu | [skill-js/p32-dod/](./skill-js/p32-dod/) |
-| Demo | [skill-js/p32-dod/](./skill-js/p32-dod/) |
+| Checklist/kartu/demo | [skill-js/p32-dod/](./skill-js/p32-dod/) — **bukan project baru**; demo kelas + template ke project S1 |
 | Modul | [X-S1-P32_project-s1-dod.md](../../../../base-4jp/kelas-x/semester-1/X-S1-P32_project-s1-dod.md) |
 
 ### Capaian Bloom (sebut ke siswa)
