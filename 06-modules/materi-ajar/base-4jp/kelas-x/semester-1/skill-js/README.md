@@ -42,3 +42,4 @@ Selalu prediksi hasil, jalankan, lalu catat bukti dan alasan.
 | [p29-peer-review/](./p29-peer-review/) | P29 — Lembar peer + rencana revisi P30 |
 | [p30-revisi/](./p30-revisi/) | P30 — Log revisi prioritas (satu item + uji) |
 | [p31-polish/](./p31-polish/) | P31 — Lembar polish + demo tidak ramah Tab |
+| [p32-dod/](./p32-dod/) | P32 — Checklist DoD + kartu status + demo 2 bug |
