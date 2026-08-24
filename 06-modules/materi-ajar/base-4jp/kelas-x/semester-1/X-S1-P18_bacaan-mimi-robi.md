@@ -5,7 +5,7 @@
 |---|---|
 | Kode | X-S1-P18 — Array & Loop |
 | Pertemuan | **18 / 34** · Basis **4JP** |
-| Status | Naskah · sketch ditunda |
+| Status | Naskah humor · **3 sketch khusus Array & Loop** |
 | Nada | POV Mimi · humor · plot twist |
 
 **Handout:** [X-S1-P18_array-loop_siswa.md](./X-S1-P18_array-loop_siswa.md)  
@@ -28,6 +28,8 @@ Lalu menu bertambah. Lalu bertambah lagi. Antennanya mulai kelelahan.
 > “Aku butuh copy-paste profesional.”
 
 > “Kau butuh **daftar**, bukan fotokopi.”
+
+![Menu yang membengkak butuh array, bukan copy-paste `console.log` profesional](./assets/mimi-robi/p18-01-daftar-bukan-fotokopi.jpg)
 
 ## Learning Compass
 
@@ -70,6 +72,8 @@ Robi:
 
 Indeks terakhir = `length - 1`. Hafalan kecil, dampak besar.
 
+![Barisan mulai dari 0; `menus[3]` kosong karena kursi terakhir adalah indeks 2](./assets/mimi-robi/p18-02-indeks-nol-kursi-kosong.jpg)
+
 ## Plot twist #2 — loop yang lupa melangkah
 
 Robi menulis loop, tetapi lupa menambah `i`. Program “sibuk” tanpa selesai.
@@ -85,6 +89,8 @@ for (let i = 0; i < menus.length; i = i + 1) {
 ```
 
 Baca perlahan: mulai `0` · lanjut selama `i` masih kurang dari panjang · naikkan `i` · proses elemen.
+
+![Loop yang lupa menaikkan `i` seperti satpam yang memeriksa orang yang sama tanpa henti](./assets/mimi-robi/p18-03-loop-lupa-melangkah.jpg)
 
 ## Trace
 
@@ -111,3 +117,5 @@ Array menjawab “banyak nilai sejenis.” Loop menjawab “kerjakan yang sama p
 
 — **Mimi** 🐾  
 *(Robi menamai array-nya `menusYangTidakPerluDifotokopi`. Panjang, tapi niatnya terbaca.)*
+
+- Ilustrasi: `assets/mimi-robi/p18-01` … `p18-03` (`.jpg`)

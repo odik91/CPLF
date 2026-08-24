@@ -5,7 +5,7 @@
 |---|---|
 | Kode | X-S1-P16 — Kondisi `if` / `else` Vanilla |
 | Pertemuan | **16 / 34** · Basis **4JP** |
-| Status | Naskah · sketch ditunda |
+| Status | Naskah humor · **3 sketch khusus Kondisi if/else** |
 | Nada | POV Mimi · humor · plot twist |
 
 **Handout:** [X-S1-P16_kondisi-if-else-vanilla_siswa.md](./X-S1-P16_kondisi-if-else-vanilla_siswa.md)  
@@ -26,6 +26,8 @@ Lalu ia menunggu sesuatu terjadi.
 Tidak ada.
 
 > “Boolean tidak punya inisiatif,” kataku. “Dia hanya memberi laporan. Hari ini kita memberi laporan itu dua jalur.”
+
+![Boolean di konsol hanya laporan; satpam P16 memilih satu jalur if atau else](./assets/mimi-robi/p16-01-satpam-dua-jalur.jpg)
 
 ## Learning Compass
 
@@ -79,6 +81,8 @@ skor >= 75
 
 Dan 75 kembali punya kursi. Pelajaran hari ini: kode pendek tetap bisa memengaruhi orang; uji nilai di bawah, tepat pada, dan di atas batas.
 
+![Skor 75 tersingkir oleh `>`; satu garis jadi `>=` mengembalikan kursi “minimal lulus”](./assets/mimi-robi/p16-02-minimal-bukan-lebih.jpg)
+
 ## Plot twist #2 — Robi mengganti identitasnya sendiri
 
 ```javascript
@@ -94,6 +98,8 @@ Robi mengira ia bertanya “Apakah skornya 75?”
 Ternyata ia mengisi skor menjadi 75. Satpamnya tidak mengecek kartu, hanya membagikan kartu baru kepada semua orang.
 
 > “`=` memberi nilai. Kondisi butuh hasil Boolean. Gunakan operator perbandingan P15.”
+
+![`if (skor = 75)` membagikan kartu baru, bukan memeriksa; kondisi butuh perbandingan](./assets/mimi-robi/p16-03-if-assignment-bukan-cek.jpg)
 
 ## Concept
 
@@ -130,3 +136,5 @@ Tapi santai. P17 baru menghadirkan beberapa syarat. Hari ini satu aturan dan dua
 
 — **Mimi** 🐾  
 *(Robi sekarang menyebut `else` “jalur cadangan,” lalu Mimi mengingatkan: itu bukan jalur kalah, hanya hasil aturan yang berbeda.)*
+
+- Ilustrasi: `assets/mimi-robi/p16-01` … `p16-03` (`.jpg`)

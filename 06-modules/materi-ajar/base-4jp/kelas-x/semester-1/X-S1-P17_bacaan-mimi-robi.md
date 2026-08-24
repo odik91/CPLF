@@ -5,7 +5,7 @@
 |---|---|
 | Kode | X-S1-P17 — Kondisi Multi-Syarat |
 | Pertemuan | **17 / 34** · Basis **4JP** |
-| Status | Naskah · sketch ditunda |
+| Status | Naskah humor · **3 sketch khusus Kondisi Multi-Syarat** |
 
 **Handout:** [X-S1-P17_kondisi-multi-syarat_siswa.md](./X-S1-P17_kondisi-multi-syarat_siswa.md)
 
@@ -34,6 +34,8 @@ Robi protes: kartunya ada, kok hasilnya `false`?
 
 Konsol tidak benci Robi. Konsol hanya tidak lupa membaca syarat kedua.
 
+![Kartu ada tapi terlambat: `true && false` tetap false — kedua syarat `&&` wajib](./assets/mimi-robi/p17-01-dan-dua-syarat.jpg)
+
 ## Plot twist #2 — tiket atau undangan
 
 Untuk acara lain, cukup tiket **atau** undangan:
@@ -51,6 +53,8 @@ Robi hampir memakai `&&`.
 
 > “Itu bukan aturan acara. Itu kamu menambah drama tanpa requirement.”
 
+![Cukup tiket **atau** undangan: `false || true` lolos; jangan pakai `&&` tanpa spek](./assets/mimi-robi/p17-02-atau-tiket-undangan.jpg)
+
 ## Plot twist #3 — tanda seru bukan marah
 
 ```javascript
@@ -63,6 +67,8 @@ Robi:
 > “Tanda seru marah pada login?”
 
 > “Tidak. `!` membalik Boolean. Tidak lebih, tidak kurang.”
+
+![Tanda seru bukan marah: `!` hanya membalik `true` jadi `false` dan sebaliknya](./assets/mimi-robi/p17-03-seru-bukan-marah.jpg)
 
 ## Trace
 
@@ -85,3 +91,5 @@ Hari ini kita menguji semua kombinasi, bukan hanya satu kombinasi yang kebetulan
 
 — **Mimi** 🐾  
 *(Robi memberi nama tabelnya “rapat Boolean.” Tidak ada yang menolak karena rapatnya selesai dalam empat baris.)*
+
+- Ilustrasi: `assets/mimi-robi/p17-01` … `p17-03` (`.jpg`)
