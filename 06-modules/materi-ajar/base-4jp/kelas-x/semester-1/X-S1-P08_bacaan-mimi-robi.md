@@ -5,7 +5,7 @@
 |-------|-----|
 | Kode | X-S1-P08 — CSS Dasar |
 | Pertemuan | **8 / 34** · Basis **4JP** |
-| Status | Naskah humor · istilah penuh · sketch menyusul |
+| Status | Naskah humor · istilah penuh · **5 sketch khusus CSS dasar** |
 | Nada | POV Mimi, Gen Z, **plot twist** |
 
 **Handout:** [X-S1-P08_css-dasar_siswa.md](./X-S1-P08_css-dasar_siswa.md)  
@@ -22,6 +22,8 @@ Robi datang dengan HTML semantik yang sudah rapi — dan mood *fashion week*.
 Aku:
 
 > “Spoiler: mengganti tulang demi baju = operasi plastik darurat di lab komputer. Biasanya berakhir menangis di `div`.”
+
+![Satu tulang HTML bisa memakai dua “baju” CSS yang berbeda tanpa ganti struktur](./assets/mimi-robi/p08-01-satu-tulang-dua-baju.jpg)
 
 ---
 
@@ -72,6 +74,8 @@ Aku cek:
 
 Typo. Satu huruf. Drama selesai.
 
+![CSS tidak jalan ternyata karena path `styl.css` salah satu huruf](./assets/mimi-robi/p08-02-typo-path-css.jpg)
+
 Twist: seringnya bukan “CSS mustahil.” Seringnya **tautannya** atau path-nya. Seperti prompt jaguar — input salah, output “aneh.”
 
 ---
@@ -93,6 +97,8 @@ Selector bisa menarget `section`. Tidak perlu mengkhianati peran.
 
 Plot twist: “lebih gampang” sering = “lebih malas menjaga makna.”
 
+![Godaan mengganti semua `section` jadi `div` ditolak sebelum semantik rusak](./assets/mimi-robi/p08-03-godaan-div.jpg)
+
 ---
 
 ## Concept — baju punya nama
@@ -107,6 +113,8 @@ Plot twist: “lebih gampang” sering = “lebih malas menjaga makna.”
 Robi menulis tiga aturan di kertas **sebelum** ngetik — vibes spek P04.
 
 > “Judul lebih besar. Latar tenang. Jarak antar bagian.”
+
+![Tiga aturan CSS ditulis dulu di kertas sebelum `style.css` diketik](./assets/mimi-robi/p08-04-tiga-aturan-kertas.jpg)
 
 Baru CSS. Baru dia bisa jelaskan. Baru lulus vibe “bukan robocopy tema.”
 
@@ -123,6 +131,8 @@ Robi mau bilang “itu *minimalist*.”
 Aku:
 
 > “Itu **belum terpenuhi** kriteria keterbacaan. Ingat: kata ‘keren’ sudah dilarang jadi hakim.”
+
+![Kontras dibenahi karena keterbacaan lebih penting daripada alasan “minimalist”](./assets/mimi-robi/p08-05-kontras-bukan-keren.jpg)
 
 Dia naikkan kontras. Judul tetap `h1`. Section tetap `section`. Baju baru, tulang sama.
 
@@ -152,3 +162,5 @@ Satu line:
 
 — **Mimi** 🐾  
 *(Robi menamai file: `baju-bukan-operasi-tulang.css` — lebay, tapi path-nya benar.)*
+
+- Ilustrasi: `assets/mimi-robi/p08-01` … `p08-05` (`.jpg`)

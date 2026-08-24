@@ -5,7 +5,7 @@
 |-------|-----|
 | Kode | X-S1-P07 — HTML Semantik |
 | Pertemuan | **7 / 34** · Basis **4JP** |
-| Status | Naskah humor · istilah penuh · sketch menyusul |
+| Status | Naskah humor · istilah penuh · **7 sketch khusus HTML semantik** |
 | Nada | POV Mimi, Gen Z, **plot twist** |
 
 **Handout:** [X-S1-P07_html-semantik_siswa.md](./X-S1-P07_html-semantik_siswa.md)  
@@ -22,6 +22,8 @@ Robi masuk dengan file `algoritma-anti-telepati.html` dan aura juara kelas.
 Aku:
 
 > “Spoiler: lem di semua sisi bukan arsitektur. Itu bencana yang bisa berdiri.”
+
+![Robi merasa semua `div` itu fleksibel — Mimi menyebutnya lem kertas versi HTML](./assets/mimi-robi/p07-01-opening-sup-div.jpg)
 
 ---
 
@@ -57,6 +59,8 @@ Robi:
 
 > “Belum tampil. Belum adil.”
 
+![Dua halaman diuji tanpa browser: semantik seperti denah, `div` soup seperti labirin](./assets/mimi-robi/p07-02-dua-halaman-prediksi.jpg)
+
 ---
 
 ## Plot twist #1 — di browser… hampir sama
@@ -74,6 +78,8 @@ Aku:
 
 Twist: “kelihatan sama” bukan bukti “struktur tidak penting.”  
 Itu bukti mata manusia mudah dibohongi oleh piksel, sementara spek, teman, masa depan-CSS, **dan mesin pencari** butuh **nama jujur**.
+
+![Di browser bisa mirip, tapi semantik dan `div` soup tetap berbeda peran](./assets/mimi-robi/p07-03-browser-tampilan-sama.jpg)
 
 Hubung P06: langkah implisit bikin mie berbungkus.  
 `div` tanpa peran = bagian implisit di halaman.
@@ -96,6 +102,8 @@ Robi balas dendam:
 Guru:
 
 > “Kalau semua utama — tidak ada yang utama.”
+
+![Empat `h1` sekaligus: semua mau jadi judul utama, akhirnya tidak ada hierarki](./assets/mimi-robi/p07-04-dendam-h1.jpg)
 
 Dia pelan-pelan turun pangkat: satu `h1`, sisanya `h2`. Sakit. Sehat.
 
@@ -150,6 +158,8 @@ Robi:
 
 > “Peta untuk **teman**, untuk **dirimu 3 bulan lagi**, untuk **CSS**, *dan* untuk **mesin pencari**. Satu kebiasaan, banyak yang terbantu.”
 
+![Semantik memberi isyarat yang lebih jelas untuk mesin pencari, bukan cuma untuk mata manusia](./assets/mimi-robi/p07-05-seo-struktur-jujur.jpg)
+
 ### Plot twist kecil #SEO
 
 Halaman yang “kelihatan sama” di browser bisa **tidak sama** di mata mesin pencari.  
@@ -168,6 +178,8 @@ Robi mau langsung ngetik 200 baris.
 Aku:
 
 > “P04 bilang: spek dulu. P06 bilang: langkah dulu. Hari ini: **peta bagian** dulu.”
+
+![Peta bagian digambar dulu di kertas sebelum HTML diketik](./assets/mimi-robi/p07-06-peta-dulu-ketik.jpg)
 
 Dia gambar empat kotak di kertas. Baru HTML. Peer baca filenya **tanpa** dia menjelaskan.
 
@@ -206,3 +218,5 @@ Satu line:
 
 — **Mimi** 🐾  
 *(Robi menghapus empat `h1`. Antenna-nya berkabung sebentar, lalu menamai file: `bukan-sup-div-agar-google-ngerti.html` — lebay, tapi isyaratnya jelas.)*
+
+- Ilustrasi: `assets/mimi-robi/p07-01` … `p07-07` (`.jpg`)

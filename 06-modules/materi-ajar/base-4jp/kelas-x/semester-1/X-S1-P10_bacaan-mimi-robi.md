@@ -5,7 +5,7 @@
 |-------|-----|
 | Kode | X-S1-P10 — Halaman Multi-Section |
 | Pertemuan | **10 / 34** · Basis **4JP** |
-| Status | Naskah humor · istilah penuh · sketch menyusul |
+| Status | Naskah humor · istilah penuh · **4 sketch khusus multi-section & nav statis** |
 | Nada | POV Mimi, Gen Z, **plot twist** |
 
 **Handout:** [X-S1-P10_halaman-multi-section_siswa.md](./X-S1-P10_halaman-multi-section_siswa.md)  
@@ -28,6 +28,8 @@ Robi:
 Aku:
 
 > “Sabar bukan fitur. **Peta** itu fitur.”
+
+![Halaman seperti gulungan final boss butuh peta, bukan kesabaran pengguna](./assets/mimi-robi/p10-01-gulungan-tanpa-peta.jpg)
 
 ---
 
@@ -59,6 +61,8 @@ Guru:
 
 Plot twist kecil: “menu” tanpa `href` yang cocok = poster bioskop. Bagus dipandang. Tidak mengantar ke mana-mana.
 
+![Klik `href=\"#kontak\"` loncat ke `id=\"kontak\"` — bukan magic, tapi tautan jangkar](./assets/mimi-robi/p10-02-tautan-jangkar.jpg)
+
 ---
 
 ## Plot twist #1 — Tombol palsu
@@ -78,6 +82,8 @@ Aku:
 > “Browser patuh. Kamu yang kasih hiasan tanpa alamat.”
 
 Ganti jadi `<a href="#tentang">`. Loncat. Drama selesai. Antenna malu (progress).
+
+![Tombol palsu dari `div` gagal mengantar; tautan jangkar yang benar baru benar-benar bekerja](./assets/mimi-robi/p10-03-tombol-palsu.jpg)
 
 ---
 
@@ -128,6 +134,8 @@ Aku:
 
 Static dulu. `href` + `id`. Efek nanti — kalau perlu. Form (P11) juga nanti.
 
+![Peta section ditulis di kertas; godaan library smooth scroll ditolak sampai jalannya benar](./assets/mimi-robi/p10-04-peta-kertas-tolak-js.jpg)
+
 ---
 
 ## Reflect
@@ -154,3 +162,5 @@ Satu line:
 
 — **Mimi** 🐾  
 *(Robi menamai id terakhir: `kontak-bukan-dasar-laut` — lebay, tapi cocok dengan `href`-nya.)*
+
+- Ilustrasi: `assets/mimi-robi/p10-01` … `p10-04` (`.jpg`)

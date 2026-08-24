@@ -5,7 +5,7 @@
 |-------|-----|
 | Kode | X-S1-P09 — CSS Layout & Keterbacaan |
 | Pertemuan | **9 / 34** · Basis **4JP** |
-| Status | Naskah humor · istilah penuh · sketch menyusul |
+| Status | Naskah humor · istilah penuh · **4 sketch khusus layout & keterbacaan** |
 | Nada | POV Mimi, Gen Z, **plot twist** |
 
 **Handout:** [X-S1-P09_css-layout-keterbacaan_siswa.md](./X-S1-P09_css-layout-keterbacaan_siswa.md)  
@@ -22,6 +22,8 @@ Robi bangga dengan warna hijau kemarin.
 Aku lihat layarnyya. Teks melebar dari kiri monitor ke kanan. Section saling nempel seperti antrian yang lupa jaga jarak.
 
 > “Bajumu bagus. Napasnya nol. Ini halaman asma.”
+
+![Halaman penuh warna bisa tetap “asma” kalau teks melebar dan section saling menempel](./assets/mimi-robi/p09-01-halaman-asma.jpg)
 
 ---
 
@@ -53,6 +55,8 @@ Guru:
 
 Plot twist kecil: yang menyelamatkan mata sering bukan palet baru — melainkan **jarak**.
 
+![Versi sesak dan versi bernapas memakai HTML yang sama, bedanya ada spacing dan `max-width`](./assets/mimi-robi/p09-02-sesak-vs-bernapas.jpg)
+
 ---
 
 ## Plot twist #1 — “Kalau semua besar, pasti jelas”
@@ -66,6 +70,8 @@ Teman:
 > “Sekarang semuanya berteriak. Aku tidak tahu mana judul.”
 
 **Hierarki visual** = ada yang lebih “atas.” Kalau semua naik pangkat jadi jenderal, tidak ada komandan.
+
+![Kalau semua elemen dibesarkan, semuanya berteriak dan hierarki visual hilang](./assets/mimi-robi/p09-03-semua-besar.jpg)
 
 ---
 
@@ -89,6 +95,8 @@ Dia pilih tiga aturan sendiri:
 Refresh. Napas muncul. Dia bisa jelaskan. Lulus.
 
 Twist: **flex boleh** — hari ini, untuk **satu kasus** yang kamu pahami. Bukan untuk menyamar jadi Bootstrap.
+
+![Template flex/grid pinjaman ditolak; yang dipakai hanya aturan yang benar-benar dipahami](./assets/mimi-robi/p09-04-tolak-template-flex.jpg)
 
 ---
 
@@ -144,3 +152,5 @@ Satu line:
 
 — **Mimi** 🐾  
 *(Robi menamai class wadah: `page-yang-boleh-bernapas` — lebay, tapi `max-width`-nya benar.)*
+
+- Ilustrasi: `assets/mimi-robi/p09-01` … `p09-04` (`.jpg`)
