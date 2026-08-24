@@ -5,7 +5,7 @@
 |---|---|
 | Kode | X-S1-P21 — DOM & Event Pertama |
 | Pertemuan | **21 / 34** · Basis **4JP** |
-| Status | Naskah · sketch ditunda |
+| Status | Naskah humor · **3 sketch khusus DOM & Event** |
 
 **Handout:** [X-S1-P21_dom-event-pertama_siswa.md](./X-S1-P21_dom-event-pertama_siswa.md)
 
@@ -23,6 +23,8 @@ Setelah delapan pertemuan JavaScript di konsol, Robi menatap halaman HTML.
 <p id="pesan">Belum diklik.</p>
 <button id="tombolSapa" type="button">Klik</button>
 ```
+
+![Setelah JS di konsol: satu `id`, satu klik, satu perubahan — baru boleh menyentuh halaman](./assets/mimi-robi/p21-01-satu-alamat-satu-klik.jpg)
 
 ## Plot twist #1 — alamat tanpa pagar
 
@@ -42,6 +44,8 @@ Hasilnya `null`.
 const pesan = document.getElementById("pesan");
 ```
 
+![`getElementById("#pesan")` jadi `null`; pagar `#` untuk CSS, di sini cukup nama `id`](./assets/mimi-robi/p21-02-pagar-bukan-untuk-id.jpg)
+
 ## Plot twist #2 — tombol bukan cenayang
 
 ```javascript
@@ -53,6 +57,8 @@ tombolSapa.addEventListener("click", function () {
 Robi menunggu perubahan sebelum klik.
 
 > “Function di dalam listener menunggu event. Tombol tidak membaca pikiran; ia mendengar klik.”
+
+![Tombol bukan cenayang: teks baru berubah setelah event klik, bukan karena ditebak](./assets/mimi-robi/p21-03-tombol-bukan-cenayang.jpg)
 
 ## Trace
 
@@ -72,3 +78,5 @@ konsol → bukti event
 > **Interaksi kecil yang dipahami lebih jujur daripada halaman ramai yang tidak bisa dijelaskan.**
 
 — **Mimi** 🐾
+
+- Ilustrasi: `assets/mimi-robi/p21-01` … `p21-03` (`.jpg`)

@@ -5,7 +5,7 @@
 |---|---|
 | Kode | X-S1-P20 — Debugging Vanilla |
 | Pertemuan | **20 / 34** · Basis **4JP** |
-| Status | Naskah · sketch ditunda |
+| Status | Naskah humor · **2 sketch khusus Debugging Vanilla** |
 
 **Handout:** [X-S1-P20_debugging-vanilla_siswa.md](./X-S1-P20_debugging-vanilla_siswa.md)
 
@@ -18,6 +18,8 @@ Konsol Robi merah. Ia menutup laptop dengan kecepatan seorang tersangka.
 > “Error. Aku selesai.”
 
 > “Tidak. Program memberi petunjuk. Kamu baru mulai membaca.”
+
+![Konsol merah bukan alasan menutup laptop — itu peta menuju penyebab](./assets/mimi-robi/p20-01-konsol-merah-bukan-selesai.jpg)
 
 ## Tiga tersangka
 
@@ -39,6 +41,8 @@ Ia menemukan `produk.namaa`. Satu huruf terlalu banyak. Diubah menjadi `produk.n
 
 > “Bug tidak diukur dari panjang perbaikan. Bug diukur dari bukti.”
 
+![Tiga tersangka error; perbaikan satu huruf `namaa` → `nama` lebih jujur daripada ganti delapan baris](./assets/mimi-robi/p20-02-tiga-tersangka-satu-huruf.jpg)
+
 ## Exit
 
 1. Error mana yang bisa berjalan tapi hasilnya salah?  
@@ -48,3 +52,5 @@ Ia menemukan `produk.namaa`. Satu huruf terlalu banyak. Diubah menjadi `produk.n
 > **Konsol merah bukan alarm identitas; itu peta menuju penyebab.**
 
 — **Mimi** 🐾
+
+- Ilustrasi: `assets/mimi-robi/p20-01` … `p20-02` (`.jpg`)
