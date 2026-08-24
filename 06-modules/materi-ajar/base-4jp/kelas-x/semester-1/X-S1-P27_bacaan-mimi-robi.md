@@ -5,7 +5,7 @@
 |---|---|
 | Kode | X-S1-P27 — JS Fitur 2 / Polish |
 | Pertemuan | **27 / 34** · Basis **4JP** |
-| Status | Naskah · sketch ditunda |
+| Status | Naskah humor · **3 sketch khusus JS Fitur 2 / Polish** · Mimi syari |
 
 **Handout:** [X-S1-P27_project-s1-js-fitur2_siswa.md](./X-S1-P27_project-s1-js-fitur2_siswa.md)
 
@@ -22,6 +22,8 @@ Di `spek.md` P23 ada baris kedua:
 Robi menyalin listener kemarin. Ganti nama tombol. Targetnya tetap `#pesan`.
 
 Dua tombol. Satu mulut.
+
+![Dua tombol berteriak lewat `#pesan` yang sama — janji P26 tertimpa](./assets/mimi-robi/p27-01-dua-tombol-satu-mulut.jpg)
 
 ## Istilah dulu, biar plot-nya tidak nyasar
 
@@ -61,6 +63,8 @@ Kemarin lulus. Hari ini gagal. Itu **regresi**: kerusakan pada yang sudah diuji,
 
 > “Sudah jalan” kemarin tidak menolong jika tidak diuji ulang hari ini.
 
+![Listener tombol 1 dihapus “biar file pendek” → regresi: kemarin lulus, hari ini gagal](./assets/mimi-robi/p27-02-regresi-tidak-diundang.jpg)
+
 ## Plot twist #2 — waktu luang mengarang fitur 3
 
 Masih dua puluh menit. Robi menambah penghitung klik dan mengganti warna tombol.
@@ -86,6 +90,8 @@ if (sudahDiklik === false) {
 ```
 
 `let` karena nilai `sudahDiklik` berubah. `const` tidak untuk yang sengaja diganti.
+
+![Waktu luang bukan Fitur 3; kalau spek satu janji, polish = `if`/`else` di tombol yang sama](./assets/mimi-robi/p27-03-waktu-luang-bukan-fitur-3.jpg)
 
 ## Adegan 2 — dua AC, dua jejak
 
@@ -114,3 +120,6 @@ P26 = menyalakan saklar. P27 = saklar kedua, atau saklar pertama yang tidak berb
 > **Fitur kedua yang menepati spek tidak boleh menelan fitur pertama. Waktu luang bukan spek baru.**
 
 — **Mimi** 🐾
+
+- Ilustrasi: `assets/mimi-robi/p27-01` … `p27-03` (`.jpg`)
+- Visual Mimi: baju syari (standar project)
