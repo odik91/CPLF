@@ -5,7 +5,7 @@
 |---|---|
 | Kode | X-S1-P22 — Integrasi Mini + Review Spiral |
 | Pertemuan | **22 / 34** · Basis **4JP** |
-| Status | Naskah · sketch ditunda |
+| Status | Naskah humor · **3 sketch khusus Integrasi Mini + Review** |
 
 **Handout:** [X-S1-P22_integrasi-review-spiral_siswa.md](./X-S1-P22_integrasi-review-spiral_siswa.md)
 
@@ -18,6 +18,8 @@ Blok 3 hampir selesai. Robi ingin merayakan dengan sepuluh tombol, dark mode, da
 Aku menutup laptopnya sebentar.
 
 > “Penutup Blok 3 bukan festival fitur. Penutup = satu spiral yang jujur.”
+
+![Robi mau sepuluh tombol; Mimi tutup laptop: penutup Blok 3 = satu spiral yang jujur, bukan festival fitur](./assets/mimi-robi/p22-01-bukan-festival-fitur.jpg)
 
 ## Learning Compass
 
@@ -50,6 +52,8 @@ Aku:
 
 Mereka membuka checklist. Satu AC gagal: teks setelah klik tidak sesuai spek. Bukan selera. Bukti.
 
+![Peer bilang “keren” dipecat; yang diuji adalah AC, bukan selera](./assets/mimi-robi/p22-02-keren-dipecat-cek-ac.jpg)
+
 ## Plot twist #2 — tombol kedua
 
 Robi mau menambah tombol “reset keren.”
@@ -57,6 +61,8 @@ Robi mau menambah tombol “reset keren.”
 > “Kalau AC belum lulus untuk tombol pertama, tombol kedua hanya memperluas kebingungan.”
 
 Ia memperbaiki satu huruf `id`. AC lulus. Antenna tenang secara proporsional.
+
+![Tombol kedua ditahan sampai AC tombol pertama lulus; perbaikan satu huruf `id` lebih jujur](./assets/mimi-robi/p22-03-tombol-kedua-ditahan.jpg)
 
 ## Reflect
 
@@ -71,3 +77,5 @@ P22 menutup Blok 3: fondasi JS sampai DOM kecil sudah bisa **disatukan dan diuji
 > **Spiral yang selesai adalah spiral yang bisa dicentang, bukan yang paling ramai.**
 
 — **Mimi** 🐾
+
+- Ilustrasi: `assets/mimi-robi/p22-01` … `p22-03` (`.jpg`)

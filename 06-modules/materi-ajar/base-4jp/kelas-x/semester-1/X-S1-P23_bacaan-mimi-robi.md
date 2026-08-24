@@ -5,7 +5,7 @@
 |---|---|
 | Kode | X-S1-P23 — Project S1 Kickoff |
 | Pertemuan | **23 / 34** · Basis **4JP** |
-| Status | Naskah · sketch ditunda |
+| Status | Naskah humor · **3 sketch khusus Project Kickoff** |
 
 **Handout:** [X-S1-P23_project-s1-kickoff_siswa.md](./X-S1-P23_project-s1-kickoff_siswa.md)
 
@@ -18,6 +18,8 @@ Blok 3 ditutup. Robi membuka 14 tab: animasi, slider, “full stack madrasah.”
 > “Project semester. Saatnya besar.”
 
 > “Besar di janji, kecil di awal. Istana tanpa denah = reruntuhan yang sibuk.”
+
+![Robi buka 14 tab fitur; Mimi: project semester besar di janji, kecil di awal — denah dulu](./assets/mimi-robi/p23-01-janji-dulu-bukan-14-tab.jpg)
 
 ## Learning Compass
 
@@ -48,6 +50,8 @@ Diganti: “Ada tiga section dengan `h2`. `#pesan` berubah setelah klik sesuai k
 
 Antenna setuju, meski kurang cinematic.
 
+![“Tampilan modern” tidak bisa dicentang; AC diganti jadi section + perubahan `#pesan` yang terukur](./assets/mimi-robi/p23-02-modern-tidak-bisa-dicentang.jpg)
+
 ## Plot twist #2 — folder kosong yang lulus
 
 Teman Robi sudah mewarnai gradient. Robi hanya punya `header`, `main`, `footer` dan spek.
@@ -57,6 +61,8 @@ Teman: “Kamu ketinggalan.”
 Guru: “Dia lulus kickoff. Kamu punya cat tanpa denah — P24 akan membongkar dindingmu.”
 
 Twist: kerangka yang jujur mengalahkan dekorasi dini.
+
+![Folder hampir kosong plus spek lulus kickoff; gradient tanpa denah menunggu dibongkar di P24](./assets/mimi-robi/p23-03-folder-kosong-lulus-kickoff.jpg)
 
 ## Reflect
 
@@ -71,3 +77,5 @@ P23 bukan “mulai coding semuanya.” P23 = janji yang bisa diuji. P24 memasang
 > **Project yang adil dimulai dari spek, bukan dari pesta fitur.**
 
 — **Mimi** 🐾
+
+- Ilustrasi: `assets/mimi-robi/p23-01` … `p23-03` (`.jpg`)

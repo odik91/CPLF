@@ -5,7 +5,7 @@
 |---|---|
 | Kode | X-S1-P24 — Build HTML |
 | Pertemuan | **24 / 34** · Basis **4JP** |
-| Status | Naskah · sketch ditunda |
+| Status | Naskah humor · **3 sketch khusus Build HTML** |
 
 **Handout:** [X-S1-P24_project-s1-html_siswa.md](./X-S1-P24_project-s1-html_siswa.md)
 
@@ -18,6 +18,8 @@ Robi membuka `style.css` lebih dulu. Ia punya spek kantin, tetapi yang ia kejar 
 > “Biar kelihatan beres.”
 
 > “Kelihatan beres bukan beres. Dinding dulu. Cat yang menutupi lubang disebut kamuflase.”
+
+![`style.css` dibuka dulu ditolak: dinding HTML dulu, cat yang menutupi lubang adalah kamuflase](./assets/mimi-robi/p24-01-dinding-dulu-bukan-cat.jpg)
 
 ## Learning Compass
 
@@ -43,11 +45,15 @@ Besok P26, listener mencari rumah lama. Null. Debugging P20 pulang kampung.
 
 > “`id` di spek itu alamat. Pindah tanpa ubah spek = menipu kurir.”
 
+![`tombolUtama` diganti `btnHero` tanpa ubah spek: kurir P26 akan dapat `null`](./assets/mimi-robi/p24-02-id-jangan-pindah-rumah.jpg)
+
 ## Plot twist #2 — lorem yang lulus visual
 
 Teman pakai gradient, teks `Lorem ipsum`. Peer P24: “Cantik.” Guru: “AC konten gagal. Pengguna kantin tidak makan lorem.”
 
 Robi menulis tiga kalimat menu sungguhan. Halaman masih polos. Ia lulus hari ini.
+
+![Gradient + lorem gagal AC konten; tiga kalimat menu sungguhan di HTML polos yang lulus](./assets/mimi-robi/p24-03-lorem-tidak-bisa-dimakan.jpg)
 
 ## Reflect
 
@@ -62,3 +68,5 @@ P24 = menepati denah. P25 = keterbacaan. Jangan menukar urutannya.
 > **Struktur yang jujur lebih kuat daripada cat yang menutupi janji yang belum ditepati.**
 
 — **Mimi** 🐾
+
+- Ilustrasi: `assets/mimi-robi/p24-01` … `p24-03` (`.jpg`)
