@@ -5,7 +5,7 @@
 |---|---|
 | Kode | X-S1-P13 — JavaScript Vanilla: Nilai & Tipe Data |
 | Pertemuan | **13 / 34** · Basis **4JP** |
-| Status | Naskah · sketch ditunda |
+| Status | Naskah humor · **2 sketch khusus Nilai & Tipe Data JS** |
 | Nada | POV Mimi · humor · plot twist |
 
 **Handout:** [X-S1-P13_js-vanilla-nilai-tipe_siswa.md](./X-S1-P13_js-vanilla-nilai-tipe_siswa.md)
@@ -19,6 +19,8 @@ Robi melihat halaman static P12 dan langsung membuka video “Bikin tombol inter
 > “Saatnya DOM!”
 
 Aku menutup tabnya.
+
+![Robi tetap kejar belajar JS, bukan langsung DOM; Mimi ingatkan bedanya angka 12 dan teks "12"](./assets/mimi-robi/p13-01-jangan-dom-dulu.jpg)
 
 > “Kamu belum tahu bedanya angka `12` dan teks `"12"`. Jangan mengemudi sebelum kenal pedal.”
 
@@ -56,6 +58,7 @@ typeof 12   // "number"
 typeof true // "boolean"
 ```
 
+![Tiga kartu tipe data dan plot twist "10" + 2 jadi "102": `typeof` itu identitas, bukan dekorasi](./assets/mimi-robi/p13-02-tiga-kartu-typeof.jpg)
 ## Plot twist — 10 + 2 = 102
 
 Robi menulis:
@@ -111,3 +114,5 @@ P13 bukan “halaman bergerak.” P13 = bahasa JavaScript mulai masuk akal sebel
 
 — **Mimi** 🐾
 *(Robi menulis: `"mie" + 2` lalu sadar hasilnya bukan dua porsi mie.)*
+
+- Ilustrasi: `assets/mimi-robi/p13-01` … `p13-02` (`.jpg`)

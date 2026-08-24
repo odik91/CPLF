@@ -5,7 +5,7 @@
 |---|---|
 | Kode | X-S1-P15 — JavaScript Vanilla: Perbandingan & Boolean |
 | Pertemuan | **15 / 34** · Basis **4JP** |
-| Status | Naskah · sketch ditunda |
+| Status | Naskah humor · **2 sketch khusus Perbandingan & Boolean JS** |
 | Nada | POV Mimi · humor · plot twist |
 
 **Handout:** [X-S1-P15_perbandingan-boolean_siswa.md](./X-S1-P15_perbandingan-boolean_siswa.md)  
@@ -27,6 +27,8 @@ console.log(stokMie < 5);
 ```
 
 Konsol menjawab `true`.
+
+![Konsol memberi true, tapi belum ada aksi: satpam belum bekerja sampai P16](./assets/mimi-robi/p15-01-boolean-laporan-satpam.jpg)
 
 Robi menunggu mi turun dari langit.
 
@@ -95,6 +97,7 @@ Ternyata ia mengganti nama Robi menjadi Mimi. Antennanya menolak identitas baru.
 console.log(nama === "Mimi");
 ```
 
+![Tiga tanda sama, bukan aksesoris: `===` membandingkan, `=` memberi nilai](./assets/mimi-robi/p15-02-presisi-operator-perbandingan.jpg)
 ## Concept
 
 | Pertanyaan manusia | Ekspresi |
@@ -131,3 +134,5 @@ P16 baru berbunyi:
 
 — **Mimi** 🐾  
 *(Robi kini menulis `stokMie < 5` sebelum panik. Ini kemajuan yang dapat diuji.)*
+
+- Ilustrasi: `assets/mimi-robi/p15-01` … `p15-02` (`.jpg`)

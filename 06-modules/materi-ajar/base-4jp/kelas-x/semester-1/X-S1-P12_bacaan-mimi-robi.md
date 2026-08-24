@@ -5,7 +5,7 @@
 |-------|-----|
 | Kode | X-S1-P12 — Review Static + Spek |
 | Pertemuan | **12 / 34** · Basis **4JP** |
-| Status | Naskah humor · istilah penuh · sketch menyusul |
+| Status | Naskah humor · istilah penuh · **3 sketch khusus Review Static + Spek** |
 | Nada | POV Mimi, Gen Z, **plot twist** |
 
 **Handout:** [X-S1-P12_review-static-spek_siswa.md](./X-S1-P12_review-static-spek_siswa.md)  
@@ -16,6 +16,8 @@
 Halo. Mimi.
 
 Blok 2 mau tutup. Robi berdiri di depan halaman static-nya seperti di karpet merah.
+
+![Robi berdiri di depan halaman static dan diminta review checklist; kata “keren” dipecat dan diganti kriteria penerimaan](./assets/mimi-robi/p12-01-hakim-keren-dipecat.jpg)
 
 > “Semantik. CSS. Napas. Peta. Form. Aku… selesai?”
 
@@ -73,6 +75,8 @@ Aku:
 **Revisi terarah:** cocokkan `id` dan `href`. Uji klik. ✅  
 Waktu tersisa untuk form `name`. Dunia tidak kiamat.
 
+![Peer centang mismatch href dan id, lalu perbaikan terarah tanpa rewrite total](./assets/mimi-robi/p12-02-satu-x-drama-nuklir.jpg)
+
 ---
 
 ## Adegan 2 — Opini vs bukti
@@ -88,6 +92,8 @@ Teman B:
 Yang mana masuk antrean perbaikan wajib?  
 B. Karena itu **temuan** + **bukti** terhadap AC navigasi.  
 A = selera — boleh dicatat, bukan hakim kelulusan hari ini.
+
+![Bedakan selera (opini) vs temuan+data (bukti) agar revisi masuk antrean perbaikan](./assets/mimi-robi/p12-03-opini-vs-bukti.jpg)
 
 ---
 
@@ -145,3 +151,5 @@ Satu line:
 
 — **Mimi** 🐾  
 *(Robi menamai file catatan: `bukan-keren-tapi-lulus-ac.md` — lebay, tapi hakimnya benar.)*
+
+- Ilustrasi: `assets/mimi-robi/p12-01` … `p12-03` (`.jpg`)

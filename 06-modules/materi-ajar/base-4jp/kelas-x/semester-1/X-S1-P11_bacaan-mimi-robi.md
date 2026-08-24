@@ -5,7 +5,7 @@
 |-------|-----|
 | Kode | X-S1-P11 — Form HTML |
 | Pertemuan | **11 / 34** · Basis **4JP** |
-| Status | Naskah humor · istilah penuh · sketch menyusul |
+| Status | Naskah humor · istilah penuh · **4 sketch khusus Form HTML** |
 | Nada | POV Mimi, Gen Z, **plot twist** |
 
 **Handout:** [X-S1-P11_form-html_siswa.md](./X-S1-P11_form-html_siswa.md)  
@@ -24,6 +24,8 @@ Aku klik. Tidak ada `<form>`. Tidak ada `name`. “Nama” cuma teks di samping 
 > “Ini bukan form. Ini diorama form.”
 
 Antenna goyang. Dia belum siap dituduh diorama.
+
+![Robi menunjukkan form palsu dari div tanpa elemen form — Mimi menyebutnya diorama](./assets/mimi-robi/p11-01-diorama-form.jpg)
 
 *** Diorama adalah pemandangan atau adegan miniatur tiga dimensi yang dirancang untuk menggambarkan situasi nyata, peristiwa sejarah, atau latar fiktif. ***
 
@@ -84,6 +86,8 @@ Yang jujur: *Struktur form siap. Pemrosesan otomatis belum diajarkan.*
 
 Lulus etika > lulus drama.
 
+![Robi pasang teks "Pesan Terkirim" tanpa server; teman tanya ke mana kirimnya, Mimi KRISIS versi kantor pos](./assets/mimi-robi/p11-02-pesan-terkirim-palsu.jpg)
+
 ---
 
 ## Adegan 2 — Placeholder tipu daya
@@ -97,6 +101,8 @@ Dia pakai hanya:
 Ketik — placeholder hilang. Teman yang butuh petunjuk… petunjuknya kabur.
 
 **`label`** tetap di luar, terhubung dengan `for` + `id`. Placeholder boleh tambahan — bukan pengganti.
+
+![Placeholder hilang saat diketik; label yang terhubung for+id tetap terlihat sebagai petunjuk](./assets/mimi-robi/p11-03-placeholder-bukan-label.jpg)
 
 ---
 
@@ -120,6 +126,8 @@ Robi spek di kertas dulu:
 | Pesan | pesan | textarea |
 
 Baru ngetik. Baru bisa jelaskan. Bukan robocopy form AI 20 kolom “Newsletter + Fax + Blood type.”
+
+![Robi tulis spek tabel label/name/type di kertas, lalu build form dengan label for id dan name yang benar](./assets/mimi-robi/p11-04-form-punya-nama.jpg)
 
 ---
 
@@ -163,3 +171,5 @@ Satu line:
 
 — **Mimi** 🐾  
 *(Robi menulis di `<small>`: `belum-ada-kurir-jangan-klaim-sampai` — lebay, tapi jujur.)*
+
+- Ilustrasi: `assets/mimi-robi/p11-01` … `p11-04` (`.jpg`)

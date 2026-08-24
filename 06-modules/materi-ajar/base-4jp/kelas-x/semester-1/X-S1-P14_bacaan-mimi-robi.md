@@ -5,7 +5,7 @@
 |---|---|
 | Kode | X-S1-P14 — JavaScript Vanilla: Variabel & Ekspresi |
 | Pertemuan | **14 / 34** · Basis **4JP** |
-| Status | Naskah · sketch ditunda |
+| Status | Naskah humor · **2 sketch khusus Variabel & Ekspresi JS** |
 | Nada | POV Mimi · humor · plot twist |
 
 **Handout:** [X-S1-P14_variabel-ekspresi_siswa.md](./X-S1-P14_variabel-ekspresi_siswa.md)
@@ -50,6 +50,8 @@ const total = hargaMie * jumlahPorsi;
 
 Sekarang `12000` bukan angka misterius. Namanya menjelaskan niat.
 
+![Robi ganti angka jadi variabel bernama yang jujur; Mimi bilang kode jadi mudah dibaca](./assets/mimi-robi/p14-01-variabel-nama-jujur.jpg)
+
 Robi memilih nama:
 
 ```javascript
@@ -79,6 +81,8 @@ Konsol protes.
 let jumlah = 2;
 jumlah = 3;
 ```
+
+![Const dipaksa berubah memunculkan error; solusi pakai let dan pola IPO](./assets/mimi-robi/p14-02-const-vs-let.jpg)
 
 Bukan berarti semua memakai `let`. Default `const`; `let` hanya jika rencana memang berubah.
 
@@ -122,3 +126,5 @@ Teman membaca kode baris demi baris dan mencatat nilai `jumlah` sebelum/sesudah.
 
 — **Mimi** 🐾
 *(Robi mengganti `z` menjadi `totalBelanja`. Character development yang bisa dibaca.)*
+
+- Ilustrasi: `assets/mimi-robi/p14-01` … `p14-02` (`.jpg`)
