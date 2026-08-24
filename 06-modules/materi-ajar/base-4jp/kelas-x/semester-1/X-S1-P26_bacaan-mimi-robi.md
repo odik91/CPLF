@@ -5,7 +5,7 @@
 |---|---|
 | Kode | X-S1-P26 — JS Fitur 1 |
 | Pertemuan | **26 / 34** · Basis **4JP** |
-| Status | Naskah · sketch ditunda |
+| Status | Naskah humor · **3 sketch khusus JS Fitur 1** · Mimi syari (standar project) |
 
 **Handout:** [X-S1-P26_project-s1-js-fitur1_siswa.md](./X-S1-P26_project-s1-js-fitur1_siswa.md)
 
@@ -18,6 +18,8 @@ P23 Robi menulis di `spek.md`:
 > "Klik tombol → status menu berubah menjadi `'Mie Sehat tersedia'`."
 
 Tiga pertemuan kemudian, halamannya sudah ada. CSS-nya bernapas. Tinggal satu listrik yang belum dinyalakan.
+
+![Spek sudah janji; HTML+CSS siap; saklar JS Fitur 1 belum dinyalakan](./assets/mimi-robi/p26-01-satu-listrik-dari-spek.jpg)
 
 ## Learning Compass
 
@@ -45,6 +47,8 @@ Aku menunjuk `spek.md`. `tombolUtama`. Bukan `btnUtama`.
 
 Satu nama. Satu alamat. Jangan dua nama untuk satu pintu.
 
+![`btnUtama` → `null`; spek minta `tombolUtama` — komputer baca huruf, bukan “maksud sama”](./assets/mimi-robi/p26-02-id-bukan-maksud-sama.jpg)
+
 ## Plot twist — "sudah jalan"
 
 Listener terpasang. Klik. Ada reaksi.
@@ -56,6 +60,8 @@ Aku: "AC sebelum klik?"
 Ternyata teks awal sudah berubah dari yang dijanjikan spek. Konsol pun tidak menulis apa-apa — listener tidak terpasang, yang jalan adalah kode lama P25 yang tidak dihapus.
 
 > "Sudah jalan" adalah klaim. AC yang dicentang adalah bukti.
+
+![Reaksi di layar belum berarti lulus: cek teks sebelum klik, sesudah klik, dan konsol vs spek](./assets/mimi-robi/p26-03-sudah-jalan-bukan-bukti.jpg)
 
 ## Adegan 2 — trace singkat
 
@@ -81,3 +87,6 @@ Fitur 1 bukan P21. P21 adalah latihan dasar. P26 adalah janji kepada spek yang d
 > **Listener dari spek adalah janji yang sekarang bisa diuji — bukan fitur yang diklaim selesai.**
 
 — **Mimi** 🐾
+
+- Ilustrasi: `assets/mimi-robi/p26-01` … `p26-03` (`.jpg`)
+- Visual Mimi: baju syari (metafora CSS project) — berlanjut P27+
