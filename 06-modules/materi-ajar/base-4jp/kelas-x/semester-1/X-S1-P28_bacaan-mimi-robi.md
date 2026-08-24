@@ -5,7 +5,7 @@
 |---|---|
 | Kode | X-S1-P28 — Checkpoint uji AC |
 | Pertemuan | **28 / 34** · Basis **4JP** |
-| Status | Naskah · sketch ditunda |
+| Status | Naskah humor · **3 sketch khusus Checkpoint uji AC** · Mimi syari |
 
 **Handout:** [X-S1-P28_project-s1-checkpoint_siswa.md](./X-S1-P28_project-s1-checkpoint_siswa.md)
 
@@ -20,6 +20,8 @@ Robi menutup laptop dengan gestur orang yang sudah menyeberang sungai.
 Aku menunjuk kalender. P28. P29. P30. P32. P33.
 
 > “Kamu baru sampai pintu. Pintu itu namanya **checkpoint**: paket janji diuji. Bukan pesta. Pesta — kalau spek lulus — masih beberapa pertemuan lagi.”
+
+![P27 selesai ≠ project selesai; P28 adalah pintu checkpoint, bukan garis finish](./assets/mimi-robi/p28-01-pintu-bukan-finish.jpg)
 
 ## Istilah dulu
 
@@ -57,6 +59,8 @@ Kami lihat. Daftar menu telanjang. Tidak ada judul. Mata meloncat dari sorotan k
 
 **Checkpoint** artinya urutan: struktur, lalu keterbacaan, lalu fitur 1, lalu fitur 2, lalu regresi. Bukan “ingatanku tentang klik kemarin.”
 
+![Hakim yang hanya uji tombol terakhir = malas; AC struktur (`h2`) juga harus diuji](./assets/mimi-robi/p28-02-hakim-tombol-terakhir.jpg)
+
 ## Plot twist #1 — perbaikan yang menambah janji
 
 Robi panik. Dua AC gagal. Ia menambah tombol ketiga dan gradient.
@@ -82,6 +86,8 @@ UJI → TEMUAN (bukti + lapisan) → PRIORITAS → PERBAIKI SATU → UJI ULANG +
 ```
 
 Enam kata kerja. Kalau yang terakhir dilewati, pintu masih tertutup meski kamu sudah berdiri di depan.
+
+![Bukan fitur 3 / pelintir spek; perbaikan terkecil + uji ulang + regresi](./assets/mimi-robi/p28-03-bukan-fitur3-bukan-pelintir.jpg)
 
 ## Adegan 2 — status yang boleh jelek
 
@@ -114,3 +120,6 @@ P12 memecat hakim “keren.” P28 memecat hakim “sudah diklik.” Yang tersis
 > **Checkpoint yang jujur lebih maju daripada project yang “selesai” di kepala.**
 
 — **Mimi** 🐾
+
+- Ilustrasi: `assets/mimi-robi/p28-01` … `p28-03` (`.jpg`)
+- Visual Mimi: baju syari (standar project)
