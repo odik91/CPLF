@@ -5,7 +5,7 @@
 |---|---|
 | Kode | X-S1-P33 — Showcase reasoning |
 | Pertemuan | **33 / 34** · Basis **4JP** |
-| Status | Naskah · sketch ditunda |
+| Status | Naskah humor · **3 sketch khusus Showcase reasoning** · Mimi syari |
 
 **Handout:** [X-S1-P33_project-s1-showcase_siswa.md](./X-S1-P33_project-s1-showcase_siswa.md)
 
@@ -22,6 +22,8 @@ Timer sudah 0:40. Belum ada masalah. Belum ada pengguna. Ada cursor yang berkedi
 Saya tutup jendela editor.
 
 > “Ini panggung. Bukan bengkel. Yang ada di browser, itu yang kamu tunjukkan. Yang belum rapi, itu gap — dibaca, bukan diketik.”
+
+![P33 = panggung: editor ditutup; gap dibaca dari kartu, bukan diketik di `style.css`](./assets/mimi-robi/p33-01-panggung-bukan-bengkel.jpg)
 
 ## Istilah dulu
 
@@ -54,6 +56,8 @@ Robi: “Yang JS itu. Pokoknya jalan.”
 
 Kami ulang: satu klik, satu kalimat AC. Tujuh jadi satu. Kelas baru paham.
 
+![Tujuh klik “pokoknya jalan” ≠ janji; satu klik + nomor AC = showcase yang bisa diuji](./assets/mimi-robi/p33-02-klik-tanpa-ac-bukan-janji.jpg)
+
 ## Plot twist #1 — timer yang dikira saran
 
 Empat menit habis. Robi masih di slot “mengapa”, baru mau demo.
@@ -77,6 +81,8 @@ Pertanyaan yang menolong:
 - “Gap di kartu status disebut atau tidak?”
 
 Itu **peer** yang sama semangatnya dengan P29, hanya kali ini di panggung, bukan di laptop orang.
+
+![Timer = batas, bukan saran; “keren” ≠ bukti — tanya AC, mengapa, dan gap](./assets/mimi-robi/p33-03-timer-dan-keren-bukan-bukti.jpg)
 
 ## Adegan 2 — empat menit yang tidak heroik
 
@@ -103,3 +109,6 @@ P32 menulis garis. P33 membacanya keras-keras. P34 baru menanyakan apa yang tumb
 > **Panggung yang jujur lebih kuat dari bengkel dadakan.**
 
 — **Mimi** 🐾
+
+- Ilustrasi: `assets/mimi-robi/p33-01` … `p33-03` (`.jpg`)
+- Visual Mimi: baju syari (standar project)
