@@ -5,7 +5,7 @@
 |---|---|
 | Kode | X-S1-P31 — Polish UX / a11y dasar |
 | Pertemuan | **31 / 34** · Basis **4JP** |
-| Status | Naskah · sketch ditunda |
+| Status | Naskah humor · **3 sketch khusus Polish UX / a11y** · Mimi syari |
 
 **Handout:** [X-S1-P31_project-s1-polish_siswa.md](./X-S1-P31_project-s1-polish_siswa.md)
 
@@ -26,6 +26,8 @@ button {
 Aku tutup mouse. Tekan **Tab**. Tab. Tab.
 
 Saya tidak tahu saya di mana. Rumahnya ada. Lampunya ada. Alamatnya dihapus.
+
+![`outline: none` tanpa `:focus` = rumah tanpa alamat saat Tab](./assets/mimi-robi/p31-01-outline-bukan-profesional.jpg)
 
 ## Istilah dulu
 
@@ -59,6 +61,8 @@ Tombol utama bertuliskan `KLIK`. Tombol kedua `INI JUGA`.
 
 **UX ringan** sering satu kata yang tepat, bukan gradient.
 
+![Tombol “KLIK” bukan janji; label aksi harus menepati spek sebelum diklik](./assets/mimi-robi/p31-02-klik-bukan-janji.jpg)
+
 ## Plot twist #1 — Tab hilang, mouse masih pahlawan
 
 Klik mouse: fitur 1 jalan. Robi ingin langsung P32.
@@ -74,6 +78,8 @@ Robi googling “accessibility.” Menempel `aria-label`, `role="button"`, `aria
 > “Stiker tidak mengganti alamat. `lang` dan `title` dulu. `aria-label` pada `nav` — kalau kamupunya `nav` — satu atribut, seperti P10. Bukan hujan atribut.”
 
 Empat puluh menit hover bounce. Tab masih buta. Itu bukan polish. Itu pesta kostum.
+
+![Stiker ARIA tidak mengganti `lang`/`title`/`:focus`; polish = alamat yang jujur + regresi](./assets/mimi-robi/p31-03-stiker-aria-bukan-alamat.jpg)
 
 ## Adegan 2 — tiga sentuhan yang bisa dibela
 
@@ -99,3 +105,6 @@ P25 menjaga mata. P31 menjaga orang yang berjalan dengan Tab — termasuk kau sa
 > **Polish yang adil membuat janji spek mudah dipakai, bukan sulit ditemukan.**
 
 — **Mimi** 🐾
+
+- Ilustrasi: `assets/mimi-robi/p31-01` … `p31-03` (`.jpg`)
+- Visual Mimi: baju syari (standar project)
