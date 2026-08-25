@@ -5,7 +5,7 @@
 |---|---|
 | Kode | X-S1-P34 — Penutup S1 |
 | Pertemuan | **34 / 34** · Basis **4JP** |
-| Status | Naskah · sketch ditunda |
+| Status | Naskah humor · **3 sketch khusus Penutup S1** · Mimi syari |
 
 **Handout:** [X-S1-P34_penutup-s1-refleksi_siswa.md](./X-S1-P34_penutup-s1-refleksi_siswa.md)
 
@@ -20,6 +20,8 @@ Robi masuk dengan flashdisk dan senyum orang yang akan “merapikan hidup.” Ia
 Saya kembalikan file dari Recycle Bin. Dua G itu bukti ia menambal `title` dan listener. Tanpa luka, tidak ada perbaikan. Yang tersisa hanya klaim.
 
 > “Ini surat untuk dirimu di S2. Jangan merobek lampirannya.”
+
+![Portofolio “bersih” yang menghapus log & kartu status = surat tanpa lampiran; jejak gagal adalah bukti perbaikan](./assets/mimi-robi/p34-01-jangan-cuci-lampiran.jpg)
 
 ## Istilah dulu
 
@@ -53,6 +55,8 @@ Kami ganti:
 
 Itu jurnal. Yang tadi adalah iklan.
 
+![“Percaya diri” tanpa file = iklan; jurnal S1 butuh bukti AC, lembar, dan target S2](./assets/mimi-robi/p34-02-jurnal-bukti-bukan-iklan.jpg)
+
 ## Plot twist #1 — S2 di menit ke-12
 
 Setelah preview “halaman hidup,” Robi membuka tab MDN. `querySelectorAll`. `map`. Hampir `React`.
@@ -70,6 +74,8 @@ Robi membuat `project-s1-final-bersih/`. Menyalin hanya `index.html` yang “sud
 Di S2 ia tidak ingat AC 5. Halaman masih ada. Janji hilang.
 
 > “Arsip bukan folder piala. Arsip adalah folder kerja yang kamu izinkan untuk dikenang.”
+
+![Jangan curi pintu S2 di menit ke-12; arsip jujur = spek + kartu, bukan folder “final bersih” tanpa janji](./assets/mimi-robi/p34-03-bukan-pintu-s2-bukan-piala.jpg)
 
 ## Adegan 2 — surat yang tidak heroik
 
@@ -97,3 +103,6 @@ Empat blok. Empat outcome. Satu folder. P01 bilang masalah sebelum solusi. P34 b
 > **Semester yang ditutup dengan surat lebih kuat daripada semester yang dicuci sampai tidak kenal.**
 
 — **Mimi** 🐾
+
+- Ilustrasi: `assets/mimi-robi/p34-01` … `p34-03` (`.jpg`)
+- Visual Mimi: baju syari (standar project)
