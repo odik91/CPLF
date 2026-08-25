@@ -5,7 +5,7 @@
 |---|---|
 | Kode | X-S1-P32 — Uji Final DoD |
 | Pertemuan | **32 / 34** · Basis **4JP** |
-| Status | Naskah · sketch ditunda |
+| Status | Naskah humor · **3 sketch khusus Uji Final DoD** · Mimi syari |
 
 **Handout:** [X-S1-P32_project-s1-dod_siswa.md](./X-S1-P32_project-s1-dod_siswa.md)
 
@@ -18,6 +18,8 @@ Robi masuk kelas dengan wajah orang yang sudah menang. Membuka laptop. Langsung 
 Saya menunjuk papan: **P32 = garis akhir. P33 = panggung.**
 
 > "Panggung tidak menunggu kamu selesai renovasi."
+
+![P32 = garis akhir DoD; P33 = panggung — animasi dulu bukan renovasi sebelum selesai](./assets/mimi-robi/p32-01-garis-akhir-bukan-panggung.jpg)
 
 ## Istilah dulu
 
@@ -49,6 +51,8 @@ Robi menghapus baris AC 6 dari `spek.md`.
 
 Kami kembalikan AC 6. Satu baris listener diubah targetnya. Lima menit. Regresi fitur 1 lulus. Itu bugfix.
 
+![Menghapus AC dari spek ≠ bugfix; satu baris listener + regresi = perbaikan jujur](./assets/mimi-robi/p32-02-ac-dihapus-bukan-bugfix.jpg)
+
 ## Plot twist #1 — bugfix yang tumbuh
 
 Domain HTML: `title` masih "Info Kantin Kelas X P28." Robi berniat ubah. Lalu "sekalian" ganti `h2` jadi lebih puitis. Lalu "sekalian" tambah `nav`. Empat puluh menit. CSS ikut bergerak. Listener lama sempat putus.
@@ -62,6 +66,8 @@ Teman Sasa lulus 5 domain, kartu status kosong karena "tidak ada yang perlu ditu
 Setelah showcase, ditanya: "Kenapa `lang` pakai `en`?" Sasa tidak tahu — ia sudah lupa, dan tidak ada jejak.
 
 > "Kartu status bukan daftar kegagalan. Ia adalah peta keputusan. 'Saya sengaja tidak menambah nav karena spek tidak memintanya' lebih kuat daripada diam."
+
+![Bugfix kecil (<10 menit) vs renovasi; `kartu-status.md` = peta keputusan jujur](./assets/mimi-robi/p32-03-bugfix-kecil-kartu-jujur.jpg)
 
 ## Adegan 2 — garis yang terisi jujur
 
@@ -88,3 +94,6 @@ P28 checkpoint pertama. P30 antrian peer. P31 kesopanan. P32 garis resmi. Kartu 
 > **DoD yang jujur lebih kuat dari artefak yang "sempurna" karena AC-nya dihapus.**
 
 — **Mimi** 🐾
+
+- Ilustrasi: `assets/mimi-robi/p32-01` … `p32-03` (`.jpg`)
+- Visual Mimi: baju syari (standar project)
