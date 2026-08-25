@@ -27,6 +27,6 @@
 
 📘 = [materi pendukung guru](../../../materi-pendukung/base-2jp/kelas-x/semester-1/X-S1_Materi_Index.md) (pengetahuan · skrip live · etika — **bukan untuk siswa**)
 
-**Handout siswa & materi guru lengkap (siap sampaikan):** [Indeks materi ajar S1](../../../materi-ajar/base-2jp/kelas-x/semester-1/00_Index_Materi_Ajar.md) · RPP KBC *(path historis — folder `05-silabus/rpp-kbc/...` belum ada di repo)* · [BRG pendamping](../../../materi-ajar/jalur-kelanjutan/00_Index_Materi_Ajar_BRG.md)
+**Handout siswa & materi guru lengkap (siap sampaikan):** [Indeks materi ajar S1](../../../materi-ajar/base-2jp/kelas-x/semester-1/00_Index_Materi_Ajar.md) · [RPP KBC (arsip)](../../../../05-silabus/rpp-kbc/base-2jp/kelas-x/semester-1/00_Index_RPP_KBC.md) · [BRG pendamping](../../../materi-ajar/jalur-kelanjutan/00_Index_Materi_Ajar_BRG.md)
 
 [← Kelas X](../README.md) · [Semester 2 →](../semester-2/X-S2_Index.md)
