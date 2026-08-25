@@ -5,7 +5,7 @@
 |---|---|
 | Kode | X-S1-P29 — Peer review berdasar spek |
 | Pertemuan | **29 / 34** · Basis **4JP** |
-| Status | Naskah · sketch ditunda |
+| Status | Naskah humor · **3 sketch khusus Peer Review spek** · Mimi syari |
 
 **Handout:** [X-S1-P29_project-s1-peer-review_siswa.md](./X-S1-P29_project-s1-peer-review_siswa.md)
 
@@ -22,6 +22,8 @@ Hari ini Antenna — teman sebangku — duduk di kursinya. Robi langsung berdiri
 Antenna belum baca `spek.md`.
 
 Itu bukan **peer review**. Itu teater yang sutradaranya adalah pemilik panggung.
+
+![Pemilik mengarahkan klik dari belakang = teater, bukan peer review](./assets/mimi-robi/p29-01-bukan-teater-sutradara.jpg)
 
 ## Istilah dulu
 
@@ -59,6 +61,8 @@ Temuan:
 
 Itu kalimat yang bisa dibawa ke P30. “Bagus” tidak bisa.
 
+![“Bagus” tidak bisa dicentang; temuan = nomor AC + bukti yang kelihatan](./assets/mimi-robi/p29-02-bagus-bukan-bukti.jpg)
+
 ## Plot twist #1 — bandingkan toko sendiri
 
 Antenna punya brief kantin juga. Ia mulai:
@@ -84,6 +88,8 @@ Robi hampir menghapus AC 2 supaya lembar Antenna bersih.
 Aku:
 
 > “Itu pelintiran yang sama dengan P28. Temuan tidak dibunuh di spek. Temuan antri di `rencana-revisi.md`.”
+
+![Spek orang lain = opini; tangan di `script.js` orang = lewat batas — P30 milik pemilik](./assets/mimi-robi/p29-03-opini-bukan-tangan-gatal.jpg)
 
 ## Adegan 2 — dua kolom yang damai
 
@@ -118,3 +124,6 @@ Tangan gatal? Simpan untuk P30, di file sendiri.
 > **Review yang menolong adalah yang bisa dikerjakan besok, bukan yang meramaikan ego hari ini.**
 
 — **Mimi** 🐾
+
+- Ilustrasi: `assets/mimi-robi/p29-01` … `p29-03` (`.jpg`)
+- Visual Mimi: baju syari (standar project)
