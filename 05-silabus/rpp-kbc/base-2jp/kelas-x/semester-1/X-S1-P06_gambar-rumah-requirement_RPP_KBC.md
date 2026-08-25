@@ -2,7 +2,7 @@
 
 ## X-S1-P06 — Gambar Rumah & Requirement
 
-**Acuan kebijakan:** Panduan Kurikulum Berbasis Cinta Kemenag (6077/2025) · [Template Blok A–G](../../../../../05-silabus/05_RPP_KBC_Template_CPLF.md)
+**Acuan kebijakan:** Panduan Kurikulum Berbasis Cinta Kemenag (6077/2025) · [Template Blok A–G](../../../../../../05-silabus/05_RPP_KBC_Template_CPLF.md)
 
 > **Cara pakai:** Salin isi Blok A–G ke formulir RPP Dapodik/KMA madrasah. Isi **Madrasah**, **Nama guru**, **Tanggal**, **Kelas** (rombel) di Blok A.
 
@@ -22,7 +22,7 @@
 | Alokasi waktu | 2 JP = 90 menit |
 | Unit silabus | X1.3 |
 | Model pembelajaran CPLF | Experience → Trap → Clarify → Concept → Practice → Reflect → Transfer |
-| Modul acuan | [X-S1-P06_gambar-rumah-requirement.md](../../../../../06-modules/kelas-x/semester-1/X-S1-P06_gambar-rumah-requirement.md) |
+| Modul acuan | [X-S1-P06_gambar-rumah-requirement.md](../../../../../../06-modules/base-2jp/kelas-x/semester-1/X-S1-P06_gambar-rumah-requirement.md) |
 
 ## Blok B — Capaian (Kurikulum Merdeka + CPLF)
 
@@ -54,7 +54,7 @@
 | **Pertanyaan refleksi siswa** | _(dari exit ticket / guiding questions di bawah)_ |
 | **Bukti sikap / KBC** | Exit ticket · lembar kerja · jurnal refleksi |
 
-**Verifikasi:** [Mapping KBC §6](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md#6-titik-kait-materi-cplf--usulan-dalil-al-quran--sunnah)
+**Verifikasi:** [Mapping KBC §6](../../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md#6-titik-kait-materi-cplf--usulan-dalil-al-quran--sunnah)
 
 ## Blok E — Langkah kegiatan (sinkron modul CPLF)
 
@@ -100,7 +100,7 @@ _Gabungan fase CPLF agar mudah ditempel ke kolom RPP KMA/Dapodik._
 
 | Jenis | Instrumen | Rubrik / catatan |
 |-------|-----------|------------------|
-| Formatif | Diskusi · observasi · lembar kerja | [Rubrik formatif unit](../../../../../09-rubrik/09_Rubrik_Formatif_Unit.md) |
+| Formatif | Diskusi · observasi · lembar kerja | [Rubrik formatif unit](../../../../../../09-rubrik/09_Rubrik_Formatif_Unit.md) |
 | Sikap KBC | Refleksi · exit ticket | Blok D — bukti sikap |
 
 **Exit ticket (modul):**
@@ -112,8 +112,8 @@ _(lihat modul)_
 | Field | Isi |
 |-------|-----|
 | **BRG pertemuan ini** | _Tidak ada BRG wajib pertemuan ini._ |
-| **Gate semester** | [Kaji ulang S1–S6](../../../../../05-silabus/05_Kaji_Ulang_Jalur_S1-S6_dan_Gap.md) |
-| **Panduan jalur** | [BRG Index](../../../../../06-modules/materi-pendukung/jalur-kelanjutan/00_Index_Jalur_Kelanjutan.md) |
+| **Gate semester** | [Kaji ulang S1–S6](../../../../../../05-silabus/05_Kaji_Ulang_Jalur_S1-S6_dan_Gap.md) |
+| **Panduan jalur** | [BRG Index](../../../../../../06-modules/materi-pendukung/jalur-kelanjutan/00_Index_Jalur_Kelanjutan.md) |
 
 ## Media & sumber belajar
 
@@ -121,9 +121,9 @@ _(lihat modul)_
 
 ## Lampiran CPLF (distribusi kelas)
 
-- [Handout siswa](../../../../../06-modules/materi-ajar/kelas-x/semester-1/X-S1-P06_gambar-rumah-requirement.md_siswa.md)
-- [Materi guru lengkap](../../../../../06-modules/materi-ajar/kelas-x/semester-1/X-S1-P06_gambar-rumah-requirement.md_guru.md)
-- [Materi pendukung guru](../../../../../06-modules/materi-pendukung/kelas-x/semester-1/X-S1-P06_gambar-rumah-requirement.md)
+- [Handout siswa](../../../../../../06-modules/materi-ajar/base-2jp/kelas-x/semester-1/X-S1-P06_gambar-rumah-requirement_siswa.md)
+- [Materi guru lengkap](../../../../../../06-modules/materi-ajar/base-2jp/kelas-x/semester-1/X-S1-P06_gambar-rumah-requirement_guru.md)
+- [Materi pendukung guru](../../../../../../06-modules/materi-pendukung/base-2jp/kelas-x/semester-1/X-S1-P06_gambar-rumah-requirement.md)
 
 ---
 

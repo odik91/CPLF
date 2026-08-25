@@ -1,4 +1,4 @@
-# Indeks RPP KBC — kelas-x/semester-1
+# Indeks RPP KBC — base-2jp · kelas-x/semester-1
 
 | Pertemuan | RPP |
 |-----------|-----|

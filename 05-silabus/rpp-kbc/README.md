@@ -7,17 +7,19 @@
 
 | Item | Keterangan |
 |------|------------|
-| `kelas-x/semester-*/` … `kelas-xii/` | **Satu file RPP per pertemuan** modul CPLF (`*_RPP_KBC.md`) |
-| `00_Index_Master_RPP_KBC.md` | Indeks semua semester |
-| `scripts/generate_rpp_kbc.py` | Regenerasi dari modul `06-modules/kelas-*/` |
+| `base-4jp/kelas-*/semester-*/` | **Aktif (4 JP)** — RPP dari modul `06-modules/base-4jp/` |
+| `base-2jp/kelas-*/semester-*/` | **Arsip (2 JP)** — RPP dari modul `06-modules/base-2jp/` |
+| `kelas-x/semester-*/` … `kelas-xii/` | Legacy XI–XII (2 JP) · modul `06-modules/kelas-*/` |
+| `00_Index_Master_RPP_KBC.md` | Indeks semua semester & jalur |
+| `scripts/generate_rpp_kbc.py` | Regenerasi otomatis (base-4jp + base-2jp + legacy) |
 
 ## Hubungan dokumen
 
 ```text
-Modul pertemuan (06-modules/kelas-*)  → timeline, trap, capaian
-kbc_dalil_map.py                      → Blok C–D (Panca Cinta, dalil usulan)
-materi-ajar/*                         → lampiran handout siswa & guru
-05_RPP_KBC_Lampiran_Terisi_Penuh.md   → 20 pertemuan flagship (narasi lebih dalam, opsional)
+Modul pertemuan (06-modules/base-4jp|base-2jp|kelas-*)  → timeline, trap, capaian
+kbc_dalil_map.py                                         → Blok C–D (Panca Cinta, dalil usulan)
+materi-ajar/base-4jp|base-2jp/*                          → lampiran handout siswa & guru
+05_RPP_KBC_Lampiran_Terisi_Penuh.md                      → 20 pertemuan flagship (narasi lebih dalam, opsional)
 ```
 
 ## Regenerasi

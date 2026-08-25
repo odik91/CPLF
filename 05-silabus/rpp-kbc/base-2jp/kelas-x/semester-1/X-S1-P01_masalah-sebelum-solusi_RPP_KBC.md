@@ -2,7 +2,7 @@
 
 ## X-S1-P01 — Masalah Sebelum Solusi
 
-**Acuan kebijakan:** Panduan Kurikulum Berbasis Cinta Kemenag (6077/2025) · [Template Blok A–G](../../../../../05-silabus/05_RPP_KBC_Template_CPLF.md)
+**Acuan kebijakan:** Panduan Kurikulum Berbasis Cinta Kemenag (6077/2025) · [Template Blok A–G](../../../../../../05-silabus/05_RPP_KBC_Template_CPLF.md)
 
 > **Cara pakai:** Salin isi Blok A–G ke formulir RPP Dapodik/KMA madrasah. Isi **Madrasah**, **Nama guru**, **Tanggal**, **Kelas** (rombel) di Blok A.
 
@@ -22,7 +22,7 @@
 | Alokasi waktu | 2 JP = **90 menit** |
 | Unit silabus | X1.1 |
 | Model pembelajaran CPLF | Experience → Trap → Clarify → Concept → Practice → Reflect → Transfer |
-| Modul acuan | [X-S1-P01_masalah-sebelum-solusi.md](../../../../../06-modules/kelas-x/semester-1/X-S1-P01_masalah-sebelum-solusi.md) |
+| Modul acuan | [X-S1-P01_masalah-sebelum-solusi.md](../../../../../../06-modules/base-2jp/kelas-x/semester-1/X-S1-P01_masalah-sebelum-solusi.md) |
 
 ## Blok B — Capaian (Kurikulum Merdeka + CPLF)
 
@@ -33,7 +33,7 @@
 | Mental model | MM-01, MM-00 (pengantar) |
 | Experience / PRJ | — (setup tahun ajaran) |
 | **Learning transformation** | Dari “langsung cari solusi/coding” → “berhenti sejenak memahami & membatasi masalah.” |
-| Aspek formatif hari ini | Fokus: **REA**, **OBS** — lihat [09_Rubrik_Formatif_Unit.md](../../../09-rubrik/09_Rubrik_Formatif_Unit.md) |
+| Aspek formatif hari ini | Fokus: **REA**, **OBS** — lihat [09_Rubrik_Formatif_Unit.md](../../../../09-rubrik/09_Rubrik_Formatif_Unit.md) |
 
 ## Blok C — Kurikulum Berbasis Cinta
 
@@ -54,23 +54,26 @@
 | **Pertanyaan refleksi siswa** | _(dari exit ticket / guiding questions di bawah)_ |
 | **Bukti sikap / KBC** | Exit ticket · lembar kerja · jurnal refleksi |
 
-**Verifikasi:** [Mapping KBC §6](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md#6-titik-kait-materi-cplf--usulan-dalil-al-quran--sunnah)
+**Verifikasi:** [Mapping KBC §6](../../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md#6-titik-kait-materi-cplf--usulan-dalil-al-quran--sunnah)
 
 ## Blok E — Langkah kegiatan (sinkron modul CPLF)
 
 | Menit | Fase | Aktivitas | Catatan guru |
 |-------|------|-----------|--------------|
-| 0–5 | Opening | Do Now: tulis 1 masalah di kelas/MA yang mengganggu (sticky note) | Kumpulkan tanpa komentar |
-| 5–15 | Hook | Tampilkan 2 “solusi” absurd untuk masalah antre kantin (mis. “beli helikopter”) — tanya: kenapa gagal? | Jangan evaluasi ide dulu |
-| 15–30 | Experience | Kelompok 3–4: pilih 1 masalah dari sticky → **hanya** tulis: siapa terdampak? batas masalah? apa **bukan** tugas kita? | Timer 12 menit |
-| 30–40 | Trap + Q | Trap: siswa langsung usul app/web. Tanya: “Apa masalah sebenarnya? Butuh teknologi?” | Serang asumsi “solusi = app” |
-| 40–50 | Clarify | Protokol: *Pahami sebelum menyimpulan.* Bandingkan 2 kelompok — beda batas masalah? | Tulis di papan |
-| 50–60 | Concept | **Problem framing** · scope · stakeholder | Belum sebut HTML/JS |
-| 60–75 | Practice | Template 1 halaman: Masalah · Siapa · Batas · Pertanyaan terbuka | Kumpulkan foto/PDF |
-| 75–85 | Reflect | “Kapan saya pernah salah solusi karena buru-buru?” | 2 kalimat jurnal |
-| 85–90 | Transfer | Hoaks di WA: solusi share tanpa cek fakta = sama | Preview P02 literasi |
+| 0–20 | **Orientation** | Learning Compass + kenalan CPLF (bacaan Mimi–Robi bag. 1–3) · transformasi · rule kelas | **Bukan** langsung diskusi |
+| 20–30 | **Scaffold** | I do: guru model **live** framing antre kantin (think-aloud) · We do: 1 kotak template bersama | Siswa lihat contoh sebelum kerja sendiri |
+| 30–35 | Do Now | Sticky: 1 masalah nyata (setelah tahu apa yang diminta) | Kumpulkan tanpa komentar |
+| 35–45 | Hook | 2 solusi absurd antre kantin — kenapa gagal? | Jangan evaluasi ide dulu |
+| 45–58 | Experience | Kelompok 3–4: siapa terdampak? batas? apa **bukan** tugas kita? | Timer 12 menit |
+| 58–65 | Trap + Q | Trap: langsung usul app/web | Challenge asumsi solusi prematur |
+| 65–72 | Clarify | *Pahami sebelum menyimpulan.* Bandingkan 2 kelompok | Tulis di papan |
+| 72–80 | Concept | Problem framing · scope · stakeholder | Belum HTML/JS |
+| 80–88 | Practice | Template 1 halaman | Kumpulkan foto/PDF |
+| 88–90 | Exit | Exit ticket + preview P02 | Reflect singkat di kelas atau PR |
 
-**Adaptasi 1 JP (45 menit):** Opening 3’ · Experience 15’ · Clarify 10’ · Practice 12’ · Exit 5’.
+**Adaptasi 1 JP (45 menit):** Orientation 8’ · Scaffold 7’ · Experience 12’ · Clarify 8’ · Practice 8’ · Exit 2’.
+
+**Rujukan:** [03_Learning_Compass_CPLF.md](../../../03-framework/03_Learning_Compass_CPLF.md)
 
 **Cognitive Trap (catatan KBC — ramah anak):**
 
@@ -91,31 +94,32 @@ _Gabungan fase CPLF agar mudah ditempel ke kolom RPP KMA/Dapodik._
 
 | Menit | Fase | Aktivitas siswa |
 |-------|------|------------------|
-| 0–5 | Opening | Do Now: tulis 1 masalah di kelas/MA yang mengganggu (sticky note) |
-| 5–15 | Hook | Tampilkan 2 “solusi” absurd untuk masalah antre kantin (mis. “beli helikopter”) — tanya: kenapa gagal? |
+| 0–20 | **Orientation** | Learning Compass + kenalan CPLF (bacaan Mimi–Robi bag. 1–3) · transformasi · rule kelas |
+| 30–35 | Do Now | Sticky: 1 masalah nyata (setelah tahu apa yang diminta) |
+| 35–45 | Hook | 2 solusi absurd antre kantin — kenapa gagal? |
 
 **Kegiatan inti**
 
 | Menit | Fase | Aktivitas siswa |
 |-------|------|------------------|
-| 15–30 | Experience | Kelompok 3–4: pilih 1 masalah dari sticky → **hanya** tulis: siapa terdampak? batas masalah? apa **bukan** tugas kita? |
-| 30–40 | Trap + Q | Trap: siswa langsung usul app/web. Tanya: “Apa masalah sebenarnya? Butuh teknologi?” |
-| 40–50 | Clarify | Protokol: *Pahami sebelum menyimpulan.* Bandingkan 2 kelompok — beda batas masalah? |
-| 50–60 | Concept | **Problem framing** · scope · stakeholder |
-| 60–75 | Practice | Template 1 halaman: Masalah · Siapa · Batas · Pertanyaan terbuka |
+| 20–30 | **Scaffold** | I do: guru model **live** framing antre kantin (think-aloud) · We do: 1 kotak template bersama |
+| 45–58 | Experience | Kelompok 3–4: siapa terdampak? batas? apa **bukan** tugas kita? |
+| 58–65 | Trap + Q | Trap: langsung usul app/web |
+| 65–72 | Clarify | *Pahami sebelum menyimpulan.* Bandingkan 2 kelompok |
+| 72–80 | Concept | Problem framing · scope · stakeholder |
+| 80–88 | Practice | Template 1 halaman |
 
 **Kegiatan penutup**
 
 | Menit | Fase | Aktivitas siswa |
 |-------|------|------------------|
-| 75–85 | Reflect | “Kapan saya pernah salah solusi karena buru-buru?” |
-| 85–90 | Transfer | Hoaks di WA: solusi share tanpa cek fakta = sama |
+| 88–90 | Exit | Exit ticket + preview P02 |
 
 ## Blok F — Penilaian / asesmen
 
 | Jenis | Instrumen | Rubrik / catatan |
 |-------|-----------|------------------|
-| Formatif | Diskusi · observasi · lembar kerja | [Rubrik formatif unit](../../../../../09-rubrik/09_Rubrik_Formatif_Unit.md) |
+| Formatif | Diskusi · observasi · lembar kerja | [Rubrik formatif unit](../../../../../../09-rubrik/09_Rubrik_Formatif_Unit.md) |
 | Sikap KBC | Refleksi · exit ticket | Blok D — bukti sikap |
 
 **Exit ticket (modul):**
@@ -128,8 +132,8 @@ _Gabungan fase CPLF agar mudah ditempel ke kolom RPP KMA/Dapodik._
 | Field | Isi |
 |-------|-----|
 | **BRG pertemuan ini** | _Tidak ada BRG wajib pertemuan ini._ |
-| **Gate semester** | [Kaji ulang S1–S6](../../../../../05-silabus/05_Kaji_Ulang_Jalur_S1-S6_dan_Gap.md) |
-| **Panduan jalur** | [BRG Index](../../../../../06-modules/materi-pendukung/jalur-kelanjutan/00_Index_Jalur_Kelanjutan.md) |
+| **Gate semester** | [Kaji ulang S1–S6](../../../../../../05-silabus/05_Kaji_Ulang_Jalur_S1-S6_dan_Gap.md) |
+| **Panduan jalur** | [BRG Index](../../../../../../06-modules/materi-pendukung/jalur-kelanjutan/00_Index_Jalur_Kelanjutan.md) |
 
 ## Media & sumber belajar
 
@@ -138,9 +142,9 @@ _Gabungan fase CPLF agar mudah ditempel ke kolom RPP KMA/Dapodik._
 
 ## Lampiran CPLF (distribusi kelas)
 
-- [Handout siswa](../../../../../06-modules/materi-ajar/kelas-x/semester-1/X-S1-P01_masalah-sebelum-solusi.md_siswa.md)
-- [Materi guru lengkap](../../../../../06-modules/materi-ajar/kelas-x/semester-1/X-S1-P01_masalah-sebelum-solusi.md_guru.md)
-- [Materi pendukung guru](../../../../../06-modules/materi-pendukung/kelas-x/semester-1/X-S1-P01_masalah-sebelum-solusi.md)
+- [Handout siswa](../../../../../../06-modules/materi-ajar/base-2jp/kelas-x/semester-1/X-S1-P01_masalah-sebelum-solusi_siswa.md)
+- [Materi guru lengkap](../../../../../../06-modules/materi-ajar/base-2jp/kelas-x/semester-1/X-S1-P01_masalah-sebelum-solusi_guru.md)
+- [Materi pendukung guru](../../../../../../06-modules/materi-pendukung/base-2jp/kelas-x/semester-1/X-S1-P01_masalah-sebelum-solusi.md)
 
 ---
 

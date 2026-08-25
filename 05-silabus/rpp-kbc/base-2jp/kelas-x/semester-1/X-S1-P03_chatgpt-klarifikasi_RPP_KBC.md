@@ -2,7 +2,7 @@
 
 ## X-S1-P03 — ChatGPT Salah & Protokol Klarifikasi
 
-**Acuan kebijakan:** Panduan Kurikulum Berbasis Cinta Kemenag (6077/2025) · [Template Blok A–G](../../../../../05-silabus/05_RPP_KBC_Template_CPLF.md)
+**Acuan kebijakan:** Panduan Kurikulum Berbasis Cinta Kemenag (6077/2025) · [Template Blok A–G](../../../../../../05-silabus/05_RPP_KBC_Template_CPLF.md)
 
 > **Cara pakai:** Salin isi Blok A–G ke formulir RPP Dapodik/KMA madrasah. Isi **Madrasah**, **Nama guru**, **Tanggal**, **Kelas** (rombel) di Blok A.
 
@@ -22,7 +22,7 @@
 | Alokasi waktu | 2 JP = 90 menit |
 | Unit silabus | X1.1 |
 | Model pembelajaran CPLF | Experience → Trap → Clarify → Concept → Practice → Reflect → Transfer |
-| Modul acuan | [X-S1-P03_chatgpt-klarifikasi.md](../../../../../06-modules/kelas-x/semester-1/X-S1-P03_chatgpt-klarifikasi.md) |
+| Modul acuan | [X-S1-P03_chatgpt-klarifikasi.md](../../../../../../06-modules/base-2jp/kelas-x/semester-1/X-S1-P03_chatgpt-klarifikasi.md) |
 
 ## Blok B — Capaian (Kurikulum Merdeka + CPLF)
 
@@ -54,20 +54,25 @@
 | **Pertanyaan refleksi siswa** | _(dari exit ticket / guiding questions di bawah)_ |
 | **Bukti sikap / KBC** | Exit ticket · lembar kerja · jurnal refleksi |
 
-**Verifikasi:** [Mapping KBC §6](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md#6-titik-kait-materi-cplf--usulan-dalil-al-quran--sunnah)
+**Verifikasi:** [Mapping KBC §6](../../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md#6-titik-kait-materi-cplf--usulan-dalil-al-quran--sunnah)
 
 ## Blok E — Langkah kegiatan (sinkron modul CPLF)
 
-| Menit | Fase | Aktivitas |
-|-------|------|-----------|
-| 0–5 | Opening | Tulis di papan moto: *Jangan cepat percaya. Jangan cepat menolak. Pahami dulu.* |
-| 5–22 | Experience | Tampilkan jawaban AI plausibel tapi salah (HTML= bahasa pemrograman / fakta ringan) |
-| 22–32 | Trap | Bomb: “AI salah — siapa salah?” Debate 3 menit |
-| 32–42 | Clarify | Rantai 4 langkah Prinsip Bernalar di papan; latih 1x dengan jawaban AI |
-| 42–52 | Concept | Klarifikasi · AI = partner berpikir · bukti > opini |
-| 52–70 | Practice | Pasangan: 1 klaim AI (disiapkan guru) → worksheet klarifikasi 4 langkah |
-| 70–85 | Reflect | Kapan pernah share info WA tanpa cek? |
-| 85–90 | Exit | 1 pertanyaan klarifikasi yang akan selalu kutanyakan |
+| Menit | Fase | Aktivitas | Catatan guru |
+|-------|------|-----------|--------------|
+| 0–5 | **Orientation** | Learning Compass · moto MM-00 di papan · recall P02 (input) | Transformasi 1 kalimat |
+| 5–12 | **Scaffold** | I do: guru tampilkan 1 klaim AI · think-aloud isi **Klaim** + **Alasan** saja · We do: kelas usul 1 bukti | Model sebelum worksheet |
+| 12–25 | Experience | Lanjut jawaban AI plausibel-salah (HTML = bahasa pemrograman / fakta ringan) | Baca kalimat per kalimat |
+| 25–35 | Trap | Bomb: “AI salah — siapa salah?” Debate 3 menit | Nuansa: prompt / verifikasi / model |
+| 35–45 | Clarify | Rantai 4 langkah lengkap di papan; latih 1× | TTS per langkah |
+| 45–55 | Concept | Klarifikasi · AI = partner · bukti > opini | |
+| 55–75 | Practice | Pasangan: 1 klaim → worksheet 4 langkah | You do |
+| 75–85 | Reflect | Share WA tanpa cek? + AI Policy kelas | |
+| 85–90 | Exit | 1 pertanyaan klarifikasi pribadi | |
+
+**Adaptasi 1 JP:** Orientation 3’ · Scaffold 5’ · Experience 10’ · Clarify 8’ · Practice 14’ · Exit 5’.
+
+**Rujukan:** [03_Learning_Compass_CPLF.md](../../../03-framework/03_Learning_Compass_CPLF.md)
 
 ### Blok E′ — Ringkasan untuk formulir Kemenag (Pendahuluan · Inti · Penutup)
 
@@ -77,30 +82,31 @@ _Gabungan fase CPLF agar mudah ditempel ke kolom RPP KMA/Dapodik._
 
 | Menit | Fase | Aktivitas siswa |
 |-------|------|------------------|
-| 0–5 | Opening | Tulis di papan moto: *Jangan cepat percaya. Jangan cepat menolak. Pahami dulu.* |
+| 0–5 | **Orientation** | Learning Compass · moto MM-00 di papan · recall P02 (input) |
 
 **Kegiatan inti**
 
 | Menit | Fase | Aktivitas siswa |
 |-------|------|------------------|
-| 5–22 | Experience | Tampilkan jawaban AI plausibel tapi salah (HTML= bahasa pemrograman / fakta ringan) |
-| 22–32 | Trap | Bomb: “AI salah — siapa salah?” Debate 3 menit |
-| 32–42 | Clarify | Rantai 4 langkah Prinsip Bernalar di papan; latih 1x dengan jawaban AI |
-| 42–52 | Concept | Klarifikasi · AI = partner berpikir · bukti > opini |
-| 52–70 | Practice | Pasangan: 1 klaim AI (disiapkan guru) → worksheet klarifikasi 4 langkah |
+| 5–12 | **Scaffold** | I do: guru tampilkan 1 klaim AI · think-aloud isi **Klaim** + **Alasan** saja · We do: kelas usul 1 bukti |
+| 12–25 | Experience | Lanjut jawaban AI plausibel-salah (HTML = bahasa pemrograman / fakta ringan) |
+| 25–35 | Trap | Bomb: “AI salah — siapa salah?” Debate 3 menit |
+| 35–45 | Clarify | Rantai 4 langkah lengkap di papan; latih 1× |
+| 45–55 | Concept | Klarifikasi · AI = partner · bukti > opini |
+| 55–75 | Practice | Pasangan: 1 klaim → worksheet 4 langkah |
 
 **Kegiatan penutup**
 
 | Menit | Fase | Aktivitas siswa |
 |-------|------|------------------|
-| 70–85 | Reflect | Kapan pernah share info WA tanpa cek? |
-| 85–90 | Exit | 1 pertanyaan klarifikasi yang akan selalu kutanyakan |
+| 75–85 | Reflect | Share WA tanpa cek? + AI Policy kelas |
+| 85–90 | Exit | 1 pertanyaan klarifikasi pribadi |
 
 ## Blok F — Penilaian / asesmen
 
 | Jenis | Instrumen | Rubrik / catatan |
 |-------|-----------|------------------|
-| Formatif | Diskusi · observasi · lembar kerja | [Rubrik formatif unit](../../../../../09-rubrik/09_Rubrik_Formatif_Unit.md) |
+| Formatif | Diskusi · observasi · lembar kerja | [Rubrik formatif unit](../../../../../../09-rubrik/09_Rubrik_Formatif_Unit.md) |
 | Sikap KBC | Refleksi · exit ticket | Blok D — bukti sikap |
 
 **Exit ticket (modul):**
@@ -112,8 +118,8 @@ _(lihat modul)_
 | Field | Isi |
 |-------|-----|
 | **BRG pertemuan ini** | _Tidak ada BRG wajib pertemuan ini._ |
-| **Gate semester** | [Kaji ulang S1–S6](../../../../../05-silabus/05_Kaji_Ulang_Jalur_S1-S6_dan_Gap.md) |
-| **Panduan jalur** | [BRG Index](../../../../../06-modules/materi-pendukung/jalur-kelanjutan/00_Index_Jalur_Kelanjutan.md) |
+| **Gate semester** | [Kaji ulang S1–S6](../../../../../../05-silabus/05_Kaji_Ulang_Jalur_S1-S6_dan_Gap.md) |
+| **Panduan jalur** | [BRG Index](../../../../../../06-modules/materi-pendukung/jalur-kelanjutan/00_Index_Jalur_Kelanjutan.md) |
 
 ## Media & sumber belajar
 
@@ -121,9 +127,9 @@ _(lihat modul)_
 
 ## Lampiran CPLF (distribusi kelas)
 
-- [Handout siswa](../../../../../06-modules/materi-ajar/kelas-x/semester-1/X-S1-P03_chatgpt-klarifikasi.md_siswa.md)
-- [Materi guru lengkap](../../../../../06-modules/materi-ajar/kelas-x/semester-1/X-S1-P03_chatgpt-klarifikasi.md_guru.md)
-- [Materi pendukung guru](../../../../../06-modules/materi-pendukung/kelas-x/semester-1/X-S1-P03_chatgpt-klarifikasi.md)
+- [Handout siswa](../../../../../../06-modules/materi-ajar/base-2jp/kelas-x/semester-1/X-S1-P03_chatgpt-klarifikasi_siswa.md)
+- [Materi guru lengkap](../../../../../../06-modules/materi-ajar/base-2jp/kelas-x/semester-1/X-S1-P03_chatgpt-klarifikasi_guru.md)
+- [Materi pendukung guru](../../../../../../06-modules/materi-pendukung/base-2jp/kelas-x/semester-1/X-S1-P03_chatgpt-klarifikasi.md)
 
 ---
 

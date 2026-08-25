@@ -2,7 +2,7 @@
 
 ## X-S1-P04 — ROBI Robot Mie & Algoritma
 
-**Acuan kebijakan:** Panduan Kurikulum Berbasis Cinta Kemenag (6077/2025) · [Template Blok A–G](../../../../../05-silabus/05_RPP_KBC_Template_CPLF.md)
+**Acuan kebijakan:** Panduan Kurikulum Berbasis Cinta Kemenag (6077/2025) · [Template Blok A–G](../../../../../../05-silabus/05_RPP_KBC_Template_CPLF.md)
 
 > **Cara pakai:** Salin isi Blok A–G ke formulir RPP Dapodik/KMA madrasah. Isi **Madrasah**, **Nama guru**, **Tanggal**, **Kelas** (rombel) di Blok A.
 
@@ -22,7 +22,7 @@
 | Alokasi waktu | 2 JP = 90 menit |
 | Unit silabus | X1.2 |
 | Model pembelajaran CPLF | Experience → Trap → Clarify → Concept → Practice → Reflect → Transfer |
-| Modul acuan | [X-S1-P04_robot-mie-algoritma.md](../../../../../06-modules/kelas-x/semester-1/X-S1-P04_robot-mie-algoritma.md) |
+| Modul acuan | [X-S1-P04_robot-mie-algoritma.md](../../../../../../06-modules/base-2jp/kelas-x/semester-1/X-S1-P04_robot-mie-algoritma.md) |
 
 ## Blok B — Capaian (Kurikulum Merdeka + CPLF)
 
@@ -54,22 +54,25 @@
 | **Pertanyaan refleksi siswa** | _(dari exit ticket / guiding questions di bawah)_ |
 | **Bukti sikap / KBC** | Exit ticket · lembar kerja · jurnal refleksi |
 
-**Verifikasi:** [Mapping KBC §6](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md#6-titik-kait-materi-cplf--usulan-dalil-al-quran--sunnah)
+**Verifikasi:** [Mapping KBC §6](../../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md#6-titik-kait-materi-cplf--usulan-dalil-al-quran--sunnah)
 
 ## Blok E — Langkah kegiatan (sinkron modul CPLF)
 
-| Menit | Fase | Aktivitas |
-|-------|------|-----------|
-| 0–5 | Opening | ROBI muncul — recap “masalah sebelum solusi” |
-| 5–22 | Experience | ROBI masak mie (bungkus ikut) — dramatisasi |
-| 22–35 | Trap + Q | Debate: ROBI patuh — kenapa gagal? |
-| 35–45 | Clarify | Tulis langkah ROBI vs langkah manusia side-by-side |
-| 45–55 | Concept | **Algoritma** · urutan · eksplisit |
-| 55–75 | Practice | Kelompok: algoritma “buat teh” / “piket kelas” 8 langkah; teman = ROBI literal |
-| 75–85 | Reflect | Langkah implisit apa yang sering ketinggalan? |
-| 85–90 | Exit | 1 langkah yang wajib ditulis eksplisit |
+| Menit | Fase | Aktivitas | Catatan guru |
+|-------|------|-----------|--------------|
+| 0–5 | **Orientation** | Learning Compass · ROBI muncul · recap P01–P03 (1 kalimat tiap) | Transformasi hari ini diucapkan |
+| 5–12 | **Scaffold** | I do: guru tulis 3 langkah “buat teh” **implisit** vs versi **eksplisit** side-by-side · We do: kelas tambah 1 langkah yang hilang | Model sebelum dramatisasi mie |
+| 12–25 | Experience | ROBI masak mie (bungkus ikut) — dramatisasi | Props / gambar |
+| 25–38 | Trap + Q | Debate: ROBI patuh — kenapa gagal? | Serang asumsi “mesin paham maksud” |
+| 38–48 | Clarify | Langkah ROBI vs manusia di papan | |
+| 48–58 | Concept | **Algoritma** · urutan · eksplisit | Pertama kali sebut istilah |
+| 58–78 | Practice | Kelompok: algoritma teh/piket 8 langkah; teman = ROBI literal | You do |
+| 78–85 | Reflect | Langkah implisit yang sering ketinggalan? | |
+| 85–90 | Exit | 1 langkah wajib ditulis eksplisit | |
 
-**Adaptasi 1 JP:** Kurangi practice — 6 langkah saja.
+**Adaptasi 1 JP:** Orientation 3’ · Scaffold 5’ · Experience 10’ · Clarify 7’ · Practice 15’ · Exit 5’.
+
+**Rujukan:** [03_Learning_Compass_CPLF.md](../../../03-framework/03_Learning_Compass_CPLF.md)
 
 **Guiding questions:**
 
@@ -85,30 +88,31 @@ _Gabungan fase CPLF agar mudah ditempel ke kolom RPP KMA/Dapodik._
 
 | Menit | Fase | Aktivitas siswa |
 |-------|------|------------------|
-| 0–5 | Opening | ROBI muncul — recap “masalah sebelum solusi” |
+| 0–5 | **Orientation** | Learning Compass · ROBI muncul · recap P01–P03 (1 kalimat tiap) |
 
 **Kegiatan inti**
 
 | Menit | Fase | Aktivitas siswa |
 |-------|------|------------------|
-| 5–22 | Experience | ROBI masak mie (bungkus ikut) — dramatisasi |
-| 22–35 | Trap + Q | Debate: ROBI patuh — kenapa gagal? |
-| 35–45 | Clarify | Tulis langkah ROBI vs langkah manusia side-by-side |
-| 45–55 | Concept | **Algoritma** · urutan · eksplisit |
-| 55–75 | Practice | Kelompok: algoritma “buat teh” / “piket kelas” 8 langkah; teman = ROBI literal |
+| 5–12 | **Scaffold** | I do: guru tulis 3 langkah “buat teh” **implisit** vs versi **eksplisit** side-by-side · We do: kelas tambah 1 langkah yang hilang |
+| 12–25 | Experience | ROBI masak mie (bungkus ikut) — dramatisasi |
+| 25–38 | Trap + Q | Debate: ROBI patuh — kenapa gagal? |
+| 38–48 | Clarify | Langkah ROBI vs manusia di papan |
+| 48–58 | Concept | **Algoritma** · urutan · eksplisit |
+| 58–78 | Practice | Kelompok: algoritma teh/piket 8 langkah; teman = ROBI literal |
 
 **Kegiatan penutup**
 
 | Menit | Fase | Aktivitas siswa |
 |-------|------|------------------|
-| 75–85 | Reflect | Langkah implisit apa yang sering ketinggalan? |
-| 85–90 | Exit | 1 langkah yang wajib ditulis eksplisit |
+| 78–85 | Reflect | Langkah implisit yang sering ketinggalan? |
+| 85–90 | Exit | 1 langkah wajib ditulis eksplisit |
 
 ## Blok F — Penilaian / asesmen
 
 | Jenis | Instrumen | Rubrik / catatan |
 |-------|-----------|------------------|
-| Formatif | Diskusi · observasi · lembar kerja | [Rubrik formatif unit](../../../../../09-rubrik/09_Rubrik_Formatif_Unit.md) |
+| Formatif | Diskusi · observasi · lembar kerja | [Rubrik formatif unit](../../../../../../09-rubrik/09_Rubrik_Formatif_Unit.md) |
 | Sikap KBC | Refleksi · exit ticket | Blok D — bukti sikap |
 
 **Exit ticket (modul):**
@@ -120,8 +124,8 @@ _(lihat modul)_
 | Field | Isi |
 |-------|-----|
 | **BRG pertemuan ini** | _Tidak ada BRG wajib pertemuan ini._ |
-| **Gate semester** | [Kaji ulang S1–S6](../../../../../05-silabus/05_Kaji_Ulang_Jalur_S1-S6_dan_Gap.md) |
-| **Panduan jalur** | [BRG Index](../../../../../06-modules/materi-pendukung/jalur-kelanjutan/00_Index_Jalur_Kelanjutan.md) |
+| **Gate semester** | [Kaji ulang S1–S6](../../../../../../05-silabus/05_Kaji_Ulang_Jalur_S1-S6_dan_Gap.md) |
+| **Panduan jalur** | [BRG Index](../../../../../../06-modules/materi-pendukung/jalur-kelanjutan/00_Index_Jalur_Kelanjutan.md) |
 
 ## Media & sumber belajar
 
@@ -129,9 +133,9 @@ _(lihat modul)_
 
 ## Lampiran CPLF (distribusi kelas)
 
-- [Handout siswa](../../../../../06-modules/materi-ajar/kelas-x/semester-1/X-S1-P04_robot-mie-algoritma.md_siswa.md)
-- [Materi guru lengkap](../../../../../06-modules/materi-ajar/kelas-x/semester-1/X-S1-P04_robot-mie-algoritma.md_guru.md)
-- [Materi pendukung guru](../../../../../06-modules/materi-pendukung/kelas-x/semester-1/X-S1-P04_robot-mie-algoritma.md)
+- [Handout siswa](../../../../../../06-modules/materi-ajar/base-2jp/kelas-x/semester-1/X-S1-P04_robot-mie-algoritma_siswa.md)
+- [Materi guru lengkap](../../../../../../06-modules/materi-ajar/base-2jp/kelas-x/semester-1/X-S1-P04_robot-mie-algoritma_guru.md)
+- [Materi pendukung guru](../../../../../../06-modules/materi-pendukung/base-2jp/kelas-x/semester-1/X-S1-P04_robot-mie-algoritma.md)
 
 ---
 

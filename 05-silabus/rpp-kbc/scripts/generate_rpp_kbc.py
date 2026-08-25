@@ -5,15 +5,15 @@ from __future__ import annotations
 
 import re
 import sys
+from dataclasses import dataclass
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[3]
 MOD = ROOT / "06-modules"
 OUT = ROOT / "05-silabus" / "rpp-kbc"
-MA = MOD / "materi-ajar"
 KBC_SCRIPT = MOD / "materi-ajar" / "scripts"
 sys.path.insert(0, str(KBC_SCRIPT))
-from kbc_dalil_map import get_kbc_brg, get_kbc_dalil  # noqa: E402
+from kbc_dalil_map import get_kbc_dalil  # noqa: E402
 
 SKIP_GLOB = re.compile(r"(Index|README|Panduan|Materi_Index)", re.I)
 
@@ -36,6 +36,22 @@ KELAS_LABEL = {
     "XI-S": ("Kelas XI", "kelas-xi"),
     "XII-S": ("Kelas XII", "kelas-xii"),
 }
+
+
+@dataclass(frozen=True)
+class Track:
+    """Jalur modul → output RPP (base-4jp aktif, base-2jp arsip, legacy tanpa prefix)."""
+
+    name: str  # "" | "base-4jp" | "base-2jp"
+    mod_root: Path
+    out_root: Path
+
+
+TRACKS: tuple[Track, ...] = (
+    Track("base-4jp", MOD / "base-4jp", OUT / "base-4jp"),
+    Track("base-2jp", MOD / "base-2jp", OUT / "base-2jp"),
+    Track("", MOD, OUT),
+)
 
 
 def read_text(p: Path) -> str:
@@ -81,7 +97,7 @@ def parse_modul_meta(md: str, code: str) -> dict[str, str]:
         "unit": extract_field_table(md, "Unit") or "",
         "durasi": extract_field_table(md, "Durasi") or "2 JP = 90 menit",
         "capability": extract_field_table(md, "Capability") or "",
-        "cp": extract_field_table(md, "CP") or "",
+        "cp": extract_field_table(md, "CP Merdeka") or extract_field_table(md, "CP") or "",
         "mm": extract_field_table(md, "MM") or "",
         "exp": extract_field_table(md, "EXP") or "—",
         "transform": extract_section(md, "Learning Transformation", one_line=True)
@@ -103,10 +119,49 @@ def rel_to_repo(from_dir: Path) -> str:
     return "/".join([".."] * n)
 
 
+def extract_timeline(md: str) -> str:
+    for heading in (
+        "Timeline (180 menit · 4 JP)",
+        "Timeline (180 menit)",
+        "Timeline (90 menit)",
+        "Timeline",
+    ):
+        body = extract_section(md, heading)
+        if body:
+            return body
+    return ""
+
+
+def format_pertemuan(meta_semester: str, code: str) -> str:
+    m = re.search(r"Pertemuan\s*(\d+)\s*/\s*(\d+)", meta_semester)
+    if m:
+        return f"Pertemuan {m.group(1)}/{m.group(2)}"
+    m = re.search(r"Pertemuan\s*(\d+)", meta_semester) or re.search(r"-P(\d+)", code)
+    if m:
+        return f"Pertemuan {m.group(1)}/18"
+    return meta_semester or "_(isi)_"
+
+
+def materi_paths(track: Track, modul_path: Path) -> tuple[str, str, str, Path]:
+    """Return modul_rel, handout base (no suffix), pendukung rel, pendukung Path."""
+    rel = modul_path.relative_to(track.mod_root)
+    stem_rel = rel.parent / modul_path.stem
+    if track.name:
+        modul_rel = f"{track.name}/{rel.as_posix()}"
+        ma_base = f"materi-ajar/{track.name}/{stem_rel.as_posix()}"
+        mp_rel = f"materi-pendukung/{track.name}/{stem_rel.as_posix()}.md"
+    else:
+        modul_rel = rel.as_posix()
+        ma_base = f"materi-ajar/{stem_rel.as_posix()}"
+        mp_rel = f"materi-pendukung/{stem_rel.as_posix()}.md"
+    mp_path = MOD / "materi-pendukung" / mp_rel.removeprefix("materi-pendukung/")
+    return modul_rel, ma_base, mp_rel, mp_path
+
+
 def timeline_kemenag_rows(timeline: str) -> tuple[list[str], list[str], list[str]]:
     """Map fase CPLF → pendahuluan / inti / penutup (format KMA umum)."""
     pre, core, close = [], [], []
-    pre_keys = ("opening", "hook", "do now")
+    pre_keys = ("opening", "hook", "do now", "orientation")
     close_keys = ("reflect", "transfer", "exit", "closing")
     for line in timeline.splitlines():
         if not line.startswith("|") or line.count("|") < 4:
@@ -129,7 +184,7 @@ def timeline_kemenag_rows(timeline: str) -> tuple[list[str], list[str], list[str
     return pre, core, close
 
 
-def build_rpp(modul_path: Path) -> str:
+def build_rpp(modul_path: Path, track: Track) -> str:
     code = modul_code(modul_path)
     if not code:
         return ""
@@ -138,24 +193,23 @@ def build_rpp(modul_path: Path) -> str:
     kelas, sem_num, _folder = kelas_semester(code)
     kbc = get_kbc_dalil(code, modul_path.stem)
 
-    timeline = extract_section(md, "Timeline (90 menit)") or extract_section(md, "Timeline")
+    timeline = extract_timeline(md)
     trap = extract_section(md, "Cognitive Trap")
     gq = extract_section(md, "Guiding Questions")
     exit_t = extract_section(md, "Exit Ticket")
-    formatif = extract_section(md, "Formatif (rubrik)") or extract_field_table(md, "Formatif")
     props = extract_section(md, "Props / Fallback")
 
-    out_dir = OUT / modul_path.relative_to(MOD).parent
+    rel = modul_path.relative_to(track.mod_root)
+    out_dir = track.out_root / rel.parent
     up = rel_to_repo(out_dir)
-    rel_mod = modul_path.relative_to(MOD).as_posix()
-    stem = modul_path.stem
-    handout_siswa = f"{up}/06-modules/materi-ajar/{rel_mod}_siswa.md"
-    handout_guru = f"{up}/06-modules/materi-ajar/{rel_mod}_guru.md"
+    modul_rel, ma_base, mp_rel, mp_path = materi_paths(track, modul_path)
+    handout_siswa = f"{up}/06-modules/{ma_base}_siswa.md"
+    handout_guru = f"{up}/06-modules/{ma_base}_guru.md"
 
     brg_lines = []
     for b in BRG_FOR_MODUL.get(code, []):
         brg_lines.append(
-            f"- **{b}** — [RPP pendukung tidak terpisah; materi](../06-modules/materi-ajar/jalur-kelanjutan/{b}_guru.md)"
+            f"- **{b}** — [materi BRG]({up}/06-modules/materi-ajar/jalur-kelanjutan/{b}_guru.md)"
         )
     brg_block = "\n".join(brg_lines) if brg_lines else "_Tidak ada BRG wajib pertemuan ini._"
 
@@ -164,10 +218,7 @@ def build_rpp(modul_path: Path) -> str:
     tbl_core = "\n".join(core) if core else "| — | Inti CPLF | Experience → Practice |"
     tbl_close = "\n".join(close) if close else "| — | Reflect / Exit | Lihat timeline Blok E |"
 
-    pertemuan = meta["semester"]
-    pm = re.search(r"Pertemuan\s*(\d+)", pertemuan) or re.search(r"-P(\d+)", code)
-    if pm:
-        pertemuan = f"Pertemuan {pm.group(1)}/18"
+    pertemuan = format_pertemuan(meta["semester"], code)
 
     parts = [
         f"# RPP — Kurikulum Berbasis Cinta × CPLF\n\n",
@@ -189,7 +240,7 @@ def build_rpp(modul_path: Path) -> str:
         f"| Alokasi waktu | {meta['durasi']} |\n",
         f"| Unit silabus | {meta['unit']} |\n",
         f"| Model pembelajaran CPLF | Experience → Trap → Clarify → Concept → Practice → Reflect → Transfer |\n",
-        f"| Modul acuan | [{modul_path.name}]({up}/06-modules/{rel_mod}) |\n\n",
+        f"| Modul acuan | [{modul_path.name}]({up}/06-modules/{modul_rel}) |\n\n",
         "## Blok B — Capaian (Kurikulum Merdeka + CPLF)\n\n",
         "| Field | Isi |\n|-------|-----|\n",
         f"| Elemen CP (anchor) | {meta['cp']} |\n",
@@ -259,15 +310,13 @@ def build_rpp(modul_path: Path) -> str:
         (props or "- Modul CPLF · handout siswa · materi guru lengkap") + "\n\n",
     ]
 
-    mp_rel = rel_mod
-    mp_path = MOD / "materi-pendukung" / mp_rel
     lampiran = [
         "## Lampiran CPLF (distribusi kelas)\n\n",
         f"- [Handout siswa]({handout_siswa})\n",
         f"- [Materi guru lengkap]({handout_guru})\n",
     ]
     if mp_path.exists():
-        lampiran.append(f"- [Materi pendukung guru]({up}/06-modules/materi-pendukung/{mp_rel})\n\n")
+        lampiran.append(f"- [Materi pendukung guru]({up}/06-modules/{mp_rel})\n\n")
     else:
         lampiran.append("\n")
     parts += lampiran
@@ -276,6 +325,28 @@ def build_rpp(modul_path: Path) -> str:
         "---\n\n_Generated from CPLF modul — edit manual bila RPP sekolah membutuhkan kolom tambahan Kemenag._\n"
     )
     return "".join(parts)
+
+
+def iter_modul_files(track: Track) -> list[Path]:
+    if track.name:
+        pattern = "kelas-*/**/*.md"
+        root = track.mod_root
+    else:
+        pattern = "kelas-*/**/*.md"
+        root = track.mod_root
+
+    files: list[Path] = []
+    for modul_path in sorted(root.glob(pattern)):
+        if modul_path.parts[-1].startswith("00_"):
+            continue
+        if "materi-pendukung" in modul_path.parts or "materi-ajar" in modul_path.parts:
+            continue
+        if SKIP_GLOB.search(modul_path.name):
+            continue
+        if not modul_code(modul_path):
+            continue
+        files.append(modul_path)
+    return files
 
 
 def write_index(sem_dir: Path, label: str) -> None:
@@ -294,45 +365,64 @@ def write_index(sem_dir: Path, label: str) -> None:
     (sem_dir / "00_Index_RPP_KBC.md").write_text("".join(lines), encoding="utf-8")
 
 
-def main() -> None:
-    count = 0
-    for modul_path in sorted(MOD.glob("kelas-*/**/*.md")):
-        if modul_path.parts[-1].startswith("00_"):
-            continue
-        if "materi-pendukung" in modul_path.parts or "materi-ajar" in modul_path.parts:
-            continue
-        if SKIP_GLOB.search(modul_path.name):
-            continue
-        if not modul_code(modul_path):
-            continue
-        rel = modul_path.relative_to(MOD)
-        out_dir = OUT / rel.parent
-        out_dir.mkdir(parents=True, exist_ok=True)
-        body = build_rpp(modul_path)
-        if not body:
-            continue
-        out_name = f"{modul_path.stem}_RPP_KBC.md"
-        (out_dir / out_name).write_text(body, encoding="utf-8")
-        count += 1
-
+def write_indexes_for_root(out_root: Path, label_prefix: str) -> None:
     for kelas in ("kelas-x", "kelas-xi", "kelas-xii"):
-        base = OUT / kelas
+        base = out_root / kelas
         if not base.exists():
             continue
         for sem in sorted(base.glob("semester-*")):
-            write_index(sem, f"{kelas}/{sem.name}")
+            write_index(sem, f"{label_prefix}{kelas}/{sem.name}" if label_prefix else f"{kelas}/{sem.name}")
 
+
+def write_master_index(count: int) -> None:
     master = [
         "# Indeks Master RPP KBC (per pertemuan)\n\n",
         "Regenerasi: `python 05-silabus/rpp-kbc/scripts/generate_rpp_kbc.py`\n\n",
         f"**Total:** {count} RPP · Template: [05_RPP_KBC_Template_CPLF.md](../05_RPP_KBC_Template_CPLF.md)\n\n",
+        "### base-4jp (aktif · 4 JP)\n\n",
     ]
+    for kelas in ("kelas-x", "kelas-xi", "kelas-xii"):
+        for sem in range(1, 7):
+            idx = OUT / "base-4jp" / kelas / f"semester-{sem}" / "00_Index_RPP_KBC.md"
+            if idx.exists():
+                master.append(
+                    f"- [base-4jp {kelas} semester {sem}](./base-4jp/{kelas}/semester-{sem}/00_Index_RPP_KBC.md)\n"
+                )
+    master.append("\n### Legacy / XI–XII (2 JP per pertemuan)\n\n")
     for kelas in ("kelas-x", "kelas-xi", "kelas-xii"):
         for sem in range(1, 7):
             idx = OUT / kelas / f"semester-{sem}" / "00_Index_RPP_KBC.md"
             if idx.exists():
                 master.append(f"- [{kelas} semester {sem}](./{kelas}/semester-{sem}/00_Index_RPP_KBC.md)\n")
+    master.append("\n### base-2jp (arsip)\n\n")
+    for kelas in ("kelas-x", "kelas-xi", "kelas-xii"):
+        for sem in range(1, 7):
+            idx = OUT / "base-2jp" / kelas / f"semester-{sem}" / "00_Index_RPP_KBC.md"
+            if idx.exists():
+                master.append(
+                    f"- [base-2jp {kelas} semester {sem}](./base-2jp/{kelas}/semester-{sem}/00_Index_RPP_KBC.md)\n"
+                )
     (OUT / "00_Index_Master_RPP_KBC.md").write_text("".join(master), encoding="utf-8")
+
+
+def main() -> None:
+    count = 0
+    for track in TRACKS:
+        for modul_path in iter_modul_files(track):
+            rel = modul_path.relative_to(track.mod_root)
+            out_dir = track.out_root / rel.parent
+            out_dir.mkdir(parents=True, exist_ok=True)
+            body = build_rpp(modul_path, track)
+            if not body:
+                continue
+            out_name = f"{modul_path.stem}_RPP_KBC.md"
+            (out_dir / out_name).write_text(body, encoding="utf-8")
+            count += 1
+
+    write_indexes_for_root(OUT / "base-4jp", "base-4jp · ")
+    write_indexes_for_root(OUT / "base-2jp", "base-2jp · ")
+    write_indexes_for_root(OUT, "")
+    write_master_index(count)
     print(f"Generated {count} RPP files under {OUT.relative_to(ROOT)}")
 
 
