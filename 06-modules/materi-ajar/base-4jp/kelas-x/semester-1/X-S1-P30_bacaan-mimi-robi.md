@@ -5,7 +5,7 @@
 |---|---|
 | Kode | X-S1-P30 — Revisi prioritas |
 | Pertemuan | **30 / 34** · Basis **4JP** |
-| Status | Naskah · sketch ditunda |
+| Status | Naskah humor · **3 sketch khusus Revisi prioritas** · Mimi syari |
 
 **Handout:** [X-S1-P30_project-s1-revisi_siswa.md](./X-S1-P30_project-s1-revisi_siswa.md)
 
@@ -24,6 +24,8 @@ Robi membuka tiga file sekaligus. Mengetik. Menyimpan. Klik. Halaman aneh. Fitur
 > “Aku kan sudah revisi.”
 
 > “Kamu sudah mengaduk. **Revisi terarah** itu satu obat, lalu cek suhu. Bukan tiga obat sekali teguk lalu heran pasien pingsan.”
+
+![Tiga file sekaligus = tiga obat sekali teguk; revisi terarah = satu perubahan, lalu uji](./assets/mimi-robi/p30-01-satu-obat-bukan-tiga.jpg)
 
 ## Istilah dulu
 
@@ -55,6 +57,8 @@ AC 2 masih telanjang tanpa `h2`. Pengguna yang cek menu tetap tersesat. Warna ba
 
 Ia menambahkan `h2`. Satu baris. Uji AC 2: lulus. Fitur 1 masih hidup. Itu revisi.
 
+![Antrian dari atas: `h2` dulu, bukan warna dari belakang; opini tetap di laci](./assets/mimi-robi/p30-02-antrian-dari-atas.jpg)
+
 ## Plot twist #1 — generate ulang
 
 Item 2 (JS) membuatnya panik. Ia buka chat. “Buatkan kantin page lengkap.”
@@ -72,6 +76,8 @@ Teman sebangku, Sasa, antriannya kosong. Semua AC peer lulus. Ia bosan. Mau tomb
 > “Tidak ada item spek bukan izin mengarang janji. Uji regresi, isi log ‘tidak ada item,’ siap P31. P31 itu napas dan akses — bukan kembang api.”
 
 Sasa mengisi log. Terlihat malas. Terlihat jujur. Lebih maju daripada Robi versi bakar kampung.
+
+![Satu lampu rusak bukan bakar kampung; antrian kosong = log jujur, siap P31](./assets/mimi-robi/p30-03-bukan-bakar-kampung.jpg)
 
 ## Adegan 2 — log yang bisa dibawa ke showcase
 
@@ -100,3 +106,6 @@ P29 adalah saksi. P30 adalah pembayaran. Yang dibayar = antrian, bukan opini, bu
 > **Revisi yang selesai adalah yang lulus uji, bukan yang paling ramai di editor.**
 
 — **Mimi** 🐾
+
+- Ilustrasi: `assets/mimi-robi/p30-01` … `p30-03` (`.jpg`)
+- Visual Mimi: baju syari (standar project)
