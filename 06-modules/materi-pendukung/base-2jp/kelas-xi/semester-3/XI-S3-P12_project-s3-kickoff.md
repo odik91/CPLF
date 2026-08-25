@@ -9,7 +9,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XI-S3-P12 |
-| Modul pertemuan | [XI-S3-P12_project-s3-kickoff.md](../../../kelas-xi/semester-3/XI-S3-P12_project-s3-kickoff.md) |
+| Modul pertemuan | [XI-S3-P12_project-s3-kickoff.md](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P12_project-s3-kickoff.md) |
 | Unit | XI3.7 |
 | Durasi referensi | 2 JP = 90 menit |
 | PRJ | [PRJ-XI-S3-01 … 04](../../../08-project/08_Project_Bank_Index.md#kelas-xi--semester-3-interaksi--struktur) |
@@ -252,7 +252,7 @@ export function render(state, rootEl) {
 
 ## Rujukan
 
-- Modul: [XI-S3-P12](../../../kelas-xi/semester-3/XI-S3-P12_project-s3-kickoff.md)
+- Modul: [XI-S3-P12](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P12_project-s3-kickoff.md)
 - PRJ-01: [Absensi DOM](../../../08-project/PRJ_XI_S3_01_Absensi_DOM.md)
 - PRJ-02: [Peminjaman Barang](../../../08-project/PRJ_XI_S3_02_Peminjaman_Barang.md)
 - PRJ-03: [Katalog OSIS](../../../08-project/PRJ_XI_S3_03_Katalog_OSIS.md)
@@ -260,7 +260,7 @@ export function render(state, rootEl) {
 - Rubrik: [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md)
 - Pola modul: [P10 Pemisahan](./XI-S3-P10_pemisahan-tanggung-jawab.md)
 - Spec draft: [P11 Acceptance](./XI-S3-P11_requirement-acceptance.md)
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../00_Panduan_Etika_Penyampaian.md)
 
 ---
 

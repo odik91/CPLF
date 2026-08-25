@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [XII-S5-P16_peer-review-s5.md](../../../kelas-xii/semester-5/XII-S5-P16_peer-review-s5.md)
+**Modul acuan:** [XII-S5-P16_peer-review-s5.md](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P16_peer-review-s5.md)
 
 ---
 
@@ -90,7 +90,7 @@ Larangan:
 | Menit | Fase | Aktivitas |
 |-------|------|-----------|
 | 0–5 | Opening | Protokol review — fokus data & batasan |
-| 5–30 | Review | [Rubrik Peer Review](../../../09-rubrik/09_Rubrik_Peer_Review.md) |
+| 5–30 | Review | [Rubrik Peer Review](../../../../../09-rubrik/09_Rubrik_Peer_Review.md) |
 | 30–50 | Clarify | Diskusi 2 temuan kuat |
 | 50–75 | Build | 1 revisi wajib (data/model/UI/batasan) |
 | 75–90 | Exit | Changelog revisi |
@@ -116,7 +116,7 @@ Larangan:
 
 **Kait di kelas hari ini:** Peer review model — kritik metrik/asumsi, bukan mengejek teman.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 ## 8. Materi pendamping BRG
 

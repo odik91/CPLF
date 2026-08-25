@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [XII-S6-P01_webcam-ke-prediksi_siswa.md](./XII-S6-P01_webcam-ke-prediksi_siswa.md)
 
-**Modul:** [XII-S6-P01_webcam-ke-prediksi.md](../../../kelas-xii/semester-6/XII-S6-P01_webcam-ke-prediksi.md)
+**Modul:** [XII-S6-P01_webcam-ke-prediksi.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P01_webcam-ke-prediksi.md)
 
-**Materi pendukung sumber:** [XII-S6-P01_webcam-ke-prediksi.md](../../../materi-pendukung/kelas-xii/semester-6/XII-S6-P01_webcam-ke-prediksi.md)
+**Materi pendukung sumber:** [XII-S6-P01_webcam-ke-prediksi.md](../../../../materi-pendukung/base-2jp/kelas-xii/semester-6/XII-S6-P01_webcam-ke-prediksi.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -91,7 +91,7 @@ video.srcObject = stream;
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S6-P01 |
-| Modul pertemuan | [XII-S6-P01_webcam-ke-prediksi.md](../../../kelas-xii/semester-6/XII-S6-P01_webcam-ke-prediksi.md) |
+| Modul pertemuan | [XII-S6-P01_webcam-ke-prediksi.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P01_webcam-ke-prediksi.md) |
 | Semester | 6 · Pertemuan 1/18 |
 | Unit | XII6.1 |
 | Durasi referensi | 2 JP = 90 menit |
@@ -100,7 +100,7 @@ video.srcObject = stream;
 | MM | MM-21 |
 | Panduan CV | [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md) |
 | Prasyarat ML | [00_Panduan_Guru_ML_TFJS.md](../../00_Panduan_Guru_ML_TFJS.md) (S5 selesai) |
-| Etika global | [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md) |
+| Etika global | [00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md) |
 | Ada live code? | **Ya — pipeline webcam → fromPixels → log shape (tanpa model penuh)** |
 
 ---
@@ -475,7 +475,7 @@ const t = tf.browser.fromPixels(video);
 
 ## Rujukan modul
 
-- Modul: [XII-S6-P01](../../../kelas-xii/semester-6/XII-S6-P01_webcam-ke-prediksi.md)
+- Modul: [XII-S6-P01](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P01_webcam-ke-prediksi.md)
 - Indeks S6: [XII-S6_Materi_Index](./XII-S6_Materi_Index.md)
 - Panduan: [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md)
 - Lanjutan: [P02 Kasus Gagal Model](./XII-S6-P02_kasus-gagal-model.md)
@@ -487,7 +487,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -498,6 +498,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** Consent sebelum `getUserMedia` — hormati privasi.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

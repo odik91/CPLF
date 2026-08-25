@@ -9,7 +9,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XI-S3-P09 |
-| Modul pertemuan | [XI-S3-P09_refactor-modul.md](../../../kelas-xi/semester-3/XI-S3-P09_refactor-modul.md) |
+| Modul pertemuan | [XI-S3-P09_refactor-modul.md](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P09_refactor-modul.md) |
 | Unit | XI3.5 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CXI-T3 |
@@ -263,11 +263,11 @@ function doEverything(x) {
 
 ## Rujukan
 
-- Modul: [XI-S3-P09](../../../kelas-xi/semester-3/XI-S3-P09_refactor-modul.md)
+- Modul: [XI-S3-P09](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P09_refactor-modul.md)
 - Prasyarat: [P08 State Aplikasi](./XI-S3-P08_state-aplikasi.md)
 - Lanjut: [P10 Pemisahan Tanggung Jawab](./XI-S3-P10_pemisahan-tanggung-jawab.md)
 - MM-14
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../00_Panduan_Etika_Penyampaian.md)
 
 ---
 

@@ -69,7 +69,7 @@ Dari “langsung cari solusi/coding” → “berhenti sejenak memahami & membat
 
 ## Formatif (rubrik)
 
-Fokus: **REA**, **OBS** — lihat [09_Rubrik_Formatif_Unit.md](../../../09-rubrik/09_Rubrik_Formatif_Unit.md)
+Fokus: **REA**, **OBS** — lihat [09_Rubrik_Formatif_Unit.md](../../../../09-rubrik/09_Rubrik_Formatif_Unit.md)
 
 ---
 

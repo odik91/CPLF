@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [XI-S3-P11_requirement-acceptance_siswa.md](./XI-S3-P11_requirement-acceptance_siswa.md)
 
-**Modul:** [XI-S3-P11_requirement-acceptance.md](../../../kelas-xi/semester-3/XI-S3-P11_requirement-acceptance.md)
+**Modul:** [XI-S3-P11_requirement-acceptance.md](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P11_requirement-acceptance.md)
 
-**Materi pendukung sumber:** [XI-S3-P11_requirement-acceptance.md](../../../materi-pendukung/kelas-xi/semester-3/XI-S3-P11_requirement-acceptance.md)
+**Materi pendukung sumber:** [XI-S3-P11_requirement-acceptance.md](../../../../materi-pendukung/base-2jp/kelas-xi/semester-3/XI-S3-P11_requirement-acceptance.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -75,7 +75,7 @@ Dokumen ini masuk folder project minggu P12.
 | Field | Isi |
 |-------|-----|
 | Kode | XI-S3-P11 |
-| Modul pertemuan | [XI-S3-P11_requirement-acceptance.md](../../../kelas-xi/semester-3/XI-S3-P11_requirement-acceptance.md) |
+| Modul pertemuan | [XI-S3-P11_requirement-acceptance.md](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P11_requirement-acceptance.md) |
 | Unit | XI3.6 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CXI-K1 |
@@ -97,7 +97,7 @@ Dokumen ini masuk folder project minggu P12.
 
 **Spiral EXP_02:** brief "website OSIS keren" — hasil beda karena ambigu; sama seperti "gambar rumah" S1.
 
-**Spiral X-S1:** [P06](../../kelas-x/semester-1/X-S1-P06_gambar-rumah-requirement.md) requirement → [P07](../../kelas-x/semester-1/X-S1-P07_spesifikasi-acceptance.md) AC — hari ini **konteks aplikasi web S3**.
+**Spiral X-S1:** [P06](../../../../base-2jp/kelas-x/semester-1/X-S1-P06_gambar-rumah-requirement.md) requirement → [P07](../../../../base-2jp/kelas-x/semester-1/X-S1-P07_spesifikasi-acceptance.md) AC — hari ini **konteks aplikasi web S3**.
 
 **Output masuk folder project** — draft untuk P12 kickoff.
 
@@ -298,12 +298,12 @@ Given item status "dipinjam", When klik pinjam lagi, Then tombol disabled atau p
 
 ## Rujukan
 
-- Modul: [XI-S3-P11](../../../kelas-xi/semester-3/XI-S3-P11_requirement-acceptance.md)
+- Modul: [XI-S3-P11](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P11_requirement-acceptance.md)
 - EXP: [EXP_02 Gambar Rumah](../../../07-experience_library/EXP_02_Gambar_Rumah.md)
-- Spiral X: [X-S1-P07 Acceptance](../../kelas-x/semester-1/X-S1-P07_spesifikasi-acceptance.md)
+- Spiral X: [X-S1-P07 Acceptance](../../../../base-2jp/kelas-x/semester-1/X-S1-P07_spesifikasi-acceptance.md)
 - PRJ bank: [08_Project_Bank_Index — XI S3](../../../08-project/08_Project_Bank_Index.md#kelas-xi--semester-3-interaksi--struktur)
 - Lanjut: [P12 Kickoff](./XI-S3-P12_project-s3-kickoff.md)
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 
@@ -326,7 +326,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -337,6 +337,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** Desain untuk pengguna lain — teliti sebelum rilis.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

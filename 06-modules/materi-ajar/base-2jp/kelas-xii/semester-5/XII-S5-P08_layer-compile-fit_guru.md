@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [XII-S5-P08_layer-compile-fit_siswa.md](./XII-S5-P08_layer-compile-fit_siswa.md)
 
-**Modul:** [XII-S5-P08_layer-compile-fit.md](../../../kelas-xii/semester-5/XII-S5-P08_layer-compile-fit.md)
+**Modul:** [XII-S5-P08_layer-compile-fit.md](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P08_layer-compile-fit.md)
 
-**Materi pendukung sumber:** [XII-S5-P08_layer-compile-fit.md](../../../materi-pendukung/kelas-xii/semester-5/XII-S5-P08_layer-compile-fit.md)
+**Materi pendukung sumber:** [XII-S5-P08_layer-compile-fit.md](../../../../materi-pendukung/base-2jp/kelas-xii/semester-5/XII-S5-P08_layer-compile-fit.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -71,7 +71,7 @@ Epoch kecil (10–20) agar tidak hang di lab.
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S5-P08 |
-| Modul pertemuan | [XII-S5-P08_layer-compile-fit.md](../../../kelas-xii/semester-5/XII-S5-P08_layer-compile-fit.md) |
+| Modul pertemuan | [XII-S5-P08_layer-compile-fit.md](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P08_layer-compile-fit.md) |
 | Unit | XII5.6 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CXII-T2 |
@@ -438,7 +438,7 @@ model.predict(test);
 
 ## Rujukan
 
-- Modul: [XII-S5-P08](../../../kelas-xii/semester-5/XII-S5-P08_layer-compile-fit.md)
+- Modul: [XII-S5-P08](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P08_layer-compile-fit.md)
 - Sebelumnya: [P07](./XII-S5-P07_tfjs-tensor-dasar.md)
 - Lanjutan: [P09 Model Dense Mini](./XII-S5-P09_model-dense-mini.md)
 - Panduan ML: [00_Panduan_Guru_ML_TFJS.md](../../00_Panduan_Guru_ML_TFJS.md)
@@ -463,7 +463,7 @@ model.predict(test);
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -474,6 +474,6 @@ model.predict(test);
 
 **Kait di kelas hari ini:** Train/fit jujur — metrik dari data val, bukan tipuan diri.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

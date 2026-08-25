@@ -9,7 +9,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XI-S4-P17 |
-| Modul pertemuan | [XI-S4-P17_presentasi-retrospektif.md](../../../kelas-xi/semester-4/XI-S4-P17_presentasi-retrospektif.md) |
+| Modul pertemuan | [XI-S4-P17_presentasi-retrospektif.md](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P17_presentasi-retrospektif.md) |
 | Unit | XI4.8 |
 | Durasi referensi | 2 JP = 90 menit |
 | Rubrik | [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md) + kolaborasi |
@@ -268,15 +268,15 @@ export function toCards(articles) {
 
 ## 9. Rujukan
 
-- Modul pertemuan: [XI-S4-P17](../../../kelas-xi/semester-4/XI-S4-P17_presentasi-retrospektif.md)
+- Modul pertemuan: [XI-S4-P17](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P17_presentasi-retrospektif.md)
 - Rubrik project: [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md)
 - Rubrik peer: [09_Rubrik_Peer_Review](../../../09-rubrik/09_Rubrik_Peer_Review.md)
 - Peer review Git: [P16 materi pendukung](./XI-S4-P16_peer-review-git.md)
 - Portofolio next: [P18 materi pendukung](./XI-S4-P18_portofolio-tahun-xi.md)
 - PRJ bank: [08_Project_Bank_Index](../../../08-project/08_Project_Bank_Index.md#kelas-xi--semester-4-data-async-kolaborasi)
 - Showcase S3 (paralel): [XI-S3-P18 materi](../semester-3/XI-S3-P18_showcase-refleksi-s3.md)
-- Indeks S4: [XI-S4_Index](../../../kelas-xi/semester-4/XI-S4_Index.md)
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Indeks S4: [XI-S4_Index](../../../../base-2jp/kelas-xi/semester-4/XI-S4_Index.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../00_Panduan_Etika_Penyampaian.md)
 
 ---
 

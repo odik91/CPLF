@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [X-S1-P05_flowchart-pseudocode.md](../../../kelas-x/semester-1/X-S1-P05_flowchart-pseudocode.md)
+**Modul acuan:** [X-S1-P05_flowchart-pseudocode.md](../../../../base-2jp/kelas-x/semester-1/X-S1-P05_flowchart-pseudocode.md)
 
 ---
 
@@ -151,7 +151,7 @@ Gambar sederhana: decision tanpa label YA/TIDAK pada panah.
 
 **Kait di kelas hari ini:** Flowchart = urutan berpikir sebelum kode.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 
 ---

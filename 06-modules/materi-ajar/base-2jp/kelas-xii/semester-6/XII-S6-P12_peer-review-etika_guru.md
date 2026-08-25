@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [XII-S6-P12_peer-review-etika_siswa.md](./XII-S6-P12_peer-review-etika_siswa.md)
 
-**Modul:** [XII-S6-P12_peer-review-etika.md](../../../kelas-xii/semester-6/XII-S6-P12_peer-review-etika.md)
+**Modul:** [XII-S6-P12_peer-review-etika.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P12_peer-review-etika.md)
 
-**Materi pendukung sumber:** [XII-S6-P12_peer-review-etika.md](../../../materi-pendukung/kelas-xii/semester-6/XII-S6-P12_peer-review-etika.md)
+**Materi pendukung sumber:** [XII-S6-P12_peer-review-etika.md](../../../../materi-pendukung/base-2jp/kelas-xii/semester-6/XII-S6-P12_peer-review-etika.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -29,7 +29,7 @@ Dari submit → **review** teknis + etika sebelum presentasi akhir.
 | Menit | Fase | Aktivitas |
 |-------|------|-----------|
 | 0–5 | Opening | Protokol review: teknis + etika terpisah |
-| 5–30 | Review | Cross-team: [Peer Review](../../../09-rubrik/09_Rubrik_Peer_Review.md) + [Etika AI](../../../09-rubrik/09_Rubrik_Etika_AI.md) |
+| 5–30 | Review | Cross-team: [Peer Review](../../../../../09-rubrik/09_Rubrik_Peer_Review.md) + [Etika AI](../../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
 | 30–45 | Diskusi | 1 finding etika penting per tim presentasi 2 menit |
 | 45–70 | Build | Revisi wajib: min. 1 teknis + 1 etika |
 | 70–85 | Check | Acceptance re-test |
@@ -64,8 +64,8 @@ Siswa menilai etika teman = latihan CXII-C1/C2.
 
 **Version:** 0.1 · **Audiens:** Guru MA — **RAHASIA GURU** (jangan dibagikan ke siswa)
 
-> **Panduan wajib:** [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md) · [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)  
-> **Rubrik wajib:** [09_Rubrik_Peer_Review.md](../../../09-rubrik/09_Rubrik_Peer_Review.md) · [09_Rubrik_Etika_AI.md](../../../09-rubrik/09_Rubrik_Etika_AI.md)
+> **Panduan wajib:** [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md) · [00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)  
+> **Rubrik wajib:** [09_Rubrik_Peer_Review.md](../../../../../09-rubrik/09_Rubrik_Peer_Review.md) · [09_Rubrik_Etika_AI.md](../../../../../09-rubrik/09_Rubrik_Etika_AI.md)
 
 ---
 
@@ -74,7 +74,7 @@ Siswa menilai etika teman = latihan CXII-C1/C2.
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S6-P12 |
-| Modul pertemuan | [XII-S6-P12_peer-review-etika.md](../../../kelas-xii/semester-6/XII-S6-P12_peer-review-etika.md) |
+| Modul pertemuan | [XII-S6-P12_peer-review-etika.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P12_peer-review-etika.md) |
 | Semester | 6 · Pertemuan 12/18 |
 | Unit | XII6.6 |
 | Durasi referensi | 2 JP = 90 menit |
@@ -89,16 +89,16 @@ Siswa menilai etika teman = latihan CXII-C1/C2.
 
 | # | Topik | Link |
 |---|-------|------|
-| 1 | **Wajib** — Rubrik Peer Review | → [09_Rubrik_Peer_Review.md](../../../09-rubrik/09_Rubrik_Peer_Review.md) |
-| 2 | **Wajib** — Rubrik Etika AI (E1–E4) | → [09_Rubrik_Etika_AI.md](../../../09-rubrik/09_Rubrik_Etika_AI.md) |
-| 3 | **Wajib** — Rubrik Project | → [09_Rubrik_Project.md](../../../09-rubrik/09_Rubrik_Project.md) |
-| 4 | Enam aspek CPLF | → [09_Rubrik_Enam_Aspek.md](../../../09-rubrik/09_Rubrik_Enam_Aspek.md) |
+| 1 | **Wajib** — Rubrik Peer Review | → [09_Rubrik_Peer_Review.md](../../../../../09-rubrik/09_Rubrik_Peer_Review.md) |
+| 2 | **Wajib** — Rubrik Etika AI (E1–E4) | → [09_Rubrik_Etika_AI.md](../../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
+| 3 | **Wajib** — Rubrik Project | → [09_Rubrik_Project.md](../../../../../09-rubrik/09_Rubrik_Project.md) |
+| 4 | Enam aspek CPLF | → [09_Rubrik_Enam_Aspek.md](../../../../../09-rubrik/09_Rubrik_Enam_Aspek.md) |
 | 5 | Spiral S5 peer review | → [XII-S5-P16 materi](../../semester-5/XII-S5-P16_peer-review-s5.md) |
 | 6 | Model cards (batasan) | → [Model Cards](https://modelcards.withgoogle.com/about) |
 | 7 | Google Responsible AI | → [Google AI Responsibility](https://ai.google/responsibility/responsible-ai-practices/) |
 | 8 | Teachable Machine FAQ (review data) | → [Teachable Machine FAQ](https://support.google.com/teachablemachine/) |
 | 9 | Panduan CV S6 | → [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md) |
-| 10 | Etika penyampaian | → [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md) |
+| 10 | Etika penyampaian | → [00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md) |
 
 ---
 
@@ -340,10 +340,10 @@ localStorage.setItem('face_snapshot', canvas.toDataURL());
 
 ## Rujukan
 
-- Modul: [XII-S6-P12](../../../kelas-xii/semester-6/XII-S6-P12_peer-review-etika.md)
+- Modul: [XII-S6-P12](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P12_peer-review-etika.md)
 - Sebelumnya: [P11 Demo Gagal](./XII-S6-P11_project-nilai-build-3.md)
 - Lanjutan: [P13 Revisi Capstone](./XII-S6-P13_revisi-capstone.md) · [P14 Presentasi](./XII-S6-P14_presentasi-nilai.md)
-- Rubrik: [Peer Review](../../../09-rubrik/09_Rubrik_Peer_Review.md) · [Etika AI](../../../09-rubrik/09_Rubrik_Etika_AI.md) · [Project](../../../09-rubrik/09_Rubrik_Project.md)
+- Rubrik: [Peer Review](../../../../../09-rubrik/09_Rubrik_Peer_Review.md) · [Etika AI](../../../../../09-rubrik/09_Rubrik_Etika_AI.md) · [Project](../../../../../09-rubrik/09_Rubrik_Project.md)
 - Spiral: [S5 P16 Peer Review](../../semester-5/XII-S5-P16_peer-review-s5.md)
 
 ---
@@ -368,7 +368,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -379,6 +379,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** Peer review santun — bantu saudara, jangan mengejek.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

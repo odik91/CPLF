@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [X-S1-P12_function-loop-js_siswa.md](./X-S1-P12_function-loop-js_siswa.md)
 
-**Modul:** [X-S1-P12_function-loop-js.md](../../../kelas-x/semester-1/X-S1-P12_function-loop-js.md)
+**Modul:** [X-S1-P12_function-loop-js.md](../../../../base-2jp/kelas-x/semester-1/X-S1-P12_function-loop-js.md)
 
-**Materi pendukung sumber:** [X-S1-P12_function-loop-js.md](../../../materi-pendukung/kelas-x/semester-1/X-S1-P12_function-loop-js.md)
+**Materi pendukung sumber:** [X-S1-P12_function-loop-js.md](../../../../materi-pendukung/base-2jp/kelas-x/semester-1/X-S1-P12_function-loop-js.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -59,7 +59,7 @@ Dari “copy-paste kode” → **function** = proses reusable.
 | Field | Isi |
 |-------|-----|
 | Kode | X-S1-P12 |
-| Modul pertemuan | [X-S1-P12_function-loop-js.md](../../../kelas-x/semester-1/X-S1-P12_function-loop-js.md) |
+| Modul pertemuan | [X-S1-P12_function-loop-js.md](../../../../base-2jp/kelas-x/semester-1/X-S1-P12_function-loop-js.md) |
 | Unit | X1.6 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CX-T2, CX-T3 |
@@ -300,11 +300,11 @@ console.log(x);
 
 ## Rujukan
 
-- Modul: [X-S1-P12](../../../kelas-x/semester-1/X-S1-P12_function-loop-js.md)
+- Modul: [X-S1-P12](../../../../base-2jp/kelas-x/semester-1/X-S1-P12_function-loop-js.md)
 - Sebelum: [P11 Loop](./X-S1-P11_kasir-loop.md)
 - Lanjut: [P13 Error & Debugging](./X-S1-P13_error-debugging.md)
 - MM-15 · CX-T2, CX-T3
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 
@@ -327,7 +327,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -338,6 +338,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** Function = tanggung jawab terpisah — ilmu terorganisir.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

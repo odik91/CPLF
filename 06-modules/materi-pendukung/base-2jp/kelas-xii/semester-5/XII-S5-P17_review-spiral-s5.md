@@ -2,7 +2,7 @@
 
 **Version:** 0.1 · **Audiens:** Guru MA — **RAHASIA GURU** (jangan dibagikan ke siswa)
 
-> **Panduan wajib:** [00_Panduan_Guru_ML_TFJS.md](../../00_Panduan_Guru_ML_TFJS.md)
+> **Panduan wajib:** [00_Panduan_Guru_ML_TFJS.md](../../../00_Panduan_Guru_ML_TFJS.md)
 
 ---
 
@@ -11,7 +11,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S5-P17 |
-| Modul pertemuan | [XII-S5-P17_review-spiral-s5.md](../../../kelas-xii/semester-5/XII-S5-P17_review-spiral-s5.md) |
+| Modul pertemuan | [XII-S5-P17_review-spiral-s5.md](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P17_review-spiral-s5.md) |
 | Semester | 5 · Pertemuan 17/18 |
 | Unit | XII5.1–7 (integratif) |
 | Durasi referensi | 2 JP = 90 menit |
@@ -131,7 +131,7 @@ Sama: data · batasan · demo gagal · tidak overclaim
 Bedaa: input piksel · risiko privasi lebih tinggi
 ```
 
-Preview etika S6: wajah, consent, QR vs biometrik — link [09_Rubrik_Etika_AI E2](../../../../09-rubrik/09_Rubrik_Etika_AI.md).
+Preview etika S6: wajah, consent, QR vs biometrik — link [09_Rubrik_Etika_AI E2](../../../../../09-rubrik/09_Rubrik_Etika_AI.md).
 
 ---
 
@@ -240,17 +240,17 @@ acc: 1.0 (8 samples)
 | 4 | MLCC spiral concepts | → [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) |
 | 5 | Overfitting review | → [MLCC — Overfitting](https://developers.google.com/machine-learning/crash-course/overfitting/overfitting) |
 | 6 | Teachable Machine (S6 preview) | → [Teachable Machine](https://teachablemachine.withgoogle.com/) |
-| 7 | Rubrik etika E2 preview | → [09_Rubrik_Etika_AI](../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
-| 8 | Panduan guru ML | → [00_Panduan_Guru_ML_TFJS.md](../../00_Panduan_Guru_ML_TFJS.md) |
+| 7 | Rubrik etika E2 preview | → [09_Rubrik_Etika_AI](../../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
+| 8 | Panduan guru ML | → [00_Panduan_Guru_ML_TFJS.md](../../../00_Panduan_Guru_ML_TFJS.md) |
 
 ---
 
 ## Rujukan
 
-- Modul: [XII-S5-P17](../../../kelas-xii/semester-5/XII-S5-P17_review-spiral-s5.md)
-- Indeks S5: [XII-S5_Index](../../../kelas-xii/semester-5/XII-S5_Index.md)
+- Modul: [XII-S5-P17](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P17_review-spiral-s5.md)
+- Indeks S5: [XII-S5_Index](../../../../base-2jp/kelas-xii/semester-5/XII-S5_Index.md)
 - Project: [P16 Peer Review](./XII-S5-P16_peer-review-s5.md) · [P18 Showcase](./XII-S5-P18_showcase-refleksi-s5.md)
-- Lanjutan S6: [XII-S6 Materi Index](../semester-6/XII-S6_Materi_Index.md) · [Panduan CV/Etika](../../00_Panduan_Guru_CV_Etika.md)
+- Lanjutan S6: [XII-S6 Materi Index](../semester-6/XII-S6_Materi_Index.md) · [Panduan CV/Etika](../../../00_Panduan_Guru_CV_Etika.md)
 
 ---
 

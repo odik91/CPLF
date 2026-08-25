@@ -7,7 +7,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S6-P03 |
-| Modul pertemuan | [XII-S6-P03_transfer-learning-konsep.md](../../../kelas-xii/semester-6/XII-S6-P03_transfer-learning-konsep.md) |
+| Modul pertemuan | [XII-S6-P03_transfer-learning-konsep.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P03_transfer-learning-konsep.md) |
 | Semester | 6 · Pertemuan 3/18 |
 | Unit | XII6.2 |
 | Durasi referensi | 2 JP = 90 menit |
@@ -15,7 +15,7 @@
 | MM | MM-22 |
 | Formatif | REA, COM |
 | Prasyarat | [P02 Kasus Gagal](./XII-S6-P02_kasus-gagal-model.md) |
-| Panduan CV | [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md) |
+| Panduan CV | [00_Panduan_Guru_CV_Etika.md](../../../00_Panduan_Guru_CV_Etika.md) |
 | Ada live code? | **Tidak wajib** — konsep + tabel; preview hands-on P04 |
 
 ---
@@ -32,7 +32,7 @@
 | 6 | StatQuest — Neural Networks (video) | → referensi: [StatQuest — Neural Networks](https://www.youtube.com/watch?v=aircAruvnKk) |
 | 7 | Overfitting recall S5 | → referensi: [MLCC — Overfitting](https://developers.google.com/machine-learning/crash-course/generalization/overfitting) |
 | 8 | Google ML — fine-tuning blog ringkas | → referensi: [Google Developers Blog — Transfer Learning](https://developers.google.com/machine-learning/crash-course) |
-| 9 | Panduan CV CPLF | → [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md) |
+| 9 | Panduan CV CPLF | → [00_Panduan_Guru_CV_Etika.md](../../../00_Panduan_Guru_CV_Etika.md) |
 
 **Waktu baca minimum:** 60–90 menit (glossary transfer + MLCC NN + skim MobileNet README).
 
@@ -269,7 +269,7 @@ Dataset: 80 foto total, laptop Chromebook lab.
 
 ## Rujukan modul
 
-- Modul: [XII-S6-P03](../../../kelas-xii/semester-6/XII-S6-P03_transfer-learning-konsep.md)
+- Modul: [XII-S6-P03](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P03_transfer-learning-konsep.md)
 - Sebelumnya: [P02](./XII-S6-P02_kasus-gagal-model.md)
 - Lanjutan: [P04 MobileNet & TM](./XII-S6-P04_mobilenet-teachable.md)
-- Panduan: [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md)
+- Panduan: [00_Panduan_Guru_CV_Etika.md](../../../00_Panduan_Guru_CV_Etika.md)

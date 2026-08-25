@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [XII-S5-P17_review-spiral-s5_siswa.md](./XII-S5-P17_review-spiral-s5_siswa.md)
 
-**Modul:** [XII-S5-P17_review-spiral-s5.md](../../../kelas-xii/semester-5/XII-S5-P17_review-spiral-s5.md)
+**Modul:** [XII-S5-P17_review-spiral-s5.md](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P17_review-spiral-s5.md)
 
-**Materi pendukung sumber:** [XII-S5-P17_review-spiral-s5.md](../../../materi-pendukung/kelas-xii/semester-5/XII-S5-P17_review-spiral-s5.md)
+**Materi pendukung sumber:** [XII-S5-P17_review-spiral-s5.md](../../../../materi-pendukung/base-2jp/kelas-xii/semester-5/XII-S5-P17_review-spiral-s5.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -57,7 +57,7 @@ Jika jam sempit — station bisa jadi PR.
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S5-P17 |
-| Modul pertemuan | [XII-S5-P17_review-spiral-s5.md](../../../kelas-xii/semester-5/XII-S5-P17_review-spiral-s5.md) |
+| Modul pertemuan | [XII-S5-P17_review-spiral-s5.md](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P17_review-spiral-s5.md) |
 | Semester | 5 · Pertemuan 17/18 |
 | Unit | XII5.1–7 (integratif) |
 | Durasi referensi | 2 JP = 90 menit |
@@ -177,7 +177,7 @@ Sama: data · batasan · demo gagal · tidak overclaim
 Bedaa: input piksel · risiko privasi lebih tinggi
 ```
 
-Preview etika S6: wajah, consent, QR vs biometrik — link [09_Rubrik_Etika_AI E2](../../../../09-rubrik/09_Rubrik_Etika_AI.md).
+Preview etika S6: wajah, consent, QR vs biometrik — link [09_Rubrik_Etika_AI E2](../../../../../09-rubrik/09_Rubrik_Etika_AI.md).
 
 ---
 
@@ -286,15 +286,15 @@ acc: 1.0 (8 samples)
 | 4 | MLCC spiral concepts | → [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) |
 | 5 | Overfitting review | → [MLCC — Overfitting](https://developers.google.com/machine-learning/crash-course/overfitting/overfitting) |
 | 6 | Teachable Machine (S6 preview) | → [Teachable Machine](https://teachablemachine.withgoogle.com/) |
-| 7 | Rubrik etika E2 preview | → [09_Rubrik_Etika_AI](../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
+| 7 | Rubrik etika E2 preview | → [09_Rubrik_Etika_AI](../../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
 | 8 | Panduan guru ML | → [00_Panduan_Guru_ML_TFJS.md](../../00_Panduan_Guru_ML_TFJS.md) |
 
 ---
 
 ## Rujukan
 
-- Modul: [XII-S5-P17](../../../kelas-xii/semester-5/XII-S5-P17_review-spiral-s5.md)
-- Indeks S5: [XII-S5_Index](../../../kelas-xii/semester-5/XII-S5_Index.md)
+- Modul: [XII-S5-P17](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P17_review-spiral-s5.md)
+- Indeks S5: [XII-S5_Index](../../../../base-2jp/kelas-xii/semester-5/XII-S5_Index.md)
 - Project: [P16 Peer Review](./XII-S5-P16_peer-review-s5.md) · [P18 Showcase](./XII-S5-P18_showcase-refleksi-s5.md)
 - Lanjutan S6: [XII-S6 Materi Index](../semester-6/XII-S6_Materi_Index.md) · [Panduan CV/Etika](../../00_Panduan_Guru_CV_Etika.md)
 
@@ -319,7 +319,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -330,6 +330,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** Review/spiral — renungkan apa yang sudah dikuasai.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

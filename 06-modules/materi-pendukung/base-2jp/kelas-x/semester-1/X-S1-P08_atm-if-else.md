@@ -9,7 +9,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | X-S1-P08 |
-| Modul pertemuan | [X-S1-P08_atm-if-else.md](../../../kelas-x/semester-1/X-S1-P08_atm-if-else.md) |
+| Modul pertemuan | [X-S1-P08_atm-if-else.md](../../../../base-2jp/kelas-x/semester-1/X-S1-P08_atm-if-else.md) |
 | Unit | X1.4 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CX-T3, CX-B3 |
@@ -282,7 +282,7 @@ Siswa **tidak** copy flowchart guru — variasi konteks wajib (kantin/OSIS/eksku
 
 ## Rujukan
 
-- Modul: [X-S1-P08](../../../kelas-x/semester-1/X-S1-P08_atm-if-else.md)
+- Modul: [X-S1-P08](../../../../base-2jp/kelas-x/semester-1/X-S1-P08_atm-if-else.md)
 - EXP: [EXP_04 ATM](../../../07-experience_library/EXP_04_ATM.md)
 - Sebelum: [P07 Acceptance Criteria](./X-S1-P07_spesifikasi-acceptance.md)
 - Lanjut: [P09 Satpam JS](./X-S1-P09_satpam-js-kondisi.md)

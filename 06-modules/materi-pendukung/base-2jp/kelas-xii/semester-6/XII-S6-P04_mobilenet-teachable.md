@@ -7,14 +7,14 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S6-P04 |
-| Modul pertemuan | [XII-S6-P04_mobilenet-teachable.md](../../../kelas-xii/semester-6/XII-S6-P04_mobilenet-teachable.md) |
+| Modul pertemuan | [XII-S6-P04_mobilenet-teachable.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P04_mobilenet-teachable.md) |
 | Semester | 6 · Pertemuan 4/18 |
 | Unit | XII6.2 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CXII-T4 |
 | Formatif | TEC, OBS |
 | Prasyarat | [P03 Transfer Learning](./XII-S6-P03_transfer-learning-konsep.md) |
-| Panduan CV | [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md) |
+| Panduan CV | [00_Panduan_Guru_CV_Etika.md](../../../00_Panduan_Guru_CV_Etika.md) |
 | Ada live code? | **Ya — TM demo live + load model TF.js di HTML (template guru, tidak didistribusi)** |
 
 ---
@@ -31,7 +31,7 @@
 | 6 | `@tensorflow-models/mobilenet` (alternatif) | → referensi: [tfjs-models mobilenet](https://github.com/tensorflow/tfjs-models/tree/master/mobilenet) |
 | 7 | TF.js transfer webcam tutorial | → referensi: [TF.js transfer learning](https://www.tensorflow.org/js/tutorials/transfer/learn_more) |
 | 8 | Memory dispose setelah predict | → referensi: [Tensor disposal](https://www.tensorflow.org/js/guide/tensors_operations#memory) |
-| 9 | Panduan CV CPLF | → [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md) |
+| 9 | Panduan CV CPLF | → [00_Panduan_Guru_CV_Etika.md](../../../00_Panduan_Guru_CV_Etika.md) |
 
 **Waktu baca minimum:** 90 menit (TM train+export + TM community load snippet + coba 1 export lokal).
 
@@ -338,7 +338,7 @@ tensor.dispose();
 
 ## Rujukan modul
 
-- Modul: [XII-S6-P04](../../../kelas-xii/semester-6/XII-S6-P04_mobilenet-teachable.md)
+- Modul: [XII-S6-P04](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P04_mobilenet-teachable.md)
 - Sebelumnya: [P03](./XII-S6-P03_transfer-learning-konsep.md)
 - Lanjutan: [P05 AI Fitur Web](./XII-S6-P05_ai-fitur-web.md)
-- Rubrik: [09_Rubrik_Etika_AI.md](../../../../09-rubrik/09_Rubrik_Etika_AI.md)
+- Rubrik: [09_Rubrik_Etika_AI.md](../../../../../09-rubrik/09_Rubrik_Etika_AI.md)

@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [X-S2-P16_revisi-project_siswa.md](./X-S2-P16_revisi-project_siswa.md)
 
-**Modul:** [X-S2-P16_revisi-project.md](../../../kelas-x/semester-2/X-S2-P16_revisi-project.md)
+**Modul:** [X-S2-P16_revisi-project.md](../../../../base-2jp/kelas-x/semester-2/X-S2-P16_revisi-project.md)
 
-**Materi pendukung sumber:** [X-S2-P16_revisi-project.md](../../../materi-pendukung/kelas-x/semester-2/X-S2-P16_revisi-project.md)
+**Materi pendukung sumber:** [X-S2-P16_revisi-project.md](../../../../materi-pendukung/base-2jp/kelas-x/semester-2/X-S2-P16_revisi-project.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -59,7 +59,7 @@ Hari ini **bukan** feature baru besar — perbaikan & reasoning.
 | Field | Isi |
 |-------|-----|
 | Kode | X-S2-P16 |
-| Modul pertemuan | [X-S2-P16_revisi-project](../../../kelas-x/semester-2/X-S2-P16_revisi-project.md) |
+| Modul pertemuan | [X-S2-P16_revisi-project](../../../../base-2jp/kelas-x/semester-2/X-S2-P16_revisi-project.md) |
 | Unit | X2.7 |
 | Durasi referensi | 2 JP = 90 menit |
 | PRJ | Lanjut PRJ-X-S2-* |
@@ -272,12 +272,12 @@ function hitung() {
 
 ## 9. Rujukan
 
-- Modul pertemuan: [X-S2-P16](../../../kelas-x/semester-2/X-S2-P16_revisi-project.md)
+- Modul pertemuan: [X-S2-P16](../../../../base-2jp/kelas-x/semester-2/X-S2-P16_revisi-project.md)
 - Peer review: [P15 materi pendukung](./X-S2-P15_peer-review.md)
 - Presentasi: [P17 materi pendukung](./X-S2-P17_presentasi-s2.md)
-- Rubrik project: [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md)
+- Rubrik project: [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md)
 - PRJ bank: [08_Project_Bank_Index](../../../08-project/08_Project_Bank_Index.md)
-- Etika: [00_Panduan_Etika_Penyampaian](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 
@@ -299,7 +299,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -310,6 +310,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** Build iteratif — amanah waktu & kualitas kelompok.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

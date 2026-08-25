@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [XI-S3-P01_aplikasi-sistem-ipo_siswa.md](./XI-S3-P01_aplikasi-sistem-ipo_siswa.md)
 
-**Modul:** [XI-S3-P01_aplikasi-sistem-ipo.md](../../../kelas-xi/semester-3/XI-S3-P01_aplikasi-sistem-ipo.md)
+**Modul:** [XI-S3-P01_aplikasi-sistem-ipo.md](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P01_aplikasi-sistem-ipo.md)
 
-**Materi pendukung sumber:** [XI-S3-P01_aplikasi-sistem-ipo.md](../../../materi-pendukung/kelas-xi/semester-3/XI-S3-P01_aplikasi-sistem-ipo.md)
+**Materi pendukung sumber:** [XI-S3-P01_aplikasi-sistem-ipo.md](../../../../materi-pendukung/base-2jp/kelas-xi/semester-3/XI-S3-P01_aplikasi-sistem-ipo.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -75,7 +75,7 @@ Dari “kumpulan tombol/HTML” → **sistem** dengan Input–Process–Output�
 
 ## Formatif
 
-**REA**, **OBS** — [09_Rubrik_Formatif_Unit.md](../../../09-rubrik/09_Rubrik_Formatif_Unit.md)
+**REA**, **OBS** — [09_Rubrik_Formatif_Unit.md](../../../../../09-rubrik/09_Rubrik_Formatif_Unit.md)
 
 ---
 
@@ -98,7 +98,7 @@ Pertemuan buka XI: ton “membangun solusi”, bukan sintaks baru. Hubungkan ke 
 | Field | Isi |
 |-------|-----|
 | Kode | XI-S3-P01 |
-| Modul pertemuan | [XI-S3-P01_aplikasi-sistem-ipo.md](../../../kelas-xi/semester-3/XI-S3-P01_aplikasi-sistem-ipo.md) |
+| Modul pertemuan | [XI-S3-P01_aplikasi-sistem-ipo.md](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P01_aplikasi-sistem-ipo.md) |
 | Unit | XI3.1 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CXI-B1 |
@@ -343,12 +343,12 @@ STATE: todos[]
 
 ## Rujukan
 
-- Modul: [XI-S3-P01](../../../kelas-xi/semester-3/XI-S3-P01_aplikasi-sistem-ipo.md)
+- Modul: [XI-S3-P01](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P01_aplikasi-sistem-ipo.md)
 - Lanjut: [P02 Blueprint & State](./XI-S3-P02_blueprint-state.md)
-- Spiral X S2: [X-S2_Materi_Index](../../kelas-x/semester-2/X-S2_Materi_Index.md) · [P18 Portofolio](../../kelas-x/semester-2/X-S2-P18_portofolio-tahun-x.md)
+- Spiral X S2: [X-S2_Materi_Index](../../../../base-2jp/kelas-x/semester-2/X-S2_Materi_Index.md) · [P18 Portofolio](../../../../base-2jp/kelas-x/semester-2/X-S2-P18_portofolio-tahun-x.md)
 - EXP kantin: [EXP_07_C Antrian Kantin](../../../07-experience_library/EXP_07_C_Antrian_Kantin.md) · [EXP_06 Kasir](../../../07-experience_library/EXP_06_Kasir_Minimarket.md)
 - CXI-B1 · MM-11
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 
@@ -371,7 +371,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -382,6 +382,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** Desain untuk pengguna lain — teliti sebelum rilis.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

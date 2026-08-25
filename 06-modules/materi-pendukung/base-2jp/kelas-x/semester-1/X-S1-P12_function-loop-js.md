@@ -9,7 +9,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | X-S1-P12 |
-| Modul pertemuan | [X-S1-P12_function-loop-js.md](../../../kelas-x/semester-1/X-S1-P12_function-loop-js.md) |
+| Modul pertemuan | [X-S1-P12_function-loop-js.md](../../../../base-2jp/kelas-x/semester-1/X-S1-P12_function-loop-js.md) |
 | Unit | X1.6 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CX-T2, CX-T3 |
@@ -250,11 +250,11 @@ console.log(x);
 
 ## Rujukan
 
-- Modul: [X-S1-P12](../../../kelas-x/semester-1/X-S1-P12_function-loop-js.md)
+- Modul: [X-S1-P12](../../../../base-2jp/kelas-x/semester-1/X-S1-P12_function-loop-js.md)
 - Sebelum: [P11 Loop](./X-S1-P11_kasir-loop.md)
 - Lanjut: [P13 Error & Debugging](./X-S1-P13_error-debugging.md)
 - MM-15 · CX-T2, CX-T3
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../00_Panduan_Etika_Penyampaian.md)
 
 ---
 

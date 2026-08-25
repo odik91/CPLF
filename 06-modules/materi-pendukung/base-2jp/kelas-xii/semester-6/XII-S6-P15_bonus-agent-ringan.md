@@ -3,7 +3,7 @@
 **Version:** 0.1 · **Audiens:** Guru MA — **RAHASIA GURU** (jangan dibagikan ke siswa)
 
 > **Status pertemuan:** **OPSIONAL** — skip seluruh P15 jika cohort belum selesai capstone P14 atau jam sempit. **Bukan syarat kelulusan.**  
-> **Panduan wajib (jika mengajar):** [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md)  
+> **Panduan wajib (jika mengajar):** [00_Panduan_Guru_CV_Etika.md](../../../00_Panduan_Guru_CV_Etika.md)  
 > **Project brief:** [PRJ-XII-S6-05 AI Agent Bonus](../../../../08-project/PRJ_XII_S6_05_AI_Agent_Bonus.md)
 
 ---
@@ -13,7 +13,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S6-P15 |
-| Modul pertemuan | [XII-S6-P15_bonus-agent-ringan.md](../../../kelas-xii/semester-6/XII-S6-P15_bonus-agent-ringan.md) |
+| Modul pertemuan | [XII-S6-P15_bonus-agent-ringan.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P15_bonus-agent-ringan.md) |
 | Semester | 6 · Pertemuan 15/18 |
 | Unit | XII6.7 |
 | Durasi referensi | 2 JP = 90 menit |
@@ -29,7 +29,7 @@
 | Kondisi | Rekomendasi |
 |---------|-------------|
 | Capstone P14 belum selesai / E1 open | **Skip P15** — prioritaskan P16–P18 |
-| Jam semester sempit | **Skip** — lihat [Panduan CV Etika](../../00_Panduan_Guru_CV_Etika.md) |
+| Jam semester sempit | **Skip** — lihat [Panduan CV Etika](../../../00_Panduan_Guru_CV_Etika.md) |
 | Cohort kuat + backend sekolah ada | Jalan P15 sebagai **eksplorasi bonus** |
 | Tidak ada proxy API sekolah | **Skip LLM branch** — cukup agent rule-based (DOM scroll) |
 
@@ -46,9 +46,9 @@
 | 3 | **Wajib jika API** — Secrets management | → [OWASP — Secrets Management Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Secrets_Management_Cheat_Sheet.html) |
 | 4 | MDN — fetch & CORS (proxy pattern) | → [MDN — Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) |
 | 5 | Google Responsible AI | → [Google AI — Responsible AI Practices](https://ai.google/responsibility/responsible-ai-practices/) |
-| 6 | Rubrik etika E3 (klarifikasi AI) | → [09_Rubrik_Etika_AI](../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
+| 6 | Rubrik etika E3 (klarifikasi AI) | → [09_Rubrik_Etika_AI](../../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
 | 7 | Project brief bonus | → [PRJ-XII-S6-05](../../../../08-project/PRJ_XII_S6_05_AI_Agent_Bonus.md) |
-| 8 | Panduan bonus agent CPLF | → [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md) *(bagian P15)* |
+| 8 | Panduan bonus agent CPLF | → [00_Panduan_Guru_CV_Etika.md](../../../00_Panduan_Guru_CV_Etika.md) *(bagian P15)* |
 
 ---
 
@@ -268,11 +268,11 @@ function runAgent(cmd) {
 
 ## Rujukan
 
-- Modul: [XII-S6-P15](../../../kelas-xii/semester-6/XII-S6-P15_bonus-agent-ringan.md)
+- Modul: [XII-S6-P15](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P15_bonus-agent-ringan.md)
 - Project: [PRJ-XII-S6-05](../../../../08-project/PRJ_XII_S6_05_AI_Agent_Bonus.md)
 - Sebelumnya: [P14 Presentasi Nilai](./XII-S6-P14_presentasi-nilai.md)
 - Lanjutan: [P16 Portofolio 3 Tahun](./XII-S6-P16_portofolio-3-tahun.md)
-- Rubrik etika E3: [09_Rubrik_Etika_AI](../../../../09-rubrik/09_Rubrik_Etika_AI.md)
+- Rubrik etika E3: [09_Rubrik_Etika_AI](../../../../../09-rubrik/09_Rubrik_Etika_AI.md)
 - Function calling (opsional): [OpenAI — Function calling](https://platform.openai.com/docs/guides/function-calling)
 
 ---

@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [XII-S6-P11_project-nilai-build-3_siswa.md](./XII-S6-P11_project-nilai-build-3_siswa.md)
 
-**Modul:** [XII-S6-P11_project-nilai-build-3.md](../../../kelas-xii/semester-6/XII-S6-P11_project-nilai-build-3.md)
+**Modul:** [XII-S6-P11_project-nilai-build-3.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P11_project-nilai-build-3.md)
 
-**Materi pendukung sumber:** [XII-S6-P11_project-nilai-build-3.md](../../../materi-pendukung/kelas-xii/semester-6/XII-S6-P11_project-nilai-build-3.md)
+**Materi pendukung sumber:** [XII-S6-P11_project-nilai-build-3.md](../../../../materi-pendukung/base-2jp/kelas-xii/semester-6/XII-S6-P11_project-nilai-build-3.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -65,8 +65,8 @@ Nilai XII: demo gagal yang jujur > akurasi 95% tanpa konteks.
 
 **Version:** 0.1 · **Audiens:** Guru MA — **RAHASIA GURU** (jangan dibagikan ke siswa)
 
-> **Panduan wajib:** [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md) · [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)  
-> **Rubrik etika wajib:** [09_Rubrik_Etika_AI — E1](../../../09-rubrik/09_Rubrik_Etika_AI.md)
+> **Panduan wajib:** [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md) · [00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)  
+> **Rubrik etika wajib:** [09_Rubrik_Etika_AI — E1](../../../../../09-rubrik/09_Rubrik_Etika_AI.md)
 
 ---
 
@@ -75,7 +75,7 @@ Nilai XII: demo gagal yang jujur > akurasi 95% tanpa konteks.
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S6-P11 |
-| Modul pertemuan | [XII-S6-P11_project-nilai-build-3.md](../../../kelas-xii/semester-6/XII-S6-P11_project-nilai-build-3.md) |
+| Modul pertemuan | [XII-S6-P11_project-nilai-build-3.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P11_project-nilai-build-3.md) |
 | Semester | 6 · Pertemuan 11/18 |
 | Unit | XII6.6 |
 | Durasi referensi | 2 JP = 90 menit |
@@ -89,15 +89,15 @@ Nilai XII: demo gagal yang jujur > akurasi 95% tanpa konteks.
 
 | # | Topik | Link |
 |---|-------|------|
-| 1 | **Wajib** — Rubrik Etika E1 | → [09_Rubrik_Etika_AI — E1](../../../09-rubrik/09_Rubrik_Etika_AI.md) |
-| 2 | **Wajib** — Rubrik Etika E4 | → [09_Rubrik_Etika_AI — E4](../../../09-rubrik/09_Rubrik_Etika_AI.md) |
+| 1 | **Wajib** — Rubrik Etika E1 | → [09_Rubrik_Etika_AI — E1](../../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
+| 2 | **Wajib** — Rubrik Etika E4 | → [09_Rubrik_Etika_AI — E4](../../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
 | 3 | Spiral S5 demo batasan | → [XII-S5-P14 materi](../../semester-5/XII-S5-P14_project-s5-demo-batasan.md) |
 | 4 | Model cards (inspirasi batasan) | → [Model Cards](https://modelcards.withgoogle.com/about) |
 | 5 | Google Responsible AI | → [Google AI Responsibility](https://ai.google/responsibility/responsible-ai-practices/) |
 | 6 | TF.js — failure modes CV | → [TF.js webcam tutorial](https://www.tensorflow.org/js/tutorials/transfer/learn_more) |
 | 7 | Teachable Machine — sample size | → [Teachable Machine FAQ](https://support.google.com/teachablemachine/) |
 | 8 | Panduan CV S6 | → [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md) |
-| 9 | Rubrik Project | → [09_Rubrik_Project.md](../../../09-rubrik/09_Rubrik_Project.md) |
+| 9 | Rubrik Project | → [09_Rubrik_Project.md](../../../../../09-rubrik/09_Rubrik_Project.md) |
 
 **Gate XII:** E1 = level 1 (sembunyikan gagal / overclaim) → **project dikembalikan** meski demo teknis mulus.
 
@@ -360,10 +360,10 @@ Tim **wajib**:
 
 ## Rujukan
 
-- Modul: [XII-S6-P11](../../../kelas-xii/semester-6/XII-S6-P11_project-nilai-build-3.md)
+- Modul: [XII-S6-P11](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P11_project-nilai-build-3.md)
 - Sebelumnya: [P10 Build 2](./XII-S6-P10_project-nilai-build-2.md)
 - Lanjutan: [P12 Peer Review Etika](./XII-S6-P12_peer-review-etika.md)
-- Rubrik: [Etika AI E1–E4](../../../09-rubrik/09_Rubrik_Etika_AI.md)
+- Rubrik: [Etika AI E1–E4](../../../../../09-rubrik/09_Rubrik_Etika_AI.md)
 - Spiral: [S5 P14 Demo Batasan](../../semester-5/XII-S5-P14_project-s5-demo-batasan.md)
 
 ---
@@ -386,7 +386,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -397,6 +397,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** AI/CV moderat, jujur, dan manfaat komunitas MA.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

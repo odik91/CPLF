@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [X-S2-P15_peer-review.md](../../../kelas-x/semester-2/X-S2-P15_peer-review.md)
+**Modul acuan:** [X-S2-P15_peer-review.md](../../../../base-2jp/kelas-x/semester-2/X-S2-P15_peer-review.md)
 
 ---
 
@@ -14,7 +14,7 @@ _Lihat modul pertemuan._
 
 - **Protokol peer review S2:** kritik **asumsi/kode/UX**, bukan orang — aturan dibuka 5 menit pertama.
 - **Timeline:** aturan peer → demo round-robin 3 menit → worksheet lengkap → revisi wajib ≥2 saran → update acceptance → exit catatan revisi.
-- **Rubrik peer:** [09_Rubrik_Peer_Review](../../../09-rubrik/09_Rubrik_Peer_Review.md) — 2 pujian spesifik + 2 saran dapat ditindak + 1 pertanyaan klarifikasi opsional.
+- **Rubrik peer:** [09_Rubrik_Peer_Review](../../../../../09-rubrik/09_Rubrik_Peer_Review.md) — 2 pujian spesifik + 2 saran dapat ditindak + 1 pertanyaan klarifikasi opsional.
 - **Perbedaan S1 vs S2 peer:** review **halaman web** — layout, validasi, interaksi DOM, bukan hanya logika console.
 - **Revisi wajib S2:** minimal **2 saran** diterapkan (S1 = 1) — bukti before/after.
 - **Guru wajib modelkan** 1 peer review sehat di depan kelas **sebelum** siswa mulai (modul catatan guru).
@@ -133,7 +133,7 @@ function tambah(nama) {
 
 **Kait di kelas hari ini:** Kritik kode/asumsi, bukan personal.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 
 ---

@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [XII-S6-P15_bonus-agent-ringan_siswa.md](./XII-S6-P15_bonus-agent-ringan_siswa.md)
 
-**Modul:** [XII-S6-P15_bonus-agent-ringan.md](../../../kelas-xii/semester-6/XII-S6-P15_bonus-agent-ringan.md)
+**Modul:** [XII-S6-P15_bonus-agent-ringan.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P15_bonus-agent-ringan.md)
 
-**Materi pendukung sumber:** [XII-S6-P15_bonus-agent-ringan.md](../../../materi-pendukung/kelas-xii/semester-6/XII-S6-P15_bonus-agent-ringan.md)
+**Materi pendukung sumber:** [XII-S6-P15_bonus-agent-ringan.md](../../../../materi-pendukung/base-2jp/kelas-xii/semester-6/XII-S6-P15_bonus-agent-ringan.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -83,7 +83,7 @@ Dari chatbot generik → **agent** = LLM memicu aksi terbatas di web.
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S6-P15 |
-| Modul pertemuan | [XII-S6-P15_bonus-agent-ringan.md](../../../kelas-xii/semester-6/XII-S6-P15_bonus-agent-ringan.md) |
+| Modul pertemuan | [XII-S6-P15_bonus-agent-ringan.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P15_bonus-agent-ringan.md) |
 | Semester | 6 · Pertemuan 15/18 |
 | Unit | XII6.7 |
 | Durasi referensi | 2 JP = 90 menit |
@@ -116,7 +116,7 @@ Dari chatbot generik → **agent** = LLM memicu aksi terbatas di web.
 | 3 | **Wajib jika API** — Secrets management | → [OWASP — Secrets Management Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Secrets_Management_Cheat_Sheet.html) |
 | 4 | MDN — fetch & CORS (proxy pattern) | → [MDN — Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) |
 | 5 | Google Responsible AI | → [Google AI — Responsible AI Practices](https://ai.google/responsibility/responsible-ai-practices/) |
-| 6 | Rubrik etika E3 (klarifikasi AI) | → [09_Rubrik_Etika_AI](../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
+| 6 | Rubrik etika E3 (klarifikasi AI) | → [09_Rubrik_Etika_AI](../../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
 | 7 | Project brief bonus | → [PRJ-XII-S6-05](../../../../08-project/PRJ_XII_S6_05_AI_Agent_Bonus.md) |
 | 8 | Panduan bonus agent CPLF | → [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md) *(bagian P15)* |
 
@@ -338,11 +338,11 @@ function runAgent(cmd) {
 
 ## Rujukan
 
-- Modul: [XII-S6-P15](../../../kelas-xii/semester-6/XII-S6-P15_bonus-agent-ringan.md)
+- Modul: [XII-S6-P15](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P15_bonus-agent-ringan.md)
 - Project: [PRJ-XII-S6-05](../../../../08-project/PRJ_XII_S6_05_AI_Agent_Bonus.md)
 - Sebelumnya: [P14 Presentasi Nilai](./XII-S6-P14_presentasi-nilai.md)
 - Lanjutan: [P16 Portofolio 3 Tahun](./XII-S6-P16_portofolio-3-tahun.md)
-- Rubrik etika E3: [09_Rubrik_Etika_AI](../../../../09-rubrik/09_Rubrik_Etika_AI.md)
+- Rubrik etika E3: [09_Rubrik_Etika_AI](../../../../../09-rubrik/09_Rubrik_Etika_AI.md)
 - Function calling (opsional): [OpenAI — Function calling](https://platform.openai.com/docs/guides/function-calling)
 
 ---
@@ -366,7 +366,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -377,6 +377,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** Kickoff project — janji tim & proses jujur.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

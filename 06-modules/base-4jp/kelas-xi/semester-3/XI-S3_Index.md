@@ -109,4 +109,4 @@ Rujukan yang sudah ada (jangan dicampur jadi S3 P03): [BRG-06 React SPA](../../.
 
 Slug usulan: `XI-S3-Pxx_<fokus>.md` (contoh P03 `multi-view`, P10 `soc`, P23 `project-s3-kickoff`).
 
-[← S2](../../kelas-x/semester-2/X-S2_Index.md) · [S4 →](../semester-4/XI-S4_Index.md)
+[← S2](../../../base-2jp/kelas-x/semester-2/X-S2_Index.md) · [S4 →](../semester-4/XI-S4_Index.md)

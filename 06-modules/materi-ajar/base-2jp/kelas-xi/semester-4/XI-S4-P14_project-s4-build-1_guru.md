@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [XI-S4-P14_project-s4-build-1_siswa.md](./XI-S4-P14_project-s4-build-1_siswa.md)
 
-**Modul:** [XI-S4-P14_project-s4-build-1.md](../../../kelas-xi/semester-4/XI-S4-P14_project-s4-build-1.md)
+**Modul:** [XI-S4-P14_project-s4-build-1.md](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P14_project-s4-build-1.md)
 
-**Materi pendukung sumber:** [XI-S4-P14_project-s4-build-1.md](../../../materi-pendukung/kelas-xi/semester-4/XI-S4-P14_project-s4-build-1.md)
+**Materi pendukung sumber:** [XI-S4-P14_project-s4-build-1.md](../../../../materi-pendukung/base-2jp/kelas-xi/semester-4/XI-S4-P14_project-s4-build-1.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -67,10 +67,10 @@ Intervensi conflict Git — jangan ambil alih repo siswa.
 | Field | Isi |
 |-------|-----|
 | Kode | XI-S4-P14 |
-| Modul pertemuan | [XI-S4-P14_project-s4-build-1](../../../kelas-xi/semester-4/XI-S4-P14_project-s4-build-1.md) |
+| Modul pertemuan | [XI-S4-P14_project-s4-build-1](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P14_project-s4-build-1.md) |
 | Unit | XI4.7 |
 | Durasi referensi | 2 JP = 90 menit |
-| PRJ | Lanjut PRJ-XI-S4-* (pilihan [P13 kickoff](../../../kelas-xi/semester-4/XI-S4-P13_project-s4-kickoff.md)) |
+| PRJ | Lanjut PRJ-XI-S4-* (pilihan [P13 kickoff](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P13_project-s4-kickoff.md)) |
 | Capability | ITR, TEC |
 | Ada live code? | **Facilitator + pair debug Git — bukan build untuk siswa** |
 
@@ -287,14 +287,14 @@ function loadItems() {
 
 ## 9. Rujukan
 
-- Modul pertemuan: [XI-S4-P14](../../../kelas-xi/semester-4/XI-S4-P14_project-s4-build-1.md)
+- Modul pertemuan: [XI-S4-P14](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P14_project-s4-build-1.md)
 - Kickoff: [P13 materi pendukung](./XI-S4-P13_project-s4-kickoff.md)
 - PRJ bank: [08_Project_Bank_Index](../../../08-project/08_Project_Bank_Index.md#kelas-xi--semester-4-data-async-kolaborasi)
-- Fetch: [XI-S4-P04](../../../kelas-xi/semester-4/XI-S4-P04_fetch-json.md)
-- Persist/error: [XI-S4-P07](../../../kelas-xi/semester-4/XI-S4-P07_localstorage-crud.md) · [P08](../../../kelas-xi/semester-4/XI-S4-P08_persistensi-error-state.md)
-- Git: [XI-S4-P12](../../../kelas-xi/semester-4/XI-S4-P12_branch-kolaborasi.md)
-- Rubrik: [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md)
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Fetch: [XI-S4-P04](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P04_fetch-json.md)
+- Persist/error: [XI-S4-P07](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P07_localstorage-crud.md) · [P08](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P08_persistensi-error-state.md)
+- Git: [XI-S4-P12](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P12_branch-kolaborasi.md)
+- Rubrik: [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 
@@ -318,7 +318,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -329,6 +329,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** Data & Git = amanah dan integritas.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

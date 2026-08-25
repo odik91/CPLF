@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [X-S1-P11_kasir-loop_siswa.md](./X-S1-P11_kasir-loop_siswa.md)
 
-**Modul:** [X-S1-P11_kasir-loop.md](../../../kelas-x/semester-1/X-S1-P11_kasir-loop.md)
+**Modul:** [X-S1-P11_kasir-loop.md](../../../../base-2jp/kelas-x/semester-1/X-S1-P11_kasir-loop.md)
 
-**Materi pendukung sumber:** [X-S1-P11_kasir-loop.md](../../../materi-pendukung/kelas-x/semester-1/X-S1-P11_kasir-loop.md)
+**Materi pendukung sumber:** [X-S1-P11_kasir-loop.md](../../../../materi-pendukung/base-2jp/kelas-x/semester-1/X-S1-P11_kasir-loop.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -73,7 +73,7 @@ console.log("Total:", total);
 | Field | Isi |
 |-------|-----|
 | Kode | X-S1-P11 |
-| Modul pertemuan | [X-S1-P11_kasir-loop.md](../../../kelas-x/semester-1/X-S1-P11_kasir-loop.md) |
+| Modul pertemuan | [X-S1-P11_kasir-loop.md](../../../../base-2jp/kelas-x/semester-1/X-S1-P11_kasir-loop.md) |
 | Unit | X1.6 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CX-T3, CX-T2 |
@@ -298,7 +298,7 @@ Variasi wajib — jangan angka sama dengan demo guru.
 
 ## Rujukan
 
-- Modul: [X-S1-P11](../../../kelas-x/semester-1/X-S1-P11_kasir-loop.md)
+- Modul: [X-S1-P11](../../../../base-2jp/kelas-x/semester-1/X-S1-P11_kasir-loop.md)
 - EXP: [EXP_06 Kasir](../../../07-experience_library/EXP_06_Kasir_Minimarket.md)
 - Sebelum: [P10 Variabel](./X-S1-P10_variabel-data.md)
 - Lanjut: [P12 Function](./X-S1-P12_function-loop-js.md)
@@ -324,7 +324,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -335,6 +335,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** Loop kasir = hitung dan catat dengan jujur (tidak curang takaran).
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

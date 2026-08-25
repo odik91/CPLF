@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [XI-S3-P07_struktur-data-nested_siswa.md](./XI-S3-P07_struktur-data-nested_siswa.md)
 
-**Modul:** [XI-S3-P07_struktur-data-nested.md](../../../kelas-xi/semester-3/XI-S3-P07_struktur-data-nested.md)
+**Modul:** [XI-S3-P07_struktur-data-nested.md](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P07_struktur-data-nested.md)
 
-**Materi pendukung sumber:** [XI-S3-P07_struktur-data-nested.md](../../../materi-pendukung/kelas-xi/semester-3/XI-S3-P07_struktur-data-nested.md)
+**Materi pendukung sumber:** [XI-S3-P07_struktur-data-nested.md](../../../../materi-pendukung/base-2jp/kelas-xi/semester-3/XI-S3-P07_struktur-data-nested.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -72,7 +72,7 @@ Rotasi varian EXP_07 A/B/C antar kelas paralel.
 | Field | Isi |
 |-------|-----|
 | Kode | XI-S3-P07 |
-| Modul pertemuan | [XI-S3-P07_struktur-data-nested.md](../../../kelas-xi/semester-3/XI-S3-P07_struktur-data-nested.md) |
+| Modul pertemuan | [XI-S3-P07_struktur-data-nested.md](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P07_struktur-data-nested.md) |
 | Unit | XI3.4 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CXI-B2 |
@@ -86,7 +86,7 @@ Rotasi varian EXP_07 A/B/C antar kelas paralel.
 
 | Konsep | Penjelasan guru |
 |--------|-----------------|
-| **Array of object** | Spiral [X-S2-P10](../../kelas-x/semester-2/X-S2-P10_object-state-crud.md) — hari ini **field bertingkat** |
+| **Array of object** | Spiral [X-S2-P10](../../../../base-2jp/kelas-x/semester-2/X-S2-P10_object-state-crud.md) — hari ini **field bertingkat** |
 | **Nested object** | `{ penulis: { nama, kelas } }` — akses `buku[i].penulis.nama` |
 | **Skema konsisten** | Semua record punya field sama — jangan campur `{ title }` dan `{ judul }` |
 | **ID unik** | EXP_07 spiral — nomor panggil = `id` digital; edit/hapus by id |
@@ -350,12 +350,12 @@ katalog.push({ id: 99, judul: "Baru", penulis: { nama: "C" }, status: "tersedia"
 
 ## Rujukan
 
-- Modul: [XI-S3-P07](../../../kelas-xi/semester-3/XI-S3-P07_struktur-data-nested.md)
+- Modul: [XI-S3-P07](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P07_struktur-data-nested.md)
 - EXP: [EXP_07 Perpustakaan](../../../07-experience_library/EXP_07_Perpustakaan.md)
-- Recall X: [X-S2-P10 Object CRUD](../../kelas-x/semester-2/X-S2-P10_object-state-crud.md)
+- Recall X: [X-S2-P10 Object CRUD](../../../../base-2jp/kelas-x/semester-2/X-S2-P10_object-state-crud.md)
 - Pola render: [P04 DOM Update Aman](./XI-S3-P04_dom-update-aman.md)
 - Lanjut: [P08 State Aplikasi](./XI-S3-P08_state-aplikasi.md)
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 
@@ -378,7 +378,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -389,6 +389,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** Desain untuk pengguna lain — teliti sebelum rilis.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

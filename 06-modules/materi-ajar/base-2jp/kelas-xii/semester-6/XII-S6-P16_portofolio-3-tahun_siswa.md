@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [XII-S6-P16_portofolio-3-tahun.md](../../../kelas-xii/semester-6/XII-S6-P16_portofolio-3-tahun.md)
+**Modul acuan:** [XII-S6-P16_portofolio-3-tahun.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P16_portofolio-3-tahun.md)
 
 ---
 
@@ -93,7 +93,7 @@ Protokol 2 menit/stasi:
 | Menit | Fase | Aktivitas |
 |-------|------|-----------|
 | 0–10 | Opening | Contoh portofolio: artefak + capability + refleksi |
-| 10–25 | Concept | [Progress Card](../../../09-rubrik/09_Progress_Card.md) · evidence links |
+| 10–25 | Concept | [Progress Card](../../../../../09-rubrik/09_Progress_Card.md) · evidence links |
 | 25–45 | Practice | Kurasi: 2 project terbaik/tahun + 1 capstone |
 | 45–60 | Practice | Tulis 3 capability terkuat + 1 growth area |
 | 60–75 | Peer | Gallery walk — sticky feedback |
@@ -131,7 +131,7 @@ Protokol 2 menit/stasi:
 
 **Kait di kelas hari ini:** Build iteratif — amanah waktu & kualitas kelompok.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 
 ---

@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [XI-S3-P13_project-s3-build-1_siswa.md](./XI-S3-P13_project-s3-build-1_siswa.md)
 
-**Modul:** [XI-S3-P13_project-s3-build-1.md](../../../kelas-xi/semester-3/XI-S3-P13_project-s3-build-1.md)
+**Modul:** [XI-S3-P13_project-s3-build-1.md](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P13_project-s3-build-1.md)
 
-**Materi pendukung sumber:** [XI-S3-P13_project-s3-build-1.md](../../../materi-pendukung/kelas-xi/semester-3/XI-S3-P13_project-s3-build-1.md)
+**Materi pendukung sumber:** [XI-S3-P13_project-s3-build-1.md](../../../../materi-pendukung/base-2jp/kelas-xi/semester-3/XI-S3-P13_project-s3-build-1.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -68,10 +68,10 @@ Target: ≥40% acceptance tercentang atau 1 fitur end-to-end jalan.
 | Field | Isi |
 |-------|-----|
 | Kode | XI-S3-P13 |
-| Modul pertemuan | [XI-S3-P13_project-s3-build-1](../../../kelas-xi/semester-3/XI-S3-P13_project-s3-build-1.md) |
+| Modul pertemuan | [XI-S3-P13_project-s3-build-1](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P13_project-s3-build-1.md) |
 | Unit | XI3.7 |
 | Durasi referensi | 2 JP = 90 menit |
-| PRJ | Lanjut PRJ-XI-S3-* (pilihan [P12 kickoff](../../../kelas-xi/semester-3/XI-S3-P12_project-s3-kickoff.md)) |
+| PRJ | Lanjut PRJ-XI-S3-* (pilihan [P12 kickoff](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P12_project-s3-kickoff.md)) |
 | Capability | ITR, TEC, OBS |
 | Ada live code? | **Facilitator + pair debug — bukan build untuk siswa** |
 
@@ -301,12 +301,12 @@ function handleSubmit(e) {
 
 ## 9. Rujukan
 
-- Modul pertemuan: [XI-S3-P13](../../../kelas-xi/semester-3/XI-S3-P13_project-s3-build-1.md)
-- Kickoff: [XI-S3-P12](../../../kelas-xi/semester-3/XI-S3-P12_project-s3-kickoff.md)
+- Modul pertemuan: [XI-S3-P13](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P13_project-s3-build-1.md)
+- Kickoff: [XI-S3-P12](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P12_project-s3-kickoff.md)
 - PRJ bank: [08_Project_Bank_Index](../../../08-project/08_Project_Bank_Index.md#kelas-xi--semester-3-interaksi--struktur)
-- Pemisahan tanggung jawab: [XI-S3-P10](../../../kelas-xi/semester-3/XI-S3-P10_pemisahan-tanggung-jawab.md)
-- Rubrik: [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md)
-- Etika: [00_Panduan_Etika_Penyampaian](../../00_Panduan_Etika_Penyampaian.md)
+- Pemisahan tanggung jawab: [XI-S3-P10](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P10_pemisahan-tanggung-jawab.md)
+- Rubrik: [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md)
+- Etika: [00_Panduan_Etika_Penyampaian](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 
@@ -330,7 +330,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -341,6 +341,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** Desain untuk pengguna lain — teliti sebelum rilis.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

@@ -9,7 +9,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | X-S2-P10 |
-| Modul pertemuan | [X-S2-P10_object-state-crud.md](../../../kelas-x/semester-2/X-S2-P10_object-state-crud.md) |
+| Modul pertemuan | [X-S2-P10_object-state-crud.md](../../../../base-2jp/kelas-x/semester-2/X-S2-P10_object-state-crud.md) |
 | Unit | X2.6 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CX-T2 |
@@ -306,12 +306,12 @@ if (todos[i].id === id) {
 
 ## Rujukan
 
-- Modul: [X-S2-P10](../../../kelas-x/semester-2/X-S2-P10_object-state-crud.md)
+- Modul: [X-S2-P10](../../../../base-2jp/kelas-x/semester-2/X-S2-P10_object-state-crud.md)
 - EXP: [EXP_07 Perpustakaan](../../../07-experience_library/EXP_07_Perpustakaan.md)
 - Recall S1: [P10 Variabel](../semester-1/X-S1-P10_variabel-data.md)
 - Sebelum: [P09 Array Render](./X-S2-P09_array-render-list.md)
 - Lanjut: [P11 Sintesis](./X-S2-P11_sintesis-halaman-mini.md)
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../00_Panduan_Etika_Penyampaian.md)
 
 ---
 

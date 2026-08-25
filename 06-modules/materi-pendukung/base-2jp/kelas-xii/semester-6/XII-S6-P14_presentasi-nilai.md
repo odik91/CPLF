@@ -2,8 +2,8 @@
 
 **Version:** 0.1 · **Audiens:** Guru MA — **RAHASIA GURU** (jangan dibagikan ke siswa)
 
-> **Panduan wajib:** [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md)  
-> **Rubrik penilaian:** [09_Rubrik_Project](../../../../09-rubrik/09_Rubrik_Project.md) · [09_Rubrik_Etika_AI](../../../../09-rubrik/09_Rubrik_Etika_AI.md)
+> **Panduan wajib:** [00_Panduan_Guru_CV_Etika.md](../../../00_Panduan_Guru_CV_Etika.md)  
+> **Rubrik penilaian:** [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md) · [09_Rubrik_Etika_AI](../../../../../09-rubrik/09_Rubrik_Etika_AI.md)
 
 ---
 
@@ -12,13 +12,13 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S6-P14 |
-| Modul pertemuan | [XII-S6-P14_presentasi-nilai.md](../../../kelas-xii/semester-6/XII-S6-P14_presentasi-nilai.md) |
+| Modul pertemuan | [XII-S6-P14_presentasi-nilai.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P14_presentasi-nilai.md) |
 | Semester | 6 · Pertemuan 14/18 |
 | Unit | XII6.6 |
 | Durasi referensi | 2 JP = 90 menit |
 | PRJ | PRJ-XII-S6-01…04 |
 | Capability | REA, COM, ITR, TEC · Etika E1–E4 |
-| Formatif / Sumatif | REA · COM · ITR · TEC · [Rubrik Project](../../../../09-rubrik/09_Rubrik_Project.md) + [Etika AI](../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
+| Formatif / Sumatif | REA · COM · ITR · TEC · [Rubrik Project](../../../../../09-rubrik/09_Rubrik_Project.md) + [Etika AI](../../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
 | Ada live code? | **Demo siswa** — penilaian proses + etika + argumen teknologi |
 
 ---
@@ -27,14 +27,14 @@
 
 | # | Topik | Link |
 |---|-------|------|
-| 1 | **Wajib** — Rubrik project (6 aspek + DoD) | → [09_Rubrik_Project](../../../../09-rubrik/09_Rubrik_Project.md) |
-| 2 | **Wajib** — Rubrik etika E1–E4 + gate kelulusan | → [09_Rubrik_Etika_AI](../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
-| 3 | Enam aspek CPLF | → [09_Rubrik_Enam_Aspek](../../../../09-rubrik/09_Rubrik_Enam_Aspek.md) |
-| 4 | Rubrik formatif unit | → [09_Rubrik_Formatif_Unit](../../../../09-rubrik/09_Rubrik_Formatif_Unit.md) |
+| 1 | **Wajib** — Rubrik project (6 aspek + DoD) | → [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md) |
+| 2 | **Wajib** — Rubrik etika E1–E4 + gate kelulusan | → [09_Rubrik_Etika_AI](../../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
+| 3 | Enam aspek CPLF | → [09_Rubrik_Enam_Aspek](../../../../../09-rubrik/09_Rubrik_Enam_Aspek.md) |
+| 4 | Rubrik formatif unit | → [09_Rubrik_Formatif_Unit](../../../../../09-rubrik/09_Rubrik_Formatif_Unit.md) |
 | 5 | Google Responsible AI | → [Google AI — Responsible AI Practices](https://ai.google/responsibility/responsible-ai-practices/) |
 | 6 | UNESCO AI ethics (ringkas) | → [UNESCO AI Ethics Recommendation](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics) |
 | 7 | Model cards (standar batasan) | → [Model Cards — Google](https://modelcards.withgoogle.com/about) |
-| 8 | Panduan CV & etika CPLF | → [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md) |
+| 8 | Panduan CV & etika CPLF | → [00_Panduan_Guru_CV_Etika.md](../../../00_Panduan_Guru_CV_Etika.md) |
 
 ---
 
@@ -264,11 +264,11 @@ Setelah presentasi — per tim:
 
 ## Rujukan
 
-- Modul: [XII-S6-P14](../../../kelas-xii/semester-6/XII-S6-P14_presentasi-nilai.md)
+- Modul: [XII-S6-P14](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P14_presentasi-nilai.md)
 - Sebelumnya: [P13 Revisi Capstone](./XII-S6-P13_revisi-capstone.md)
 - Lanjutan: [P15 Bonus Agent](./XII-S6-P15_bonus-agent-ringan.md) *(opsional)* · [P16 Portofolio](./XII-S6-P16_portofolio-3-tahun.md)
-- Rubrik: [09_Rubrik_Project](../../../../09-rubrik/09_Rubrik_Project.md) · [09_Rubrik_Etika_AI](../../../../09-rubrik/09_Rubrik_Etika_AI.md)
-- Panduan: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Rubrik: [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md) · [09_Rubrik_Etika_AI](../../../../../09-rubrik/09_Rubrik_Etika_AI.md)
+- Panduan: [00_Panduan_Etika_Penyampaian.md](../../../00_Panduan_Etika_Penyampaian.md)
 
 ---
 

@@ -7,7 +7,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | X-S1-P01 |
-| Modul pertemuan | [X-S1-P01_masalah-sebelum-solusi.md](../../../kelas-x/semester-1/X-S1-P01_masalah-sebelum-solusi.md) |
+| Modul pertemuan | [X-S1-P01_masalah-sebelum-solusi.md](../../../../base-4jp/kelas-x/semester-1/X-S1-P01_masalah-sebelum-solusi.md) |
 | Semester | 1 · Pertemuan 1/18 |
 | Unit | X1.1 |
 | Durasi referensi | 2 JP (90 menit) |
@@ -226,8 +226,8 @@ LANGKAH C: Selesai
 
 ## 9. Rujukan
 
-- Modul: [X-S1-P01](../../../kelas-x/semester-1/X-S1-P01_masalah-sebelum-solusi.md)
-- [X-S1_Index](../../../kelas-x/semester-1/X-S1_Index.md)
+- Modul: [X-S1-P01](../../../../base-4jp/kelas-x/semester-1/X-S1-P01_masalah-sebelum-solusi.md)
+- [X-S1_Index](../../../../base-4jp/kelas-x/semester-1/X-S1_Index.md)
 - Rubrik formatif: [09_Rubrik_Formatif_Unit.md](../../../../09-rubrik/09_Rubrik_Formatif_Unit.md) — fokus **REA**, **OBS**
 - MM: MM-01, MM-00 (pengantar)
 - Preview literasi: P02 [EXP_03](../../../../07-experience_library/EXP_03_Google_Jaguar.md)

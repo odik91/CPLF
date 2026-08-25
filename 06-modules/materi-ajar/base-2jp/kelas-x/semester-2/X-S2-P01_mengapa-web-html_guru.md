@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [X-S2-P01_mengapa-web-html_siswa.md](./X-S2-P01_mengapa-web-html_siswa.md)
 
-**Modul:** [X-S2-P01_mengapa-web-html.md](../../../kelas-x/semester-2/X-S2-P01_mengapa-web-html.md)
+**Modul:** [X-S2-P01_mengapa-web-html.md](../../../../base-2jp/kelas-x/semester-2/X-S2-P01_mengapa-web-html.md)
 
-**Materi pendukung sumber:** [X-S2-P01_mengapa-web-html.md](../../../materi-pendukung/kelas-x/semester-2/X-S2-P01_mengapa-web-html.md)
+**Materi pendukung sumber:** [X-S2-P01_mengapa-web-html.md](../../../../materi-pendukung/base-2jp/kelas-x/semester-2/X-S2-P01_mengapa-web-html.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -65,7 +65,7 @@ Pertemuan buka Semester 2 — singkat recap S1 (5 menit max).
 | Field | Isi |
 |-------|-----|
 | Kode | X-S2-P01 |
-| Modul pertemuan | [X-S2-P01_mengapa-web-html.md](../../../kelas-x/semester-2/X-S2-P01_mengapa-web-html.md) |
+| Modul pertemuan | [X-S2-P01_mengapa-web-html.md](../../../../base-2jp/kelas-x/semester-2/X-S2-P01_mengapa-web-html.md) |
 | Unit | X2.1 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CX-T1 |
@@ -337,12 +337,12 @@ Siswa **mengetik versi sendiri** — variasi wajib:
 
 ## Rujukan
 
-- Modul: [X-S2-P01](../../../kelas-x/semester-2/X-S2-P01_mengapa-web-html.md)
+- Modul: [X-S2-P01](../../../../base-2jp/kelas-x/semester-2/X-S2-P01_mengapa-web-html.md)
 - EXP: [EXP_02_B Website Bagus](../../../07-experience_library/EXP_02_B_Website_Bagus.md)
 - Sebelum (S1): [X-S1-P18 Showcase](../semester-1/X-S1-P18_showcase-refleksi-s1.md)
 - Lanjut: [P02 HTML Semantik](./X-S2-P02_html-semantik-ma.md)
 - MM-16 · CX-T1
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 
@@ -365,7 +365,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -376,6 +376,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** Web & kolaborasi — manfaatkan untuk sesama.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

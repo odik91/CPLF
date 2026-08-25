@@ -17,7 +17,7 @@ Dari kumpulan file → **portofolio** capability siap XII.
 | Menit | Fase | Aktivitas |
 |-------|------|-----------|
 | 0–10 | Opening | Contoh portofolio: project + reasoning + capability |
-| 10–30 | Concept | [Progress Card](../../../09-rubrik/09_Progress_Card.md) · evidence links |
+| 10–30 | Concept | [Progress Card](../../../../09-rubrik/09_Progress_Card.md) · evidence links |
 | 30–60 | Practice | Susun portofolio (Notion/GitHub Pages/kertas): S3 + S4 |
 | 60–75 | Peer | Gallery walk — 1 feedback sticky |
 | 75–85 | Reflect | 3 capability CXI terkuat · 1 target XII |

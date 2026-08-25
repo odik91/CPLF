@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [X-S2-P02_html-semantik-ma_siswa.md](./X-S2-P02_html-semantik-ma_siswa.md)
 
-**Modul:** [X-S2-P02_html-semantik-ma.md](../../../kelas-x/semester-2/X-S2-P02_html-semantik-ma.md)
+**Modul:** [X-S2-P02_html-semantik-ma.md](../../../../base-2jp/kelas-x/semester-2/X-S2-P02_html-semantik-ma.md)
 
-**Materi pendukung sumber:** [X-S2-P02_html-semantik-ma.md](../../../materi-pendukung/kelas-x/semester-2/X-S2-P02_html-semantik-ma.md)
+**Materi pendukung sumber:** [X-S2-P02_html-semantik-ma.md](../../../../materi-pendukung/base-2jp/kelas-x/semester-2/X-S2-P02_html-semantik-ma.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -58,7 +58,7 @@ Dari “tag sembarang” → **semantik** (`header`, `main`, `section`, `footer`
 | Field | Isi |
 |-------|-----|
 | Kode | X-S2-P02 |
-| Modul pertemuan | [X-S2-P02_html-semantik-ma.md](../../../kelas-x/semester-2/X-S2-P02_html-semantik-ma.md) |
+| Modul pertemuan | [X-S2-P02_html-semantik-ma.md](../../../../base-2jp/kelas-x/semester-2/X-S2-P02_html-semantik-ma.md) |
 | Unit | X2.1 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CX-T1, CX-K1 |
@@ -324,11 +324,11 @@ Jawab: "Mengapa `<main>` penting?" — satu kalimat
 
 ## Rujukan
 
-- Modul: [X-S2-P02](../../../kelas-x/semester-2/X-S2-P02_html-semantik-ma.md)
+- Modul: [X-S2-P02](../../../../base-2jp/kelas-x/semester-2/X-S2-P02_html-semantik-ma.md)
 - Sebelum: [P01 Mengapa Web](./X-S2-P01_mengapa-web-html.md)
 - Lanjut: [P03 CSS Layout](./X-S2-P03_css-layout-dasar.md)
 - CX-T1, CX-K1
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 
@@ -351,7 +351,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -362,6 +362,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** HTML semantik = ihsan kepada pengguna (mis. screen reader).
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

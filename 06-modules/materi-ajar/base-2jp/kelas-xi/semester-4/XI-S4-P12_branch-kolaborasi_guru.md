@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [XI-S4-P12_branch-kolaborasi_siswa.md](./XI-S4-P12_branch-kolaborasi_siswa.md)
 
-**Modul:** [XI-S4-P12_branch-kolaborasi.md](../../../kelas-xi/semester-4/XI-S4-P12_branch-kolaborasi.md)
+**Modul:** [XI-S4-P12_branch-kolaborasi.md](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P12_branch-kolaborasi.md)
 
-**Materi pendukung sumber:** [XI-S4-P12_branch-kolaborasi.md](../../../materi-pendukung/kelas-xi/semester-4/XI-S4-P12_branch-kolaborasi.md)
+**Materi pendukung sumber:** [XI-S4-P12_branch-kolaborasi.md](../../../../materi-pendukung/base-2jp/kelas-xi/semester-4/XI-S4-P12_branch-kolaborasi.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -71,7 +71,7 @@ Minimum 2 kontributor di repo untuk PRJ S4-04 Portal.
 | Field | Isi |
 |-------|-----|
 | Kode | XI-S4-P12 |
-| Modul pertemuan | [XI-S4-P12_branch-kolaborasi.md](../../../kelas-xi/semester-4/XI-S4-P12_branch-kolaborasi.md) |
+| Modul pertemuan | [XI-S4-P12_branch-kolaborasi.md](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P12_branch-kolaborasi.md) |
 | Unit | XI4.6 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CXI-T5, CXI-K2 |
@@ -326,12 +326,12 @@ git merge feat/export-backup
 
 ## Rujukan
 
-- Modul: [XI-S4-P12](../../../kelas-xi/semester-4/XI-S4-P12_branch-kolaborasi.md)
+- Modul: [XI-S4-P12](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P12_branch-kolaborasi.md)
 - Git dasar: [P11 Git Dasar](./XI-S4-P11_git-dasar.md)
 - Export fitur: [P08 Error State](./XI-S4-P08_persistensi-error-state.md)
 - Kickoff tim: [P13 Project S4 Kickoff](./XI-S4-P13_project-s4-kickoff.md)
 - Peer review: [P16 Peer Review Git](./XI-S4-P16_peer-review-git.md)
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 
@@ -354,7 +354,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -365,6 +365,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** Data & Git = amanah dan integritas.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

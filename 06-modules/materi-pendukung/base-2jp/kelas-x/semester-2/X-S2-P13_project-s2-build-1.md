@@ -9,10 +9,10 @@
 | Field | Isi |
 |-------|-----|
 | Kode | X-S2-P13 |
-| Modul pertemuan | [X-S2-P13_project-s2-build-1](../../../kelas-x/semester-2/X-S2-P13_project-s2-build-1.md) |
+| Modul pertemuan | [X-S2-P13_project-s2-build-1](../../../../base-2jp/kelas-x/semester-2/X-S2-P13_project-s2-build-1.md) |
 | Unit | X2.7 |
 | Durasi referensi | 2 JP = 90 menit |
-| PRJ | Lanjut PRJ-X-S2-* (pilihan [P12 kickoff](../../../kelas-x/semester-2/X-S2-P12_project-s2-kickoff.md)) |
+| PRJ | Lanjut PRJ-X-S2-* (pilihan [P12 kickoff](../../../../base-2jp/kelas-x/semester-2/X-S2-P12_project-s2-kickoff.md)) |
 | Capability | ITR, TEC, OBS |
 | Ada live code? | **Facilitator + debug clinic — bukan build untuk siswa** |
 
@@ -222,12 +222,12 @@ document.querySelector("#btnHitung").addEventListener("click", hitung);
 
 ## 9. Rujukan
 
-- Modul pertemuan: [X-S2-P13](../../../kelas-x/semester-2/X-S2-P13_project-s2-build-1.md)
-- Kickoff: [X-S2-P12](../../../kelas-x/semester-2/X-S2-P12_project-s2-kickoff.md)
+- Modul pertemuan: [X-S2-P13](../../../../base-2jp/kelas-x/semester-2/X-S2-P13_project-s2-build-1.md)
+- Kickoff: [X-S2-P12](../../../../base-2jp/kelas-x/semester-2/X-S2-P12_project-s2-kickoff.md)
 - PRJ bank: [08_Project_Bank_Index](../../../08-project/08_Project_Bank_Index.md#kelas-x--semester-2-web-sebagai-ekspresi)
 - Panduan project: [00_Panduan_Pertemuan Kelas X](../../../kelas-x/00_Panduan_Pertemuan.md)
 - Rubrik: [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md)
-- Etika: [00_Panduan_Etika_Penyampaian](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian](../../../00_Panduan_Etika_Penyampaian.md)
 
 ---
 

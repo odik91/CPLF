@@ -9,7 +9,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XI-S3-P15 |
-| Modul pertemuan | [XI-S3-P15_project-s3-demo-peer](../../../kelas-xi/semester-3/XI-S3-P15_project-s3-demo-peer.md) |
+| Modul pertemuan | [XI-S3-P15_project-s3-demo-peer](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P15_project-s3-demo-peer.md) |
 | Unit | XI3.7 |
 | Durasi referensi | 2 JP = 90 menit |
 | PRJ | Lanjut PRJ-XI-S3-* |
@@ -246,12 +246,12 @@ export function render({ items }) {
 
 ## 9. Rujukan
 
-- Modul pertemuan: [XI-S3-P15](../../../kelas-xi/semester-3/XI-S3-P15_project-s3-demo-peer.md)
+- Modul pertemuan: [XI-S3-P15](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P15_project-s3-demo-peer.md)
 - Build prep: [P14 materi pendukung](./XI-S3-P14_project-s3-build-2.md)
 - Code review next: [P16 materi pendukung](./XI-S3-P16_code-review-kualitas.md)
 - Rubrik peer (preview P16): [09_Rubrik_Peer_Review](../../../09-rubrik/09_Rubrik_Peer_Review.md)
 - Rubrik project: [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md)
-- Etika: [00_Panduan_Etika_Penyampaian](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian](../../../00_Panduan_Etika_Penyampaian.md)
 
 ---
 

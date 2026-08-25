@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [X-S1-P10_variabel-data.md](../../../kelas-x/semester-1/X-S1-P10_variabel-data.md)
+**Modul acuan:** [X-S1-P10_variabel-data.md](../../../../base-2jp/kelas-x/semester-1/X-S1-P10_variabel-data.md)
 
 ---
 
@@ -142,7 +142,7 @@ console.log(nis, poin);
 
 **Kait di kelas hari ini:** Data & variabel = fondasi ilmu yang terukur.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 
 ---

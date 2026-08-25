@@ -5,7 +5,7 @@
 **Pertemuan:** **34** × **4 JP** (180 menit) · 2 pertemuan/minggu  
 **Pola:** ~2 JP teori + ~2 JP praktik terkait · bridging digabung  
 **Fondasi:** [Learning Compass](../../../../03-framework/03_Learning_Compass_CPLF.md) · [Panduan 4JP](../00_Panduan_Pertemuan_4JP.md) · [Bloom C1–C6](../00_Taksonomi_Bloom_CPLF_4JP.md)  
-**Arsip 2JP (jangan diubah / jangan dipakai sebagai silabus 4JP):** [kelas-x S2 18×2JP](../../../kelas-x/semester-2/X-S2_Index.md)  
+**Arsip 2JP (jangan diubah / jangan dipakai sebagai silabus 4JP):** [kelas-x S2 18×2JP](../../../base-2jp/kelas-x/semester-2/X-S2_Index.md)  
 **Keputusan:** [00_Evaluasi_Roadmap_4JP.md](../../00_Evaluasi_Roadmap_4JP.md) · [Peta S1–S6](../../00_Index_Journey_S1-S6.md)
 
 > Pengayaan: di freeze 2JP, S2 = HTML/CSS + DOM sangat dasar. Di **4JP**, HTML/CSS **sudah** di S1 → S2 **bukan** ulangi tag/layout dari nol.

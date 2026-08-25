@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [XII-S5-P01_ai-ml-dl-peta.md](../../../kelas-xii/semester-5/XII-S5-P01_ai-ml-dl-peta.md)
+**Modul acuan:** [XII-S5-P01_ai-ml-dl-peta.md](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P01_ai-ml-dl-peta.md)
 
 ---
 
@@ -213,7 +213,7 @@ LOOP: user klik → data baru → rekomendasi berubah
 
 **Kait di kelas hari ini:** Data & model — keadilan dan dampak ke sesama.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 ## 10. Materi pendamping BRG
 

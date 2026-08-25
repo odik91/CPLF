@@ -9,7 +9,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | X-S2-P18 |
-| Modul pertemuan | [X-S2-P18_portofolio-tahun-x](../../../kelas-x/semester-2/X-S2-P18_portofolio-tahun-x.md) |
+| Modul pertemuan | [X-S2-P18_portofolio-tahun-x](../../../../base-2jp/kelas-x/semester-2/X-S2-P18_portofolio-tahun-x.md) |
 | Unit | X2.8 (penutup tahun X) |
 | Durasi referensi | 2 JP = 90 menit |
 | Rubrik | [09_Progress_Card](../../../09-rubrik/09_Progress_Card.md) |
@@ -230,15 +230,15 @@ Portofolio **bukan** membaca kode baru. Gunakan **cuplikan artefak siswa** (anon
 
 ## 9. Rujukan
 
-- Modul pertemuan: [X-S2-P18](../../../kelas-x/semester-2/X-S2-P18_portofolio-tahun-x.md)
+- Modul pertemuan: [X-S2-P18](../../../../base-2jp/kelas-x/semester-2/X-S2-P18_portofolio-tahun-x.md)
 - Progress Card: [09_Progress_Card](../../../09-rubrik/09_Progress_Card.md)
 - Rubrik project: [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md)
 - Presentasi S2: [P17 materi pendukung](./X-S2-P17_presentasi-s2.md)
 - Showcase S1: [X-S1-P18](../semester-1/X-S1-P18_showcase-refleksi-s1.md)
-- Indeks tahun X: [X-S2_Index](../../../kelas-x/semester-2/X-S2_Index.md) · [X-S1_Index](../../../kelas-x/semester-1/X-S1_Index.md)
+- Indeks tahun X: [X-S2_Index](../../../../base-2jp/kelas-x/semester-2/X-S2_Index.md) · [X-S1_Index](../../../../base-2jp/kelas-x/semester-1/X-S1_Index.md)
 - Silabus: [05_Silabus_Kelas_X](../../../05-silabus/05_Silabus_Kelas_X.md)
 - PRJ bank: [08_Project_Bank_Index](../../../08-project/08_Project_Bank_Index.md)
-- Etika: [00_Panduan_Etika_Penyampaian](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian](../../../00_Panduan_Etika_Penyampaian.md)
 
 ---
 

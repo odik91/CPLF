@@ -9,10 +9,10 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XI-S3-P13 |
-| Modul pertemuan | [XI-S3-P13_project-s3-build-1](../../../kelas-xi/semester-3/XI-S3-P13_project-s3-build-1.md) |
+| Modul pertemuan | [XI-S3-P13_project-s3-build-1](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P13_project-s3-build-1.md) |
 | Unit | XI3.7 |
 | Durasi referensi | 2 JP = 90 menit |
-| PRJ | Lanjut PRJ-XI-S3-* (pilihan [P12 kickoff](../../../kelas-xi/semester-3/XI-S3-P12_project-s3-kickoff.md)) |
+| PRJ | Lanjut PRJ-XI-S3-* (pilihan [P12 kickoff](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P12_project-s3-kickoff.md)) |
 | Capability | ITR, TEC, OBS |
 | Ada live code? | **Facilitator + pair debug — bukan build untuk siswa** |
 
@@ -242,12 +242,12 @@ function handleSubmit(e) {
 
 ## 9. Rujukan
 
-- Modul pertemuan: [XI-S3-P13](../../../kelas-xi/semester-3/XI-S3-P13_project-s3-build-1.md)
-- Kickoff: [XI-S3-P12](../../../kelas-xi/semester-3/XI-S3-P12_project-s3-kickoff.md)
+- Modul pertemuan: [XI-S3-P13](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P13_project-s3-build-1.md)
+- Kickoff: [XI-S3-P12](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P12_project-s3-kickoff.md)
 - PRJ bank: [08_Project_Bank_Index](../../../08-project/08_Project_Bank_Index.md#kelas-xi--semester-3-interaksi--struktur)
-- Pemisahan tanggung jawab: [XI-S3-P10](../../../kelas-xi/semester-3/XI-S3-P10_pemisahan-tanggung-jawab.md)
+- Pemisahan tanggung jawab: [XI-S3-P10](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P10_pemisahan-tanggung-jawab.md)
 - Rubrik: [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md)
-- Etika: [00_Panduan_Etika_Penyampaian](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian](../../../00_Panduan_Etika_Penyampaian.md)
 
 ---
 

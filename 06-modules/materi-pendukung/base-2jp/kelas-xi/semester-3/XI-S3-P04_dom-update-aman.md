@@ -9,7 +9,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XI-S3-P04 |
-| Modul pertemuan | [XI-S3-P04_dom-update-aman.md](../../../kelas-xi/semester-3/XI-S3-P04_dom-update-aman.md) |
+| Modul pertemuan | [XI-S3-P04_dom-update-aman.md](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P04_dom-update-aman.md) |
 | Unit | XI3.2 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CXI-T1 |
@@ -299,12 +299,12 @@ render();
 
 ## Rujukan
 
-- Modul: [XI-S3-P04](../../../kelas-xi/semester-3/XI-S3-P04_dom-update-aman.md)
+- Modul: [XI-S3-P04](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P04_dom-update-aman.md)
 - Sebelum: [P03 DOM Antarmuka](./XI-S3-P03_dom-antarmuka-hidup.md)
 - Lanjut: [P05 Event & User Flow](./XI-S3-P05_event-user-flow.md)
 - Spiral X: [X-S2-P10 Object CRUD](../../kelas-x/semester-2/X-S2-P10_object-state-crud.md) · [X-S2-P06 render](../../kelas-x/semester-2/X-S2-P06_event-interaksi.md)
 - CXI-T1
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../00_Panduan_Etika_Penyampaian.md)
 
 ---
 

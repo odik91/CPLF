@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [XI-S3-P18_showcase-refleksi-s3.md](../../../kelas-xi/semester-3/XI-S3-P18_showcase-refleksi-s3.md)
+**Modul acuan:** [XI-S3-P18_showcase-refleksi-s3.md](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P18_showcase-refleksi-s3.md)
 
 ---
 
@@ -30,7 +30,7 @@ Dari project selesai → **bukti capability** + refleksi growth.
 | 2–4 | Demo DoD — live browser |
 | 4–5 | Iterasi (before/after) + transfer S4 |
 
-- **Rubrik:** [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md) — REA, ITR, COM, TEC — guru isi, **bukan** ranking di depan kelas.
+- **Rubrik:** [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md) — REA, ITR, COM, TEC — guru isi, **bukan** ranking di depan kelas.
 - **Peer Q&A:** 2 pertanyaan bernalar + 1 apresiasi spesifik — bukan roast.
 - **Jurnal refleksi:** dari Kelas X ke XI S3 — **3 perubahan cara berpikir** (bukan daftar fitur).
 - **Undang wali/OSIS opsional** — simpan link artefak untuk portofolio S4 P18 (modul).
@@ -45,7 +45,7 @@ Dari project selesai → **bukti capability** + refleksi growth.
 Jelaskan ke siswa — **bukan** angka skor:
 
 - Dinilai: clarity masalah, demo DoD, **reasoning** IPO/state, iterasi peer, transfer, respons Q&A
-- Rubrik lengkap guru: [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md)
+- Rubrik lengkap guru: [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md)
 - Gate DoD: acceptance wajib ✅ sebelum skor penuh
 
 ### Showcase bergiliran (0–55 menit)
@@ -140,7 +140,7 @@ Guru keliling — clarifying questions: "Contoh konkret dari PRJ kamu?"
 
 **Kait di kelas hari ini:** Showcase/refleksi semester — syukur ilmu, bukan sombong.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 
 ---

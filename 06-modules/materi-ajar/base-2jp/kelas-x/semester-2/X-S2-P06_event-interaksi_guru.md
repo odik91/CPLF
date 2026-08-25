@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [X-S2-P06_event-interaksi_siswa.md](./X-S2-P06_event-interaksi_siswa.md)
 
-**Modul:** [X-S2-P06_event-interaksi.md](../../../kelas-x/semester-2/X-S2-P06_event-interaksi.md)
+**Modul:** [X-S2-P06_event-interaksi.md](../../../../base-2jp/kelas-x/semester-2/X-S2-P06_event-interaksi.md)
 
-**Materi pendukung sumber:** [X-S2-P06_event-interaksi.md](../../../materi-pendukung/kelas-x/semester-2/X-S2-P06_event-interaksi.md)
+**Materi pendukung sumber:** [X-S2-P06_event-interaksi.md](../../../../materi-pendukung/base-2jp/kelas-x/semester-2/X-S2-P06_event-interaksi.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -58,7 +58,7 @@ Dari “satu klik” → **model interaksi** (input, toggle, counter).
 | Field | Isi |
 |-------|-----|
 | Kode | X-S2-P06 |
-| Modul pertemuan | [X-S2-P06_event-interaksi.md](../../../kelas-x/semester-2/X-S2-P06_event-interaksi.md) |
+| Modul pertemuan | [X-S2-P06_event-interaksi.md](../../../../base-2jp/kelas-x/semester-2/X-S2-P06_event-interaksi.md) |
 | Unit | X2.3 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CX-T3 |
@@ -361,12 +361,12 @@ Pilih **satu** + extension:
 
 ## Rujukan
 
-- Modul: [X-S2-P06](../../../kelas-x/semester-2/X-S2-P06_event-interaksi.md)
+- Modul: [X-S2-P06](../../../../base-2jp/kelas-x/semester-2/X-S2-P06_event-interaksi.md)
 - Sebelum: [P05 JS DOM](./X-S2-P05_js-dom-klik.md)
 - Lanjut: [P07 Form Validasi](./X-S2-P07_form-validasi.md)
 - Project preview: [08-project README](../../../../08-project/README.md)
 - CX-T3
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 
@@ -389,7 +389,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -400,6 +400,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** Web & kolaborasi — manfaatkan untuk sesama.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

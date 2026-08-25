@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [X-S1-P12_function-loop-js.md](../../../kelas-x/semester-1/X-S1-P12_function-loop-js.md)
+**Modul acuan:** [X-S1-P12_function-loop-js.md](../../../../base-2jp/kelas-x/semester-1/X-S1-P12_function-loop-js.md)
 
 ---
 
@@ -155,7 +155,7 @@ console.log(x);
 
 **Kait di kelas hari ini:** Function = tanggung jawab terpisah — ilmu terorganisir.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 
 ---

@@ -9,7 +9,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XI-S3-P17 |
-| Modul pertemuan | [XI-S3-P17_review-spiral-s3](../../../kelas-xi/semester-3/XI-S3-P17_review-spiral-s3.md) |
+| Modul pertemuan | [XI-S3-P17_review-spiral-s3](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P17_review-spiral-s3.md) |
 | Unit | XI3.1–6 (integratif) |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | OBS, REA, TRF |
@@ -266,14 +266,14 @@ import { items } from "./state.js"; // read + state imports render
 
 ## 9. Rujukan
 
-- Modul pertemuan: [XI-S3-P17](../../../kelas-xi/semester-3/XI-S3-P17_review-spiral-s3.md)
-- IPO & sistem: [XI-S3-P01](../../../kelas-xi/semester-3/XI-S3-P01_aplikasi-sistem-ipo.md)
-- DOM & render: [XI-S3-P03](../../../kelas-xi/semester-3/XI-S3-P03_dom-antarmuka-hidup.md) · [P04](../../../kelas-xi/semester-3/XI-S3-P04_dom-update-aman.md)
-- State & modul: [XI-S3-P08](../../../kelas-xi/semester-3/XI-S3-P08_state-aplikasi.md) · [P10](../../../kelas-xi/semester-3/XI-S3-P10_pemisahan-tanggung-jawab.md)
+- Modul pertemuan: [XI-S3-P17](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P17_review-spiral-s3.md)
+- IPO & sistem: [XI-S3-P01](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P01_aplikasi-sistem-ipo.md)
+- DOM & render: [XI-S3-P03](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P03_dom-antarmuka-hidup.md) · [P04](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P04_dom-update-aman.md)
+- State & modul: [XI-S3-P08](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P08_state-aplikasi.md) · [P10](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P10_pemisahan-tanggung-jawab.md)
 - Code review: [P16 materi pendukung](./XI-S3-P16_code-review-kualitas.md)
 - Showcase next: [P18 materi pendukung](./XI-S3-P18_showcase-refleksi-s3.md)
-- Indeks S3: [XI-S3_Index](../../../kelas-xi/semester-3/XI-S3_Index.md)
-- Etika: [00_Panduan_Etika_Penyampaian](../../00_Panduan_Etika_Penyampaian.md)
+- Indeks S3: [XI-S3_Index](../../../../base-2jp/kelas-xi/semester-3/XI-S3_Index.md)
+- Etika: [00_Panduan_Etika_Penyampaian](../../../00_Panduan_Etika_Penyampaian.md)
 
 ---
 

@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [XI-S4-P07_localstorage-crud_siswa.md](./XI-S4-P07_localstorage-crud_siswa.md)
 
-**Modul:** [XI-S4-P07_localstorage-crud.md](../../../kelas-xi/semester-4/XI-S4-P07_localstorage-crud.md)
+**Modul:** [XI-S4-P07_localstorage-crud.md](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P07_localstorage-crud.md)
 
-**Materi pendukung sumber:** [XI-S4-P07_localstorage-crud.md](../../../materi-pendukung/kelas-xi/semester-4/XI-S4-P07_localstorage-crud.md)
+**Materi pendukung sumber:** [XI-S4-P07_localstorage-crud.md](../../../../materi-pendukung/base-2jp/kelas-xi/semester-4/XI-S4-P07_localstorage-crud.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -82,7 +82,7 @@ Ingatkan data teman = amanah; jangan simpan PII sensitif sembarangan.
 | Field | Isi |
 |-------|-----|
 | Kode | XI-S4-P07 |
-| Modul pertemuan | [XI-S4-P07_localstorage-crud.md](../../../kelas-xi/semester-4/XI-S4-P07_localstorage-crud.md) |
+| Modul pertemuan | [XI-S4-P07_localstorage-crud.md](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P07_localstorage-crud.md) |
 | Unit | XI4.4 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CXI-T4 |
@@ -353,14 +353,14 @@ const state = JSON.parse(localStorage.getItem(KEY)); // storage JSON
 
 ## Rujukan
 
-- Modul: [XI-S4-P07](../../../kelas-xi/semester-4/XI-S4-P07_localstorage-crud.md)
+- Modul: [XI-S4-P07](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P07_localstorage-crud.md)
 - Render pattern: [S3 P04 DOM Update](../semester-3/XI-S3-P04_dom-update-aman.md)
 - State: [S3 P08 State Aplikasi](../semester-3/XI-S3-P08_state-aplikasi.md)
 - Nested: [S3 P07 Struktur Nested](../semester-3/XI-S3-P07_struktur-data-nested.md)
 - Async JSON: [P04 Fetch JSON](./XI-S4-P04_fetch-json.md)
 - Pipeline: [P06 Pipeline Data](./XI-S4-P06_pipeline-data.md)
 - Lanjut: [P08 Persistensi Error State](./XI-S4-P08_persistensi-error-state.md)
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 
@@ -384,7 +384,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -395,6 +395,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** Data & Git = amanah dan integritas.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

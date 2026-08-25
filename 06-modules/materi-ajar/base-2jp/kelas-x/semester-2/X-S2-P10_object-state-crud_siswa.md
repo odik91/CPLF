@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [X-S2-P10_object-state-crud.md](../../../kelas-x/semester-2/X-S2-P10_object-state-crud.md)
+**Modul acuan:** [X-S2-P10_object-state-crud.md](../../../../base-2jp/kelas-x/semester-2/X-S2-P10_object-state-crud.md)
 
 ---
 
@@ -146,7 +146,7 @@ if (todos[i].id === id) {
 
 **Kait di kelas hari ini:** Web & kolaborasi — manfaatkan untuk sesama.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 
 ---

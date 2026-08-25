@@ -4,9 +4,9 @@
 
 **Bacaan pendamping siswa:** [X-S1-P04_bacaan-mimi-robi.md](./X-S1-P04_bacaan-mimi-robi.md) · [PDF](./X-S1-P04_bacaan-mimi-robi.pdf)
 
-**Modul:** [X-S1-P04_robot-mie-algoritma.md](../../../kelas-x/semester-1/X-S1-P04_robot-mie-algoritma.md)
+**Modul:** [X-S1-P04_robot-mie-algoritma.md](../../../../base-2jp/kelas-x/semester-1/X-S1-P04_robot-mie-algoritma.md)
 
-**Materi pendukung sumber:** [X-S1-P04_robot-mie-algoritma.md](../../../materi-pendukung/kelas-x/semester-1/X-S1-P04_robot-mie-algoritma.md)
+**Materi pendukung sumber:** [X-S1-P04_robot-mie-algoritma.md](../../../../materi-pendukung/base-2jp/kelas-x/semester-1/X-S1-P04_robot-mie-algoritma.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -44,7 +44,7 @@ Dari “komputer paham maksud” → “instruksi eksplisit berurutan.”
 
 **Adaptasi 1 JP:** Orientation 3’ · Scaffold 5’ · Experience 10’ · Clarify 7’ · Practice 15’ · Exit 5’.
 
-**Rujukan:** [03_Learning_Compass_CPLF.md](../../../../03-framework/03_Learning_Compass_CPLF.md)
+**Rujukan:** [03_Learning_Compass_CPLF.md](../../../../../03-framework/03_Learning_Compass_CPLF.md)
 
 ---
 
@@ -84,13 +84,13 @@ Baru di P04 boleh sebut “algoritma”. Varian Teh/Cuci/Ojek untuk kelas parale
 | Field | Isi |
 |-------|-----|
 | Kode | X-S1-P04 |
-| Modul pertemuan | [X-S1-P04_robot-mie-algoritma.md](../../../kelas-x/semester-1/X-S1-P04_robot-mie-algoritma.md) |
+| Modul pertemuan | [X-S1-P04_robot-mie-algoritma.md](../../../../base-2jp/kelas-x/semester-1/X-S1-P04_robot-mie-algoritma.md) |
 | Semester | 1 · Pertemuan 4/18 |
 | Unit | X1.2 |
 | Durasi referensi | 2 JP (90 menit) |
 | Capability | CX-B2, CX-T2 |
-| Experience | [EXP_01](../../../../07-experience_library/EXP_01_Robot_Mie.md) · varian [Teh](../../../../07-experience_library/EXP_01_A_Teh_Manis.md) / [Cuci](../../../../07-experience_library/EXP_01_B_Cuci_Baju.md) / [Ojek](../../../../07-experience_library/EXP_01_C_Pesan_Ojek.md) |
-| Etika global | [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md) |
+| Experience | [EXP_01](../../../../../07-experience_library/EXP_01_Robot_Mie.md) · varian [Teh](../../../../../07-experience_library/EXP_01_A_Teh_Manis.md) / [Cuci](../../../../../07-experience_library/EXP_01_B_Cuci_Baju.md) / [Ojek](../../../../../07-experience_library/EXP_01_C_Pesan_Ojek.md) |
+| Etika global | [00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md) |
 
 ---
 
@@ -268,8 +268,8 @@ ALGORITMA Masak_Mie
 
 ## 9. Rujukan
 
-- Modul: [X-S1-P04](../../../kelas-x/semester-1/X-S1-P04_robot-mie-algoritma.md)
-- [EXP_01](../../../../07-experience_library/EXP_01_Robot_Mie.md) · [A Teh](../../../../07-experience_library/EXP_01_A_Teh_Manis.md) · [B Cuci](../../../../07-experience_library/EXP_01_B_Cuci_Baju.md) · [C Ojek](../../../../07-experience_library/EXP_01_C_Pesan_Ojek.md)
+- Modul: [X-S1-P04](../../../../base-2jp/kelas-x/semester-1/X-S1-P04_robot-mie-algoritma.md)
+- [EXP_01](../../../../../07-experience_library/EXP_01_Robot_Mie.md) · [A Teh](../../../../../07-experience_library/EXP_01_A_Teh_Manis.md) · [B Cuci](../../../../../07-experience_library/EXP_01_B_Cuci_Baju.md) · [C Ojek](../../../../../07-experience_library/EXP_01_C_Pesan_Ojek.md)
 - MM: MM-11, MM-12
 - Rubrik: **REA**, **OBS**
 - Lanjutan: P05 flowchart & pseudocode
@@ -293,7 +293,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -304,6 +304,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** Instruksi eksplisit & urutan = tadabbur algoritma.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

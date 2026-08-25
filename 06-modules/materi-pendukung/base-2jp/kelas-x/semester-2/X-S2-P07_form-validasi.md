@@ -9,7 +9,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | X-S2-P07 |
-| Modul pertemuan | [X-S2-P07_form-validasi.md](../../../kelas-x/semester-2/X-S2-P07_form-validasi.md) |
+| Modul pertemuan | [X-S2-P07_form-validasi.md](../../../../base-2jp/kelas-x/semester-2/X-S2-P07_form-validasi.md) |
 | Unit | X2.4 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CX-T3, CX-B4 |
@@ -250,12 +250,12 @@ Siswa **mengetik versi sendiri** — variasi wajib:
 
 ## Rujukan
 
-- Modul: [X-S2-P07](../../../kelas-x/semester-2/X-S2-P07_form-validasi.md)
+- Modul: [X-S2-P07](../../../../base-2jp/kelas-x/semester-2/X-S2-P07_form-validasi.md)
 - EXP spiral: [EXP_04 ATM](../../../07-experience_library/EXP_04_ATM.md)
 - Recall S1: [P08 ATM if/else](../semester-1/X-S1-P08_atm-if-else.md) · [P09 Satpam JS](../semester-1/X-S1-P09_satpam-js-kondisi.md)
 - Sebelum: [P06 Event](./X-S2-P06_event-interaksi.md)
 - Lanjut: [P08 Validasi JS](./X-S2-P08_validasi-js-pesan.md)
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../00_Panduan_Etika_Penyampaian.md)
 
 ---
 

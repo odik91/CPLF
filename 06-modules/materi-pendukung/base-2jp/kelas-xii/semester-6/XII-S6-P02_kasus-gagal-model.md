@@ -7,14 +7,14 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S6-P02 |
-| Modul pertemuan | [XII-S6-P02_kasus-gagal-model.md](../../../kelas-xii/semester-6/XII-S6-P02_kasus-gagal-model.md) |
+| Modul pertemuan | [XII-S6-P02_kasus-gagal-model.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P02_kasus-gagal-model.md) |
 | Semester | 6 · Pertemuan 2/18 |
 | Unit | XII6.1 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CXII-B2, CXII-C1 |
 | Formatif | OBS, REA |
 | Prasyarat | [P01 Webcam ke Prediksi](./XII-S6-P01_webcam-ke-prediksi.md) |
-| Panduan CV | [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md) |
+| Panduan CV | [00_Panduan_Guru_CV_Etika.md](../../../00_Panduan_Guru_CV_Etika.md) |
 | Ada live code? | **Ya — UI confidence mock + demo prediksi salah (mock OK)** |
 
 ---
@@ -29,8 +29,8 @@
 | 4 | False positive / negative (glossary) | → referensi: [Google ML Glossary — False positive](https://developers.google.com/machine-learning/glossary#false_positive) |
 | 5 | Human-in-the-loop (praktik produk) | → referensi: [Google Cloud — Human-in-the-loop AI](https://cloud.google.com/architecture/human-in-the-loop-ai) |
 | 6 | Recall pipeline CV | → referensi: [TF.js webcam tutorial](https://www.tensorflow.org/js/tutorials/transfer/learn_more) |
-| 7 | Rubrik E1 (batasan model) | → referensi: [09_Rubrik_Etika_AI.md](../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
-| 8 | Panduan CV CPLF | → [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md) |
+| 7 | Rubrik E1 (batasan model) | → referensi: [09_Rubrik_Etika_AI.md](../../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
+| 8 | Panduan CV CPLF | → [00_Panduan_Guru_CV_Etika.md](../../../00_Panduan_Guru_CV_Etika.md) |
 
 **Waktu baca minimum:** 45–60 menit (MLCC thresholding + confusion matrix + skim Responsible AI).
 
@@ -305,7 +305,7 @@ Model absensi: prediksi "Hadir" untuk siswa yang belum masuk (confidence 0.88)
 
 ## Rujukan modul
 
-- Modul: [XII-S6-P02](../../../kelas-xii/semester-6/XII-S6-P02_kasus-gagal-model.md)
+- Modul: [XII-S6-P02](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P02_kasus-gagal-model.md)
 - Sebelumnya: [P01](./XII-S6-P01_webcam-ke-prediksi.md)
 - Lanjutan: [P03 Transfer Learning](./XII-S6-P03_transfer-learning-konsep.md)
-- Rubrik: [09_Rubrik_Etika_AI.md](../../../../09-rubrik/09_Rubrik_Etika_AI.md)
+- Rubrik: [09_Rubrik_Etika_AI.md](../../../../../09-rubrik/09_Rubrik_Etika_AI.md)

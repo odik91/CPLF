@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [X-S2-P18_portofolio-tahun-x.md](../../../kelas-x/semester-2/X-S2-P18_portofolio-tahun-x.md)
+**Modul acuan:** [X-S2-P18_portofolio-tahun-x.md](../../../../base-2jp/kelas-x/semester-2/X-S2-P18_portofolio-tahun-x.md)
 
 ---
 
@@ -60,7 +60,7 @@ Guru keliling — clarifying questions:
 
 ### Progress Card CX (30–50 menit)
 
-Isi [09_Progress_Card](../../../09-rubrik/09_Progress_Card.md):
+Isi [09_Progress_Card](../../../../../09-rubrik/09_Progress_Card.md):
 
 - 3 capability CX yang tumbuh (OBS, REA, ITR, COM, TEC, TRF — pilih 3)
 - Bukti dari semester (project, debug sheet, peer review)
@@ -129,7 +129,7 @@ Siswa pilih **3 yang paling terasa** — dengan contoh konkret milik mereka.
 
 **Kait di kelas hari ini:** Portofolio = merenung perjalanan belajar.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 ## 8. Materi pendamping BRG
 

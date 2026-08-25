@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [XII-S6-P14_presentasi-nilai_siswa.md](./XII-S6-P14_presentasi-nilai_siswa.md)
 
-**Modul:** [XII-S6-P14_presentasi-nilai.md](../../../kelas-xii/semester-6/XII-S6-P14_presentasi-nilai.md)
+**Modul:** [XII-S6-P14_presentasi-nilai.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P14_presentasi-nilai.md)
 
-**Materi pendukung sumber:** [XII-S6-P14_presentasi-nilai.md](../../../materi-pendukung/kelas-xii/semester-6/XII-S6-P14_presentasi-nilai.md)
+**Materi pendukung sumber:** [XII-S6-P14_presentasi-nilai.md](../../../../materi-pendukung/base-2jp/kelas-xii/semester-6/XII-S6-P14_presentasi-nilai.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -31,7 +31,7 @@ Dari produk jadi → **argumen** teknis + etika di depan pengguna/kelas.
 | 0–5 | Opening | Format: masalah · pengguna · demo · gagal · etika · transfer |
 | 5–55 | Presentasi | 5–6 menit/tim + 2 menit Q&A |
 | 55–70 | Panel | 2 pertanyaan etika dari guru/teman |
-| 70–85 | Rubrik | Self-assess + guru catat [Project](../../../09-rubrik/09_Rubrik_Project.md) + [Etika](../../../09-rubrik/09_Rubrik_Etika_AI.md) |
+| 70–85 | Rubrik | Self-assess + guru catat [Project](../../../../../09-rubrik/09_Rubrik_Project.md) + [Etika](../../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
 | 85–90 | Closing | Preview portofolio 3 tahun |
 
 ---
@@ -65,7 +65,7 @@ Undang pengguna eksternal jika memungkinkan. Nilai MA: amanah · tidak overclaim
 **Version:** 0.1 · **Audiens:** Guru MA — **RAHASIA GURU** (jangan dibagikan ke siswa)
 
 > **Panduan wajib:** [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md)  
-> **Rubrik penilaian:** [09_Rubrik_Project](../../../../09-rubrik/09_Rubrik_Project.md) · [09_Rubrik_Etika_AI](../../../../09-rubrik/09_Rubrik_Etika_AI.md)
+> **Rubrik penilaian:** [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md) · [09_Rubrik_Etika_AI](../../../../../09-rubrik/09_Rubrik_Etika_AI.md)
 
 ---
 
@@ -74,13 +74,13 @@ Undang pengguna eksternal jika memungkinkan. Nilai MA: amanah · tidak overclaim
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S6-P14 |
-| Modul pertemuan | [XII-S6-P14_presentasi-nilai.md](../../../kelas-xii/semester-6/XII-S6-P14_presentasi-nilai.md) |
+| Modul pertemuan | [XII-S6-P14_presentasi-nilai.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P14_presentasi-nilai.md) |
 | Semester | 6 · Pertemuan 14/18 |
 | Unit | XII6.6 |
 | Durasi referensi | 2 JP = 90 menit |
 | PRJ | PRJ-XII-S6-01…04 |
 | Capability | REA, COM, ITR, TEC · Etika E1–E4 |
-| Formatif / Sumatif | REA · COM · ITR · TEC · [Rubrik Project](../../../../09-rubrik/09_Rubrik_Project.md) + [Etika AI](../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
+| Formatif / Sumatif | REA · COM · ITR · TEC · [Rubrik Project](../../../../../09-rubrik/09_Rubrik_Project.md) + [Etika AI](../../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
 | Ada live code? | **Demo siswa** — penilaian proses + etika + argumen teknologi |
 
 ---
@@ -89,10 +89,10 @@ Undang pengguna eksternal jika memungkinkan. Nilai MA: amanah · tidak overclaim
 
 | # | Topik | Link |
 |---|-------|------|
-| 1 | **Wajib** — Rubrik project (6 aspek + DoD) | → [09_Rubrik_Project](../../../../09-rubrik/09_Rubrik_Project.md) |
-| 2 | **Wajib** — Rubrik etika E1–E4 + gate kelulusan | → [09_Rubrik_Etika_AI](../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
-| 3 | Enam aspek CPLF | → [09_Rubrik_Enam_Aspek](../../../../09-rubrik/09_Rubrik_Enam_Aspek.md) |
-| 4 | Rubrik formatif unit | → [09_Rubrik_Formatif_Unit](../../../../09-rubrik/09_Rubrik_Formatif_Unit.md) |
+| 1 | **Wajib** — Rubrik project (6 aspek + DoD) | → [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md) |
+| 2 | **Wajib** — Rubrik etika E1–E4 + gate kelulusan | → [09_Rubrik_Etika_AI](../../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
+| 3 | Enam aspek CPLF | → [09_Rubrik_Enam_Aspek](../../../../../09-rubrik/09_Rubrik_Enam_Aspek.md) |
+| 4 | Rubrik formatif unit | → [09_Rubrik_Formatif_Unit](../../../../../09-rubrik/09_Rubrik_Formatif_Unit.md) |
 | 5 | Google Responsible AI | → [Google AI — Responsible AI Practices](https://ai.google/responsibility/responsible-ai-practices/) |
 | 6 | UNESCO AI ethics (ringkas) | → [UNESCO AI Ethics Recommendation](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics) |
 | 7 | Model cards (standar batasan) | → [Model Cards — Google](https://modelcards.withgoogle.com/about) |
@@ -326,11 +326,11 @@ Setelah presentasi — per tim:
 
 ## Rujukan
 
-- Modul: [XII-S6-P14](../../../kelas-xii/semester-6/XII-S6-P14_presentasi-nilai.md)
+- Modul: [XII-S6-P14](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P14_presentasi-nilai.md)
 - Sebelumnya: [P13 Revisi Capstone](./XII-S6-P13_revisi-capstone.md)
 - Lanjutan: [P15 Bonus Agent](./XII-S6-P15_bonus-agent-ringan.md) *(opsional)* · [P16 Portofolio](./XII-S6-P16_portofolio-3-tahun.md)
-- Rubrik: [09_Rubrik_Project](../../../../09-rubrik/09_Rubrik_Project.md) · [09_Rubrik_Etika_AI](../../../../09-rubrik/09_Rubrik_Etika_AI.md)
-- Panduan: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Rubrik: [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md) · [09_Rubrik_Etika_AI](../../../../../09-rubrik/09_Rubrik_Etika_AI.md)
+- Panduan: [00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 
@@ -354,7 +354,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -365,6 +365,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** Presentasi jujur — tidak overclaim model/AI.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

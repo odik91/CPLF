@@ -9,7 +9,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | X-S2-P17 |
-| Modul pertemuan | [X-S2-P17_presentasi-s2](../../../kelas-x/semester-2/X-S2-P17_presentasi-s2.md) |
+| Modul pertemuan | [X-S2-P17_presentasi-s2](../../../../base-2jp/kelas-x/semester-2/X-S2-P17_presentasi-s2.md) |
 | Unit | X2.7 |
 | Durasi referensi | 2 JP = 90 menit |
 | Rubrik | [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md) |
@@ -227,12 +227,12 @@ document.getElementById("btn").addEventListener("click", () => {
 
 ## 9. Rujukan
 
-- Modul pertemuan: [X-S2-P17](../../../kelas-x/semester-2/X-S2-P17_presentasi-s2.md)
+- Modul pertemuan: [X-S2-P17](../../../../base-2jp/kelas-x/semester-2/X-S2-P17_presentasi-s2.md)
 - Rubrik project: [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md)
 - Revisi: [P16 materi pendukung](./X-S2-P16_revisi-project.md)
 - Portofolio: [P18 materi pendukung](./X-S2-P18_portofolio-tahun-x.md)
 - Showcase S1 (paralel): [X-S1-P18](../semester-1/X-S1-P18_showcase-refleksi-s1.md)
-- Etika: [00_Panduan_Etika_Penyampaian](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian](../../../00_Panduan_Etika_Penyampaian.md)
 
 ---
 

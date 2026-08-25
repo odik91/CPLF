@@ -27,7 +27,7 @@
 
 ## Formatif / Sumatif
 
-[Rubrik Project](../../../09-rubrik/09_Rubrik_Project.md)
+[Rubrik Project](../../../../09-rubrik/09_Rubrik_Project.md)
 
 ---
 

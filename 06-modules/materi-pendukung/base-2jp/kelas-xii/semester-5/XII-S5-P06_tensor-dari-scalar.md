@@ -7,13 +7,13 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S5-P06 |
-| Modul pertemuan | [XII-S5-P06_tensor-dari-scalar.md](../../../kelas-xii/semester-5/XII-S5-P06_tensor-dari-scalar.md) |
+| Modul pertemuan | [XII-S5-P06_tensor-dari-scalar.md](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P06_tensor-dari-scalar.md) |
 | Semester | 5 · Pertemuan 6/18 |
 | Unit | XII5.5 |
 | Durasi referensi | 2 JP (90 menit) |
 | Capability | CXII-T2 |
 | MM | MM-16 |
-| Etika global | [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md) |
+| Etika global | [00_Panduan_Etika_Penyampaian.md](../../../00_Panduan_Etika_Penyampaian.md) |
 | **Catatan** | Belum coding TF.js penuh — intuisi shape; preview TF.js di penutup |
 
 ---
@@ -297,7 +297,7 @@ Shape `[3, 2]` — 3 observasi, 2 fitur.
 
 ## Rujukan modul
 
-- Modul: [XII-S5-P06](../../../kelas-xii/semester-5/XII-S5-P06_tensor-dari-scalar.md)
+- Modul: [XII-S5-P06](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P06_tensor-dari-scalar.md)
 - Sebelumnya: [XII-S5-P05](./XII-S5-P05_statistik-outlier.md)
 - Berikutnya: [XII-S5-P07](./XII-S5-P07_tfjs-tensor-dasar.md)
-- Panduan: [00_Panduan_Guru_ML_TFJS.md](../../00_Panduan_Guru_ML_TFJS.md)
+- Panduan: [00_Panduan_Guru_ML_TFJS.md](../../../00_Panduan_Guru_ML_TFJS.md)

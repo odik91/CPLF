@@ -23,7 +23,7 @@ Dari “teknologi netral” → **konsekuensi** solusi untuk manusia & nilai MA.
 | 5–20 | Experience | Studi kasus: absensi wajah vs QR — privasi & aurat |
 | 20–30 | Trap | “Yang penting jalan / akurat tinggi” |
 | 30–40 | Clarify | Consent · minimasi data · retention |
-| 40–50 | Concept | [Rubrik Etika AI](../../../09-rubrik/09_Rubrik_Etika_AI.md) E1–E4 ringkas |
+| 40–50 | Concept | [Rubrik Etika AI](../../../../09-rubrik/09_Rubrik_Etika_AI.md) E1–E4 ringkas |
 | 50–70 | Practice | Template 1 halaman: Data · Akses · Risiko · Mitigasi |
 | 70–85 | Diskusi | Gotong royong & amanah data teman |
 | 85–90 | Exit | 1 keputusan etis untuk capstone |

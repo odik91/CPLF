@@ -9,7 +9,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XI-S4-P18 |
-| Modul pertemuan | [XI-S4-P18_portofolio-tahun-xi.md](../../../kelas-xi/semester-4/XI-S4-P18_portofolio-tahun-xi.md) |
+| Modul pertemuan | [XI-S4-P18_portofolio-tahun-xi.md](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P18_portofolio-tahun-xi.md) |
 | Unit | XI4.8 |
 | Durasi referensi | 2 JP = 90 menit |
 | Rubrik | [09_Progress_Card](../../../09-rubrik/09_Progress_Card.md) |
@@ -282,7 +282,7 @@ BUKU (id, judul) —< PEMINJAMAN (id, idBuku, peminjam, tanggal)
 
 ## 9. Rujukan
 
-- Modul pertemuan: [XI-S4-P18](../../../kelas-xi/semester-4/XI-S4-P18_portofolio-tahun-xi.md)
+- Modul pertemuan: [XI-S4-P18](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P18_portofolio-tahun-xi.md)
 - Progress Card: [09_Progress_Card](../../../09-rubrik/09_Progress_Card.md)
 - Rubrik project: [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md)
 - Presentasi S4: [P17 materi pendukung](./XI-S4-P17_presentasi-retrospektif.md)
@@ -290,8 +290,8 @@ BUKU (id, judul) —< PEMINJAMAN (id, idBuku, peminjam, tanggal)
 - PRJ bank S3: [08_Project_Bank_Index](../../../08-project/08_Project_Bank_Index.md#kelas-xi--semester-3-interaksi--struktur)
 - PRJ bank S4: [08_Project_Bank_Index](../../../08-project/08_Project_Bank_Index.md#kelas-xi--semester-4-data-async-kolaborasi)
 - Capability framework: [05_Capability_Framework_CPLF.md](../../../05-silabus/05_Capability_Framework_CPLF.md)
-- Indeks S4: [XI-S4_Index](../../../kelas-xi/semester-4/XI-S4_Index.md)
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Indeks S4: [XI-S4_Index](../../../../base-2jp/kelas-xi/semester-4/XI-S4_Index.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../00_Panduan_Etika_Penyampaian.md)
 
 ---
 

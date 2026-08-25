@@ -9,7 +9,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XI-S4-P10 |
-| Modul pertemuan | [XI-S4-P10_skema-er-mini.md](../../../kelas-xi/semester-4/XI-S4-P10_skema-er-mini.md) |
+| Modul pertemuan | [XI-S4-P10_skema-er-mini.md](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P10_skema-er-mini.md) |
 | Unit | XI4.5 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CXI-B2 |
@@ -253,12 +253,12 @@ loans: [{ memberId: "1", bookId: 101 }],
 
 ## Rujukan
 
-- Modul: [XI-S4-P10](../../../kelas-xi/semester-4/XI-S4-P10_skema-er-mini.md)
+- Modul: [XI-S4-P10](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P10_skema-er-mini.md)
 - Relasi: [P09 Model Data Relasi](./XI-S4-P09_model-data-relasi.md)
 - Nested: [S3 P07 Struktur Nested](../semester-3/XI-S3-P07_struktur-data-nested.md)
 - Storage: [P07 localStorage](./XI-S4-P07_localstorage-crud.md)
 - Kickoff: [P13 Project S4 Kickoff](./XI-S4-P13_project-s4-kickoff.md)
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../00_Panduan_Etika_Penyampaian.md)
 
 ---
 

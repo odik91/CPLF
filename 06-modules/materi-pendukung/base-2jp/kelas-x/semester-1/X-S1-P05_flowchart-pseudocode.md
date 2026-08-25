@@ -7,13 +7,13 @@
 | Field | Isi |
 |-------|-----|
 | Kode | X-S1-P05 |
-| Modul pertemuan | [X-S1-P05_flowchart-pseudocode.md](../../../kelas-x/semester-1/X-S1-P05_flowchart-pseudocode.md) |
+| Modul pertemuan | [X-S1-P05_flowchart-pseudocode.md](../../../../base-2jp/kelas-x/semester-1/X-S1-P05_flowchart-pseudocode.md) |
 | Semester | 1 · Pertemuan 5/18 |
 | Unit | X1.2 |
 | Durasi referensi | 2 JP (90 menit) |
 | Capability | CX-B2, CX-T2 |
 | PRJ arah | [PRJ-X-S1-01](../../../../08-project/PRJ_X_S1_01_Kegiatan_Harian.md) |
-| Etika global | [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md) |
+| Etika global | [00_Panduan_Etika_Penyampaian.md](../../../00_Panduan_Etika_Penyampaian.md) |
 
 ---
 
@@ -219,7 +219,7 @@ Gambar sederhana: decision tanpa label YA/TIDAK pada panah.
 
 ## 9. Rujukan
 
-- Modul: [X-S1-P05](../../../kelas-x/semester-1/X-S1-P05_flowchart-pseudocode.md)
+- Modul: [X-S1-P05](../../../../base-2jp/kelas-x/semester-1/X-S1-P05_flowchart-pseudocode.md)
 - [PRJ-X-S1-01](../../../../08-project/PRJ_X_S1_01_Kegiatan_Harian.md)
 - MM: MM-12, MM-15
 - Rubrik: **REA**, **COM**

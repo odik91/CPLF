@@ -7,13 +7,13 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S5-P02 |
-| Modul pertemuan | [XII-S5-P02_data-bahan-bakar-ml.md](../../../kelas-xii/semester-5/XII-S5-P02_data-bahan-bakar-ml.md) |
+| Modul pertemuan | [XII-S5-P02_data-bahan-bakar-ml.md](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P02_data-bahan-bakar-ml.md) |
 | Semester | 5 · Pertemuan 2/18 |
 | Unit | XII5.2 |
 | Durasi referensi | 2 JP (90 menit) |
 | Capability | CXII-T1 |
-| Etika global | [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md) |
-| Panduan ML | [00_Panduan_Guru_ML_TFJS.md](../../00_Panduan_Guru_ML_TFJS.md) |
+| Etika global | [00_Panduan_Etika_Penyampaian.md](../../../00_Panduan_Etika_Penyampaian.md) |
+| Panduan ML | [00_Panduan_Guru_ML_TFJS.md](../../../00_Panduan_Guru_ML_TFJS.md) |
 
 ---
 
@@ -274,6 +274,6 @@ Bug: baris B dan C — **label tidak match skor** → model confused.
 
 ## Rujukan modul
 
-- Modul: [XII-S5-P02](../../../kelas-xii/semester-5/XII-S5-P02_data-bahan-bakar-ml.md)
+- Modul: [XII-S5-P02](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P02_data-bahan-bakar-ml.md)
 - Sebelumnya: [XII-S5-P01](./XII-S5-P01_ai-ml-dl-peta.md)
 - Berikutnya: [XII-S5-P03](./XII-S5-P03_dataset-mini-bersih.md)

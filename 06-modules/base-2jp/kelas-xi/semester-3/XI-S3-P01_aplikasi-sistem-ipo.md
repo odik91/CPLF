@@ -64,7 +64,7 @@ Dari “kumpulan tombol/HTML” → **sistem** dengan Input–Process–Output�
 
 ## Formatif
 
-**REA**, **OBS** — [09_Rubrik_Formatif_Unit.md](../../../09-rubrik/09_Rubrik_Formatif_Unit.md)
+**REA**, **OBS** — [09_Rubrik_Formatif_Unit.md](../../../../09-rubrik/09_Rubrik_Formatif_Unit.md)
 
 ---
 

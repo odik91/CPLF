@@ -9,7 +9,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XI-S3-P08 |
-| Modul pertemuan | [XI-S3-P08_state-aplikasi.md](../../../kelas-xi/semester-3/XI-S3-P08_state-aplikasi.md) |
+| Modul pertemuan | [XI-S3-P08_state-aplikasi.md](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P08_state-aplikasi.md) |
 | Unit | XI3.4 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CXI-B2 |
@@ -309,12 +309,12 @@ render(); // skip names without "ah"
 
 ## Rujukan
 
-- Modul: [XI-S3-P08](../../../kelas-xi/semester-3/XI-S3-P08_state-aplikasi.md)
+- Modul: [XI-S3-P08](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P08_state-aplikasi.md)
 - Pola render: [P04 DOM Update Aman](./XI-S3-P04_dom-update-aman.md)
 - Skema data: [P07 Struktur Nested](./XI-S3-P07_struktur-data-nested.md)
 - Recall X: [X-S2-P10 CRUD](../../kelas-x/semester-2/X-S2-P10_object-state-crud.md)
 - Lanjut: [P09 Refactor Modul](./XI-S3-P09_refactor-modul.md)
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../00_Panduan_Etika_Penyampaian.md)
 
 ---
 

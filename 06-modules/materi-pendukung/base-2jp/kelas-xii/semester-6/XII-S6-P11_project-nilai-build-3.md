@@ -2,7 +2,7 @@
 
 **Version:** 0.1 · **Audiens:** Guru MA — **RAHASIA GURU** (jangan dibagikan ke siswa)
 
-> **Panduan wajib:** [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md) · [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)  
+> **Panduan wajib:** [00_Panduan_Guru_CV_Etika.md](../../../00_Panduan_Guru_CV_Etika.md) · [00_Panduan_Etika_Penyampaian.md](../../../00_Panduan_Etika_Penyampaian.md)  
 > **Rubrik etika wajib:** [09_Rubrik_Etika_AI — E1](../../../09-rubrik/09_Rubrik_Etika_AI.md)
 
 ---
@@ -12,7 +12,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S6-P11 |
-| Modul pertemuan | [XII-S6-P11_project-nilai-build-3.md](../../../kelas-xii/semester-6/XII-S6-P11_project-nilai-build-3.md) |
+| Modul pertemuan | [XII-S6-P11_project-nilai-build-3.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P11_project-nilai-build-3.md) |
 | Semester | 6 · Pertemuan 11/18 |
 | Unit | XII6.6 |
 | Durasi referensi | 2 JP = 90 menit |
@@ -33,7 +33,7 @@
 | 5 | Google Responsible AI | → [Google AI Responsibility](https://ai.google/responsibility/responsible-ai-practices/) |
 | 6 | TF.js — failure modes CV | → [TF.js webcam tutorial](https://www.tensorflow.org/js/tutorials/transfer/learn_more) |
 | 7 | Teachable Machine — sample size | → [Teachable Machine FAQ](https://support.google.com/teachablemachine/) |
-| 8 | Panduan CV S6 | → [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md) |
+| 8 | Panduan CV S6 | → [00_Panduan_Guru_CV_Etika.md](../../../00_Panduan_Guru_CV_Etika.md) |
 | 9 | Rubrik Project | → [09_Rubrik_Project.md](../../../09-rubrik/09_Rubrik_Project.md) |
 
 **Gate XII:** E1 = level 1 (sembunyikan gagal / overclaim) → **project dikembalikan** meski demo teknis mulus.
@@ -297,7 +297,7 @@ Tim **wajib**:
 
 ## Rujukan
 
-- Modul: [XII-S6-P11](../../../kelas-xii/semester-6/XII-S6-P11_project-nilai-build-3.md)
+- Modul: [XII-S6-P11](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P11_project-nilai-build-3.md)
 - Sebelumnya: [P10 Build 2](./XII-S6-P10_project-nilai-build-2.md)
 - Lanjutan: [P12 Peer Review Etika](./XII-S6-P12_peer-review-etika.md)
 - Rubrik: [Etika AI E1–E4](../../../09-rubrik/09_Rubrik_Etika_AI.md)

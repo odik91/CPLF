@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [X-S1-P05_flowchart-pseudocode_siswa.md](./X-S1-P05_flowchart-pseudocode_siswa.md)
 
-**Modul:** [X-S1-P05_flowchart-pseudocode.md](../../../kelas-x/semester-1/X-S1-P05_flowchart-pseudocode.md)
+**Modul:** [X-S1-P05_flowchart-pseudocode.md](../../../../base-2jp/kelas-x/semester-1/X-S1-P05_flowchart-pseudocode.md)
 
-**Materi pendukung sumber:** [X-S1-P05_flowchart-pseudocode.md](../../../materi-pendukung/kelas-x/semester-1/X-S1-P05_flowchart-pseudocode.md)
+**Materi pendukung sumber:** [X-S1-P05_flowchart-pseudocode.md](../../../../materi-pendukung/base-2jp/kelas-x/semester-1/X-S1-P05_flowchart-pseudocode.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -69,13 +69,13 @@ Belum wajib VS Code — kertas/digital draw.io cukup.
 | Field | Isi |
 |-------|-----|
 | Kode | X-S1-P05 |
-| Modul pertemuan | [X-S1-P05_flowchart-pseudocode.md](../../../kelas-x/semester-1/X-S1-P05_flowchart-pseudocode.md) |
+| Modul pertemuan | [X-S1-P05_flowchart-pseudocode.md](../../../../base-2jp/kelas-x/semester-1/X-S1-P05_flowchart-pseudocode.md) |
 | Semester | 1 · Pertemuan 5/18 |
 | Unit | X1.2 |
 | Durasi referensi | 2 JP (90 menit) |
 | Capability | CX-B2, CX-T2 |
 | PRJ arah | [PRJ-X-S1-01](../../../../08-project/PRJ_X_S1_01_Kegiatan_Harian.md) |
-| Etika global | [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md) |
+| Etika global | [00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md) |
 
 ---
 
@@ -281,7 +281,7 @@ Gambar sederhana: decision tanpa label YA/TIDAK pada panah.
 
 ## 9. Rujukan
 
-- Modul: [X-S1-P05](../../../kelas-x/semester-1/X-S1-P05_flowchart-pseudocode.md)
+- Modul: [X-S1-P05](../../../../base-2jp/kelas-x/semester-1/X-S1-P05_flowchart-pseudocode.md)
 - [PRJ-X-S1-01](../../../../08-project/PRJ_X_S1_01_Kegiatan_Harian.md)
 - MM: MM-12, MM-15
 - Rubrik: **REA**, **COM**
@@ -306,7 +306,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -317,6 +317,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** Flowchart = urutan berpikir sebelum kode.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

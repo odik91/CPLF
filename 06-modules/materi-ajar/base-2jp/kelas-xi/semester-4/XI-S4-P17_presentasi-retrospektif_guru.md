@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [XI-S4-P17_presentasi-retrospektif_siswa.md](./XI-S4-P17_presentasi-retrospektif_siswa.md)
 
-**Modul:** [XI-S4-P17_presentasi-retrospektif.md](../../../kelas-xi/semester-4/XI-S4-P17_presentasi-retrospektif.md)
+**Modul:** [XI-S4-P17_presentasi-retrospektif.md](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P17_presentasi-retrospektif.md)
 
-**Materi pendukung sumber:** [XI-S4-P17_presentasi-retrospektif.md](../../../materi-pendukung/kelas-xi/semester-4/XI-S4-P17_presentasi-retrospektif.md)
+**Materi pendukung sumber:** [XI-S4-P17_presentasi-retrospektif.md](../../../../materi-pendukung/base-2jp/kelas-xi/semester-4/XI-S4-P17_presentasi-retrospektif.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -45,7 +45,7 @@ Dari produk jadi → **cerita tim** + pelajaran kolaborasi.
 
 ## Formatif / Sumatif
 
-[Rubrik Project](../../../09-rubrik/09_Rubrik_Project.md) + kolaborasi
+[Rubrik Project](../../../../../09-rubrik/09_Rubrik_Project.md) + kolaborasi
 
 ---
 
@@ -67,10 +67,10 @@ Nilai MA: gotong royong · kejujuran atribusi · amanah data.
 | Field | Isi |
 |-------|-----|
 | Kode | XI-S4-P17 |
-| Modul pertemuan | [XI-S4-P17_presentasi-retrospektif.md](../../../kelas-xi/semester-4/XI-S4-P17_presentasi-retrospektif.md) |
+| Modul pertemuan | [XI-S4-P17_presentasi-retrospektif.md](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P17_presentasi-retrospektif.md) |
 | Unit | XI4.8 |
 | Durasi referensi | 2 JP = 90 menit |
-| Rubrik | [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md) + kolaborasi |
+| Rubrik | [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md) + kolaborasi |
 | Capability | COM, REA, ITR, TEC |
 | Ada live code? | **Presentasi tim + retro — bukan coding / fix menit terakhir** |
 
@@ -157,7 +157,7 @@ Nilai MA: gotong royong · kejujuran atribusi · amanah data.
 Jelaskan ke siswa — **bukan** angka skor:
 
 - Dinilai: clarity masalah, demo DoD, **arsitektur data/API**, iterasi peer, **kolaborasi/atribusi**, transfer, Q&A
-- Rubrik lengkap guru: [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md)
+- Rubrik lengkap guru: [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md)
 - Gate: README + Git checkpoint P16 sebelum skor kolaborasi penuh
 
 ### Presentasi bergiliran (0–50 menit)
@@ -326,15 +326,15 @@ export function toCards(articles) {
 
 ## 9. Rujukan
 
-- Modul pertemuan: [XI-S4-P17](../../../kelas-xi/semester-4/XI-S4-P17_presentasi-retrospektif.md)
-- Rubrik project: [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md)
-- Rubrik peer: [09_Rubrik_Peer_Review](../../../09-rubrik/09_Rubrik_Peer_Review.md)
+- Modul pertemuan: [XI-S4-P17](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P17_presentasi-retrospektif.md)
+- Rubrik project: [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md)
+- Rubrik peer: [09_Rubrik_Peer_Review](../../../../../09-rubrik/09_Rubrik_Peer_Review.md)
 - Peer review Git: [P16 materi pendukung](./XI-S4-P16_peer-review-git.md)
 - Portofolio next: [P18 materi pendukung](./XI-S4-P18_portofolio-tahun-xi.md)
 - PRJ bank: [08_Project_Bank_Index](../../../08-project/08_Project_Bank_Index.md#kelas-xi--semester-4-data-async-kolaborasi)
 - Showcase S3 (paralel): [XI-S3-P18 materi](../semester-3/XI-S3-P18_showcase-refleksi-s3.md)
-- Indeks S4: [XI-S4_Index](../../../kelas-xi/semester-4/XI-S4_Index.md)
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Indeks S4: [XI-S4_Index](../../../../base-2jp/kelas-xi/semester-4/XI-S4_Index.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 
@@ -360,7 +360,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -371,6 +371,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** Review/spiral — renungkan apa yang sudah dikuasai.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

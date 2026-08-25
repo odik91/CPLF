@@ -9,7 +9,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | X-S2-P03 |
-| Modul pertemuan | [X-S2-P03_css-layout-dasar.md](../../../kelas-x/semester-2/X-S2-P03_css-layout-dasar.md) |
+| Modul pertemuan | [X-S2-P03_css-layout-dasar.md](../../../../base-2jp/kelas-x/semester-2/X-S2-P03_css-layout-dasar.md) |
 | Unit | X2.2 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CX-T1 |
@@ -292,11 +292,11 @@ h1 {
 
 ## Rujukan
 
-- Modul: [X-S2-P03](../../../kelas-x/semester-2/X-S2-P03_css-layout-dasar.md)
+- Modul: [X-S2-P03](../../../../base-2jp/kelas-x/semester-2/X-S2-P03_css-layout-dasar.md)
 - Sebelum: [P02 HTML Semantik](./X-S2-P02_html-semantik-ma.md)
 - Lanjut: [P04 CSS Hierarki](./X-S2-P04_css-hierarki.md)
 - CX-T1
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../00_Panduan_Etika_Penyampaian.md)
 
 ---
 

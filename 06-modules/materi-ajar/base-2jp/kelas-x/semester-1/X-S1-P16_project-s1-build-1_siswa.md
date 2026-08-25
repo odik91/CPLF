@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [X-S1-P16_project-s1-build-1.md](../../../kelas-x/semester-1/X-S1-P16_project-s1-build-1.md)
+**Modul acuan:** [X-S1-P16_project-s1-build-1.md](../../../../base-2jp/kelas-x/semester-1/X-S1-P16_project-s1-build-1.md)
 
 ---
 
@@ -99,7 +99,7 @@ for (let i = 0; i <= antre.length; i++) {
 
 **Kait di kelas hari ini:** Build iteratif — amanah waktu & kualitas kelompok.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 
 ---

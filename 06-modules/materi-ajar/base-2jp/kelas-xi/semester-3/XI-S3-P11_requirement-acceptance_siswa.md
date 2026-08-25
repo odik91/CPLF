@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [XI-S3-P11_requirement-acceptance.md](../../../kelas-xi/semester-3/XI-S3-P11_requirement-acceptance.md)
+**Modul acuan:** [XI-S3-P11_requirement-acceptance.md](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P11_requirement-acceptance.md)
 
 ---
 
@@ -24,7 +24,7 @@ Dari “bikin bagus” → **requirement testable** dengan checkbox.
 
 **Spiral EXP_02:** brief "website OSIS keren" — hasil beda karena ambigu; sama seperti "gambar rumah" S1.
 
-**Spiral X-S1:** [P06](../../kelas-x/semester-1/X-S1-P06_gambar-rumah-requirement.md) requirement → [P07](../../kelas-x/semester-1/X-S1-P07_spesifikasi-acceptance.md) AC — hari ini **konteks aplikasi web S3**.
+**Spiral X-S1:** [P06](../../../../base-2jp/kelas-x/semester-1/X-S1-P06_gambar-rumah-requirement.md) requirement → [P07](../../../../base-2jp/kelas-x/semester-1/X-S1-P07_spesifikasi-acceptance.md) AC — hari ini **konteks aplikasi web S3**.
 
 **Output masuk folder project** — draft untuk P12 kickoff.
 
@@ -147,7 +147,7 @@ Given item status "dipinjam", When klik pinjam lagi, Then tombol disabled atau p
 
 **Kait di kelas hari ini:** Desain untuk pengguna lain — teliti sebelum rilis.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 
 ---

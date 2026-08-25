@@ -9,7 +9,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | X-S1-P11 |
-| Modul pertemuan | [X-S1-P11_kasir-loop.md](../../../kelas-x/semester-1/X-S1-P11_kasir-loop.md) |
+| Modul pertemuan | [X-S1-P11_kasir-loop.md](../../../../base-2jp/kelas-x/semester-1/X-S1-P11_kasir-loop.md) |
 | Unit | X1.6 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CX-T3, CX-T2 |
@@ -234,7 +234,7 @@ Variasi wajib — jangan angka sama dengan demo guru.
 
 ## Rujukan
 
-- Modul: [X-S1-P11](../../../kelas-x/semester-1/X-S1-P11_kasir-loop.md)
+- Modul: [X-S1-P11](../../../../base-2jp/kelas-x/semester-1/X-S1-P11_kasir-loop.md)
 - EXP: [EXP_06 Kasir](../../../07-experience_library/EXP_06_Kasir_Minimarket.md)
 - Sebelum: [P10 Variabel](./X-S1-P10_variabel-data.md)
 - Lanjut: [P12 Function](./X-S1-P12_function-loop-js.md)

@@ -2,8 +2,8 @@
 
 **Version:** 0.1 · **Audiens:** Guru MA — **RAHASIA GURU** (jangan dibagikan ke siswa)
 
-> **Panduan wajib:** [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md)  
-> **Rubrik:** [09_Rubrik_Project](../../../../09-rubrik/09_Rubrik_Project.md) · [09_Rubrik_Etika_AI](../../../../09-rubrik/09_Rubrik_Etika_AI.md)
+> **Panduan wajib:** [00_Panduan_Guru_CV_Etika.md](../../../00_Panduan_Guru_CV_Etika.md)  
+> **Rubrik:** [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md) · [09_Rubrik_Etika_AI](../../../../../09-rubrik/09_Rubrik_Etika_AI.md)
 
 ---
 
@@ -12,7 +12,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S6-P17 |
-| Modul pertemuan | [XII-S6-P17_showcase-akhir.md](../../../kelas-xii/semester-6/XII-S6-P17_showcase-akhir.md) |
+| Modul pertemuan | [XII-S6-P17_showcase-akhir.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P17_showcase-akhir.md) |
 | Semester | 6 · Pertemuan 17/18 |
 | Unit | XII6.8 |
 | Durasi referensi | 2 JP = 90 menit |
@@ -27,14 +27,14 @@
 
 | # | Topik | Link |
 |---|-------|------|
-| 1 | **Wajib** — Rubrik project | → [09_Rubrik_Project](../../../../09-rubrik/09_Rubrik_Project.md) |
-| 2 | **Wajib** — Rubrik etika (observasi booth) | → [09_Rubrik_Etika_AI](../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
-| 3 | Progress Card (penghargaan capability) | → [09_Progress_Card](../../../../09-rubrik/09_Progress_Card.md) |
+| 1 | **Wajib** — Rubrik project | → [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md) |
+| 2 | **Wajib** — Rubrik etika (observasi booth) | → [09_Rubrik_Etika_AI](../../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
+| 3 | Progress Card (penghargaan capability) | → [09_Progress_Card](../../../../../09-rubrik/09_Progress_Card.md) |
 | 4 | Google Responsible AI (poster etika) | → [Google AI — Responsible AI Practices](https://ai.google/responsibility/responsible-ai-practices/) |
 | 5 | UNESCO AI ethics | → [UNESCO AI Ethics Recommendation](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics) |
 | 6 | MDN — Permissions Policy (privasi demo) | → [MDN — Permissions Policy](https://developer.mozilla.org/en-US/docs/Web/HTTP/Permissions_Policy) |
 | 7 | Teachable Machine (booth demo CV) | → [Teachable Machine](https://teachablemachine.withgoogle.com/) |
-| 8 | Panduan CV & etika CPLF | → [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md) |
+| 8 | Panduan CV & etika CPLF | → [00_Panduan_Guru_CV_Etika.md](../../../00_Panduan_Guru_CV_Etika.md) |
 
 ---
 
@@ -247,11 +247,11 @@ Pengunjung (kelas X–XI):
 
 ## Rujukan
 
-- Modul: [XII-S6-P17](../../../kelas-xii/semester-6/XII-S6-P17_showcase-akhir.md)
+- Modul: [XII-S6-P17](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P17_showcase-akhir.md)
 - Sebelumnya: [P16 Portofolio 3 Tahun](./XII-S6-P16_portofolio-3-tahun.md)
 - Lanjutan: [P18 Refleksi Lulusan](./XII-S6-P18_refleksi-lulusan.md)
-- Rubrik: [09_Rubrik_Project](../../../../09-rubrik/09_Rubrik_Project.md) · [09_Rubrik_Etika_AI](../../../../09-rubrik/09_Rubrik_Etika_AI.md)
-- Progress Card: [09_Progress_Card](../../../../09-rubrik/09_Progress_Card.md)
+- Rubrik: [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md) · [09_Rubrik_Etika_AI](../../../../../09-rubrik/09_Rubrik_Etika_AI.md)
+- Progress Card: [09_Progress_Card](../../../../../09-rubrik/09_Progress_Card.md)
 
 ---
 

@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [X-S2-P18_portofolio-tahun-x_siswa.md](./X-S2-P18_portofolio-tahun-x_siswa.md)
 
-**Modul:** [X-S2-P18_portofolio-tahun-x.md](../../../kelas-x/semester-2/X-S2-P18_portofolio-tahun-x.md)
+**Modul:** [X-S2-P18_portofolio-tahun-x.md](../../../../base-2jp/kelas-x/semester-2/X-S2-P18_portofolio-tahun-x.md)
 
-**Materi pendukung sumber:** [X-S2-P18_portofolio-tahun-x.md](../../../materi-pendukung/kelas-x/semester-2/X-S2-P18_portofolio-tahun-x.md)
+**Materi pendukung sumber:** [X-S2-P18_portofolio-tahun-x.md](../../../../materi-pendukung/base-2jp/kelas-x/semester-2/X-S2-P18_portofolio-tahun-x.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -76,10 +76,10 @@ Preview: dari halaman → **sistem** (DOM dalam, async, data, tim).
 | Field | Isi |
 |-------|-----|
 | Kode | X-S2-P18 |
-| Modul pertemuan | [X-S2-P18_portofolio-tahun-x](../../../kelas-x/semester-2/X-S2-P18_portofolio-tahun-x.md) |
+| Modul pertemuan | [X-S2-P18_portofolio-tahun-x](../../../../base-2jp/kelas-x/semester-2/X-S2-P18_portofolio-tahun-x.md) |
 | Unit | X2.8 (penutup tahun X) |
 | Durasi referensi | 2 JP = 90 menit |
-| Rubrik | [09_Progress_Card](../../../09-rubrik/09_Progress_Card.md) |
+| Rubrik | [09_Progress_Card](../../../../../09-rubrik/09_Progress_Card.md) |
 | Ada live code? | **Kurasi portofolio & refleksi — bukan coding** |
 
 ---
@@ -173,7 +173,7 @@ Guru keliling — clarifying questions:
 
 ### Progress Card CX (30–50 menit)
 
-Isi [09_Progress_Card](../../../09-rubrik/09_Progress_Card.md):
+Isi [09_Progress_Card](../../../../../09-rubrik/09_Progress_Card.md):
 
 - 3 capability CX yang tumbuh (OBS, REA, ITR, COM, TEC, TRF — pilih 3)
 - Bukti dari semester (project, debug sheet, peer review)
@@ -297,15 +297,15 @@ Portofolio **bukan** membaca kode baru. Gunakan **cuplikan artefak siswa** (anon
 
 ## 9. Rujukan
 
-- Modul pertemuan: [X-S2-P18](../../../kelas-x/semester-2/X-S2-P18_portofolio-tahun-x.md)
-- Progress Card: [09_Progress_Card](../../../09-rubrik/09_Progress_Card.md)
-- Rubrik project: [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md)
+- Modul pertemuan: [X-S2-P18](../../../../base-2jp/kelas-x/semester-2/X-S2-P18_portofolio-tahun-x.md)
+- Progress Card: [09_Progress_Card](../../../../../09-rubrik/09_Progress_Card.md)
+- Rubrik project: [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md)
 - Presentasi S2: [P17 materi pendukung](./X-S2-P17_presentasi-s2.md)
 - Showcase S1: [X-S1-P18](../semester-1/X-S1-P18_showcase-refleksi-s1.md)
-- Indeks tahun X: [X-S2_Index](../../../kelas-x/semester-2/X-S2_Index.md) · [X-S1_Index](../../../kelas-x/semester-1/X-S1_Index.md)
+- Indeks tahun X: [X-S2_Index](../../../../base-2jp/kelas-x/semester-2/X-S2_Index.md) · [X-S1_Index](../../../../base-2jp/kelas-x/semester-1/X-S1_Index.md)
 - Silabus: [05_Silabus_Kelas_X](../../../05-silabus/05_Silabus_Kelas_X.md)
 - PRJ bank: [08_Project_Bank_Index](../../../08-project/08_Project_Bank_Index.md)
-- Etika: [00_Panduan_Etika_Penyampaian](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 
@@ -330,7 +330,7 @@ Portofolio **bukan** membaca kode baru. Gunakan **cuplikan artefak siswa** (anon
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -341,6 +341,6 @@ Portofolio **bukan** membaca kode baru. Gunakan **cuplikan artefak siswa** (anon
 
 **Kait di kelas hari ini:** Portofolio = merenung perjalanan belajar.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

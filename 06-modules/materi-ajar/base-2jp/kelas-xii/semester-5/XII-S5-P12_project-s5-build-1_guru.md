@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [XII-S5-P12_project-s5-build-1_siswa.md](./XII-S5-P12_project-s5-build-1_siswa.md)
 
-**Modul:** [XII-S5-P12_project-s5-build-1.md](../../../kelas-xii/semester-5/XII-S5-P12_project-s5-build-1.md)
+**Modul:** [XII-S5-P12_project-s5-build-1.md](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P12_project-s5-build-1.md)
 
-**Materi pendukung sumber:** [XII-S5-P12_project-s5-build-1.md](../../../materi-pendukung/kelas-xii/semester-5/XII-S5-P12_project-s5-build-1.md)
+**Materi pendukung sumber:** [XII-S5-P12_project-s5-build-1.md](../../../../materi-pendukung/base-2jp/kelas-xii/semester-5/XII-S5-P12_project-s5-build-1.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -54,7 +54,7 @@ Intervensi lewat pertanyaan: “fitur apa yang model lihat?”
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S5-P12 |
-| Modul pertemuan | [XII-S5-P12_project-s5-build-1.md](../../../kelas-xii/semester-5/XII-S5-P12_project-s5-build-1.md) |
+| Modul pertemuan | [XII-S5-P12_project-s5-build-1.md](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P12_project-s5-build-1.md) |
 | Unit | XII5.8 |
 | Durasi referensi | 2 JP = 90 menit |
 | PRJ | [PRJ-XII-S5-01](../../../08-project/PRJ_XII_S5_01_Klasifikasi_Tabular.md) · [PRJ-XII-S5-02](../../../08-project/PRJ_XII_S5_02_Prediksi_Kategori.md) |
@@ -379,7 +379,7 @@ const acc = evaluate(xsAll, ysAll);
 
 ## Rujukan
 
-- Modul: [XII-S5-P12](../../../kelas-xii/semester-5/XII-S5-P12_project-s5-build-1.md)
+- Modul: [XII-S5-P12](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P12_project-s5-build-1.md)
 - [P11 Kickoff](./XII-S5-P11_project-s5-kickoff.md) · [P13 Build 2](./XII-S5-P13_project-s5-build-2.md)
 - [PRJ-XII-S5-01](../../../08-project/PRJ_XII_S5_01_Klasifikasi_Tabular.md) · [PRJ-XII-S5-02](../../../08-project/PRJ_XII_S5_02_Prediksi_Kategori.md)
 - [P03 Dataset](./XII-S5-P03_dataset-mini-bersih.md) · [P09 Model](./XII-S5-P09_model-dense-mini.md)
@@ -406,7 +406,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -417,6 +417,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** Data & model — keadilan dan dampak ke sesama.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

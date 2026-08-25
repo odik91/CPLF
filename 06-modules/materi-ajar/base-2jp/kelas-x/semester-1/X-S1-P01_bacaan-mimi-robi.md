@@ -10,7 +10,7 @@
 | PDF | [X-S1-P01_bacaan-mimi-robi.pdf](./X-S1-P01_bacaan-mimi-robi.pdf) |
 
 **Handout konsep:** [X-S1-P01_masalah-sebelum-solusi_siswa.md](./X-S1-P01_masalah-sebelum-solusi_siswa.md)  
-**Framework v0.2:** [03_Learning_Compass_CPLF.md](../../../../03-framework/03_Learning_Compass_CPLF.md)
+**Framework v0.2:** [03_Learning_Compass_CPLF.md](../../../../../03-framework/03_Learning_Compass_CPLF.md)
 
 ---
 

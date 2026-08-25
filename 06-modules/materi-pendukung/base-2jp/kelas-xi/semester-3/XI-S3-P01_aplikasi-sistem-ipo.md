@@ -9,7 +9,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XI-S3-P01 |
-| Modul pertemuan | [XI-S3-P01_aplikasi-sistem-ipo.md](../../../kelas-xi/semester-3/XI-S3-P01_aplikasi-sistem-ipo.md) |
+| Modul pertemuan | [XI-S3-P01_aplikasi-sistem-ipo.md](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P01_aplikasi-sistem-ipo.md) |
 | Unit | XI3.1 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CXI-B1 |
@@ -254,12 +254,12 @@ STATE: todos[]
 
 ## Rujukan
 
-- Modul: [XI-S3-P01](../../../kelas-xi/semester-3/XI-S3-P01_aplikasi-sistem-ipo.md)
+- Modul: [XI-S3-P01](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P01_aplikasi-sistem-ipo.md)
 - Lanjut: [P02 Blueprint & State](./XI-S3-P02_blueprint-state.md)
 - Spiral X S2: [X-S2_Materi_Index](../../kelas-x/semester-2/X-S2_Materi_Index.md) · [P18 Portofolio](../../kelas-x/semester-2/X-S2-P18_portofolio-tahun-x.md)
 - EXP kantin: [EXP_07_C Antrian Kantin](../../../07-experience_library/EXP_07_C_Antrian_Kantin.md) · [EXP_06 Kasir](../../../07-experience_library/EXP_06_Kasir_Minimarket.md)
 - CXI-B1 · MM-11
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../00_Panduan_Etika_Penyampaian.md)
 
 ---
 

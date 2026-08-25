@@ -18,7 +18,7 @@ Dari latihan terpisah → **aplikasi multi-komponen** dengan DoD.
 | Menit | Fase | Aktivitas |
 |-------|------|-----------|
 | 0–10 | Opening | Presentasi 4 PRJ + varian A/B/C rotasi |
-| 10–25 | Concept | DoD · [Rubrik Project](../../../09-rubrik/09_Rubrik_Project.md) · demo reasoning 2 menit |
+| 10–25 | Concept | DoD · [Rubrik Project](../../../../09-rubrik/09_Rubrik_Project.md) · demo reasoning 2 menit |
 | 25–40 | Practice | Pilih PRJ + finalisasi blueprint + acceptance |
 | 40–55 | Clarify | Guru 1 putaran feedback per kelompok/individu |
 | 55–75 | Practice | Scaffold: struktur folder + state kosong + render placeholder |

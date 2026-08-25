@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [XII-S6-P06_etika-privasi-bias.md](../../../kelas-xii/semester-6/XII-S6-P06_etika-privasi-bias.md)
+**Modul acuan:** [XII-S6-P06_etika-privasi-bias.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P06_etika-privasi-bias.md)
 
 ---
 
@@ -22,7 +22,7 @@ TEC tinggi + etika kosong = **gagal capaian XII** (CXII-C1). Modul capstone P08�
 
 ### Rubrik Etika CPLF — ringkasan guru (baca file lengkap)
 
-→ referensi: [09_Rubrik_Etika_AI.md](../../../../09-rubrik/09_Rubrik_Etika_AI.md)
+→ referensi: [09_Rubrik_Etika_AI.md](../../../../../09-rubrik/09_Rubrik_Etika_AI.md)
 
 | Dimensi | Fokus P06 | Level minimum capstone |
 |---------|-----------|------------------------|
@@ -125,7 +125,7 @@ Sticky: manfaat AI di MA (1) + risiko (1). Cluster di papan — tidak dinilai be
 
 **Counter:** Baca gate rubrik — E1=1 project dikembalikan. Akurasi tanpa etika = **tidak lulus CPLF XII**.
 
-→ referensi: [09_Rubrik_Etika_AI.md](../../../../09-rubrik/09_Rubrik_Etika_AI.md) — Gate Kelulusan Etika
+→ referensi: [09_Rubrik_Etika_AI.md](../../../../../09-rubrik/09_Rubrik_Etika_AI.md) — Gate Kelulusan Etika
 
 ### Concept E1–E4 (menit 40–50)
 
@@ -155,7 +155,7 @@ Guru jelaskan 1 contoh level 1 vs 3 **per dimensi** — dari project fiktif, buk
 | 5–20 | Experience | Studi kasus: absensi wajah vs QR — privasi & aurat |
 | 20–30 | Trap | “Yang penting jalan / akurat tinggi” |
 | 30–40 | Clarify | Consent · minimasi data · retention |
-| 40–50 | Concept | [Rubrik Etika AI](../../../09-rubrik/09_Rubrik_Etika_AI.md) E1–E4 ringkas |
+| 40–50 | Concept | [Rubrik Etika AI](../../../../../09-rubrik/09_Rubrik_Etika_AI.md) E1–E4 ringkas |
 | 50–70 | Practice | Template 1 halaman: Data · Akses · Risiko · Mitigasi |
 | 70–85 | Diskusi | Gotong royong & amanah data teman |
 | 85–90 | Exit | 1 keputusan etis untuk capstone |
@@ -226,7 +226,7 @@ Presentasi: "Model kami 100% akurat, tidak perlu demo gagal."
 
 **Kait di kelas hari ini:** Etika QR/wajah, bias, consent — gate capstone.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 
 ---

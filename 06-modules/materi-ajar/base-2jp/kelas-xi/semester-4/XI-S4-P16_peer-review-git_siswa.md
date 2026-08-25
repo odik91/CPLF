@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [XI-S4-P16_peer-review-git.md](../../../kelas-xi/semester-4/XI-S4-P16_peer-review-git.md)
+**Modul acuan:** [XI-S4-P16_peer-review-git.md](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P16_peer-review-git.md)
 
 ---
 
@@ -38,7 +38,7 @@ Recall P16 S3: code jalan ≠ kualitas. Hari ini + **Git sebagai bukti kolaboras
 ### Cross-team review (5–25 menit)
 
 Pasangan silang antar tim — hindari teman dekat yang selalu copas.
-Worksheet [09_Rubrik_Peer_Review](../../../09-rubrik/09_Rubrik_Peer_Review.md) lengkap.
+Worksheet [09_Rubrik_Peer_Review](../../../../../09-rubrik/09_Rubrik_Peer_Review.md) lengkap.
 
 **Dimensi review S4 tambahan:**
 
@@ -92,7 +92,7 @@ Assign demo script P17 — **semua anggota ≥30 detik**.
 | Menit | Fase | Aktivitas |
 |-------|------|-----------|
 | 0–5 | Opening | Protokol review (S3 P16 spiral) |
-| 5–25 | Review | Cross-team: [Rubrik Peer Review](../../../09-rubrik/09_Rubrik_Peer_Review.md) |
+| 5–25 | Review | Cross-team: [Rubrik Peer Review](../../../../../09-rubrik/09_Rubrik_Peer_Review.md) |
 | 25–45 | Clarify | Diskusi 1 finding penting per tim |
 | 45–70 | Build | Implement ≥1 revisi + commit `fix: peer review ...` |
 | 70–85 | Retro mini | Start/Stop/Continue 3 menit tim |
@@ -151,7 +151,7 @@ g7h8i9j fix final
 
 **Kait di kelas hari ini:** Review & merge tanpa gosip; gotong royong kebaikan.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 
 ---

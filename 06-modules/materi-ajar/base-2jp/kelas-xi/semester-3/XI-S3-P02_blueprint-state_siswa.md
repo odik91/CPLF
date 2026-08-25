@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [XI-S3-P02_blueprint-state.md](../../../kelas-xi/semester-3/XI-S3-P02_blueprint-state.md)
+**Modul acuan:** [XI-S3-P02_blueprint-state.md](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P02_blueprint-state.md)
 
 ---
 
@@ -173,7 +173,7 @@ Edge: pinjam → stok--
 
 **Kait di kelas hari ini:** Desain untuk pengguna lain — teliti sebelum rilis.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 
 ---

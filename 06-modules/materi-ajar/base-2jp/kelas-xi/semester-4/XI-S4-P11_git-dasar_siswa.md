@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [XI-S4-P11_git-dasar.md](../../../kelas-xi/semester-4/XI-S4-P11_git-dasar.md)
+**Modul acuan:** [XI-S4-P11_git-dasar.md](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P11_git-dasar.md)
 
 ---
 
@@ -165,7 +165,7 @@ Author: Budi <budi@sekolah.id>
 
 **Kait di kelas hari ini:** Git = jejak tanggung jawab & atribusi jujur.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 ## 10. Materi pendamping BRG
 

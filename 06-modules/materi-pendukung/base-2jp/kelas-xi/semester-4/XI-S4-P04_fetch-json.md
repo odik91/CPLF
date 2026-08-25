@@ -9,7 +9,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XI-S4-P04 |
-| Modul pertemuan | [XI-S4-P04_fetch-json.md](../../../kelas-xi/semester-4/XI-S4-P04_fetch-json.md) |
+| Modul pertemuan | [XI-S4-P04_fetch-json.md](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P04_fetch-json.md) |
 | Unit | XI4.2 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CXI-T2 |
@@ -316,11 +316,11 @@ render();
 
 ## Rujukan
 
-- Modul: [XI-S4-P04](../../../kelas-xi/semester-4/XI-S4-P04_fetch-json.md)
+- Modul: [XI-S4-P04](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P04_fetch-json.md)
 - Sebelum: [P03 API Kontrak](./XI-S4-P03_api-kontrak-data.md) · [P02 Promise](./XI-S4-P02_promise-async-await.md)
 - Lanjut: [P05 map/filter/reduce](./XI-S4-P05_map-filter-reduce.md)
 - Spiral render: [S3-P04](../semester-3/XI-S3-P04_dom-update-aman.md) · [S3-P08](../semester-3/XI-S3-P08_state-aplikasi.md)
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../00_Panduan_Etika_Penyampaian.md)
 
 ---
 

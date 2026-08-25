@@ -4,9 +4,9 @@
 
 **Bacaan pendamping siswa:** [X-S1-P02_bacaan-mimi-robi.md](./X-S1-P02_bacaan-mimi-robi.md) · [PDF](./X-S1-P02_bacaan-mimi-robi.pdf)
 
-**Modul:** [X-S1-P02_google-jaguar-literasi.md](../../../kelas-x/semester-1/X-S1-P02_google-jaguar-literasi.md)
+**Modul:** [X-S1-P02_google-jaguar-literasi.md](../../../../base-2jp/kelas-x/semester-1/X-S1-P02_google-jaguar-literasi.md)
 
-**Materi pendukung sumber:** [X-S1-P02_google-jaguar-literasi.md](../../../materi-pendukung/kelas-x/semester-1/X-S1-P02_google-jaguar-literasi.md)
+**Materi pendukung sumber:** [X-S1-P02_google-jaguar-literasi.md](../../../../materi-pendukung/base-2jp/kelas-x/semester-1/X-S1-P02_google-jaguar-literasi.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -44,7 +44,7 @@ Dari “Google tahu maksudku” → “output = f(input); wajib verifikasi.”
 
 **Adaptasi 1 JP:** Orientation 3’ · Scaffold 5’ · Experience 10’ · Clarify 7’ · Practice 15’ · Exit 5’.
 
-**Rujukan:** [03_Learning_Compass_CPLF.md](../../../../03-framework/03_Learning_Compass_CPLF.md)
+**Rujukan:** [03_Learning_Compass_CPLF.md](../../../../../03-framework/03_Learning_Compass_CPLF.md)
 
 ---
 
@@ -78,13 +78,13 @@ Rotasi varian antar kelas paralel. Mode aman/proyektor sekolah.
 | Field | Isi |
 |-------|-----|
 | Kode | X-S1-P02 |
-| Modul pertemuan | [X-S1-P02_google-jaguar-literasi.md](../../../kelas-x/semester-1/X-S1-P02_google-jaguar-literasi.md) |
+| Modul pertemuan | [X-S1-P02_google-jaguar-literasi.md](../../../../base-2jp/kelas-x/semester-1/X-S1-P02_google-jaguar-literasi.md) |
 | Semester | 1 · Pertemuan 2/18 |
 | Unit | X1.1 |
 | Durasi referensi | 2 JP (90 menit) |
 | Capability | CX-B4, CX-B1 |
-| Experience | [EXP_03](../../../../07-experience_library/EXP_03_Google_Jaguar.md) · varian [Apple](../../../../07-experience_library/EXP_03_A_Google_Apple.md) / [MA](../../../../07-experience_library/EXP_03_B_Google_MA.md) |
-| Etika global | [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md) |
+| Experience | [EXP_03](../../../../../07-experience_library/EXP_03_Google_Jaguar.md) · varian [Apple](../../../../../07-experience_library/EXP_03_A_Google_Apple.md) / [MA](../../../../../07-experience_library/EXP_03_B_Google_MA.md) |
+| Etika global | [00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md) |
 
 ---
 
@@ -273,8 +273,8 @@ SELESAI
 
 ## 9. Rujukan
 
-- Modul: [X-S1-P02](../../../kelas-x/semester-1/X-S1-P02_google-jaguar-literasi.md)
-- [EXP_03](../../../../07-experience_library/EXP_03_Google_Jaguar.md) · [EXP_03_A](../../../../07-experience_library/EXP_03_A_Google_Apple.md) · [EXP_03_B](../../../../07-experience_library/EXP_03_B_Google_MA.md)
+- Modul: [X-S1-P02](../../../../base-2jp/kelas-x/semester-1/X-S1-P02_google-jaguar-literasi.md)
+- [EXP_03](../../../../../07-experience_library/EXP_03_Google_Jaguar.md) · [EXP_03_A](../../../../../07-experience_library/EXP_03_A_Google_Apple.md) · [EXP_03_B](../../../../../07-experience_library/EXP_03_B_Google_MA.md)
 - MM: MM-16, MM-00
 - Rubrik: **REA**, **OBS**
 - Lanjutan: P03 ChatGPT klarifikasi
@@ -298,7 +298,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -309,6 +309,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** Keyword mengubah ‘kenyataan’ di layar — wajib verifikasi sumber.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

@@ -9,7 +9,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XI-S3-P07 |
-| Modul pertemuan | [XI-S3-P07_struktur-data-nested.md](../../../kelas-xi/semester-3/XI-S3-P07_struktur-data-nested.md) |
+| Modul pertemuan | [XI-S3-P07_struktur-data-nested.md](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P07_struktur-data-nested.md) |
 | Unit | XI3.4 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CXI-B2 |
@@ -287,12 +287,12 @@ katalog.push({ id: 99, judul: "Baru", penulis: { nama: "C" }, status: "tersedia"
 
 ## Rujukan
 
-- Modul: [XI-S3-P07](../../../kelas-xi/semester-3/XI-S3-P07_struktur-data-nested.md)
+- Modul: [XI-S3-P07](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P07_struktur-data-nested.md)
 - EXP: [EXP_07 Perpustakaan](../../../07-experience_library/EXP_07_Perpustakaan.md)
 - Recall X: [X-S2-P10 Object CRUD](../../kelas-x/semester-2/X-S2-P10_object-state-crud.md)
 - Pola render: [P04 DOM Update Aman](./XI-S3-P04_dom-update-aman.md)
 - Lanjut: [P08 State Aplikasi](./XI-S3-P08_state-aplikasi.md)
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../00_Panduan_Etika_Penyampaian.md)
 
 ---
 

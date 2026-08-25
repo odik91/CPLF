@@ -4,9 +4,9 @@
 
 **Bacaan pendamping siswa:** [X-S1-P01_bacaan-mimi-robi.md](./X-S1-P01_bacaan-mimi-robi.md) · [PDF](./X-S1-P01_bacaan-mimi-robi.pdf)
 
-**Modul:** [X-S1-P01_masalah-sebelum-solusi.md](../../../kelas-x/semester-1/X-S1-P01_masalah-sebelum-solusi.md)
+**Modul:** [X-S1-P01_masalah-sebelum-solusi.md](../../../../base-2jp/kelas-x/semester-1/X-S1-P01_masalah-sebelum-solusi.md)
 
-**Materi pendukung sumber:** [X-S1-P01_masalah-sebelum-solusi.md](../../../materi-pendukung/kelas-x/semester-1/X-S1-P01_masalah-sebelum-solusi.md)
+**Materi pendukung sumber:** [X-S1-P01_masalah-sebelum-solusi.md](../../../../materi-pendukung/base-2jp/kelas-x/semester-1/X-S1-P01_masalah-sebelum-solusi.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -47,7 +47,7 @@ Dari “langsung cari solusi/coding” → “berhenti sejenak memahami & membat
 
 **Adaptasi 1 JP (45 menit):** Orientation 8’ · Scaffold 7’ · Experience 12’ · Clarify 8’ · Practice 8’ · Exit 2’.
 
-**Rujukan:** [03_Learning_Compass_CPLF.md](../../../../03-framework/03_Learning_Compass_CPLF.md)
+**Rujukan:** [03_Learning_Compass_CPLF.md](../../../../../03-framework/03_Learning_Compass_CPLF.md)
 
 ---
 
@@ -83,7 +83,7 @@ Dari “langsung cari solusi/coding” → “berhenti sejenak memahami & membat
 
 ## Formatif (rubrik)
 
-Fokus: **REA**, **OBS** — lihat [09_Rubrik_Formatif_Unit.md](../../../09-rubrik/09_Rubrik_Formatif_Unit.md)
+Fokus: **REA**, **OBS** — lihat [09_Rubrik_Formatif_Unit.md](../../../../../09-rubrik/09_Rubrik_Formatif_Unit.md)
 
 ---
 
@@ -103,12 +103,12 @@ Pertemuan pembuka: **Orientation + Scaffold wajib** sebelum diskusi terbuka. Bac
 | Field | Isi |
 |-------|-----|
 | Kode | X-S1-P01 |
-| Modul pertemuan | [X-S1-P01_masalah-sebelum-solusi.md](../../../kelas-x/semester-1/X-S1-P01_masalah-sebelum-solusi.md) |
+| Modul pertemuan | [X-S1-P01_masalah-sebelum-solusi.md](../../../../base-2jp/kelas-x/semester-1/X-S1-P01_masalah-sebelum-solusi.md) |
 | Semester | 1 · Pertemuan 1/18 |
 | Unit | X1.1 |
 | Durasi referensi | 2 JP (90 menit) |
 | Capability | CX-B1, CX-C1 |
-| Etika global | [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md) |
+| Etika global | [00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md) |
 
 ---
 
@@ -322,12 +322,12 @@ LANGKAH C: Selesai
 
 ## 9. Rujukan
 
-- Modul: [X-S1-P01](../../../kelas-x/semester-1/X-S1-P01_masalah-sebelum-solusi.md)
-- [X-S1_Index](../../../kelas-x/semester-1/X-S1_Index.md)
-- Rubrik formatif: [09_Rubrik_Formatif_Unit.md](../../../../09-rubrik/09_Rubrik_Formatif_Unit.md) — fokus **REA**, **OBS**
+- Modul: [X-S1-P01](../../../../base-2jp/kelas-x/semester-1/X-S1-P01_masalah-sebelum-solusi.md)
+- [X-S1_Index](../../../../base-2jp/kelas-x/semester-1/X-S1_Index.md)
+- Rubrik formatif: [09_Rubrik_Formatif_Unit.md](../../../../../09-rubrik/09_Rubrik_Formatif_Unit.md) — fokus **REA**, **OBS**
 - MM: MM-01, MM-00 (pengantar)
-- Preview literasi: P02 [EXP_03](../../../../07-experience_library/EXP_03_Google_Jaguar.md)
-- Learning Compass: [03_Learning_Compass_CPLF.md](../../../../03-framework/03_Learning_Compass_CPLF.md)
+- Preview literasi: P02 [EXP_03](../../../../../07-experience_library/EXP_03_Google_Jaguar.md)
+- Learning Compass: [03_Learning_Compass_CPLF.md](../../../../../03-framework/03_Learning_Compass_CPLF.md)
 
 ---
 
@@ -351,7 +351,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -362,6 +362,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** Framing masalah dulu = tidak menyimpulkan sebelum bukti.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

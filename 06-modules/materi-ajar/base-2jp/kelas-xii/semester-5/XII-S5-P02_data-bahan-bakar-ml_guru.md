@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [XII-S5-P02_data-bahan-bakar-ml_siswa.md](./XII-S5-P02_data-bahan-bakar-ml_siswa.md)
 
-**Modul:** [XII-S5-P02_data-bahan-bakar-ml.md](../../../kelas-xii/semester-5/XII-S5-P02_data-bahan-bakar-ml.md)
+**Modul:** [XII-S5-P02_data-bahan-bakar-ml.md](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P02_data-bahan-bakar-ml.md)
 
-**Materi pendukung sumber:** [XII-S5-P02_data-bahan-bakar-ml.md](../../../materi-pendukung/kelas-xii/semester-5/XII-S5-P02_data-bahan-bakar-ml.md)
+**Materi pendukung sumber:** [XII-S5-P02_data-bahan-bakar-ml.md](../../../../materi-pendukung/base-2jp/kelas-xii/semester-5/XII-S5-P02_data-bahan-bakar-ml.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -68,12 +68,12 @@ Data harus etis — tidak PII sensitif tanpa izin.
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S5-P02 |
-| Modul pertemuan | [XII-S5-P02_data-bahan-bakar-ml.md](../../../kelas-xii/semester-5/XII-S5-P02_data-bahan-bakar-ml.md) |
+| Modul pertemuan | [XII-S5-P02_data-bahan-bakar-ml.md](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P02_data-bahan-bakar-ml.md) |
 | Semester | 5 · Pertemuan 2/18 |
 | Unit | XII5.2 |
 | Durasi referensi | 2 JP (90 menit) |
 | Capability | CXII-T1 |
-| Etika global | [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md) |
+| Etika global | [00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md) |
 | Panduan ML | [00_Panduan_Guru_ML_TFJS.md](../../00_Panduan_Guru_ML_TFJS.md) |
 
 ---
@@ -335,7 +335,7 @@ Bug: baris B dan C — **label tidak match skor** → model confused.
 
 ## Rujukan modul
 
-- Modul: [XII-S5-P02](../../../kelas-xii/semester-5/XII-S5-P02_data-bahan-bakar-ml.md)
+- Modul: [XII-S5-P02](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P02_data-bahan-bakar-ml.md)
 - Sebelumnya: [XII-S5-P01](./XII-S5-P01_ai-ml-dl-peta.md)
 - Berikutnya: [XII-S5-P03](./XII-S5-P03_dataset-mini-bersih.md)
 
@@ -346,7 +346,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -357,6 +357,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** Dataset sempit = tidak adil pada kelompok lain.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

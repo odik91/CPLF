@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [XI-S4-P09_model-data-relasi_siswa.md](./XI-S4-P09_model-data-relasi_siswa.md)
 
-**Modul:** [XI-S4-P09_model-data-relasi.md](../../../kelas-xi/semester-4/XI-S4-P09_model-data-relasi.md)
+**Modul:** [XI-S4-P09_model-data-relasi.md](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P09_model-data-relasi.md)
 
-**Materi pendukung sumber:** [XI-S4-P09_model-data-relasi.md](../../../materi-pendukung/kelas-xi/semester-4/XI-S4-P09_model-data-relasi.md)
+**Materi pendukung sumber:** [XI-S4-P09_model-data-relasi.md](../../../../materi-pendukung/base-2jp/kelas-xi/semester-4/XI-S4-P09_model-data-relasi.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -72,7 +72,7 @@ Tanpa SQL wajib; konsep ER cukup untuk XII nanti.
 | Field | Isi |
 |-------|-----|
 | Kode | XI-S4-P09 |
-| Modul pertemuan | [XI-S4-P09_model-data-relasi.md](../../../kelas-xi/semester-4/XI-S4-P09_model-data-relasi.md) |
+| Modul pertemuan | [XI-S4-P09_model-data-relasi.md](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P09_model-data-relasi.md) |
 | Unit | XI4.5 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CXI-B2, CXI-T4 |
@@ -329,13 +329,13 @@ const name = members.find(m => m.id === loan.memberId)?.name ?? "?";
 
 ## Rujukan
 
-- Modul: [XI-S4-P09](../../../kelas-xi/semester-4/XI-S4-P09_model-data-relasi.md)
+- Modul: [XI-S4-P09](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P09_model-data-relasi.md)
 - EXP: [EXP_07 Perpustakaan](../../../07-experience_library/EXP_07_Perpustakaan.md)
 - Nested S3: [S3 P07 Struktur Nested](../semester-3/XI-S3-P07_struktur-data-nested.md)
 - Storage: [P07 localStorage](./XI-S4-P07_localstorage-crud.md)
 - Filter: [P05 map-filter-reduce](./XI-S4-P05_map-filter-reduce.md)
 - Lanjut: [P10 Skema ER Mini](./XI-S4-P10_skema-er-mini.md)
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 
@@ -358,7 +358,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -369,6 +369,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** Data & Git = amanah dan integritas.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

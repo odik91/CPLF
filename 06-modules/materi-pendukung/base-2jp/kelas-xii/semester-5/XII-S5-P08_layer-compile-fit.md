@@ -9,7 +9,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S5-P08 |
-| Modul pertemuan | [XII-S5-P08_layer-compile-fit.md](../../../kelas-xii/semester-5/XII-S5-P08_layer-compile-fit.md) |
+| Modul pertemuan | [XII-S5-P08_layer-compile-fit.md](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P08_layer-compile-fit.md) |
 | Unit | XII5.6 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CXII-T2 |
@@ -33,7 +33,7 @@
 | 7 | StatQuest — Gradient Descent | → [StatQuest YouTube — Gradient Descent](https://www.youtube.com/watch?v=sDv4f4s2SB8) |
 | 8 | Neural Network Playground (demo guru saja) | → [TF Playground](https://playground.tensorflow.org/) |
 | 9 | ML Crash Course beranda | → [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) |
-| 10 | Panduan ML guru CPLF | → [00_Panduan_Guru_ML_TFJS.md](../../00_Panduan_Guru_ML_TFJS.md) |
+| 10 | Panduan ML guru CPLF | → [00_Panduan_Guru_ML_TFJS.md](../../../00_Panduan_Guru_ML_TFJS.md) |
 
 **Baca tutorial #1 minimal sekali end-to-end** — parafrase ke bahasa MA, jangan baca link di kelas.
 
@@ -376,10 +376,10 @@ model.predict(test);
 
 ## Rujukan
 
-- Modul: [XII-S5-P08](../../../kelas-xii/semester-5/XII-S5-P08_layer-compile-fit.md)
+- Modul: [XII-S5-P08](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P08_layer-compile-fit.md)
 - Sebelumnya: [P07](./XII-S5-P07_tfjs-tensor-dasar.md)
 - Lanjutan: [P09 Model Dense Mini](./XII-S5-P09_model-dense-mini.md)
-- Panduan ML: [00_Panduan_Guru_ML_TFJS.md](../../00_Panduan_Guru_ML_TFJS.md)
+- Panduan ML: [00_Panduan_Guru_ML_TFJS.md](../../../00_Panduan_Guru_ML_TFJS.md)
 
 ---
 

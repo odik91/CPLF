@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [XI-S3-P12_project-s3-kickoff_siswa.md](./XI-S3-P12_project-s3-kickoff_siswa.md)
 
-**Modul:** [XI-S3-P12_project-s3-kickoff.md](../../../kelas-xi/semester-3/XI-S3-P12_project-s3-kickoff.md)
+**Modul:** [XI-S3-P12_project-s3-kickoff.md](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P12_project-s3-kickoff.md)
 
-**Materi pendukung sumber:** [XI-S3-P12_project-s3-kickoff.md](../../../materi-pendukung/kelas-xi/semester-3/XI-S3-P12_project-s3-kickoff.md)
+**Materi pendukung sumber:** [XI-S3-P12_project-s3-kickoff.md](../../../../materi-pendukung/base-2jp/kelas-xi/semester-3/XI-S3-P12_project-s3-kickoff.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -29,7 +29,7 @@ Dari latihan terpisah → **aplikasi multi-komponen** dengan DoD.
 | Menit | Fase | Aktivitas |
 |-------|------|-----------|
 | 0–10 | Opening | Presentasi 4 PRJ + varian A/B/C rotasi |
-| 10–25 | Concept | DoD · [Rubrik Project](../../../09-rubrik/09_Rubrik_Project.md) · demo reasoning 2 menit |
+| 10–25 | Concept | DoD · [Rubrik Project](../../../../../09-rubrik/09_Rubrik_Project.md) · demo reasoning 2 menit |
 | 25–40 | Practice | Pilih PRJ + finalisasi blueprint + acceptance |
 | 40–55 | Clarify | Guru 1 putaran feedback per kelompok/individu |
 | 55–75 | Practice | Scaffold: struktur folder + state kosong + render placeholder |
@@ -72,7 +72,7 @@ Individu atau pasangan — konsisten dengan kebijakan sekolah.
 | Field | Isi |
 |-------|-----|
 | Kode | XI-S3-P12 |
-| Modul pertemuan | [XI-S3-P12_project-s3-kickoff.md](../../../kelas-xi/semester-3/XI-S3-P12_project-s3-kickoff.md) |
+| Modul pertemuan | [XI-S3-P12_project-s3-kickoff.md](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P12_project-s3-kickoff.md) |
 | Unit | XI3.7 |
 | Durasi referensi | 2 JP = 90 menit |
 | PRJ | [PRJ-XI-S3-01 … 04](../../../08-project/08_Project_Bank_Index.md#kelas-xi--semester-3-interaksi--struktur) |
@@ -91,7 +91,7 @@ Individu atau pasangan — konsisten dengan kebijakan sekolah.
   - **PRJ-XI-S3-04** — Kuis Interaktif — navigasi soal + skor
 - **DoD:** lihat file PRJ masing-masing — guru paham checklist, **bukan** solusi kode.
 - **Deliverable kickoff:** blueprint + acceptance final + folder 3+ modul + state kosong + render placeholder — **bukan** app jadi.
-- **Rubrik:** [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md) — demo reasoning 2 menit + peer P15.
+- **Rubrik:** [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md) — demo reasoning 2 menit + peer P15.
 - **Wajib S3:** pola P10 (`state.js`, `render.js`, `handlers.js`) · spec dari P11 · minimal 2 AC target P13.
 - **Varian rotasi:** A/B/C per PRJ — antar kelas paralel beda varian.
 - **Mode:** individu atau pasangan — konsisten kebijakan sekolah.
@@ -315,15 +315,15 @@ export function render(state, rootEl) {
 
 ## Rujukan
 
-- Modul: [XI-S3-P12](../../../kelas-xi/semester-3/XI-S3-P12_project-s3-kickoff.md)
+- Modul: [XI-S3-P12](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P12_project-s3-kickoff.md)
 - PRJ-01: [Absensi DOM](../../../08-project/PRJ_XI_S3_01_Absensi_DOM.md)
 - PRJ-02: [Peminjaman Barang](../../../08-project/PRJ_XI_S3_02_Peminjaman_Barang.md)
 - PRJ-03: [Katalog OSIS](../../../08-project/PRJ_XI_S3_03_Katalog_OSIS.md)
 - PRJ-04: [Kuis Interaktif](../../../08-project/PRJ_XI_S3_04_Kuis_Interaktif.md)
-- Rubrik: [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md)
+- Rubrik: [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md)
 - Pola modul: [P10 Pemisahan](./XI-S3-P10_pemisahan-tanggung-jawab.md)
 - Spec draft: [P11 Acceptance](./XI-S3-P11_requirement-acceptance.md)
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 
@@ -347,7 +347,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -358,6 +358,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** Desain untuk pengguna lain — teliti sebelum rilis.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

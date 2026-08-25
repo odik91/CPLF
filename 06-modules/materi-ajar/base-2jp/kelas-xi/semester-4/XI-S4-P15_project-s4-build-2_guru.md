@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [XI-S4-P15_project-s4-build-2_siswa.md](./XI-S4-P15_project-s4-build-2_siswa.md)
 
-**Modul:** [XI-S4-P15_project-s4-build-2.md](../../../kelas-xi/semester-4/XI-S4-P15_project-s4-build-2.md)
+**Modul:** [XI-S4-P15_project-s4-build-2.md](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P15_project-s4-build-2.md)
 
-**Materi pendukung sumber:** [XI-S4-P15_project-s4-build-2.md](../../../materi-pendukung/kelas-xi/semester-4/XI-S4-P15_project-s4-build-2.md)
+**Materi pendukung sumber:** [XI-S4-P15_project-s4-build-2.md](../../../../materi-pendukung/base-2jp/kelas-xi/semester-4/XI-S4-P15_project-s4-build-2.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -68,7 +68,7 @@ Pastikan tidak ada anggota tim 0 commit — follow up offline jika perlu.
 | Field | Isi |
 |-------|-----|
 | Kode | XI-S4-P15 |
-| Modul pertemuan | [XI-S4-P15_project-s4-build-2](../../../kelas-xi/semester-4/XI-S4-P15_project-s4-build-2.md) |
+| Modul pertemuan | [XI-S4-P15_project-s4-build-2](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P15_project-s4-build-2.md) |
 | Unit | XI4.7 |
 | Durasi referensi | 2 JP = 90 menit |
 | PRJ | Lanjut PRJ-XI-S4-* |
@@ -288,13 +288,13 @@ function init() {
 
 ## 9. Rujukan
 
-- Modul pertemuan: [XI-S4-P15](../../../kelas-xi/semester-4/XI-S4-P15_project-s4-build-2.md)
+- Modul pertemuan: [XI-S4-P15](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P15_project-s4-build-2.md)
 - Build week 1: [P14 materi pendukung](./XI-S4-P14_project-s4-build-1.md)
 - Peer review next: [P16 materi pendukung](./XI-S4-P16_peer-review-git.md)
-- Pipeline: [XI-S4-P05](../../../kelas-xi/semester-4/XI-S4-P05_map-filter-reduce.md) · [P06](../../../kelas-xi/semester-4/XI-S4-P06_pipeline-data.md)
-- Model data: [XI-S4-P09](../../../kelas-xi/semester-4/XI-S4-P09_model-data-relasi.md)
-- Rubrik project: [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md)
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Pipeline: [XI-S4-P05](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P05_map-filter-reduce.md) · [P06](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P06_pipeline-data.md)
+- Model data: [XI-S4-P09](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P09_model-data-relasi.md)
+- Rubrik project: [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 
@@ -318,7 +318,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -329,6 +329,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** Kickoff project — janji tim & proses jujur.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

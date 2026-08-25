@@ -2,8 +2,8 @@
 
 **Version:** 0.1 · **Audiens:** Guru MA — **RAHASIA GURU** (jangan dibagikan ke siswa)
 
-> **Panduan wajib:** [00_Panduan_Guru_ML_TFJS.md](../../00_Panduan_Guru_ML_TFJS.md)  
-> **Rubrik etika (preview wajib):** [09_Rubrik_Etika_AI](../../../../09-rubrik/09_Rubrik_Etika_AI.md)
+> **Panduan wajib:** [00_Panduan_Guru_ML_TFJS.md](../../../00_Panduan_Guru_ML_TFJS.md)  
+> **Rubrik etika (preview wajib):** [09_Rubrik_Etika_AI](../../../../../09-rubrik/09_Rubrik_Etika_AI.md)
 
 ---
 
@@ -12,7 +12,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S5-P14 |
-| Modul pertemuan | [XII-S5-P14_project-s5-demo-batasan.md](../../../kelas-xii/semester-5/XII-S5-P14_project-s5-demo-batasan.md) |
+| Modul pertemuan | [XII-S5-P14_project-s5-demo-batasan.md](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P14_project-s5-demo-batasan.md) |
 | Semester | 5 · Pertemuan 14/18 |
 | Unit | XII5.8 |
 | Durasi referensi | 2 JP = 90 menit |
@@ -142,7 +142,7 @@ Opening **5 menit**.
 
 - [ ] Timer proyektor / HP
 - [ ] Contoh dokumen batasan **setengah jadi** (untuk live perbaiki overclaim — bukan jawaban)
-- [ ] Baca [09_Rubrik_Etika_AI](../../../../09-rubrik/09_Rubrik_Etika_AI.md) — fokus E1, E4
+- [ ] Baca [09_Rubrik_Etika_AI](../../../../../09-rubrik/09_Rubrik_Etika_AI.md) — fokus E1, E4
 - [ ] Urutan demo: random atau volunteer — rotasi agar yang lemah tidak terakhir selalu
 
 ### Skrip fasilitator
@@ -245,24 +245,24 @@ Tidak perlu khawatir salah karena AI sudah pintar.
 
 | # | Topik | Referensi |
 |---|-------|-----------|
-| 1 | Rubrik etika E1–E4 (wajib) | → [09_Rubrik_Etika_AI](../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
-| 2 | Rubrik project — gate batasan | → [09_Rubrik_Project](../../../../09-rubrik/09_Rubrik_Project.md) |
+| 1 | Rubrik etika E1–E4 (wajib) | → [09_Rubrik_Etika_AI](../../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
+| 2 | Rubrik project — gate batasan | → [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md) |
 | 3 | Overfitting & klaim menyesatkan | → [MLCC — Overfitting](https://developers.google.com/machine-learning/crash-course/overfitting/overfitting) |
 | 4 | Test/validation (intuitif) | → [MLCC — Training and Test Sets](https://developers.google.com/machine-learning/crash-course/training-and-test-split/video-lecture) |
 | 5 | Responsible AI (Google) | → [Google AI Principles](https://ai.google/responsibility/principles/) |
 | 6 | StatQuest — train/test (video) | → [StatQuest — Train/Test](https://www.youtube.com/watch?v=Ankitxu0BIS8) |
-| 7 | Peer review CPLF | → [09_Rubrik_Peer_Review](../../../../09-rubrik/09_Rubrik_Peer_Review.md) |
-| 8 | Panduan guru ML | → [00_Panduan_Guru_ML_TFJS.md](../../00_Panduan_Guru_ML_TFJS.md) |
+| 7 | Peer review CPLF | → [09_Rubrik_Peer_Review](../../../../../09-rubrik/09_Rubrik_Peer_Review.md) |
+| 8 | Panduan guru ML | → [00_Panduan_Guru_ML_TFJS.md](../../../00_Panduan_Guru_ML_TFJS.md) |
 
 ---
 
 ## Rujukan
 
-- Modul: [XII-S5-P14](../../../kelas-xii/semester-5/XII-S5-P14_project-s5-demo-batasan.md)
+- Modul: [XII-S5-P14](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P14_project-s5-demo-batasan.md)
 - Sebelumnya: [P13 Train + UI](./XII-S5-P13_project-s5-build-2.md)
 - Lanjutan: [P15 Metrik](./XII-S5-P15_membaca-metrik-model.md) · [P16 Peer Review](./XII-S5-P16_peer-review-s5.md)
-- Rubrik: [09_Rubrik_Etika_AI](../../../../09-rubrik/09_Rubrik_Etika_AI.md) · [09_Rubrik_Project](../../../../09-rubrik/09_Rubrik_Project.md)
-- Etika global: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Rubrik: [09_Rubrik_Etika_AI](../../../../../09-rubrik/09_Rubrik_Etika_AI.md) · [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md)
+- Etika global: [00_Panduan_Etika_Penyampaian.md](../../../00_Panduan_Etika_Penyampaian.md)
 
 ---
 

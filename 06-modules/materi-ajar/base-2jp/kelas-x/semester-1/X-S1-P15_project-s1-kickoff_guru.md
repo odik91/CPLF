@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [X-S1-P15_project-s1-kickoff_siswa.md](./X-S1-P15_project-s1-kickoff_siswa.md)
 
-**Modul:** [X-S1-P15_project-s1-kickoff.md](../../../kelas-x/semester-1/X-S1-P15_project-s1-kickoff.md)
+**Modul:** [X-S1-P15_project-s1-kickoff.md](../../../../base-2jp/kelas-x/semester-1/X-S1-P15_project-s1-kickoff.md)
 
-**Materi pendukung sumber:** [X-S1-P15_project-s1-kickoff.md](../../../materi-pendukung/kelas-x/semester-1/X-S1-P15_project-s1-kickoff.md)
+**Materi pendukung sumber:** [X-S1-P15_project-s1-kickoff.md](../../../../materi-pendukung/base-2jp/kelas-x/semester-1/X-S1-P15_project-s1-kickoff.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -70,7 +70,7 @@ Kelas paralel: beda varian PRJ/EXP agar tidak copy.
 | Field | Isi |
 |-------|-----|
 | Kode | X-S1-P15 |
-| Modul pertemuan | [X-S1-P15_project-s1-kickoff](../../../kelas-x/semester-1/X-S1-P15_project-s1-kickoff.md) |
+| Modul pertemuan | [X-S1-P15_project-s1-kickoff](../../../../base-2jp/kelas-x/semester-1/X-S1-P15_project-s1-kickoff.md) |
 | Unit | X1.8 |
 | Durasi referensi | 2 JP = 90 menit |
 | PRJ | Pilih satu: [PRJ-X-S1-01/02/03](../../../08-project/08_Project_Bank_Index.md#kelas-x--semester-1-fondasi-bernalar) |
@@ -88,7 +88,7 @@ Kelas paralel: beda varian PRJ/EXP agar tidak copy.
   - **PRJ-X-S1-03** — Kalkulator Logika Zakat (kondisi + perhitungan)
 - **Definition of Done (DoD):** lihat file PRJ masing-masing — guru paham checklist, bukan solusi kode.
 - **Deliverable kickoff hari ini:** spec 5 poin + acceptance 3 checkbox + flowchart/outline — **bukan** project jadi.
-- **Rubrik project:** [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md) — presentasi ringkas ke siswa (capability, bukan angka).
+- **Rubrik project:** [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md) — presentasi ringkas ke siswa (capability, bukan angka).
 - **Varian rotasi:** kelas paralel beda PRJ/varian agar tidak copy antar kelas.
 - **AI policy:** log klarifikasi jika dipakai — protokol MM-00.
 
@@ -260,13 +260,13 @@ Jika siswa PRJ-03 (zakat): baca **spesifikasi** numerik, bukan kode:
 
 ## 9. Rujukan
 
-- Modul pertemuan: [X-S1-P15](../../../kelas-x/semester-1/X-S1-P15_project-s1-kickoff.md)
+- Modul pertemuan: [X-S1-P15](../../../../base-2jp/kelas-x/semester-1/X-S1-P15_project-s1-kickoff.md)
 - PRJ-01: [Kegiatan Harian](../../../08-project/PRJ_X_S1_01_Kegiatan_Harian.md)
 - PRJ-02: [Simulasi Antrian](../../../08-project/PRJ_X_S1_02_Simulasi_Antrian.md)
 - PRJ-03: [Kalkulator Zakat](../../../08-project/PRJ_X_S1_03_Kalkulator_Zakat.md)
-- Rubrik: [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md)
+- Rubrik: [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md)
 - Panduan project week: [00_Panduan_Pertemuan Kelas X](../../../kelas-x/00_Panduan_Pertemuan.md)
-- Etika: [00_Panduan_Etika_Penyampaian](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 
@@ -289,7 +289,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -300,6 +300,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** Shortcut/copas = khianat proses belajar & tim.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

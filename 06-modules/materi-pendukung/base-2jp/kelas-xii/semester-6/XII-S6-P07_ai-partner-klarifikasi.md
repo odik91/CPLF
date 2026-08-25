@@ -2,7 +2,7 @@
 
 **Version:** 0.1 · **Audiens:** Guru MA — **RAHASIA GURU** (jangan dibagikan ke siswa)
 
-> **Panduan wajib:** [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md) · [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+> **Panduan wajib:** [00_Panduan_Guru_CV_Etika.md](../../../00_Panduan_Guru_CV_Etika.md) · [00_Panduan_Etika_Penyampaian.md](../../../00_Panduan_Etika_Penyampaian.md)
 
 ---
 
@@ -11,7 +11,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S6-P07 |
-| Modul pertemuan | [XII-S6-P07_ai-partner-klarifikasi.md](../../../kelas-xii/semester-6/XII-S6-P07_ai-partner-klarifikasi.md) |
+| Modul pertemuan | [XII-S6-P07_ai-partner-klarifikasi.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P07_ai-partner-klarifikasi.md) |
 | Semester | 6 · Pertemuan 7/18 |
 | Unit | XII6.5 |
 | Durasi referensi | 2 JP = 90 menit |
@@ -30,7 +30,7 @@
 | 2 | **Wajib** — Varian A (kode salah) | → [EXP_10_A AI Kode Salah](../../../07-experience_library/EXP_10_A_AI_Kode_Salah.md) |
 | 3 | **Wajib** — Varian B (sitasi palsu) | → [EXP_10_B AI Sitasi Palsu](../../../07-experience_library/EXP_10_B_AI_Sitasi_Palsu.md) |
 | 4 | **Wajib** — Varian C (fakta salah) | → [EXP_10_C AI Fakta Salah](../../../07-experience_library/EXP_10_C_AI_Fakta_Salah.md) |
-| 5 | Spiral Kelas X | → [X-S1-P03 materi EXP_10](../../kelas-x/semester-1/X-S1-P03_chatgpt-klarifikasi.md) |
+| 5 | Spiral Kelas X | → [X-S1-P03 materi EXP_10](../../../../base-2jp/kelas-x/semester-1/X-S1-P03_chatgpt-klarifikasi.md) |
 | 6 | Rubrik E3 — AI partner | → [09_Rubrik_Etika_AI — E3](../../../09-rubrik/09_Rubrik_Etika_AI.md) |
 | 7 | Google Responsible AI | → [Google AI Responsibility](https://ai.google/responsibility/responsible-ai-practices/) |
 | 8 | UNESCO AI ethics (ringkas) | → [UNESCO AI Ethics](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics) |
@@ -282,7 +282,7 @@ Siswa **wajib**:
 
 ## Rujukan
 
-- Modul: [XII-S6-P07](../../../kelas-xii/semester-6/XII-S6-P07_ai-partner-klarifikasi.md)
+- Modul: [XII-S6-P07](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P07_ai-partner-klarifikasi.md)
 - Sebelumnya: [P06 Etika](./XII-S6-P06_etika-privasi-bias.md)
 - Lanjutan: [P08 Capstone Kickoff](./XII-S6-P08_project-nilai-kickoff.md)
 - EXP: [EXP_10](../../../07-experience_library/EXP_10_ChatGPT_Salah.md) · [A](../../../07-experience_library/EXP_10_A_AI_Kode_Salah.md) · [B](../../../07-experience_library/EXP_10_B_AI_Sitasi_Palsu.md) · [C](../../../07-experience_library/EXP_10_C_AI_Fakta_Salah.md)

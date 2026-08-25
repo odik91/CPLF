@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [XII-S6-P15_bonus-agent-ringan.md](../../../kelas-xii/semester-6/XII-S6-P15_bonus-agent-ringan.md)
+**Modul acuan:** [XII-S6-P15_bonus-agent-ringan.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P15_bonus-agent-ringan.md)
 
 ---
 
@@ -164,7 +164,7 @@ function runAgent(cmd) {
 
 **Kait di kelas hari ini:** Kickoff project — janji tim & proses jujur.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 
 ---

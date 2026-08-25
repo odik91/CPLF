@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [XII-S5-P11_project-s5-kickoff_siswa.md](./XII-S5-P11_project-s5-kickoff_siswa.md)
 
-**Modul:** [XII-S5-P11_project-s5-kickoff.md](../../../kelas-xii/semester-5/XII-S5-P11_project-s5-kickoff.md)
+**Modul:** [XII-S5-P11_project-s5-kickoff.md](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P11_project-s5-kickoff.md)
 
-**Materi pendukung sumber:** [XII-S5-P11_project-s5-kickoff.md](../../../materi-pendukung/kelas-xii/semester-5/XII-S5-P11_project-s5-kickoff.md)
+**Materi pendukung sumber:** [XII-S5-P11_project-s5-kickoff.md](../../../../materi-pendukung/base-2jp/kelas-xii/semester-5/XII-S5-P11_project-s5-kickoff.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -70,7 +70,7 @@ Rotasi varian antar kelas paralel.
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S5-P11 |
-| Modul pertemuan | [XII-S5-P11_project-s5-kickoff.md](../../../kelas-xii/semester-5/XII-S5-P11_project-s5-kickoff.md) |
+| Modul pertemuan | [XII-S5-P11_project-s5-kickoff.md](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P11_project-s5-kickoff.md) |
 | Unit | XII5.8 |
 | Durasi referensi | 2 JP = 90 menit |
 | PRJ | [PRJ-XII-S5-01](../../../08-project/PRJ_XII_S5_01_Klasifikasi_Tabular.md) · [PRJ-XII-S5-02](../../../08-project/PRJ_XII_S5_02_Prediksi_Kategori.md) |
@@ -375,11 +375,11 @@ Siswa **wajib deliverable kickoff**:
 
 ## Rujukan
 
-- Modul: [XII-S5-P11](../../../kelas-xii/semester-5/XII-S5-P11_project-s5-kickoff.md)
+- Modul: [XII-S5-P11](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P11_project-s5-kickoff.md)
 - [PRJ-XII-S5-01](../../../08-project/PRJ_XII_S5_01_Klasifikasi_Tabular.md) · [PRJ-XII-S5-02](../../../08-project/PRJ_XII_S5_02_Prediksi_Kategori.md)
 - Lanjutan: [P12 Build 1](./XII-S5-P12_project-s5-build-1.md)
-- Rubrik: [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md)
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Rubrik: [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 
@@ -403,7 +403,7 @@ Siswa **wajib deliverable kickoff**:
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -414,6 +414,6 @@ Siswa **wajib deliverable kickoff**:
 
 **Kait di kelas hari ini:** Data & model — keadilan dan dampak ke sesama.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

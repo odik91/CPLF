@@ -7,12 +7,12 @@
 | Field | Isi |
 |-------|-----|
 | Kode | X-S1-P01 |
-| Modul pertemuan | [X-S1-P01_masalah-sebelum-solusi.md](../../../kelas-x/semester-1/X-S1-P01_masalah-sebelum-solusi.md) |
+| Modul pertemuan | [X-S1-P01_masalah-sebelum-solusi.md](../../../../base-2jp/kelas-x/semester-1/X-S1-P01_masalah-sebelum-solusi.md) |
 | Semester | 1 · Pertemuan 1/18 |
 | Unit | X1.1 |
 | Durasi referensi | 2 JP (90 menit) |
 | Capability | CX-B1, CX-C1 |
-| Etika global | [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md) |
+| Etika global | [00_Panduan_Etika_Penyampaian.md](../../../00_Panduan_Etika_Penyampaian.md) |
 
 ---
 
@@ -226,12 +226,12 @@ LANGKAH C: Selesai
 
 ## 9. Rujukan
 
-- Modul: [X-S1-P01](../../../kelas-x/semester-1/X-S1-P01_masalah-sebelum-solusi.md)
-- [X-S1_Index](../../../kelas-x/semester-1/X-S1_Index.md)
-- Rubrik formatif: [09_Rubrik_Formatif_Unit.md](../../../../09-rubrik/09_Rubrik_Formatif_Unit.md) — fokus **REA**, **OBS**
+- Modul: [X-S1-P01](../../../../base-2jp/kelas-x/semester-1/X-S1-P01_masalah-sebelum-solusi.md)
+- [X-S1_Index](../../../../base-2jp/kelas-x/semester-1/X-S1_Index.md)
+- Rubrik formatif: [09_Rubrik_Formatif_Unit.md](../../../../../09-rubrik/09_Rubrik_Formatif_Unit.md) — fokus **REA**, **OBS**
 - MM: MM-01, MM-00 (pengantar)
-- Preview literasi: P02 [EXP_03](../../../../07-experience_library/EXP_03_Google_Jaguar.md)
-- Learning Compass: [03_Learning_Compass_CPLF.md](../../../../03-framework/03_Learning_Compass_CPLF.md)
+- Preview literasi: P02 [EXP_03](../../../../../07-experience_library/EXP_03_Google_Jaguar.md)
+- Learning Compass: [03_Learning_Compass_CPLF.md](../../../../../03-framework/03_Learning_Compass_CPLF.md)
 
 ---
 

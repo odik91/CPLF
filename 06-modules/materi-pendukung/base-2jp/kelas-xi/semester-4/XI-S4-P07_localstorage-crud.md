@@ -9,7 +9,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XI-S4-P07 |
-| Modul pertemuan | [XI-S4-P07_localstorage-crud.md](../../../kelas-xi/semester-4/XI-S4-P07_localstorage-crud.md) |
+| Modul pertemuan | [XI-S4-P07_localstorage-crud.md](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P07_localstorage-crud.md) |
 | Unit | XI4.4 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CXI-T4 |
@@ -280,14 +280,14 @@ const state = JSON.parse(localStorage.getItem(KEY)); // storage JSON
 
 ## Rujukan
 
-- Modul: [XI-S4-P07](../../../kelas-xi/semester-4/XI-S4-P07_localstorage-crud.md)
+- Modul: [XI-S4-P07](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P07_localstorage-crud.md)
 - Render pattern: [S3 P04 DOM Update](../semester-3/XI-S3-P04_dom-update-aman.md)
 - State: [S3 P08 State Aplikasi](../semester-3/XI-S3-P08_state-aplikasi.md)
 - Nested: [S3 P07 Struktur Nested](../semester-3/XI-S3-P07_struktur-data-nested.md)
 - Async JSON: [P04 Fetch JSON](./XI-S4-P04_fetch-json.md)
 - Pipeline: [P06 Pipeline Data](./XI-S4-P06_pipeline-data.md)
 - Lanjut: [P08 Persistensi Error State](./XI-S4-P08_persistensi-error-state.md)
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../00_Panduan_Etika_Penyampaian.md)
 
 ---
 

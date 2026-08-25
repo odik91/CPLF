@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [X-S2-P02_html-semantik-ma.md](../../../kelas-x/semester-2/X-S2-P02_html-semantik-ma.md)
+**Modul acuan:** [X-S2-P02_html-semantik-ma.md](../../../../base-2jp/kelas-x/semester-2/X-S2-P02_html-semantik-ma.md)
 
 ---
 
@@ -181,7 +181,7 @@ Siswa A tutup layar konten — siswa B tebak section dari **struktur tag saja** 
 
 **Kait di kelas hari ini:** HTML semantik = ihsan kepada pengguna (mis. screen reader).
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 
 ---

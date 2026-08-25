@@ -9,7 +9,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XI-S4-P08 |
-| Modul pertemuan | [XI-S4-P08_persistensi-error-state.md](../../../kelas-xi/semester-4/XI-S4-P08_persistensi-error-state.md) |
+| Modul pertemuan | [XI-S4-P08_persistensi-error-state.md](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P08_persistensi-error-state.md) |
 | Unit | XI4.4 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CXI-T4 |
@@ -291,13 +291,13 @@ setTimeout(function () {
 
 ## Rujukan
 
-- Modul: [XI-S4-P08](../../../kelas-xi/semester-4/XI-S4-P08_persistensi-error-state.md)
+- Modul: [XI-S4-P08](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P08_persistensi-error-state.md)
 - Storage: [P07 localStorage CRUD](./XI-S4-P07_localstorage-crud.md)
 - Fetch loading: [P04 Fetch JSON](./XI-S4-P04_fetch-json.md)
 - Render: [S3 P04 DOM Update](../semester-3/XI-S3-P04_dom-update-aman.md)
 - State: [S3 P08 State Aplikasi](../semester-3/XI-S3-P08_state-aplikasi.md)
 - Lanjut: [P09 Model Data Relasi](./XI-S4-P09_model-data-relasi.md)
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../00_Panduan_Etika_Penyampaian.md)
 
 ---
 

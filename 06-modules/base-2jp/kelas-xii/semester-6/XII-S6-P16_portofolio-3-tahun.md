@@ -17,7 +17,7 @@ Dari kumpulan file → **narasi** perjalanan X → XI → XII.
 | Menit | Fase | Aktivitas |
 |-------|------|-----------|
 | 0–10 | Opening | Contoh portofolio: artefak + capability + refleksi |
-| 10–25 | Concept | [Progress Card](../../../09-rubrik/09_Progress_Card.md) · evidence links |
+| 10–25 | Concept | [Progress Card](../../../../09-rubrik/09_Progress_Card.md) · evidence links |
 | 25–45 | Practice | Kurasi: 2 project terbaik/tahun + 1 capstone |
 | 45–60 | Practice | Tulis 3 capability terkuat + 1 growth area |
 | 60–75 | Peer | Gallery walk — sticky feedback |

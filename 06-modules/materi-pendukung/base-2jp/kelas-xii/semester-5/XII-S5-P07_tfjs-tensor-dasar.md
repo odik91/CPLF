@@ -9,7 +9,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S5-P07 |
-| Modul pertemuan | [XII-S5-P07_tfjs-tensor-dasar.md](../../../kelas-xii/semester-5/XII-S5-P07_tfjs-tensor-dasar.md) |
+| Modul pertemuan | [XII-S5-P07_tfjs-tensor-dasar.md](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P07_tfjs-tensor-dasar.md) |
 | Unit | XII5.5 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CXII-T2 |
@@ -33,7 +33,7 @@ Baca minimal **2 jam** sebelum P07 — fokus tensor & operasi, belum training.
 | 6 | ML Crash Course — vektor & fitur (konteks) | → [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) |
 | 7 | StatQuest — "What is a tensor?" (video pendek) | → [StatQuest YouTube](https://www.youtube.com/c/joshstarmer) — cari "tensor" atau "vectors" |
 | 8 | Troubleshooting shape mismatch | → [Creating a model — input shape](https://www.tensorflow.org/js/guide/models#creating-a-model) |
-| 9 | Panduan ML guru CPLF | → [00_Panduan_Guru_ML_TFJS.md](../../00_Panduan_Guru_ML_TFJS.md) |
+| 9 | Panduan ML guru CPLF | → [00_Panduan_Guru_ML_TFJS.md](../../../00_Panduan_Guru_ML_TFJS.md) |
 
 **Catatan guru non-ML:** Anda tidak perlu hafal aljabar linear. Cukup paham: **tensor = wadah angka berdimensi** + **shape harus cocok** saat operasi.
 
@@ -350,11 +350,11 @@ Siswa **mengetik versi sendiri** (bukan copy proyektor):
 
 ## Rujukan
 
-- Modul: [XII-S5-P07](../../../kelas-xii/semester-5/XII-S5-P07_tfjs-tensor-dasar.md)
+- Modul: [XII-S5-P07](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P07_tfjs-tensor-dasar.md)
 - Sebelumnya: [P06 Tensor dari Scalar](./XII-S5-P06_tensor-dari-scalar.md)
 - Lanjutan: [P08 Layer, Compile, Fit](./XII-S5-P08_layer-compile-fit.md)
-- Panduan ML: [00_Panduan_Guru_ML_TFJS.md](../../00_Panduan_Guru_ML_TFJS.md)
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Panduan ML: [00_Panduan_Guru_ML_TFJS.md](../../../00_Panduan_Guru_ML_TFJS.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../00_Panduan_Etika_Penyampaian.md)
 
 ---
 

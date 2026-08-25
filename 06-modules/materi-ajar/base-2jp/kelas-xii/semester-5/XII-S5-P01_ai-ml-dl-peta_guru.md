@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [XII-S5-P01_ai-ml-dl-peta_siswa.md](./XII-S5-P01_ai-ml-dl-peta_siswa.md)
 
-**Modul:** [XII-S5-P01_ai-ml-dl-peta.md](../../../kelas-xii/semester-5/XII-S5-P01_ai-ml-dl-peta.md)
+**Modul:** [XII-S5-P01_ai-ml-dl-peta.md](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P01_ai-ml-dl-peta.md)
 
-**Materi pendukung sumber:** [XII-S5-P01_ai-ml-dl-peta.md](../../../materi-pendukung/kelas-xii/semester-5/XII-S5-P01_ai-ml-dl-peta.md)
+**Materi pendukung sumber:** [XII-S5-P01_ai-ml-dl-peta.md](../../../../materi-pendukung/base-2jp/kelas-xii/semester-5/XII-S5-P01_ai-ml-dl-peta.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -80,7 +80,7 @@ Buka XII: AI = kelanjutan bernalar + data + web, bukan magic library.
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S5-P01 |
-| Modul pertemuan | [XII-S5-P01_ai-ml-dl-peta.md](../../../kelas-xii/semester-5/XII-S5-P01_ai-ml-dl-peta.md) |
+| Modul pertemuan | [XII-S5-P01_ai-ml-dl-peta.md](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P01_ai-ml-dl-peta.md) |
 | Semester | 5 · Pertemuan 1/18 |
 | Unit | XII5.1 |
 | Durasi referensi | 2 JP (90 menit) |
@@ -88,7 +88,7 @@ Buka XII: AI = kelanjutan bernalar + data + web, bukan magic library.
 | CP | BK, AD |
 | MM | MM-03, MM-04 |
 | Panduan ML | [00_Panduan_Guru_ML_TFJS.md](../../00_Panduan_Guru_ML_TFJS.md) |
-| Etika global | [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md) |
+| Etika global | [00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md) |
 
 ---
 
@@ -382,7 +382,7 @@ LOOP: user klik → data baru → rekomendasi berubah
 
 ## Rujukan modul
 
-- Modul: [XII-S5-P01](../../../kelas-xii/semester-5/XII-S5-P01_ai-ml-dl-peta.md)
+- Modul: [XII-S5-P01](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P01_ai-ml-dl-peta.md)
 - Indeks S5: [XII-S5_Materi_Index](./XII-S5_Materi_Index.md)
 - Panduan: [00_Panduan_Guru_ML_TFJS.md](../../00_Panduan_Guru_ML_TFJS.md)
 
@@ -393,7 +393,7 @@ LOOP: user klik → data baru → rekomendasi berubah
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -404,6 +404,6 @@ LOOP: user klik → data baru → rekomendasi berubah
 
 **Kait di kelas hari ini:** Data & model — keadilan dan dampak ke sesama.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

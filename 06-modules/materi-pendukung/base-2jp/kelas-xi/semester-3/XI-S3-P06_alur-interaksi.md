@@ -9,7 +9,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XI-S3-P06 |
-| Modul pertemuan | [XI-S3-P06_alur-interaksi.md](../../../kelas-xi/semester-3/XI-S3-P06_alur-interaksi.md) |
+| Modul pertemuan | [XI-S3-P06_alur-interaksi.md](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P06_alur-interaksi.md) |
 | Unit | XI3.3 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CXI-T1, CXI-B1 |
@@ -325,13 +325,13 @@ function onNext() {
 
 ## Rujukan
 
-- Modul: [XI-S3-P06](../../../kelas-xi/semester-3/XI-S3-P06_alur-interaksi.md)
+- Modul: [XI-S3-P06](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P06_alur-interaksi.md)
 - Sebelum: [P05 Event & User Flow](./XI-S3-P05_event-user-flow.md)
 - Lanjut: [P07 Struktur Data Nested](./XI-S3-P07_struktur-data-nested.md)
 - Spiral: [P02 Blueprint state diagram](./XI-S3-P02_blueprint-state.md) · [P04 render()](./XI-S3-P04_dom-update-aman.md)
-- PRJ S3 prep: [XI-S3-P12 Kickoff](../../../kelas-xi/semester-3/XI-S3-P12_project-s3-kickoff.md)
+- PRJ S3 prep: [XI-S3-P12 Kickoff](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P12_project-s3-kickoff.md)
 - CXI-T1, CXI-B1
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../00_Panduan_Etika_Penyampaian.md)
 
 ---
 

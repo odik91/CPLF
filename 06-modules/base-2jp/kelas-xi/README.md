@@ -39,15 +39,15 @@ Problem framing · algoritma · HTML/CSS/JS dasar · form/validasi · array/obje
 ## Panduan umum
 
 - [00_Panduan_Pertemuan.md](./00_Panduan_Pertemuan.md)  
-- **Materi pendukung guru:** [S3](../materi-pendukung/kelas-xi/semester-3/XI-S3_Materi_Index.md) · [S4](../materi-pendukung/kelas-xi/semester-4/XI-S4_Materi_Index.md)  
-- Template DNA: [00_Template_Modul_CPLF.md](../00_Template_Modul_CPLF.md)  
-- Silabus: [05_Silabus_Kelas_XI.md](../../05-silabus/05_Silabus_Kelas_XI.md)  
+- **Materi pendukung guru:** [S3](../../materi-pendukung/base-2jp/kelas-xi/semester-3/XI-S3_Materi_Index.md) · [S4](../../materi-pendukung/base-2jp/kelas-xi/semester-4/XI-S4_Materi_Index.md)  
+- Template DNA: [00_Template_Modul_CPLF.md](../../00_Template_Modul_CPLF.md)  
+- Silabus: [05_Silabus_Kelas_XI.md](../../../05-silabus/05_Silabus_Kelas_XI.md)  
 - Modul X (prasyarat): [kelas-x](../kelas-x/README.md)
 
 ## Rotasi kelas paralel
 
-Experience: varian A/B/C dari [07-experience_library](../../07-experience_library/07_Experience_Library_Index.md).  
-Project: [PRJ-XI-S3-*](../../08-project/08_Project_Bank_Index.md#kelas-xi--semester-3-interaksi--struktur) · [PRJ-XI-S4-*](../../08-project/08_Project_Bank_Index.md#kelas-xi--semester-4-data-async-kolaborasi).
+Experience: varian A/B/C dari [07-experience_library](../../../07-experience_library/07_Experience_Library_Index.md).  
+Project: [PRJ-XI-S3-*](../../../08-project/08_Project_Bank_Index.md#kelas-xi--semester-3-interaksi--struktur) · [PRJ-XI-S4-*](../../../08-project/08_Project_Bank_Index.md#kelas-xi--semester-4-data-async-kolaborasi).
 
 ## Navigasi kelas
 

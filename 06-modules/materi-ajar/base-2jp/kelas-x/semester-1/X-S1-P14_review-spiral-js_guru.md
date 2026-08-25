@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [X-S1-P14_review-spiral-js_siswa.md](./X-S1-P14_review-spiral-js_siswa.md)
 
-**Modul:** [X-S1-P14_review-spiral-js.md](../../../kelas-x/semester-1/X-S1-P14_review-spiral-js.md)
+**Modul:** [X-S1-P14_review-spiral-js.md](../../../../base-2jp/kelas-x/semester-1/X-S1-P14_review-spiral-js.md)
 
-**Materi pendukung sumber:** [X-S1-P14_review-spiral-js.md](../../../materi-pendukung/kelas-x/semester-1/X-S1-P14_review-spiral-js.md)
+**Materi pendukung sumber:** [X-S1-P14_review-spiral-js.md](../../../../materi-pendukung/base-2jp/kelas-x/semester-1/X-S1-P14_review-spiral-js.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -70,7 +70,7 @@ Buffer sebelum project — identifikasi siswa perlu scaffolding ekstra.
 | Field | Isi |
 |-------|-----|
 | Kode | X-S1-P14 |
-| Modul pertemuan | [X-S1-P14_review-spiral-js](../../../kelas-x/semester-1/X-S1-P14_review-spiral-js.md) |
+| Modul pertemuan | [X-S1-P14_review-spiral-js](../../../../base-2jp/kelas-x/semester-1/X-S1-P14_review-spiral-js.md) |
 | Unit | X1.1–X1.7 (review integratif) |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CX-B*, CX-T* |
@@ -279,11 +279,11 @@ Guru hanya ucapkan: "Gabungkan logika slot + loop nama antre — minimal 8 baris
 
 ## 9. Rujukan
 
-- Modul pertemuan: [X-S1-P14](../../../kelas-x/semester-1/X-S1-P14_review-spiral-js.md)
-- Indeks S1: [X-S1_Index](../../../kelas-x/semester-1/X-S1_Index.md)
+- Modul pertemuan: [X-S1-P14](../../../../base-2jp/kelas-x/semester-1/X-S1-P14_review-spiral-js.md)
+- Indeks S1: [X-S1_Index](../../../../base-2jp/kelas-x/semester-1/X-S1_Index.md)
 - Project preview: [08_Project_Bank_Index](../../../08-project/08_Project_Bank_Index.md)
-- Rubrik COM: [09_Rubrik_Enam_Aspek](../../../09-rubrik/09_Rubrik_Enam_Aspek.md)
-- Etika: [00_Panduan_Etika_Penyampaian](../../00_Panduan_Etika_Penyampaian.md)
+- Rubrik COM: [09_Rubrik_Enam_Aspek](../../../../../09-rubrik/09_Rubrik_Enam_Aspek.md)
+- Etika: [00_Panduan_Etika_Penyampaian](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 
@@ -305,7 +305,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -316,6 +316,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** Bernalar & literasi digital sebagai ilmu bermanfaat.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [XI-S4-P08_persistensi-error-state_siswa.md](./XI-S4-P08_persistensi-error-state_siswa.md)
 
-**Modul:** [XI-S4-P08_persistensi-error-state.md](../../../kelas-xi/semester-4/XI-S4-P08_persistensi-error-state.md)
+**Modul:** [XI-S4-P08_persistensi-error-state.md](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P08_persistensi-error-state.md)
 
-**Materi pendukung sumber:** [XI-S4-P08_persistensi-error-state.md](../../../materi-pendukung/kelas-xi/semester-4/XI-S4-P08_persistensi-error-state.md)
+**Materi pendukung sumber:** [XI-S4-P08_persistensi-error-state.md](../../../../materi-pendukung/base-2jp/kelas-xi/semester-4/XI-S4-P08_persistensi-error-state.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -64,7 +64,7 @@ Jembatan ke PRJ absensi persistent / inventaris.
 | Field | Isi |
 |-------|-----|
 | Kode | XI-S4-P08 |
-| Modul pertemuan | [XI-S4-P08_persistensi-error-state.md](../../../kelas-xi/semester-4/XI-S4-P08_persistensi-error-state.md) |
+| Modul pertemuan | [XI-S4-P08_persistensi-error-state.md](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P08_persistensi-error-state.md) |
 | Unit | XI4.4 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CXI-T4 |
@@ -346,13 +346,13 @@ setTimeout(function () {
 
 ## Rujukan
 
-- Modul: [XI-S4-P08](../../../kelas-xi/semester-4/XI-S4-P08_persistensi-error-state.md)
+- Modul: [XI-S4-P08](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P08_persistensi-error-state.md)
 - Storage: [P07 localStorage CRUD](./XI-S4-P07_localstorage-crud.md)
 - Fetch loading: [P04 Fetch JSON](./XI-S4-P04_fetch-json.md)
 - Render: [S3 P04 DOM Update](../semester-3/XI-S3-P04_dom-update-aman.md)
 - State: [S3 P08 State Aplikasi](../semester-3/XI-S3-P08_state-aplikasi.md)
 - Lanjut: [P09 Model Data Relasi](./XI-S4-P09_model-data-relasi.md)
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 
@@ -375,7 +375,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -386,6 +386,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** Data kelompok disimpan = amanah — backup & consent.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

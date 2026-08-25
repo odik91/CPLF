@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [X-S1-P06_gambar-rumah-requirement.md](../../../kelas-x/semester-1/X-S1-P06_gambar-rumah-requirement.md)
+**Modul acuan:** [X-S1-P06_gambar-rumah-requirement.md](../../../../base-2jp/kelas-x/semester-1/X-S1-P06_gambar-rumah-requirement.md)
 
 ---
 
@@ -132,7 +132,7 @@ REQUIREMENT Poster_v1
 
 **Kait di kelas hari ini:** Requirement jelas = janji yang bisa dipegang tim & pengguna.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 
 ---

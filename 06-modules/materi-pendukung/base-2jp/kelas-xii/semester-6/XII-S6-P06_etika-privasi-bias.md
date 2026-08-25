@@ -7,7 +7,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S6-P06 |
-| Modul pertemuan | [XII-S6-P06_etika-privasi-bias.md](../../../kelas-xii/semester-6/XII-S6-P06_etika-privasi-bias.md) |
+| Modul pertemuan | [XII-S6-P06_etika-privasi-bias.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P06_etika-privasi-bias.md) |
 | Semester | 6 · Pertemuan 6/18 |
 | Unit | XII6.4 |
 | Durasi referensi | 2 JP = 90 menit |
@@ -16,9 +16,9 @@
 | MM | MM-24, MM-04 |
 | Formatif | REA, COM + dimensi **E2** rubrik etika |
 | Prasyarat | [P05 AI Fitur Web](./XII-S6-P05_ai-fitur-web.md) |
-| **Rubrik wajib** | [09_Rubrik_Etika_AI.md](../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
-| Panduan CV | [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md) |
-| Etika global | [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md) |
+| **Rubrik wajib** | [09_Rubrik_Etika_AI.md](../../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
+| Panduan CV | [00_Panduan_Guru_CV_Etika.md](../../../00_Panduan_Guru_CV_Etika.md) |
+| Etika global | [00_Panduan_Etika_Penyampaian.md](../../../00_Panduan_Etika_Penyampaian.md) |
 | Ada live code? | **Tidak** — studi kasus + template etika (wajib sebelum capstone P08) |
 
 ---
@@ -27,15 +27,15 @@
 
 | # | Topik | Referensi |
 |---|-------|-----------|
-| 1 | **Wajib — CPLF** | → referensi: [09_Rubrik_Etika_AI.md](../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
+| 1 | **Wajib — CPLF** | → referensi: [09_Rubrik_Etika_AI.md](../../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
 | 2 | **Wajib** — Google Responsible AI Practices | → referensi: [Google AI — Responsible AI Practices](https://ai.google/responsibility/responsible-ai-practices/) |
 | 3 | **Wajib** — UNESCO AI Ethics (ringkas) | → referensi: [UNESCO AI Ethics Recommendation](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics) |
 | 4 | Privasi kamera & Permissions Policy | → referensi: [MDN — Permissions Policy](https://developer.mozilla.org/en-US/docs/Web/HTTP/Permissions_Policy) |
 | 5 | getUserMedia & consent UX | → referensi: [MDN — getUserMedia](https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getUserMedia) |
 | 6 | Fairness / bias overview | → referensi: [Google ML — Fairness](https://developers.google.com/machine-learning/crash-course/fairness/overview) |
 | 7 | MLCC — data privacy (konteks) | → referensi: [MLCC — Working with numerical data](https://developers.google.com/machine-learning/crash-course) *(framing data)* |
-| 8 | Rubrik project capstone | → referensi: [09_Rubrik_Project.md](../../../../09-rubrik/09_Rubrik_Project.md) |
-| 9 | Panduan CV CPLF | → [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md) |
+| 8 | Rubrik project capstone | → referensi: [09_Rubrik_Project.md](../../../../../09-rubrik/09_Rubrik_Project.md) |
+| 9 | Panduan CV CPLF | → [00_Panduan_Guru_CV_Etika.md](../../../00_Panduan_Guru_CV_Etika.md) |
 
 **Waktu baca minimum:** 60–90 menit (**rubrik E1–E4 penuh** + Responsible AI + UNESCO executive summary).
 
@@ -51,7 +51,7 @@ TEC tinggi + etika kosong = **gagal capaian XII** (CXII-C1). Modul capstone P08�
 
 ### Rubrik Etika CPLF — ringkasan guru (baca file lengkap)
 
-→ referensi: [09_Rubrik_Etika_AI.md](../../../../09-rubrik/09_Rubrik_Etika_AI.md)
+→ referensi: [09_Rubrik_Etika_AI.md](../../../../../09-rubrik/09_Rubrik_Etika_AI.md)
 
 | Dimensi | Fokus P06 | Level minimum capstone |
 |---------|-----------|------------------------|
@@ -150,7 +150,7 @@ Chain dari **P05** + spiral S6.
 | **No template jawaban etika** | Struktur 8 poin — siswa isi masalah **capstone mereka** |
 | **QR vs wajah — diskusi** | Facilitate — hormati sensitivitas MA |
 | **No copas ChatGPT etika** | Guru cek parafrase — dimensi E2 rubrik |
-| **Rubrik visible** | Proyeksikan/link [09_Rubrik_Etika_AI.md](../../../../09-rubrik/09_Rubrik_Etika_AI.md) — jelaskan E1–E4 |
+| **Rubrik visible** | Proyeksikan/link [09_Rubrik_Etika_AI.md](../../../../../09-rubrik/09_Rubrik_Etika_AI.md) — jelaskan E1–E4 |
 | **Wali/piket opsional** | 15 menit — legitimasi kebijakan sekolah |
 
 ---
@@ -180,7 +180,7 @@ Sticky: manfaat AI di MA (1) + risiko (1). Cluster di papan — tidak dinilai be
 
 **Counter:** Baca gate rubrik — E1=1 project dikembalikan. Akurasi tanpa etika = **tidak lulus CPLF XII**.
 
-→ referensi: [09_Rubrik_Etika_AI.md](../../../../09-rubrik/09_Rubrik_Etika_AI.md) — Gate Kelulusan Etika
+→ referensi: [09_Rubrik_Etika_AI.md](../../../../../09-rubrik/09_Rubrik_Etika_AI.md) — Gate Kelulusan Etika
 
 ### Concept E1–E4 (menit 40–50)
 
@@ -297,7 +297,7 @@ Presentasi: "Model kami 100% akurat, tidak perlu demo gagal."
 | Etika diisi ChatGPT generik | Minta spesifik ke project + data nyata |
 | "Wajah lebih keren" | QR vs wajah matrix — E2 |
 | Skip alternatif lebih aman | Poin 8 template wajib |
-| Guru tidak baca rubrik | Gate P08 gagal — baca [rubrik](../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
+| Guru tidak baca rubrik | Gate P08 gagal — baca [rubrik](../../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
 | Menakuti tanpa solusi | Pair dengan mitigasi P02/P05 |
 | Etika = 1 kalimat | 1 halaman minimum |
 
@@ -305,7 +305,7 @@ Presentasi: "Model kami 100% akurat, tidak perlu demo gagal."
 
 ## Checklist Exit Guru
 
-- [ ] [09_Rubrik_Etika_AI.md](../../../../09-rubrik/09_Rubrik_Etika_AI.md) dibaca & dijelaskan E1–E4
+- [ ] [09_Rubrik_Etika_AI.md](../../../../../09-rubrik/09_Rubrik_Etika_AI.md) dibaca & dijelaskan E1–E4
 - [ ] Studi kasus QR vs wajah difasilitasi — sensitif MA
 - [ ] Template etika 8 poin terkumpul (draft capstone)
 - [ ] Exit: 1 keputusan etis per siswa/tim
@@ -318,12 +318,12 @@ Presentasi: "Model kami 100% akurat, tidak perlu demo gagal."
 
 ## Rujukan modul
 
-- Modul: [XII-S6-P06](../../../kelas-xii/semester-6/XII-S6-P06_etika-privasi-bias.md)
-- **Rubrik:** [09_Rubrik_Etika_AI.md](../../../../09-rubrik/09_Rubrik_Etika_AI.md)
-- Rubrik project: [09_Rubrik_Project.md](../../../../09-rubrik/09_Rubrik_Project.md)
+- Modul: [XII-S6-P06](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P06_etika-privasi-bias.md)
+- **Rubrik:** [09_Rubrik_Etika_AI.md](../../../../../09-rubrik/09_Rubrik_Etika_AI.md)
+- Rubrik project: [09_Rubrik_Project.md](../../../../../09-rubrik/09_Rubrik_Project.md)
 - Sebelumnya: [P05](./XII-S6-P05_ai-fitur-web.md)
 - Lanjutan: [P07 AI Partner](./XII-S6-P07_ai-partner-klarifikasi.md) · [P08 Kickoff](./XII-S6-P08_project-nilai-kickoff.md)
-- Panduan: [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md)
+- Panduan: [00_Panduan_Guru_CV_Etika.md](../../../00_Panduan_Guru_CV_Etika.md)
 
 ---
 

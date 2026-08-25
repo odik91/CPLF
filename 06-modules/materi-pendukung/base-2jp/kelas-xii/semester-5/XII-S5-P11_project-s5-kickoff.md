@@ -9,7 +9,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S5-P11 |
-| Modul pertemuan | [XII-S5-P11_project-s5-kickoff.md](../../../kelas-xii/semester-5/XII-S5-P11_project-s5-kickoff.md) |
+| Modul pertemuan | [XII-S5-P11_project-s5-kickoff.md](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P11_project-s5-kickoff.md) |
 | Unit | XII5.8 |
 | Durasi referensi | 2 JP = 90 menit |
 | PRJ | [PRJ-XII-S5-01](../../../08-project/PRJ_XII_S5_01_Klasifikasi_Tabular.md) · [PRJ-XII-S5-02](../../../08-project/PRJ_XII_S5_02_Prediksi_Kategori.md) |
@@ -32,7 +32,7 @@
 | 7 | CDN setup | → [TF.js setup](https://www.tensorflow.org/js/tutorials/setup) |
 | 8 | Chart.js (loss opsional P13+) | → [Chart.js](https://www.chartjs.org/docs/latest/) |
 | 9 | Project bank index | → [08_Project_Bank_Index — XII S5](../../../08-project/08_Project_Bank_Index.md#kelas-xii--semester-5-data--tfjs-dasar) |
-| 10 | Panduan ML CPLF | → [00_Panduan_Guru_ML_TFJS.md](../../00_Panduan_Guru_ML_TFJS.md) |
+| 10 | Panduan ML CPLF | → [00_Panduan_Guru_ML_TFJS.md](../../../00_Panduan_Guru_ML_TFJS.md) |
 
 **Baca PRJ-01 dan PRJ-02 penuh** — paham DoD & varian A/B/C, bukan solusi kode.
 
@@ -314,11 +314,11 @@ Siswa **wajib deliverable kickoff**:
 
 ## Rujukan
 
-- Modul: [XII-S5-P11](../../../kelas-xii/semester-5/XII-S5-P11_project-s5-kickoff.md)
+- Modul: [XII-S5-P11](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P11_project-s5-kickoff.md)
 - [PRJ-XII-S5-01](../../../08-project/PRJ_XII_S5_01_Klasifikasi_Tabular.md) · [PRJ-XII-S5-02](../../../08-project/PRJ_XII_S5_02_Prediksi_Kategori.md)
 - Lanjutan: [P12 Build 1](./XII-S5-P12_project-s5-build-1.md)
 - Rubrik: [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md)
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../00_Panduan_Etika_Penyampaian.md)
 
 ---
 

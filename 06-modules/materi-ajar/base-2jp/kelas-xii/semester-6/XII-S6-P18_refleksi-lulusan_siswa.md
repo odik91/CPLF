@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [XII-S6-P18_refleksi-lulusan.md](../../../kelas-xii/semester-6/XII-S6-P18_refleksi-lulusan.md)
+**Modul acuan:** [XII-S6-P18_refleksi-lulusan.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P18_refleksi-lulusan.md)
 
 ---
 
@@ -135,7 +135,7 @@ Setelah lulus: kuliah pendidikan — tech untuk media pembelajaran.
 
 **Kait di kelas hari ini:** Pembelajar seumur hidup; teknologi = alat amanah.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 
 ---

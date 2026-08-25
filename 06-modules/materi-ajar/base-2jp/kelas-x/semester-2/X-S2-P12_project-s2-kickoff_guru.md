@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [X-S2-P12_project-s2-kickoff_siswa.md](./X-S2-P12_project-s2-kickoff_siswa.md)
 
-**Modul:** [X-S2-P12_project-s2-kickoff.md](../../../kelas-x/semester-2/X-S2-P12_project-s2-kickoff.md)
+**Modul:** [X-S2-P12_project-s2-kickoff.md](../../../../base-2jp/kelas-x/semester-2/X-S2-P12_project-s2-kickoff.md)
 
-**Materi pendukung sumber:** [X-S2-P12_project-s2-kickoff.md](../../../materi-pendukung/kelas-x/semester-2/X-S2-P12_project-s2-kickoff.md)
+**Materi pendukung sumber:** [X-S2-P12_project-s2-kickoff.md](../../../../materi-pendukung/base-2jp/kelas-x/semester-2/X-S2-P12_project-s2-kickoff.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -59,7 +59,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | X-S2-P12 |
-| Modul pertemuan | [X-S2-P12_project-s2-kickoff.md](../../../kelas-x/semester-2/X-S2-P12_project-s2-kickoff.md) |
+| Modul pertemuan | [X-S2-P12_project-s2-kickoff.md](../../../../base-2jp/kelas-x/semester-2/X-S2-P12_project-s2-kickoff.md) |
 | Unit | X2.7 |
 | Durasi referensi | 2 JP = 90 menit |
 | PRJ | [PRJ-X-S2-01 … 04](../../../08-project/08_Project_Bank_Index.md#kelas-x--semester-2-web-sebagai-ekspresi) |
@@ -78,7 +78,7 @@
   - **PRJ-X-S2-04** — Profil Ekstrakurikuler
 - **DoD:** lihat file PRJ masing-masing — guru paham checklist, **bukan** solusi kode.
 - **Deliverable kickoff:** spec + acceptance + wireframe + struktur folder — **bukan** project jadi.
-- **Rubrik:** [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md) — penekanan COM/reasoning + demo **mengapa** desain (3 menit nanti P17).
+- **Rubrik:** [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md) — penekanan COM/reasoning + demo **mengapa** desain (3 menit nanti P17).
 - **Wajib S2:** HTML+CSS+JS terintegrasi · minimal 1 iterasi peer (P15).
 - **Varian rotasi:** kelas paralel beda PRJ/varian — anti copy antar kelas.
 
@@ -272,14 +272,14 @@ Spesifikasi numerik PRJ-01 (zakat UI) — baca **spec**, bukan kode:
 
 ## Rujukan
 
-- Modul: [X-S2-P12](../../../kelas-x/semester-2/X-S2-P12_project-s2-kickoff.md)
+- Modul: [X-S2-P12](../../../../base-2jp/kelas-x/semester-2/X-S2-P12_project-s2-kickoff.md)
 - PRJ-01: [Kalkulator Zakat UI](../../../08-project/PRJ_X_S2_01_Zakat_UI.md)
 - PRJ-02: [Jadwal Kegiatan](../../../08-project/PRJ_X_S2_02_Jadwal_Kegiatan.md)
 - PRJ-03: [Absensi Mini](../../../08-project/PRJ_X_S2_03_Absensi_Mini.md)
 - PRJ-04: [Profil Ekskul](../../../08-project/PRJ_X_S2_04_Profil_Ekskul.md)
-- Rubrik: [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md)
+- Rubrik: [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md)
 - Dry run: [P11 Sintesis](./X-S2-P11_sintesis-halaman-mini.md)
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 
@@ -303,7 +303,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -314,6 +314,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** Web & kolaborasi — manfaatkan untuk sesama.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

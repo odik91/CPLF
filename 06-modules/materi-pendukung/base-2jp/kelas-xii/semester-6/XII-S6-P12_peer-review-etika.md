@@ -2,7 +2,7 @@
 
 **Version:** 0.1 · **Audiens:** Guru MA — **RAHASIA GURU** (jangan dibagikan ke siswa)
 
-> **Panduan wajib:** [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md) · [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)  
+> **Panduan wajib:** [00_Panduan_Guru_CV_Etika.md](../../../00_Panduan_Guru_CV_Etika.md) · [00_Panduan_Etika_Penyampaian.md](../../../00_Panduan_Etika_Penyampaian.md)  
 > **Rubrik wajib:** [09_Rubrik_Peer_Review.md](../../../09-rubrik/09_Rubrik_Peer_Review.md) · [09_Rubrik_Etika_AI.md](../../../09-rubrik/09_Rubrik_Etika_AI.md)
 
 ---
@@ -12,7 +12,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S6-P12 |
-| Modul pertemuan | [XII-S6-P12_peer-review-etika.md](../../../kelas-xii/semester-6/XII-S6-P12_peer-review-etika.md) |
+| Modul pertemuan | [XII-S6-P12_peer-review-etika.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P12_peer-review-etika.md) |
 | Semester | 6 · Pertemuan 12/18 |
 | Unit | XII6.6 |
 | Durasi referensi | 2 JP = 90 menit |
@@ -35,8 +35,8 @@
 | 6 | Model cards (batasan) | → [Model Cards](https://modelcards.withgoogle.com/about) |
 | 7 | Google Responsible AI | → [Google AI Responsibility](https://ai.google/responsibility/responsible-ai-practices/) |
 | 8 | Teachable Machine FAQ (review data) | → [Teachable Machine FAQ](https://support.google.com/teachablemachine/) |
-| 9 | Panduan CV S6 | → [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md) |
-| 10 | Etika penyampaian | → [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md) |
+| 9 | Panduan CV S6 | → [00_Panduan_Guru_CV_Etika.md](../../../00_Panduan_Guru_CV_Etika.md) |
+| 10 | Etika penyampaian | → [00_Panduan_Etika_Penyampaian.md](../../../00_Panduan_Etika_Penyampaian.md) |
 
 ---
 
@@ -278,7 +278,7 @@ localStorage.setItem('face_snapshot', canvas.toDataURL());
 
 ## Rujukan
 
-- Modul: [XII-S6-P12](../../../kelas-xii/semester-6/XII-S6-P12_peer-review-etika.md)
+- Modul: [XII-S6-P12](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P12_peer-review-etika.md)
 - Sebelumnya: [P11 Demo Gagal](./XII-S6-P11_project-nilai-build-3.md)
 - Lanjutan: [P13 Revisi Capstone](./XII-S6-P13_revisi-capstone.md) · [P14 Presentasi](./XII-S6-P14_presentasi-nilai.md)
 - Rubrik: [Peer Review](../../../09-rubrik/09_Rubrik_Peer_Review.md) · [Etika AI](../../../09-rubrik/09_Rubrik_Etika_AI.md) · [Project](../../../09-rubrik/09_Rubrik_Project.md)

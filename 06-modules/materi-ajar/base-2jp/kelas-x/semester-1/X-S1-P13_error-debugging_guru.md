@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [X-S1-P13_error-debugging_siswa.md](./X-S1-P13_error-debugging_siswa.md)
 
-**Modul:** [X-S1-P13_error-debugging.md](../../../kelas-x/semester-1/X-S1-P13_error-debugging.md)
+**Modul:** [X-S1-P13_error-debugging.md](../../../../base-2jp/kelas-x/semester-1/X-S1-P13_error-debugging.md)
 
-**Materi pendukung sumber:** [X-S1-P13_error-debugging.md](../../../materi-pendukung/kelas-x/semester-1/X-S1-P13_error-debugging.md)
+**Materi pendukung sumber:** [X-S1-P13_error-debugging.md](../../../../materi-pendukung/base-2jp/kelas-x/semester-1/X-S1-P13_error-debugging.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -70,7 +70,7 @@ Normalisasi error — budaya kelas CPLF.
 | Field | Isi |
 |-------|-----|
 | Kode | X-S1-P13 |
-| Modul pertemuan | [X-S1-P13_error-debugging](../../../kelas-x/semester-1/X-S1-P13_error-debugging.md) |
+| Modul pertemuan | [X-S1-P13_error-debugging](../../../../base-2jp/kelas-x/semester-1/X-S1-P13_error-debugging.md) |
 | Unit | X1.7 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CX-T4, CX-C1 |
@@ -290,11 +290,11 @@ console.log(cekUsia(16));
 
 ## 9. Rujukan
 
-- Modul pertemuan: [X-S1-P13](../../../kelas-x/semester-1/X-S1-P13_error-debugging.md)
+- Modul pertemuan: [X-S1-P13](../../../../base-2jp/kelas-x/semester-1/X-S1-P13_error-debugging.md)
 - Silabus X1.7: [05_Silabus_Kelas_X](../../../05-silabus/05_Silabus_Kelas_X.md)
 - MM-05 (Error sebagai informasi)
-- Etika global: [00_Panduan_Etika_Penyampaian](../../00_Panduan_Etika_Penyampaian.md)
-- Recall dari: [P11 Kasir & Loop](../../../kelas-x/semester-1/X-S1-P11_kasir-loop.md), [P12 Function](../../../kelas-x/semester-1/X-S1-P12_function-loop-js.md)
+- Etika global: [00_Panduan_Etika_Penyampaian](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Recall dari: [P11 Kasir & Loop](../../../../base-2jp/kelas-x/semester-1/X-S1-P11_kasir-loop.md), [P12 Function](../../../../base-2jp/kelas-x/semester-1/X-S1-P12_function-loop-js.md)
 
 ---
 
@@ -316,7 +316,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -327,6 +327,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** Error bukan aib — iterasi dengan lapang dada.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

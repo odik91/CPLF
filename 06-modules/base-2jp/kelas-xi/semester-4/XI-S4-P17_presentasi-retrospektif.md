@@ -34,7 +34,7 @@ Dari produk jadi → **cerita tim** + pelajaran kolaborasi.
 
 ## Formatif / Sumatif
 
-[Rubrik Project](../../../09-rubrik/09_Rubrik_Project.md) + kolaborasi
+[Rubrik Project](../../../../09-rubrik/09_Rubrik_Project.md) + kolaborasi
 
 ---
 

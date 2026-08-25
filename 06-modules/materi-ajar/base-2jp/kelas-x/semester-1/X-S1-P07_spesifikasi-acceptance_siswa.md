@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [X-S1-P07_spesifikasi-acceptance.md](../../../kelas-x/semester-1/X-S1-P07_spesifikasi-acceptance.md)
+**Modul acuan:** [X-S1-P07_spesifikasi-acceptance.md](../../../../base-2jp/kelas-x/semester-1/X-S1-P07_spesifikasi-acceptance.md)
 
 ---
 
@@ -137,7 +137,7 @@ Mockup: logo ada di tengah, besar
 
 **Kait di kelas hari ini:** Acceptance criteria = ukuran adil “selesai” untuk semua pihak.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 
 ---

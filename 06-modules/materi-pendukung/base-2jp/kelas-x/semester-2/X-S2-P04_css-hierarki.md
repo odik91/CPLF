@@ -9,7 +9,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | X-S2-P04 |
-| Modul pertemuan | [X-S2-P04_css-hierarki.md](../../../kelas-x/semester-2/X-S2-P04_css-hierarki.md) |
+| Modul pertemuan | [X-S2-P04_css-hierarki.md](../../../../base-2jp/kelas-x/semester-2/X-S2-P04_css-hierarki.md) |
 | Unit | X2.2 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CX-T1 |
@@ -287,12 +287,12 @@ p { color: black; }
 
 ## Rujukan
 
-- Modul: [X-S2-P04](../../../kelas-x/semester-2/X-S2-P04_css-hierarki.md)
+- Modul: [X-S2-P04](../../../../base-2jp/kelas-x/semester-2/X-S2-P04_css-hierarki.md)
 - Sebelum: [P03 CSS Layout](./X-S2-P03_css-layout-dasar.md)
 - Lanjut: [P05 JS DOM Klik](./X-S2-P05_js-dom-klik.md)
 - EXP spiral: [EXP_02_B Website Bagus](../../../07-experience_library/EXP_02_B_Website_Bagus.md)
 - CX-T1
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../00_Panduan_Etika_Penyampaian.md)
 
 ---
 

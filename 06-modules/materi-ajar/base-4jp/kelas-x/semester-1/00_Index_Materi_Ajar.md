@@ -1,6 +1,6 @@
 # Materi Ajar — Base 4JP · Kelas X · Semester 1
 
-Jalur aktif. Arsip: [base-2jp](../../base-2jp/kelas-x/semester-1/).
+Jalur aktif. Arsip: [base-2jp](../../../base-2jp/kelas-x/semester-1/).
 
 ## Standar file guru (wajib)
 
@@ -10,7 +10,7 @@ Setiap `*_guru.md` harus **mandiri dipakai mengajar**, pola P01:
 2. **B. Pendukung** — pengetahuan · recall · etika · **skrip live per blok waktu** · kesalahan umum · checklist · KBC  
 3. Jangan hanya “ringkas + lihat file lain” — itu menimbulkan ambiguitas penyampaian  
 4. **Bloom:** sebut nama level + kode ke siswa (`Memahami · C2`); bedakan dari Elemen CP Merdeka (`BK`/`LD`/…)  
-5. Rujukan: [00_Taksonomi_Bloom_CPLF_4JP](../../../base-4jp/kelas-x/00_Taksonomi_Bloom_CPLF_4JP.md)
+5. Rujukan: [00_Taksonomi_Bloom_CPLF_4JP](../../../../base-4jp/kelas-x/00_Taksonomi_Bloom_CPLF_4JP.md)
 
 ## Bacaan keterampilan (lintas pertemuan · luar jam)
 
@@ -57,4 +57,4 @@ Setiap `*_guru.md` harus **mandiri dipakai mengajar**, pola P01:
 | 33 | [guru](./X-S1-P33_project-s1-showcase_guru.md) · [siswa](./X-S1-P33_project-s1-showcase_siswa.md) · [bacaan](./X-S1-P33_bacaan-mimi-robi.md) · [lembar](./skill-js/p33-showcase/) |
 | 34 | [guru](./X-S1-P34_penutup-s1-refleksi_guru.md) · [siswa](./X-S1-P34_penutup-s1-refleksi_siswa.md) · [bacaan](./X-S1-P34_bacaan-mimi-robi.md) · [lembar](./skill-js/p34-refleksi/) |
 
-Indeks modul: [X-S1_Index](../../../base-4jp/kelas-x/semester-1/X-S1_Index.md)
+Indeks modul: [X-S1_Index](../../../../base-4jp/kelas-x/semester-1/X-S1_Index.md)

@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [XI-S4-P07_localstorage-crud.md](../../../kelas-xi/semester-4/XI-S4-P07_localstorage-crud.md)
+**Modul acuan:** [XI-S4-P07_localstorage-crud.md](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P07_localstorage-crud.md)
 
 ---
 
@@ -175,7 +175,7 @@ const state = JSON.parse(localStorage.getItem(KEY)); // storage JSON
 
 **Kait di kelas hari ini:** Data & Git = amanah dan integritas.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 
 ---

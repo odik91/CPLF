@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [XI-S4-P16_peer-review-git_siswa.md](./XI-S4-P16_peer-review-git_siswa.md)
 
-**Modul:** [XI-S4-P16_peer-review-git.md](../../../kelas-xi/semester-4/XI-S4-P16_peer-review-git.md)
+**Modul:** [XI-S4-P16_peer-review-git.md](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P16_peer-review-git.md)
 
-**Materi pendukung sumber:** [XI-S4-P16_peer-review-git.md](../../../materi-pendukung/kelas-xi/semester-4/XI-S4-P16_peer-review-git.md)
+**Materi pendukung sumber:** [XI-S4-P16_peer-review-git.md](../../../../materi-pendukung/base-2jp/kelas-xi/semester-4/XI-S4-P16_peer-review-git.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -29,7 +29,7 @@ Dari submit → **review + iterasi** wajib sebelum presentasi.
 | Menit | Fase | Aktivitas |
 |-------|------|-----------|
 | 0–5 | Opening | Protokol review (S3 P16 spiral) |
-| 5–25 | Review | Cross-team: [Rubrik Peer Review](../../../09-rubrik/09_Rubrik_Peer_Review.md) |
+| 5–25 | Review | Cross-team: [Rubrik Peer Review](../../../../../09-rubrik/09_Rubrik_Peer_Review.md) |
 | 25–45 | Clarify | Diskusi 1 finding penting per tim |
 | 45–70 | Build | Implement ≥1 revisi + commit `fix: peer review ...` |
 | 70–85 | Retro mini | Start/Stop/Continue 3 menit tim |
@@ -69,11 +69,11 @@ Persiapan presentasi P17 — demo script di-assign per anggota.
 | Field | Isi |
 |-------|-----|
 | Kode | XI-S4-P16 |
-| Modul pertemuan | [XI-S4-P16_peer-review-git.md](../../../kelas-xi/semester-4/XI-S4-P16_peer-review-git.md) |
+| Modul pertemuan | [XI-S4-P16_peer-review-git.md](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P16_peer-review-git.md) |
 | Unit | XI4.7 |
 | Durasi referensi | 2 JP = 90 menit |
 | PRJ | Lanjut PRJ-XI-S4-* |
-| Rubrik | [09_Rubrik_Peer_Review](../../../09-rubrik/09_Rubrik_Peer_Review.md) |
+| Rubrik | [09_Rubrik_Peer_Review](../../../../../09-rubrik/09_Rubrik_Peer_Review.md) |
 | Capability | COM, ITR (CXI-K2, CXI-C1) |
 | Ada live code? | **Peer review protocol + Git checkpoint — bukan solusi guru** |
 
@@ -160,7 +160,7 @@ Recall P16 S3: code jalan ≠ kualitas. Hari ini + **Git sebagai bukti kolaboras
 ### Cross-team review (5–25 menit)
 
 Pasangan silang antar tim — hindari teman dekat yang selalu copas.
-Worksheet [09_Rubrik_Peer_Review](../../../09-rubrik/09_Rubrik_Peer_Review.md) lengkap.
+Worksheet [09_Rubrik_Peer_Review](../../../../../09-rubrik/09_Rubrik_Peer_Review.md) lengkap.
 
 **Dimensi review S4 tambahan:**
 
@@ -328,14 +328,14 @@ const items = data.articles.slice(0, 5).map(a => ({
 
 ## 9. Rujukan
 
-- Modul pertemuan: [XI-S4-P16](../../../kelas-xi/semester-4/XI-S4-P16_peer-review-git.md)
-- Rubrik peer: [09_Rubrik_Peer_Review](../../../09-rubrik/09_Rubrik_Peer_Review.md)
+- Modul pertemuan: [XI-S4-P16](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P16_peer-review-git.md)
+- Rubrik peer: [09_Rubrik_Peer_Review](../../../../../09-rubrik/09_Rubrik_Peer_Review.md)
 - Build prep: [P15 materi pendukung](./XI-S4-P15_project-s4-build-2.md)
 - Presentasi next: [P17 materi pendukung](./XI-S4-P17_presentasi-retrospektif.md)
 - Code review S3 spiral: [XI-S3-P16 materi](../semester-3/XI-S3-P16_code-review-kualitas.md)
-- Git: [XI-S4-P11](../../../kelas-xi/semester-4/XI-S4-P11_git-dasar.md) · [P12](../../../kelas-xi/semester-4/XI-S4-P12_branch-kolaborasi.md)
-- Rubrik project: [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md)
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Git: [XI-S4-P11](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P11_git-dasar.md) · [P12](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P12_branch-kolaborasi.md)
+- Rubrik project: [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 
@@ -360,7 +360,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -371,6 +371,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** Review & merge tanpa gosip; gotong royong kebaikan.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

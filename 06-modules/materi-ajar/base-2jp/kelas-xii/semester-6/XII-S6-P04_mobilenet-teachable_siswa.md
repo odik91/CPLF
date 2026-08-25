@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [XII-S6-P04_mobilenet-teachable.md](../../../kelas-xii/semester-6/XII-S6-P04_mobilenet-teachable.md)
+**Modul acuan:** [XII-S6-P04_mobilenet-teachable.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P04_mobilenet-teachable.md)
 
 ---
 
@@ -237,7 +237,7 @@ tensor.dispose();
 
 **Kait di kelas hari ini:** Objek aman ke privasi — tidak foto wajah tanpa izin.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 
 ---

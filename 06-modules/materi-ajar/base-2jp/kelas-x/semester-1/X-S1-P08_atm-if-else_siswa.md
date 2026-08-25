@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [X-S1-P08_atm-if-else.md](../../../kelas-x/semester-1/X-S1-P08_atm-if-else.md)
+**Modul acuan:** [X-S1-P08_atm-if-else.md](../../../../base-2jp/kelas-x/semester-1/X-S1-P08_atm-if-else.md)
 
 ---
 
@@ -154,7 +154,7 @@ JIKA cuaca SAMA_DENGAN "hujan" maka
 
 **Kait di kelas hari ini:** Aturan if/else = perlakuan adil (semua kondisi terlayani).
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 
 ---

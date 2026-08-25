@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [X-S1-P09_satpam-js-kondisi_siswa.md](./X-S1-P09_satpam-js-kondisi_siswa.md)
 
-**Modul:** [X-S1-P09_satpam-js-kondisi.md](../../../kelas-x/semester-1/X-S1-P09_satpam-js-kondisi.md)
+**Modul:** [X-S1-P09_satpam-js-kondisi.md](../../../../base-2jp/kelas-x/semester-1/X-S1-P09_satpam-js-kondisi.md)
 
-**Materi pendukung sumber:** [X-S1-P09_satpam-js-kondisi.md](../../../materi-pendukung/kelas-x/semester-1/X-S1-P09_satpam-js-kondisi.md)
+**Materi pendukung sumber:** [X-S1-P09_satpam-js-kondisi.md](../../../../materi-pendukung/base-2jp/kelas-x/semester-1/X-S1-P09_satpam-js-kondisi.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -85,7 +85,7 @@ Environment gagal → tulis syntax di worksheet + dry-run di papan.
 | Field | Isi |
 |-------|-----|
 | Kode | X-S1-P09 |
-| Modul pertemuan | [X-S1-P09_satpam-js-kondisi.md](../../../kelas-x/semester-1/X-S1-P09_satpam-js-kondisi.md) |
+| Modul pertemuan | [X-S1-P09_satpam-js-kondisi.md](../../../../base-2jp/kelas-x/semester-1/X-S1-P09_satpam-js-kondisi.md) |
 | Unit | X1.4 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CX-T3 |
@@ -340,12 +340,12 @@ Siswa **mengetik versi sendiri** — variasi wajib:
 
 ## Rujukan
 
-- Modul: [X-S1-P09](../../../kelas-x/semester-1/X-S1-P09_satpam-js-kondisi.md)
+- Modul: [X-S1-P09](../../../../base-2jp/kelas-x/semester-1/X-S1-P09_satpam-js-kondisi.md)
 - EXP: [EXP_05 Satpam](../../../07-experience_library/EXP_05_Satpam_Sekolah.md)
 - Sebelum: [P08 ATM Konsep](./X-S1-P08_atm-if-else.md)
 - Lanjut: [P10 Variabel](./X-S1-P10_variabel-data.md)
 - MM-13 · CX-T3
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 
@@ -368,7 +368,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -379,6 +379,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** Kondisi & guard = tidak menyimpulkan tanpa memeriksa bukti.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

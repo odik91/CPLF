@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [XII-S6-P09_project-nilai-build-1_siswa.md](./XII-S6-P09_project-nilai-build-1_siswa.md)
 
-**Modul:** [XII-S6-P09_project-nilai-build-1.md](../../../kelas-xii/semester-6/XII-S6-P09_project-nilai-build-1.md)
+**Modul:** [XII-S6-P09_project-nilai-build-1.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P09_project-nilai-build-1.md)
 
-**Materi pendukung sumber:** [XII-S6-P09_project-nilai-build-1.md](../../../materi-pendukung/kelas-xii/semester-6/XII-S6-P09_project-nilai-build-1.md)
+**Materi pendukung sumber:** [XII-S6-P09_project-nilai-build-1.md](../../../../materi-pendukung/base-2jp/kelas-xii/semester-6/XII-S6-P09_project-nilai-build-1.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -64,7 +64,7 @@ Intervensi via pertanyaan: “Apa yang pengguna lihat saat model salah?”
 
 **Version:** 0.1 · **Audiens:** Guru MA — **RAHASIA GURU** (jangan dibagikan ke siswa)
 
-> **Panduan wajib:** [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md) · [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+> **Panduan wajib:** [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md) · [00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 
@@ -73,7 +73,7 @@ Intervensi via pertanyaan: “Apa yang pengguna lihat saat model salah?”
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S6-P09 |
-| Modul pertemuan | [XII-S6-P09_project-nilai-build-1.md](../../../kelas-xii/semester-6/XII-S6-P09_project-nilai-build-1.md) |
+| Modul pertemuan | [XII-S6-P09_project-nilai-build-1.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P09_project-nilai-build-1.md) |
 | Semester | 6 · Pertemuan 9/18 |
 | Unit | XII6.6 |
 | Durasi referensi | 2 JP = 90 menit |
@@ -99,7 +99,7 @@ Intervensi via pertanyaan: “Apa yang pengguna lihat saat model salah?”
 | 9 | QR generation (PRJ-01) | → [MDN — Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API) |
 | 10 | localStorage | → [MDN — Window.localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) |
 | 11 | Panduan CV S6 | → [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md) |
-| 12 | Rubrik etika E2 | → [09_Rubrik_Etika_AI — E2](../../../09-rubrik/09_Rubrik_Etika_AI.md) |
+| 12 | Rubrik etika E2 | → [09_Rubrik_Etika_AI — E2](../../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
 
 ---
 
@@ -374,7 +374,7 @@ Tim **wajib**:
 
 ## Rujukan
 
-- Modul: [XII-S6-P09](../../../kelas-xii/semester-6/XII-S6-P09_project-nilai-build-1.md)
+- Modul: [XII-S6-P09](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P09_project-nilai-build-1.md)
 - Sebelumnya: [P08 Kickoff](./XII-S6-P08_project-nilai-kickoff.md)
 - Lanjutan: [P10 Build 2](./XII-S6-P10_project-nilai-build-2.md)
 - PRJ: [01](../../../08-project/PRJ_XII_S6_01_AI_Absensi.md) · [02](../../../08-project/PRJ_XII_S6_02_Gesture.md) · [03](../../../08-project/PRJ_XII_S6_03_Klasifikasi_Citra.md) · [04](../../../08-project/PRJ_XII_S6_04_Asisten_Madrasah.md)
@@ -401,7 +401,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -412,6 +412,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** AI/CV moderat, jujur, dan manfaat komunitas MA.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

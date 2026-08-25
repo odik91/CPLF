@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [XII-S6-P02_kasus-gagal-model_siswa.md](./XII-S6-P02_kasus-gagal-model_siswa.md)
 
-**Modul:** [XII-S6-P02_kasus-gagal-model.md](../../../kelas-xii/semester-6/XII-S6-P02_kasus-gagal-model.md)
+**Modul:** [XII-S6-P02_kasus-gagal-model.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P02_kasus-gagal-model.md)
 
-**Materi pendukung sumber:** [XII-S6-P02_kasus-gagal-model.md](../../../materi-pendukung/kelas-xii/semester-6/XII-S6-P02_kasus-gagal-model.md)
+**Materi pendukung sumber:** [XII-S6-P02_kasus-gagal-model.md](../../../../materi-pendukung/base-2jp/kelas-xii/semester-6/XII-S6-P02_kasus-gagal-model.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -76,7 +76,7 @@ Budaya XII: gagal model = bukti maturity, bukan malu.
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S6-P02 |
-| Modul pertemuan | [XII-S6-P02_kasus-gagal-model.md](../../../kelas-xii/semester-6/XII-S6-P02_kasus-gagal-model.md) |
+| Modul pertemuan | [XII-S6-P02_kasus-gagal-model.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P02_kasus-gagal-model.md) |
 | Semester | 6 · Pertemuan 2/18 |
 | Unit | XII6.1 |
 | Durasi referensi | 2 JP = 90 menit |
@@ -98,7 +98,7 @@ Budaya XII: gagal model = bukti maturity, bukan malu.
 | 4 | False positive / negative (glossary) | → referensi: [Google ML Glossary — False positive](https://developers.google.com/machine-learning/glossary#false_positive) |
 | 5 | Human-in-the-loop (praktik produk) | → referensi: [Google Cloud — Human-in-the-loop AI](https://cloud.google.com/architecture/human-in-the-loop-ai) |
 | 6 | Recall pipeline CV | → referensi: [TF.js webcam tutorial](https://www.tensorflow.org/js/tutorials/transfer/learn_more) |
-| 7 | Rubrik E1 (batasan model) | → referensi: [09_Rubrik_Etika_AI.md](../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
+| 7 | Rubrik E1 (batasan model) | → referensi: [09_Rubrik_Etika_AI.md](../../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
 | 8 | Panduan CV CPLF | → [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md) |
 
 **Waktu baca minimum:** 45–60 menit (MLCC thresholding + confusion matrix + skim Responsible AI).
@@ -374,10 +374,10 @@ Model absensi: prediksi "Hadir" untuk siswa yang belum masuk (confidence 0.88)
 
 ## Rujukan modul
 
-- Modul: [XII-S6-P02](../../../kelas-xii/semester-6/XII-S6-P02_kasus-gagal-model.md)
+- Modul: [XII-S6-P02](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P02_kasus-gagal-model.md)
 - Sebelumnya: [P01](./XII-S6-P01_webcam-ke-prediksi.md)
 - Lanjutan: [P03 Transfer Learning](./XII-S6-P03_transfer-learning-konsep.md)
-- Rubrik: [09_Rubrik_Etika_AI.md](../../../../09-rubrik/09_Rubrik_Etika_AI.md)
+- Rubrik: [09_Rubrik_Etika_AI.md](../../../../../09-rubrik/09_Rubrik_Etika_AI.md)
 
 ---
 ## C. BRG & jalur kelanjutan
@@ -386,7 +386,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -397,6 +397,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** AI/CV moderat, jujur, dan manfaat komunitas MA.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

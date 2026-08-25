@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [XII-S6-P08_project-nilai-kickoff.md](../../../kelas-xii/semester-6/XII-S6-P08_project-nilai-kickoff.md)
+**Modul acuan:** [XII-S6-P08_project-nilai-kickoff.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P08_project-nilai-kickoff.md)
 
 ---
 
@@ -160,7 +160,7 @@ tim-nama-prj/
 | Menit | Fase | Aktivitas |
 |-------|------|-----------|
 | 0–10 | Opening | 4 PRJ nilai + varian · bonus agent **opsional** terpisah |
-| 10–25 | Concept | DoD capstone · [Rubrik Project](../../../09-rubrik/09_Rubrik_Project.md) · [Rubrik Etika](../../../09-rubrik/09_Rubrik_Etika_AI.md) |
+| 10–25 | Concept | DoD capstone · [Rubrik Project](../../../../../09-rubrik/09_Rubrik_Project.md) · [Rubrik Etika](../../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
 | 25–40 | Practice | Pilih PRJ · bentuk tim 2–4 · tentukan pengguna |
 | 40–55 | Wawancara | 3 pertanyaan ke pengguna (piket/wali/OSIS) — catat |
 | 55–75 | Practice | Spec + acceptance + dokumen etika draft + wireframe |
@@ -198,7 +198,7 @@ tim-nama-prj/
 
 **Kait di kelas hari ini:** AI/CV moderat, jujur, dan manfaat komunitas MA.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 
 ---

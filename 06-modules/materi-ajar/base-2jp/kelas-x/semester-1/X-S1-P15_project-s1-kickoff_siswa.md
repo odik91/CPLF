@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [X-S1-P15_project-s1-kickoff.md](../../../kelas-x/semester-1/X-S1-P15_project-s1-kickoff.md)
+**Modul acuan:** [X-S1-P15_project-s1-kickoff.md](../../../../base-2jp/kelas-x/semester-1/X-S1-P15_project-s1-kickoff.md)
 
 ---
 
@@ -21,7 +21,7 @@ Dari latihan terpisah → **artefak integratif** dengan reasoning.
   - **PRJ-X-S1-03** — Kalkulator Logika Zakat (kondisi + perhitungan)
 - **Definition of Done (DoD):** lihat file PRJ masing-masing — guru paham checklist, bukan solusi kode.
 - **Deliverable kickoff hari ini:** spec 5 poin + acceptance 3 checkbox + flowchart/outline — **bukan** project jadi.
-- **Rubrik project:** [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md) — presentasi ringkas ke siswa (capability, bukan angka).
+- **Rubrik project:** [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md) — presentasi ringkas ke siswa (capability, bukan angka).
 - **Varian rotasi:** kelas paralel beda PRJ/varian agar tidak copy antar kelas.
 - **AI policy:** log klarifikasi jika dipakai — protokol MM-00.
 
@@ -109,7 +109,7 @@ Setiap siswa/kelompok tulis 1 target build + 1 blocker yang dikhawatirkan.
 
 **Kait di kelas hari ini:** Shortcut/copas = khianat proses belajar & tim.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 
 ---

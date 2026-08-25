@@ -9,7 +9,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | X-S1-P07 |
-| Modul pertemuan | [X-S1-P07_spesifikasi-acceptance.md](../../../kelas-x/semester-1/X-S1-P07_spesifikasi-acceptance.md) |
+| Modul pertemuan | [X-S1-P07_spesifikasi-acceptance.md](../../../../base-2jp/kelas-x/semester-1/X-S1-P07_spesifikasi-acceptance.md) |
 | Unit | X1.3 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CX-K1, CX-B1 |
@@ -234,11 +234,11 @@ Siswa **mengetik/menulis versi sendiri** — arahkan:
 
 ## Rujukan
 
-- Modul: [X-S1-P07](../../../kelas-x/semester-1/X-S1-P07_spesifikasi-acceptance.md)
-- Prasyarat: [X-S1-P06 Gambar Rumah & Requirement](../../../kelas-x/semester-1/X-S1-P06_gambar-rumah-requirement.md)
-- Lanjutan: [X-S1-P08 ATM & If/Else](../../../kelas-x/semester-1/X-S1-P08_atm-if-else.md) — AC = kondisi lulus
+- Modul: [X-S1-P07](../../../../base-2jp/kelas-x/semester-1/X-S1-P07_spesifikasi-acceptance.md)
+- Prasyarat: [X-S1-P06 Gambar Rumah & Requirement](../../../../base-2jp/kelas-x/semester-1/X-S1-P06_gambar-rumah-requirement.md)
+- Lanjutan: [X-S1-P08 ATM & If/Else](../../../../base-2jp/kelas-x/semester-1/X-S1-P08_atm-if-else.md) — AC = kondisi lulus
 - MM-23 · Capability CX-K1, CX-B1
-- Etika global: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Etika global: [00_Panduan_Etika_Penyampaian.md](../../../00_Panduan_Etika_Penyampaian.md)
 
 ---
 

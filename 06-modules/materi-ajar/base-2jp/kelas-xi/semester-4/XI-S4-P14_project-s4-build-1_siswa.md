@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [XI-S4-P14_project-s4-build-1.md](../../../kelas-xi/semester-4/XI-S4-P14_project-s4-build-1.md)
+**Modul acuan:** [XI-S4-P14_project-s4-build-1.md](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P14_project-s4-build-1.md)
 
 ---
 
@@ -136,7 +136,7 @@ function loadItems() {
 
 **Kait di kelas hari ini:** Data & Git = amanah dan integritas.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 
 ---

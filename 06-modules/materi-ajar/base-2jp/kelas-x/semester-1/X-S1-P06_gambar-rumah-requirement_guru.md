@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [X-S1-P06_gambar-rumah-requirement_siswa.md](./X-S1-P06_gambar-rumah-requirement_siswa.md)
 
-**Modul:** [X-S1-P06_gambar-rumah-requirement.md](../../../kelas-x/semester-1/X-S1-P06_gambar-rumah-requirement.md)
+**Modul:** [X-S1-P06_gambar-rumah-requirement.md](../../../../base-2jp/kelas-x/semester-1/X-S1-P06_gambar-rumah-requirement.md)
 
-**Materi pendukung sumber:** [X-S1-P06_gambar-rumah-requirement.md](../../../materi-pendukung/kelas-x/semester-1/X-S1-P06_gambar-rumah-requirement.md)
+**Materi pendukung sumber:** [X-S1-P06_gambar-rumah-requirement.md](../../../../materi-pendukung/base-2jp/kelas-x/semester-1/X-S1-P06_gambar-rumah-requirement.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -63,13 +63,13 @@ Varian Logo/Website/Poster untuk rotasi paralel.
 | Field | Isi |
 |-------|-----|
 | Kode | X-S1-P06 |
-| Modul pertemuan | [X-S1-P06_gambar-rumah-requirement.md](../../../kelas-x/semester-1/X-S1-P06_gambar-rumah-requirement.md) |
+| Modul pertemuan | [X-S1-P06_gambar-rumah-requirement.md](../../../../base-2jp/kelas-x/semester-1/X-S1-P06_gambar-rumah-requirement.md) |
 | Semester | 1 · Pertemuan 6/18 |
 | Unit | X1.3 |
 | Durasi referensi | 2 JP (90 menit) |
 | Capability | CX-B1, CX-K1 |
-| Experience | [EXP_02](../../../../07-experience_library/EXP_02_Gambar_Rumah.md) · varian Logo / Website / Poster |
-| Etika global | [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md) |
+| Experience | [EXP_02](../../../../../07-experience_library/EXP_02_Gambar_Rumah.md) · varian Logo / Website / Poster |
+| Etika global | [00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md) |
 
 ---
 
@@ -249,8 +249,8 @@ REQUIREMENT Poster_v1
 
 ## 9. Rujukan
 
-- Modul: [X-S1-P06](../../../kelas-x/semester-1/X-S1-P06_gambar-rumah-requirement.md)
-- [EXP_02](../../../../07-experience_library/EXP_02_Gambar_Rumah.md)
+- Modul: [X-S1-P06](../../../../base-2jp/kelas-x/semester-1/X-S1-P06_gambar-rumah-requirement.md)
+- [EXP_02](../../../../../07-experience_library/EXP_02_Gambar_Rumah.md)
 - MM: MM-23, MM-01
 - Rubrik: **REA**, **COM**
 - Lanjutan: P07 spesifikasi & acceptance criteria
@@ -274,7 +274,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -285,6 +285,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** Requirement jelas = janji yang bisa dipegang tim & pengguna.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

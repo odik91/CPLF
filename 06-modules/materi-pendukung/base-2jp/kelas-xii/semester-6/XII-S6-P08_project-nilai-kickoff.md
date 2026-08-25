@@ -2,7 +2,7 @@
 
 **Version:** 0.1 · **Audiens:** Guru MA — **RAHASIA GURU** (jangan dibagikan ke siswa)
 
-> **Panduan wajib:** [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md) · [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+> **Panduan wajib:** [00_Panduan_Guru_CV_Etika.md](../../../00_Panduan_Guru_CV_Etika.md) · [00_Panduan_Etika_Penyampaian.md](../../../00_Panduan_Etika_Penyampaian.md)
 
 ---
 
@@ -11,7 +11,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S6-P08 |
-| Modul pertemuan | [XII-S6-P08_project-nilai-kickoff.md](../../../kelas-xii/semester-6/XII-S6-P08_project-nilai-kickoff.md) |
+| Modul pertemuan | [XII-S6-P08_project-nilai-kickoff.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P08_project-nilai-kickoff.md) |
 | Semester | 6 · Pertemuan 8/18 |
 | Unit | XII6.6 |
 | Durasi referensi | 2 JP = 90 menit |
@@ -38,7 +38,7 @@
 | 10 | TF.js webcam transfer | → [TF.js — Webcam classifier](https://www.tensorflow.org/js/tutorials/transfer/learn_more) |
 | 11 | getUserMedia / privasi | → [MDN — getUserMedia](https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getUserMedia) |
 | 12 | MobileNet pretrained | → [tfjs-models mobilenet](https://github.com/tensorflow/tfjs-models/tree/master/mobilenet) |
-| 13 | Panduan CV S6 | → [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md) |
+| 13 | Panduan CV S6 | → [00_Panduan_Guru_CV_Etika.md](../../../00_Panduan_Guru_CV_Etika.md) |
 
 **Baca keempat PRJ penuh** — paham DoD & varian A/B/C, **bukan** solusi kode.
 
@@ -335,7 +335,7 @@ Siswa **wajib deliverable kickoff**:
 
 ## Rujukan
 
-- Modul: [XII-S6-P08](../../../kelas-xii/semester-6/XII-S6-P08_project-nilai-kickoff.md)
+- Modul: [XII-S6-P08](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P08_project-nilai-kickoff.md)
 - PRJ: [01](../../../08-project/PRJ_XII_S6_01_AI_Absensi.md) · [02](../../../08-project/PRJ_XII_S6_02_Gesture.md) · [03](../../../08-project/PRJ_XII_S6_03_Klasifikasi_Citra.md) · [04](../../../08-project/PRJ_XII_S6_04_Asisten_Madrasah.md)
 - Sebelumnya: [P07 AI Partner](./XII-S6-P07_ai-partner-klarifikasi.md)
 - Lanjutan: [P09 Build 1](./XII-S6-P09_project-nilai-build-1.md)

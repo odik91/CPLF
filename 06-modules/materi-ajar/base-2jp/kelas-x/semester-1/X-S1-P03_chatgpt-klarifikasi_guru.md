@@ -4,9 +4,9 @@
 
 **Bacaan pendamping siswa:** [X-S1-P03_bacaan-mimi-robi.md](./X-S1-P03_bacaan-mimi-robi.md) · [PDF](./X-S1-P03_bacaan-mimi-robi.pdf)
 
-**Modul:** [X-S1-P03_chatgpt-klarifikasi.md](../../../kelas-x/semester-1/X-S1-P03_chatgpt-klarifikasi.md)
+**Modul:** [X-S1-P03_chatgpt-klarifikasi.md](../../../../base-2jp/kelas-x/semester-1/X-S1-P03_chatgpt-klarifikasi.md)
 
-**Materi pendukung sumber:** [X-S1-P03_chatgpt-klarifikasi.md](../../../materi-pendukung/kelas-x/semester-1/X-S1-P03_chatgpt-klarifikasi.md)
+**Materi pendukung sumber:** [X-S1-P03_chatgpt-klarifikasi.md](../../../../materi-pendukung/base-2jp/kelas-x/semester-1/X-S1-P03_chatgpt-klarifikasi.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -44,7 +44,7 @@ Dari “AI bilang = benar/salah total” → “klarifikasi: alasan, bukti, alte
 
 **Adaptasi 1 JP:** Orientation 3’ · Scaffold 5’ · Experience 10’ · Clarify 8’ · Practice 14’ · Exit 5’.
 
-**Rujukan:** [03_Learning_Compass_CPLF.md](../../../../03-framework/03_Learning_Compass_CPLF.md)
+**Rujukan:** [03_Learning_Compass_CPLF.md](../../../../../03-framework/03_Learning_Compass_CPLF.md)
 
 ---
 
@@ -87,13 +87,13 @@ Hindari topik sensitif agama/politik untuk contoh AI salah.
 | Field | Isi |
 |-------|-----|
 | Kode | X-S1-P03 |
-| Modul pertemuan | [X-S1-P03_chatgpt-klarifikasi.md](../../../kelas-x/semester-1/X-S1-P03_chatgpt-klarifikasi.md) |
+| Modul pertemuan | [X-S1-P03_chatgpt-klarifikasi.md](../../../../base-2jp/kelas-x/semester-1/X-S1-P03_chatgpt-klarifikasi.md) |
 | Semester | 1 · Pertemuan 3/18 |
 | Unit | X1.1 |
 | Durasi referensi | 2 JP (90 menit) |
 | Capability | CX-B4 |
-| Experience | [EXP_10](../../../../07-experience_library/EXP_10_ChatGPT_Salah.md) |
-| Etika global | [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md) |
+| Experience | [EXP_10](../../../../../07-experience_library/EXP_10_ChatGPT_Salah.md) |
+| Etika global | [00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md) |
 
 ---
 
@@ -281,8 +281,8 @@ HTML adalah bahasa pemrograman karena:
 
 ## 9. Rujukan
 
-- Modul: [X-S1-P03](../../../kelas-x/semester-1/X-S1-P03_chatgpt-klarifikasi.md)
-- [EXP_10](../../../../07-experience_library/EXP_10_ChatGPT_Salah.md)
+- Modul: [X-S1-P03](../../../../base-2jp/kelas-x/semester-1/X-S1-P03_chatgpt-klarifikasi.md)
+- [EXP_10](../../../../../07-experience_library/EXP_10_ChatGPT_Salah.md)
 - MM: MM-00, MM-22 (pengantar), MM-04 (validasi)
 - Rubrik: **REA** (wajib)
 - Lanjutan: P04 algoritma ROBI
@@ -306,7 +306,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -317,6 +317,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** AI partner, bukan pengganti berpikir — dengar lalu pilih yang paling baik.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

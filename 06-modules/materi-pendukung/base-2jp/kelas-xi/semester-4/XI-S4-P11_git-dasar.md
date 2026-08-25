@@ -9,7 +9,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XI-S4-P11 |
-| Modul pertemuan | [XI-S4-P11_git-dasar.md](../../../kelas-xi/semester-4/XI-S4-P11_git-dasar.md) |
+| Modul pertemuan | [XI-S4-P11_git-dasar.md](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P11_git-dasar.md) |
 | Unit | XI4.6 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CXI-T5, CXI-K2 |
@@ -274,12 +274,12 @@ Author: Budi <budi@sekolah.id>
 
 ## Rujukan
 
-- Modul: [XI-S4-P11](../../../kelas-xi/semester-4/XI-S4-P11_git-dasar.md)
+- Modul: [XI-S4-P11](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P11_git-dasar.md)
 - MM: [MM-20](../../../05-micro_modules/MM-20.md) *(jika ada)*
 - Storage: [P07 localStorage](./XI-S4-P07_localstorage-crud.md)
 - Backup UX: [P08 Error State](./XI-S4-P08_persistensi-error-state.md)
 - Lanjut: [P12 Branch Kolaborasi](./XI-S4-P12_branch-kolaborasi.md)
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../00_Panduan_Etika_Penyampaian.md)
 
 ---
 

@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [X-S1-P01_masalah-sebelum-solusi.md](../../../kelas-x/semester-1/X-S1-P01_masalah-sebelum-solusi.md)
+**Modul acuan:** [X-S1-P01_masalah-sebelum-solusi.md](../../../../base-2jp/kelas-x/semester-1/X-S1-P01_masalah-sebelum-solusi.md)
 
 **Bacaan pendamping (cerita):** [X-S1-P01_bacaan-mimi-robi.md](./X-S1-P01_bacaan-mimi-robi.md) · [PDF](./X-S1-P01_bacaan-mimi-robi.pdf)
 
@@ -167,7 +167,7 @@ LANGKAH C: Selesai
 
 **Kait di kelas hari ini:** Framing masalah dulu = tidak menyimpulkan sebelum bukti.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 
 ---

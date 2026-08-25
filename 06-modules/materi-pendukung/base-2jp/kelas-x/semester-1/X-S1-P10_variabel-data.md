@@ -9,7 +9,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | X-S1-P10 |
-| Modul pertemuan | [X-S1-P10_variabel-data.md](../../../kelas-x/semester-1/X-S1-P10_variabel-data.md) |
+| Modul pertemuan | [X-S1-P10_variabel-data.md](../../../../base-2jp/kelas-x/semester-1/X-S1-P10_variabel-data.md) |
 | Unit | X1.5 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CX-T2, MM-06 |
@@ -234,7 +234,7 @@ Tidak copy file guru — nama & angka fiktif.
 
 ## Rujukan
 
-- Modul: [X-S1-P10](../../../kelas-x/semester-1/X-S1-P10_variabel-data.md)
+- Modul: [X-S1-P10](../../../../base-2jp/kelas-x/semester-1/X-S1-P10_variabel-data.md)
 - EXP: [EXP_07 Perpustakaan](../../../07-experience_library/EXP_07_Perpustakaan.md)
 - Sebelum: [P09 If/Else JS](./X-S1-P09_satpam-js-kondisi.md)
 - Lanjut: [P11 Loop](./X-S1-P11_kasir-loop.md)

@@ -9,7 +9,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | X-S2-P01 |
-| Modul pertemuan | [X-S2-P01_mengapa-web-html.md](../../../kelas-x/semester-2/X-S2-P01_mengapa-web-html.md) |
+| Modul pertemuan | [X-S2-P01_mengapa-web-html.md](../../../../base-2jp/kelas-x/semester-2/X-S2-P01_mengapa-web-html.md) |
 | Unit | X2.1 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CX-T1 |
@@ -281,12 +281,12 @@ Siswa **mengetik versi sendiri** — variasi wajib:
 
 ## Rujukan
 
-- Modul: [X-S2-P01](../../../kelas-x/semester-2/X-S2-P01_mengapa-web-html.md)
+- Modul: [X-S2-P01](../../../../base-2jp/kelas-x/semester-2/X-S2-P01_mengapa-web-html.md)
 - EXP: [EXP_02_B Website Bagus](../../../07-experience_library/EXP_02_B_Website_Bagus.md)
 - Sebelum (S1): [X-S1-P18 Showcase](../semester-1/X-S1-P18_showcase-refleksi-s1.md)
 - Lanjut: [P02 HTML Semantik](./X-S2-P02_html-semantik-ma.md)
 - MM-16 · CX-T1
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../00_Panduan_Etika_Penyampaian.md)
 
 ---
 

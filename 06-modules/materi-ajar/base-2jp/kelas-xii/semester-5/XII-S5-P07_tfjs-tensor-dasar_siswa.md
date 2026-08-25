@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [XII-S5-P07_tfjs-tensor-dasar.md](../../../kelas-xii/semester-5/XII-S5-P07_tfjs-tensor-dasar.md)
+**Modul acuan:** [XII-S5-P07_tfjs-tensor-dasar.md](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P07_tfjs-tensor-dasar.md)
 
 ---
 
@@ -218,7 +218,7 @@ for (let i = 0; i < 1000; i++) {
 
 **Kait di kelas hari ini:** Data & model — keadilan dan dampak ke sesama.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 ## 8. Materi pendamping BRG
 

@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [X-S2-P03_css-layout-dasar_siswa.md](./X-S2-P03_css-layout-dasar_siswa.md)
 
-**Modul:** [X-S2-P03_css-layout-dasar.md](../../../kelas-x/semester-2/X-S2-P03_css-layout-dasar.md)
+**Modul:** [X-S2-P03_css-layout-dasar.md](../../../../base-2jp/kelas-x/semester-2/X-S2-P03_css-layout-dasar.md)
 
-**Materi pendukung sumber:** [X-S2-P03_css-layout-dasar.md](../../../materi-pendukung/kelas-x/semester-2/X-S2-P03_css-layout-dasar.md)
+**Materi pendukung sumber:** [X-S2-P03_css-layout-dasar.md](../../../../materi-pendukung/base-2jp/kelas-x/semester-2/X-S2-P03_css-layout-dasar.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -58,7 +58,7 @@ Dari “asal cantik” → **aturan presentasi** yang konsisten.
 | Field | Isi |
 |-------|-----|
 | Kode | X-S2-P03 |
-| Modul pertemuan | [X-S2-P03_css-layout-dasar.md](../../../kelas-x/semester-2/X-S2-P03_css-layout-dasar.md) |
+| Modul pertemuan | [X-S2-P03_css-layout-dasar.md](../../../../base-2jp/kelas-x/semester-2/X-S2-P03_css-layout-dasar.md) |
 | Unit | X2.2 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CX-T1 |
@@ -341,11 +341,11 @@ h1 {
 
 ## Rujukan
 
-- Modul: [X-S2-P03](../../../kelas-x/semester-2/X-S2-P03_css-layout-dasar.md)
+- Modul: [X-S2-P03](../../../../base-2jp/kelas-x/semester-2/X-S2-P03_css-layout-dasar.md)
 - Sebelum: [P02 HTML Semantik](./X-S2-P02_html-semantik-ma.md)
 - Lanjut: [P04 CSS Hierarki](./X-S2-P04_css-hierarki.md)
 - CX-T1
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 
@@ -368,7 +368,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -379,6 +379,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** Web & kolaborasi — manfaatkan untuk sesama.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

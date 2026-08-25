@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [X-S1-P07_spesifikasi-acceptance_siswa.md](./X-S1-P07_spesifikasi-acceptance_siswa.md)
 
-**Modul:** [X-S1-P07_spesifikasi-acceptance.md](../../../kelas-x/semester-1/X-S1-P07_spesifikasi-acceptance.md)
+**Modul:** [X-S1-P07_spesifikasi-acceptance.md](../../../../base-2jp/kelas-x/semester-1/X-S1-P07_spesifikasi-acceptance.md)
 
-**Materi pendukung sumber:** [X-S1-P07_spesifikasi-acceptance.md](../../../materi-pendukung/kelas-x/semester-1/X-S1-P07_spesifikasi-acceptance.md)
+**Materi pendukung sumber:** [X-S1-P07_spesifikasi-acceptance.md](../../../../materi-pendukung/base-2jp/kelas-x/semester-1/X-S1-P07_spesifikasi-acceptance.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -73,7 +73,7 @@ Jembatan ke project S1 & S2 — spec wajib sebelum coding nanti.
 | Field | Isi |
 |-------|-----|
 | Kode | X-S1-P07 |
-| Modul pertemuan | [X-S1-P07_spesifikasi-acceptance.md](../../../kelas-x/semester-1/X-S1-P07_spesifikasi-acceptance.md) |
+| Modul pertemuan | [X-S1-P07_spesifikasi-acceptance.md](../../../../base-2jp/kelas-x/semester-1/X-S1-P07_spesifikasi-acceptance.md) |
 | Unit | X1.3 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CX-K1, CX-B1 |
@@ -298,11 +298,11 @@ Siswa **mengetik/menulis versi sendiri** — arahkan:
 
 ## Rujukan
 
-- Modul: [X-S1-P07](../../../kelas-x/semester-1/X-S1-P07_spesifikasi-acceptance.md)
-- Prasyarat: [X-S1-P06 Gambar Rumah & Requirement](../../../kelas-x/semester-1/X-S1-P06_gambar-rumah-requirement.md)
-- Lanjutan: [X-S1-P08 ATM & If/Else](../../../kelas-x/semester-1/X-S1-P08_atm-if-else.md) — AC = kondisi lulus
+- Modul: [X-S1-P07](../../../../base-2jp/kelas-x/semester-1/X-S1-P07_spesifikasi-acceptance.md)
+- Prasyarat: [X-S1-P06 Gambar Rumah & Requirement](../../../../base-2jp/kelas-x/semester-1/X-S1-P06_gambar-rumah-requirement.md)
+- Lanjutan: [X-S1-P08 ATM & If/Else](../../../../base-2jp/kelas-x/semester-1/X-S1-P08_atm-if-else.md) — AC = kondisi lulus
 - MM-23 · Capability CX-K1, CX-B1
-- Etika global: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Etika global: [00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 
@@ -325,7 +325,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -336,6 +336,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** Acceptance criteria = ukuran adil “selesai” untuk semua pihak.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

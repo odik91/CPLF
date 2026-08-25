@@ -9,7 +9,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XI-S3-P05 |
-| Modul pertemuan | [XI-S3-P05_event-user-flow.md](../../../kelas-xi/semester-3/XI-S3-P05_event-user-flow.md) |
+| Modul pertemuan | [XI-S3-P05_event-user-flow.md](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P05_event-user-flow.md) |
 | Unit | XI3.3 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CXI-T1, CXI-B1 |
@@ -289,13 +289,13 @@ Submit → (nama kosong?) → Ya: pesan error → stop
 
 ## Rujukan
 
-- Modul: [XI-S3-P05](../../../kelas-xi/semester-3/XI-S3-P05_event-user-flow.md)
+- Modul: [XI-S3-P05](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P05_event-user-flow.md)
 - Sebelum: [P04 DOM Update Aman](./XI-S3-P04_dom-update-aman.md)
 - Lanjut: [P06 Alur Interaksi](./XI-S3-P06_alur-interaksi.md)
 - Spiral X: [X-S2-P07 Form](../../kelas-x/semester-2/X-S2-P07_form-validasi.md) · [X-S2-P08 Validasi JS](../../kelas-x/semester-2/X-S2-P08_validasi-js-pesan.md)
 - EXP: [EXP_04 ATM](../../../07-experience_library/EXP_04_ATM.md)
 - MM-13 · CXI-T1, CXI-B1
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../00_Panduan_Etika_Penyampaian.md)
 
 ---
 

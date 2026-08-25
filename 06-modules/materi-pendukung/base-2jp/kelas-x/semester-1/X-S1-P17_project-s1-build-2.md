@@ -7,7 +7,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | X-S1-P17 |
-| Modul pertemuan | [X-S1-P17_project-s1-build-2](../../../kelas-x/semester-1/X-S1-P17_project-s1-build-2.md) |
+| Modul pertemuan | [X-S1-P17_project-s1-build-2](../../../../base-2jp/kelas-x/semester-1/X-S1-P17_project-s1-build-2.md) |
 | Unit | X1.8 |
 | Durasi referensi | 2 JP = 90 menit |
 | PRJ | Lanjut PRJ-X-S1-* |
@@ -194,11 +194,11 @@ masukAntre(10, 10);
 
 ## 9. Rujukan
 
-- Modul pertemuan: [X-S1-P17](../../../kelas-x/semester-1/X-S1-P17_project-s1-build-2.md)
+- Modul pertemuan: [X-S1-P17](../../../../base-2jp/kelas-x/semester-1/X-S1-P17_project-s1-build-2.md)
 - Rubrik peer: [09_Rubrik_Peer_Review](../../../09-rubrik/09_Rubrik_Peer_Review.md)
 - Build week 1: [P16 materi pendukung](./X-S1-P16_project-s1-build-1.md)
 - Showcase prep: [P18 materi pendukung](./X-S1-P18_showcase-refleksi-s1.md)
-- Etika: [00_Panduan_Etika_Penyampaian](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian](../../../00_Panduan_Etika_Penyampaian.md)
 
 ---
 

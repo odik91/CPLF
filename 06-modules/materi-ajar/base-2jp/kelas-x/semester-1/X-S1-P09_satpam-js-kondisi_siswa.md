@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [X-S1-P09_satpam-js-kondisi.md](../../../kelas-x/semester-1/X-S1-P09_satpam-js-kondisi.md)
+**Modul acuan:** [X-S1-P09_satpam-js-kondisi.md](../../../../base-2jp/kelas-x/semester-1/X-S1-P09_satpam-js-kondisi.md)
 
 ---
 
@@ -156,7 +156,7 @@ if (x > 5)
 
 **Kait di kelas hari ini:** Kondisi & guard = tidak menyimpulkan tanpa memeriksa bukti.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 
 ---

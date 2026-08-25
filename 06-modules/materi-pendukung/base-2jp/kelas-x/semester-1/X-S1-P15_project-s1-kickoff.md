@@ -7,7 +7,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | X-S1-P15 |
-| Modul pertemuan | [X-S1-P15_project-s1-kickoff](../../../kelas-x/semester-1/X-S1-P15_project-s1-kickoff.md) |
+| Modul pertemuan | [X-S1-P15_project-s1-kickoff](../../../../base-2jp/kelas-x/semester-1/X-S1-P15_project-s1-kickoff.md) |
 | Unit | X1.8 |
 | Durasi referensi | 2 JP = 90 menit |
 | PRJ | Pilih satu: [PRJ-X-S1-01/02/03](../../../08-project/08_Project_Bank_Index.md#kelas-x--semester-1-fondasi-bernalar) |
@@ -197,13 +197,13 @@ Jika siswa PRJ-03 (zakat): baca **spesifikasi** numerik, bukan kode:
 
 ## 9. Rujukan
 
-- Modul pertemuan: [X-S1-P15](../../../kelas-x/semester-1/X-S1-P15_project-s1-kickoff.md)
+- Modul pertemuan: [X-S1-P15](../../../../base-2jp/kelas-x/semester-1/X-S1-P15_project-s1-kickoff.md)
 - PRJ-01: [Kegiatan Harian](../../../08-project/PRJ_X_S1_01_Kegiatan_Harian.md)
 - PRJ-02: [Simulasi Antrian](../../../08-project/PRJ_X_S1_02_Simulasi_Antrian.md)
 - PRJ-03: [Kalkulator Zakat](../../../08-project/PRJ_X_S1_03_Kalkulator_Zakat.md)
 - Rubrik: [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md)
 - Panduan project week: [00_Panduan_Pertemuan Kelas X](../../../kelas-x/00_Panduan_Pertemuan.md)
-- Etika: [00_Panduan_Etika_Penyampaian](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian](../../../00_Panduan_Etika_Penyampaian.md)
 
 ---
 

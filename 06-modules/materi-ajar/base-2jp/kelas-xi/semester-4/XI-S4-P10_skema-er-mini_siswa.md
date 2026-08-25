@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [XI-S4-P10_skema-er-mini.md](../../../kelas-xi/semester-4/XI-S4-P10_skema-er-mini.md)
+**Modul acuan:** [XI-S4-P10_skema-er-mini.md](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P10_skema-er-mini.md)
 
 ---
 
@@ -164,7 +164,7 @@ loans: [{ memberId: "1", bookId: 101 }],
 
 **Kait di kelas hari ini:** Minimasi PII — minta izin sebelum pakai data sensitif.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 
 ---

@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [XII-S6-P10_project-nilai-build-2_siswa.md](./XII-S6-P10_project-nilai-build-2_siswa.md)
 
-**Modul:** [XII-S6-P10_project-nilai-build-2.md](../../../kelas-xii/semester-6/XII-S6-P10_project-nilai-build-2.md)
+**Modul:** [XII-S6-P10_project-nilai-build-2.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P10_project-nilai-build-2.md)
 
-**Materi pendukung sumber:** [XII-S6-P10_project-nilai-build-2.md](../../../materi-pendukung/kelas-xii/semester-6/XII-S6-P10_project-nilai-build-2.md)
+**Materi pendukung sumber:** [XII-S6-P10_project-nilai-build-2.md](../../../../materi-pendukung/base-2jp/kelas-xii/semester-6/XII-S6-P10_project-nilai-build-2.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -63,7 +63,7 @@ Prioritaskan alur pengguna over akurasi model.
 
 **Version:** 0.1 · **Audiens:** Guru MA — **RAHASIA GURU** (jangan dibagikan ke siswa)
 
-> **Panduan wajib:** [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md) · [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+> **Panduan wajib:** [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md) · [00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 
@@ -72,7 +72,7 @@ Prioritaskan alur pengguna over akurasi model.
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S6-P10 |
-| Modul pertemuan | [XII-S6-P10_project-nilai-build-2.md](../../../kelas-xii/semester-6/XII-S6-P10_project-nilai-build-2.md) |
+| Modul pertemuan | [XII-S6-P10_project-nilai-build-2.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P10_project-nilai-build-2.md) |
 | Semester | 6 · Pertemuan 10/18 |
 | Unit | XII6.6 |
 | Durasi referensi | 2 JP = 90 menit |
@@ -95,7 +95,7 @@ Prioritaskan alur pengguna over akurasi model.
 | 6 | localStorage patterns | → [MDN — localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) |
 | 7 | Loading UX (web.dev) | → [web.dev — Loading patterns](https://web.dev/patterns/web-vitals-patterns/) |
 | 8 | TF.js API | → [TF.js API Reference](https://js.tensorflow.org/api/latest/) |
-| 9 | Rubrik etika E1 preview | → [09_Rubrik_Etika_AI — E1](../../../09-rubrik/09_Rubrik_Etika_AI.md) |
+| 9 | Rubrik etika E1 preview | → [09_Rubrik_Etika_AI — E1](../../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
 | 10 | Panduan CV S6 | → [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md) |
 
 ---
@@ -341,10 +341,10 @@ Tim **wajib**:
 
 ## Rujukan
 
-- Modul: [XII-S6-P10](../../../kelas-xii/semester-6/XII-S6-P10_project-nilai-build-2.md)
+- Modul: [XII-S6-P10](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P10_project-nilai-build-2.md)
 - Sebelumnya: [P09 Build 1](./XII-S6-P09_project-nilai-build-1.md)
 - Lanjutan: [P11 Demo Gagal](./XII-S6-P11_project-nilai-build-3.md)
-- Rubrik: [Etika E1](../../../09-rubrik/09_Rubrik_Etika_AI.md)
+- Rubrik: [Etika E1](../../../../../09-rubrik/09_Rubrik_Etika_AI.md)
 
 ---
 
@@ -367,7 +367,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -378,6 +378,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** AI/CV moderat, jujur, dan manfaat komunitas MA.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

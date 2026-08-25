@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [XII-S5-P18_showcase-refleksi-s5.md](../../../kelas-xii/semester-5/XII-S5-P18_showcase-refleksi-s5.md)
+**Modul acuan:** [XII-S5-P18_showcase-refleksi-s5.md](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P18_showcase-refleksi-s5.md)
 
 ---
 
@@ -86,7 +86,7 @@ Guru parafrase — **tidak** sermon panjang.
 ### Closing S6 preview (80–90 menit)
 
 - Capstone citra/webcam — Teachable Machine atau TF.js transfer
-- Etika: consent, wajah, data siswa — [E2 Rubrik Etika](../../../../09-rubrik/09_Rubrik_Etika_AI.md)
+- Etika: consent, wajah, data siswa — [E2 Rubrik Etika](../../../../../09-rubrik/09_Rubrik_Etika_AI.md)
 - Portofolio: artefak S5 + changelog P16 masuk folder semester
 
 ---
@@ -123,7 +123,7 @@ Guru parafrase — **tidak** sermon panjang.
 
 **Kait di kelas hari ini:** Showcase/refleksi semester — syukur ilmu, bukan sombong.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 
 ---

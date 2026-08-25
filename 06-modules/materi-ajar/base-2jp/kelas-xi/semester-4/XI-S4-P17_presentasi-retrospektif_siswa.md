@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [XI-S4-P17_presentasi-retrospektif.md](../../../kelas-xi/semester-4/XI-S4-P17_presentasi-retrospektif.md)
+**Modul acuan:** [XI-S4-P17_presentasi-retrospektif.md](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P17_presentasi-retrospektif.md)
 
 ---
 
@@ -45,7 +45,7 @@ Dari produk jadi → **cerita tim** + pelajaran kolaborasi.
 Jelaskan ke siswa — **bukan** angka skor:
 
 - Dinilai: clarity masalah, demo DoD, **arsitektur data/API**, iterasi peer, **kolaborasi/atribusi**, transfer, Q&A
-- Rubrik lengkap guru: [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md)
+- Rubrik lengkap guru: [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md)
 - Gate: README + Git checkpoint P16 sebelum skor kolaborasi penuh
 
 ### Presentasi bergiliran (0–50 menit)
@@ -170,7 +170,7 @@ export function toCards(articles) {
 
 **Kait di kelas hari ini:** Review/spiral — renungkan apa yang sudah dikuasai.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 
 ---

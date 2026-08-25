@@ -9,7 +9,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XI-S3-P10 |
-| Modul pertemuan | [XI-S3-P10_pemisahan-tanggung-jawab.md](../../../kelas-xi/semester-3/XI-S3-P10_pemisahan-tanggung-jawab.md) |
+| Modul pertemuan | [XI-S3-P10_pemisahan-tanggung-jawab.md](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P10_pemisahan-tanggung-jawab.md) |
 | Unit | XI3.5 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CXI-T3 |
@@ -293,11 +293,11 @@ refs.btnAdd.addEventListener("click", function () {
 
 ## Rujukan
 
-- Modul: [XI-S3-P10](../../../kelas-xi/semester-3/XI-S3-P10_pemisahan-tanggung-jawab.md)
+- Modul: [XI-S3-P10](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P10_pemisahan-tanggung-jawab.md)
 - Prasyarat: [P09 Refactor Modul](./XI-S3-P09_refactor-modul.md)
 - Kickoff: [P12 Project S3](./XI-S3-P12_project-s3-kickoff.md)
 - PRJ pattern: [PRJ-XI-S3-02 Peminjaman](../../../08-project/PRJ_XI_S3_02_Peminjaman_Barang.md) (modul terpisah)
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../00_Panduan_Etika_Penyampaian.md)
 
 ---
 

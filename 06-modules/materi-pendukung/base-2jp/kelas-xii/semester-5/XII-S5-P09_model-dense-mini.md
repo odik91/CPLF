@@ -9,7 +9,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S5-P09 |
-| Modul pertemuan | [XII-S5-P09_model-dense-mini.md](../../../kelas-xii/semester-5/XII-S5-P09_model-dense-mini.md) |
+| Modul pertemuan | [XII-S5-P09_model-dense-mini.md](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P09_model-dense-mini.md) |
 | Unit | XII5.6 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CXII-T2 |
@@ -32,7 +32,7 @@
 | 7 | Memory / tf.tidy saat pipeline | → [Tensor disposal](https://www.tensorflow.org/js/guide/tensors_operations#memory) |
 | 8 | ML Crash Course | → [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) |
 | 9 | Normalisasi fitur | → [MLCC — Numeric data](https://developers.google.com/machine-learning/crash-course/representation/numeric-data) |
-| 10 | Panduan ML CPLF | → [00_Panduan_Guru_ML_TFJS.md](../../00_Panduan_Guru_ML_TFJS.md) |
+| 10 | Panduan ML CPLF | → [00_Panduan_Guru_ML_TFJS.md](../../../00_Panduan_Guru_ML_TFJS.md) |
 
 ---
 
@@ -351,7 +351,7 @@ model.add(tf.layers.dense({ units: 1, activation: 'sigmoid' }));
 
 ## Rujukan
 
-- Modul: [XII-S5-P09](../../../kelas-xii/semester-5/XII-S5-P09_model-dense-mini.md)
+- Modul: [XII-S5-P09](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P09_model-dense-mini.md)
 - [P08](./XII-S5-P08_layer-compile-fit.md) · [P03 dataset](./XII-S5-P03_dataset-mini-bersih.md)
 - Lanjutan: [P10 Loss & Overfit](./XII-S5-P10_loss-epoch-overfitting.md)
 - PRJ nanti: [PRJ-XII-S5-01](../../../08-project/PRJ_XII_S5_01_Klasifikasi_Tabular.md)

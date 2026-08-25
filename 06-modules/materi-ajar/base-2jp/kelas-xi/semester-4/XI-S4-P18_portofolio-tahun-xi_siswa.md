@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [XI-S4-P18_portofolio-tahun-xi.md](../../../kelas-xi/semester-4/XI-S4-P18_portofolio-tahun-xi.md)
+**Modul acuan:** [XI-S4-P18_portofolio-tahun-xi.md](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P18_portofolio-tahun-xi.md)
 
 ---
 
@@ -50,7 +50,7 @@ Guru tunjuk **struktur section** (bukan copas isi):
 
 ### Concept — Progress Card (10–30 menit)
 
-Jelaskan [09_Progress_Card](../../../09-rubrik/09_Progress_Card.md):
+Jelaskan [09_Progress_Card](../../../../../09-rubrik/09_Progress_Card.md):
 
 | Status | Arti untuk guru |
 |--------|-----------------|
@@ -120,7 +120,7 @@ Individual:
 | Menit | Fase | Aktivitas |
 |-------|------|-----------|
 | 0–10 | Opening | Contoh portofolio: project + reasoning + capability |
-| 10–30 | Concept | [Progress Card](../../../09-rubrik/09_Progress_Card.md) · evidence links |
+| 10–30 | Concept | [Progress Card](../../../../../09-rubrik/09_Progress_Card.md) · evidence links |
 | 30–60 | Practice | Susun portofolio (Notion/GitHub Pages/kertas): S3 + S4 |
 | 60–75 | Peer | Gallery walk — 1 feedback sticky |
 | 75–85 | Reflect | 3 capability CXI terkuat · 1 target XII |
@@ -150,7 +150,7 @@ Individual:
 
 **Kait di kelas hari ini:** Showcase/refleksi semester — syukur ilmu, bukan sombong.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 
 ---

@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [XII-S5-P15_membaca-metrik-model_siswa.md](./XII-S5-P15_membaca-metrik-model_siswa.md)
 
-**Modul:** [XII-S5-P15_membaca-metrik-model.md](../../../kelas-xii/semester-5/XII-S5-P15_membaca-metrik-model.md)
+**Modul:** [XII-S5-P15_membaca-metrik-model.md](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P15_membaca-metrik-model.md)
 
-**Materi pendukung sumber:** [XII-S5-P15_membaca-metrik-model.md](../../../materi-pendukung/kelas-xii/semester-5/XII-S5-P15_membaca-metrik-model.md)
+**Materi pendukung sumber:** [XII-S5-P15_membaca-metrik-model.md](../../../../materi-pendukung/base-2jp/kelas-xii/semester-5/XII-S5-P15_membaca-metrik-model.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -64,7 +64,7 @@ Nilai MA: tidak menyesatkan klaim AI.
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S5-P15 |
-| Modul pertemuan | [XII-S5-P15_membaca-metrik-model.md](../../../kelas-xii/semester-5/XII-S5-P15_membaca-metrik-model.md) |
+| Modul pertemuan | [XII-S5-P15_membaca-metrik-model.md](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P15_membaca-metrik-model.md) |
 | Semester | 5 · Pertemuan 15/18 |
 | Unit | XII5.7 |
 | Durasi referensi | 2 JP = 90 menit |
@@ -306,17 +306,17 @@ Epoch 10 / 10 — loss: 0.02 — acc: 1.00
 | 5 | Confusion matrix | → [MLCC — Confusion Matrix](https://developers.google.com/machine-learning/crash-course/classification/confusion-matrix) |
 | 6 | StatQuest — accuracy vs precision | → [StatQuest — Sensitivity and Specificity](https://www.youtube.com/watch?v=vP06aK5F8mM) |
 | 7 | TF.js metrics di compile | → [tf.LayersModel.compile](https://js.tensorflow.org/api/latest/#tf.LayersModel.compile) |
-| 8 | Rubrik etika E1 | → [09_Rubrik_Etika_AI](../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
+| 8 | Rubrik etika E1 | → [09_Rubrik_Etika_AI](../../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
 
 ---
 
 ## Rujukan
 
-- Modul: [XII-S5-P15](../../../kelas-xii/semester-5/XII-S5-P15_membaca-metrik-model.md)
+- Modul: [XII-S5-P15](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P15_membaca-metrik-model.md)
 - Prasyarat: [P10 Loss](./XII-S5-P10_loss-epoch-overfitting.md) · [P13 Build 2](./XII-S5-P13_project-s5-build-2.md)
 - Project: [P14 Batasan](./XII-S5-P14_project-s5-demo-batasan.md)
 - Panduan: [00_Panduan_Guru_ML_TFJS.md](../../00_Panduan_Guru_ML_TFJS.md)
-- Rubrik: [09_Rubrik_Etika_AI](../../../../09-rubrik/09_Rubrik_Etika_AI.md)
+- Rubrik: [09_Rubrik_Etika_AI](../../../../../09-rubrik/09_Rubrik_Etika_AI.md)
 
 ---
 
@@ -339,7 +339,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -350,6 +350,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** Kickoff project — janji tim & proses jujur.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

@@ -9,7 +9,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | X-S2-P05 |
-| Modul pertemuan | [X-S2-P05_js-dom-klik.md](../../../kelas-x/semester-2/X-S2-P05_js-dom-klik.md) |
+| Modul pertemuan | [X-S2-P05_js-dom-klik.md](../../../../base-2jp/kelas-x/semester-2/X-S2-P05_js-dom-klik.md) |
 | Unit | X2.3 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CX-T2, CX-T3 |
@@ -276,12 +276,12 @@ btn.addEventListener("click", () => {
 
 ## Rujukan
 
-- Modul: [X-S2-P05](../../../kelas-x/semester-2/X-S2-P05_js-dom-klik.md)
+- Modul: [X-S2-P05](../../../../base-2jp/kelas-x/semester-2/X-S2-P05_js-dom-klik.md)
 - Sebelum: [P04 CSS Hierarki](./X-S2-P04_css-hierarki.md)
 - Lanjut: [P06 Event Interaksi](./X-S2-P06_event-interaksi.md)
 - S1 spiral: [P09 Satpam JS](../semester-1/X-S1-P09_satpam-js-kondisi.md)
 - CX-T2, CX-T3
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../00_Panduan_Etika_Penyampaian.md)
 
 ---
 

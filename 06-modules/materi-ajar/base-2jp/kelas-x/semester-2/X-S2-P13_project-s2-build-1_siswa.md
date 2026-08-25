@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [X-S2-P13_project-s2-build-1.md](../../../kelas-x/semester-2/X-S2-P13_project-s2-build-1.md)
+**Modul acuan:** [X-S2-P13_project-s2-build-1.md](../../../../base-2jp/kelas-x/semester-2/X-S2-P13_project-s2-build-1.md)
 
 ---
 
@@ -125,7 +125,7 @@ document.querySelector("#btnHitung").addEventListener("click", hitung);
 
 **Kait di kelas hari ini:** Web & kolaborasi — manfaatkan untuk sesama.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 
 ---

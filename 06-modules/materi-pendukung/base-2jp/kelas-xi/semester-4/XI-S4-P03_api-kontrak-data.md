@@ -9,7 +9,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XI-S4-P03 |
-| Modul pertemuan | [XI-S4-P03_api-kontrak-data.md](../../../kelas-xi/semester-4/XI-S4-P03_api-kontrak-data.md) |
+| Modul pertemuan | [XI-S4-P03_api-kontrak-data.md](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P03_api-kontrak-data.md) |
 | Unit | XI4.2 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CXI-T2, MM-17 |
@@ -285,12 +285,12 @@ Response fail: error + retry
 
 ## Rujukan
 
-- Modul: [XI-S4-P03](../../../kelas-xi/semester-4/XI-S4-P03_api-kontrak-data.md)
+- Modul: [XI-S4-P03](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P03_api-kontrak-data.md)
 - EXP: [EXP_08 WhatsApp](../../../07-experience_library/EXP_08_WhatsApp.md) · [EXP_08_A Game Lag](../../../07-experience_library/EXP_08_A_Game_Lag.md) · [EXP_08_B Upload Gagal](../../../07-experience_library/EXP_08_B_Upload_Gagal.md)
 - Sebelum: [P02 Promise](./XI-S4-P02_promise-async-await.md)
 - Lanjut: [P04 Fetch & JSON](./XI-S4-P04_fetch-json.md)
 - MM-17 · CXI-T2
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../00_Panduan_Etika_Penyampaian.md)
 
 ---
 

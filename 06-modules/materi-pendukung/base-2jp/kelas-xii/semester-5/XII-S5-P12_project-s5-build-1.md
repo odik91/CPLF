@@ -9,7 +9,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S5-P12 |
-| Modul pertemuan | [XII-S5-P12_project-s5-build-1.md](../../../kelas-xii/semester-5/XII-S5-P12_project-s5-build-1.md) |
+| Modul pertemuan | [XII-S5-P12_project-s5-build-1.md](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P12_project-s5-build-1.md) |
 | Unit | XII5.8 |
 | Durasi referensi | 2 JP = 90 menit |
 | PRJ | [PRJ-XII-S5-01](../../../08-project/PRJ_XII_S5_01_Klasifikasi_Tabular.md) · [PRJ-XII-S5-02](../../../08-project/PRJ_XII_S5_02_Prediksi_Kategori.md) |
@@ -32,7 +32,7 @@
 | 7 | StatQuest — data prep playlist | → [StatQuest YouTube](https://www.youtube.com/c/joshstarmer) |
 | 8 | Memory / dispose pipeline | → [Tensor disposal](https://www.tensorflow.org/js/guide/tensors_operations#memory) |
 | 9 | Chart.js (opsional P13) | → [Chart.js](https://www.chartjs.org/docs/latest/) |
-| 10 | Panduan ML CPLF | → [00_Panduan_Guru_ML_TFJS.md](../../00_Panduan_Guru_ML_TFJS.md) |
+| 10 | Panduan ML CPLF | → [00_Panduan_Guru_ML_TFJS.md](../../../00_Panduan_Guru_ML_TFJS.md) |
 
 ---
 
@@ -334,7 +334,7 @@ const acc = evaluate(xsAll, ysAll);
 
 ## Rujukan
 
-- Modul: [XII-S5-P12](../../../kelas-xii/semester-5/XII-S5-P12_project-s5-build-1.md)
+- Modul: [XII-S5-P12](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P12_project-s5-build-1.md)
 - [P11 Kickoff](./XII-S5-P11_project-s5-kickoff.md) · [P13 Build 2](./XII-S5-P13_project-s5-build-2.md)
 - [PRJ-XII-S5-01](../../../08-project/PRJ_XII_S5_01_Klasifikasi_Tabular.md) · [PRJ-XII-S5-02](../../../08-project/PRJ_XII_S5_02_Prediksi_Kategori.md)
 - [P03 Dataset](./XII-S5-P03_dataset-mini-bersih.md) · [P09 Model](./XII-S5-P09_model-dense-mini.md)

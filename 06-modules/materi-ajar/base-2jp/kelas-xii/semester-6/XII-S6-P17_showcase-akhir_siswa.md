@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [XII-S6-P17_showcase-akhir.md](../../../kelas-xii/semester-6/XII-S6-P17_showcase-akhir.md)
+**Modul acuan:** [XII-S6-P17_showcase-akhir.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P17_showcase-akhir.md)
 
 ---
 
@@ -126,7 +126,7 @@ Untuk tim ______:
 
 **Kait di kelas hari ini:** Showcase = accountability ke komunitas MA.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 
 ---

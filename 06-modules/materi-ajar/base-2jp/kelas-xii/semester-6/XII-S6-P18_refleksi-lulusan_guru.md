@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [XII-S6-P18_refleksi-lulusan_siswa.md](./XII-S6-P18_refleksi-lulusan_siswa.md)
 
-**Modul:** [XII-S6-P18_refleksi-lulusan.md](../../../kelas-xii/semester-6/XII-S6-P18_refleksi-lulusan.md)
+**Modul:** [XII-S6-P18_refleksi-lulusan.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P18_refleksi-lulusan.md)
 
-**Materi pendukung sumber:** [XII-S6-P18_refleksi-lulusan.md](../../../materi-pendukung/kelas-xii/semester-6/XII-S6-P18_refleksi-lulusan.md)
+**Materi pendukung sumber:** [XII-S6-P18_refleksi-lulusan.md](../../../../materi-pendukung/base-2jp/kelas-xii/semester-6/XII-S6-P18_refleksi-lulusan.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -68,7 +68,7 @@ Pertemuan penutup 3 tahun CPLF. Kumpulkan portofolio untuk arsip. Ucapkan terima
 
 > **Pertemuan penutup 3 tahun CPLF.** Identitas > nilai.  
 > **Panduan wajib:** [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md)  
-> **Progress Card:** [09_Progress_Card](../../../../09-rubrik/09_Progress_Card.md)
+> **Progress Card:** [09_Progress_Card](../../../../../09-rubrik/09_Progress_Card.md)
 
 ---
 
@@ -77,7 +77,7 @@ Pertemuan penutup 3 tahun CPLF. Kumpulkan portofolio untuk arsip. Ucapkan terima
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S6-P18 |
-| Modul pertemuan | [XII-S6-P18_refleksi-lulusan.md](../../../kelas-xii/semester-6/XII-S6-P18_refleksi-lulusan.md) |
+| Modul pertemuan | [XII-S6-P18_refleksi-lulusan.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P18_refleksi-lulusan.md) |
 | Semester | 6 · Pertemuan 18/18 — **penutup kelas XII CPLF** |
 | Unit | XII6.8 |
 | Durasi referensi | 2 JP = 90 menit |
@@ -92,10 +92,10 @@ Pertemuan penutup 3 tahun CPLF. Kumpulkan portofolio untuk arsip. Ucapkan terima
 
 | # | Topik | Link |
 |---|-------|------|
-| 1 | **Wajib** — Progress Card final | → [09_Progress_Card](../../../../09-rubrik/09_Progress_Card.md) |
-| 2 | **Wajib** — Rubrik etika (refleksi E1–E4) | → [09_Rubrik_Etika_AI](../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
-| 3 | Capability framework CPLF | → [05_Capability_Framework_CPLF.md](../../../../05-silabus/05_Capability_Framework_CPLF.md) |
-| 4 | Enam aspek — mental model CPLF | → [09_Rubrik_Enam_Aspek](../../../../09-rubrik/09_Rubrik_Enam_Aspek.md) |
+| 1 | **Wajib** — Progress Card final | → [09_Progress_Card](../../../../../09-rubrik/09_Progress_Card.md) |
+| 2 | **Wajib** — Rubrik etika (refleksi E1–E4) | → [09_Rubrik_Etika_AI](../../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
+| 3 | Capability framework CPLF | → [05_Capability_Framework_CPLF.md](../../../../../05-silabus/05_Capability_Framework_CPLF.md) |
+| 4 | Enam aspek — mental model CPLF | → [09_Rubrik_Enam_Aspek](../../../../../09-rubrik/09_Rubrik_Enam_Aspek.md) |
 | 5 | UNESCO — lifelong learning | → [UNESCO — Lifelong Learning](https://www.unesco.org/en/lifelong-learning) |
 | 6 | Google Responsible AI (prinsip bawa pulang) | → [Google AI — Responsible AI Practices](https://ai.google/responsibility/responsible-ai-practices/) |
 | 7 | Growth mindset (Dweck — ringkas) | → [Mindset Works — Research](https://www.mindsetworks.com/science/) |
@@ -236,7 +236,7 @@ Normalisasi: lulus CPLF ≠ tahu semua. **Pembelajar seumur hidup** = berani bel
 - [ ] Arsip MA — kotak/map atau folder digital shared guru
 - [ ] (Opsional) Sertifikat capability / ucapan kepala sekolah
 - [ ] Slide foto momen 3 tahun — ringan, tidak sentimental berlebihan
-- [ ] Baca [09_Progress_Card](../../../../09-rubrik/09_Progress_Card.md) — validasi final
+- [ ] Baca [09_Progress_Card](../../../../../09-rubrik/09_Progress_Card.md) — validasi final
 
 ### Skrip fasilitator
 
@@ -365,12 +365,12 @@ Guru — setelah kelas:
 
 ## Rujukan
 
-- Modul: [XII-S6-P18](../../../kelas-xii/semester-6/XII-S6-P18_refleksi-lulusan.md)
+- Modul: [XII-S6-P18](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P18_refleksi-lulusan.md)
 - Sebelumnya: [P17 Showcase Akhir](./XII-S6-P17_showcase-akhir.md) · [P16 Portofolio](./XII-S6-P16_portofolio-3-tahun.md)
-- Progress Card: [09_Progress_Card](../../../../09-rubrik/09_Progress_Card.md)
-- Rubrik etika: [09_Rubrik_Etika_AI](../../../../09-rubrik/09_Rubrik_Etika_AI.md)
-- Indeks CPLF: [XII-S6_Index](../../../kelas-xii/semester-6/XII-S6_Index.md)
-- Semester 5: [XII-S5_Index](../../../kelas-xii/semester-5/XII-S5_Index.md)
+- Progress Card: [09_Progress_Card](../../../../../09-rubrik/09_Progress_Card.md)
+- Rubrik etika: [09_Rubrik_Etika_AI](../../../../../09-rubrik/09_Rubrik_Etika_AI.md)
+- Indeks CPLF: [XII-S6_Index](../../../../base-2jp/kelas-xii/semester-6/XII-S6_Index.md)
+- Semester 5: [XII-S5_Index](../../../../base-2jp/kelas-xii/semester-5/XII-S5_Index.md)
 
 ---
 
@@ -396,7 +396,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -407,6 +407,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** Pembelajar seumur hidup; teknologi = alat amanah.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

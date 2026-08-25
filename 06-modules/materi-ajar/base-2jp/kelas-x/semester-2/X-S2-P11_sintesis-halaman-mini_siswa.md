@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [X-S2-P11_sintesis-halaman-mini.md](../../../kelas-x/semester-2/X-S2-P11_sintesis-halaman-mini.md)
+**Modul acuan:** [X-S2-P11_sintesis-halaman-mini.md](../../../../base-2jp/kelas-x/semester-2/X-S2-P11_sintesis-halaman-mini.md)
 
 ---
 
@@ -137,7 +137,7 @@ items.push("Baru");
 
 **Kait di kelas hari ini:** Web & kolaborasi — manfaatkan untuk sesama.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 
 ---

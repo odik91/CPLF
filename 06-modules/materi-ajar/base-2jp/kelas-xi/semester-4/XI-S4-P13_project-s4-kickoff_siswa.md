@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [XI-S4-P13_project-s4-kickoff.md](../../../kelas-xi/semester-4/XI-S4-P13_project-s4-kickoff.md)
+**Modul acuan:** [XI-S4-P13_project-s4-kickoff.md](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P13_project-s4-kickoff.md)
 
 ---
 
@@ -22,7 +22,7 @@ Dari solo builder → **tim** dengan kontrak API/data/Git.
   - **PRJ-XI-S4-04** — Portal Pengumuman Kelas — **wajib tim 3–4**, modul terpisah + review/merge
 - **DoD:** lihat file PRJ masing-masing — guru paham checklist, **bukan** solusi kode.
 - **Deliverable kickoff:** repo bersama + RACI + ER/API plan + acceptance + issue/task per anggota + branch awal — **bukan** app jadi.
-- **Rubrik:** [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md) — kolaborasi + reasoning + demo P17.
+- **Rubrik:** [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md) — kolaborasi + reasoning + demo P17.
 - **Wajib S4:** integrasi API **atau** persistensi · Git branch · min 2 kontributor (PRJ-04 wajib multi-kontributor) · atribusi README · amanah data teman.
 - **Varian rotasi:** A/B/C per PRJ — antar kelas paralel beda varian.
 - **Mode:** tim 2–3 (kecuali sekolah wajib solo + peer reviewer eksternal — dokumentasikan kebijakan).
@@ -186,7 +186,7 @@ async function loadData() {
 
 **Kait di kelas hari ini:** Data & Git = amanah dan integritas.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 ## 9. Materi pendamping BRG
 

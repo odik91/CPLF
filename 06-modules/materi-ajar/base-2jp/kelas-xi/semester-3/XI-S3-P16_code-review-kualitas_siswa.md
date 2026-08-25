@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [XI-S3-P16_code-review-kualitas.md](../../../kelas-xi/semester-3/XI-S3-P16_code-review-kualitas.md)
+**Modul acuan:** [XI-S3-P16_code-review-kualitas.md](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P16_code-review-kualitas.md)
 
 ---
 
@@ -17,7 +17,7 @@ Dari “yang penting jalan” → **kualitas** terbaca & maintainable.
 - **Transformasi hari ini:** dari "yang penting jalan" → **kualitas** terbaca & maintainable.
 - **Cognitive trap (modul):** asumsi review = cari salah / menghina → counter dengan model 1 komentar konstruktif guru.
 - **Timeline:** trap opening → baca 2 snippet → rubrik review → SPD feedback → practice review teman → implement 1 feedback → reflect.
-- **Rubrik peer:** [09_Rubrik_Peer_Review](../../../09-rubrik/09_Rubrik_Peer_Review.md) — 2 pujian spesifik + 2 saran dapat ditindak + pertanyaan klarifikasi opsional.
+- **Rubrik peer:** [09_Rubrik_Peer_Review](../../../../../09-rubrik/09_Rubrik_Peer_Review.md) — 2 pujian spesifik + 2 saran dapat ditindak + pertanyaan klarifikasi opsional.
 - **SPD feedback:** **S**ituasi–**P**erilaku–**D**ampak — bukan gaya pribadi ("kodenya jelek").
 - **Review fokus:** nama · struktur modul · edge case · readability — **bukan** preferensi warna/font.
 - **Implement 1 feedback wajib** — bukti before/after (commit/screenshot).
@@ -41,7 +41,7 @@ Guru facilitate — tidak reveal "jawaban benar" dulu; siswa argument REA.
 
 ### Concept — rubrik review (15–25 menit)
 
-Jelaskan [09_Rubrik_Peer_Review](../../../09-rubrik/09_Rubrik_Peer_Review.md):
+Jelaskan [09_Rubrik_Peer_Review](../../../../../09-rubrik/09_Rubrik_Peer_Review.md):
 
 | Aspek review S3 | Contoh observasi |
 |-----------------|------------------|
@@ -86,7 +86,7 @@ Bukti: screenshot/commit before/after.
 | 5–15 | Experience | Baca 2 snippet — mana yang kamu mau maintain? |
 | 15–25 | Concept | Rubrik review: nama · struktur · edge case · bukan gaya pribadi |
 | 25–35 | Clarify | Sandikan feedback (situasi–perilaku–dampak) |
-| 35–60 | Practice | Review project teman pakai [Rubrik Peer Review](../../../09-rubrik/09_Rubrik_Peer_Review.md) |
+| 35–60 | Practice | Review project teman pakai [Rubrik Peer Review](../../../../../09-rubrik/09_Rubrik_Peer_Review.md) |
 | 60–75 | Build | Implement 1 feedback wajib |
 | 75–90 | Reflect | Apa yang kamu ubah & why |
 
@@ -153,7 +153,7 @@ export function setStatus(id, status) {
 
 **Kait di kelas hari ini:** Peer review santun — bantu saudara, jangan mengejek.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 
 ---

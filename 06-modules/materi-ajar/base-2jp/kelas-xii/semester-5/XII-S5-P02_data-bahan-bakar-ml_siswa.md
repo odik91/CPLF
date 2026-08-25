@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [XII-S5-P02_data-bahan-bakar-ml.md](../../../kelas-xii/semester-5/XII-S5-P02_data-bahan-bakar-ml.md)
+**Modul acuan:** [XII-S5-P02_data-bahan-bakar-ml.md](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P02_data-bahan-bakar-ml.md)
 
 ---
 
@@ -186,7 +186,7 @@ Bug: baris B dan C — **label tidak match skor** → model confused.
 
 **Kait di kelas hari ini:** Dataset sempit = tidak adil pada kelompok lain.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 
 ---

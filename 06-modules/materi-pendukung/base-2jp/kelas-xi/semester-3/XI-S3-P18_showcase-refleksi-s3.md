@@ -9,7 +9,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XI-S3-P18 |
-| Modul pertemuan | [XI-S3-P18_showcase-refleksi-s3](../../../kelas-xi/semester-3/XI-S3-P18_showcase-refleksi-s3.md) |
+| Modul pertemuan | [XI-S3-P18_showcase-refleksi-s3](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P18_showcase-refleksi-s3.md) |
 | Unit | XI3.8 |
 | Durasi referensi | 2 JP = 90 menit |
 | Rubrik | [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md) |
@@ -262,15 +262,15 @@ function updateItem(id, patch) {
 
 ## 9. Rujukan
 
-- Modul pertemuan: [XI-S3-P18](../../../kelas-xi/semester-3/XI-S3-P18_showcase-refleksi-s3.md)
+- Modul pertemuan: [XI-S3-P18](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P18_showcase-refleksi-s3.md)
 - Rubrik project: [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md)
 - Rubrik peer: [09_Rubrik_Peer_Review](../../../09-rubrik/09_Rubrik_Peer_Review.md)
 - Code review: [P16 materi pendukung](./XI-S3-P16_code-review-kualitas.md)
 - Review spiral: [P17 materi pendukung](./XI-S3-P17_review-spiral-s3.md)
 - PRJ bank: [08_Project_Bank_Index](../../../08-project/08_Project_Bank_Index.md#kelas-xi--semester-3-interaksi--struktur)
-- Indeks S3: [XI-S3_Index](../../../kelas-xi/semester-3/XI-S3_Index.md)
+- Indeks S3: [XI-S3_Index](../../../../base-2jp/kelas-xi/semester-3/XI-S3_Index.md)
 - Showcase S2 (paralel): [X-S2-P17](../../kelas-x/semester-2/X-S2-P17_presentasi-s2.md)
-- Etika: [00_Panduan_Etika_Penyampaian](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian](../../../00_Panduan_Etika_Penyampaian.md)
 
 ---
 

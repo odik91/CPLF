@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [XII-S6-P16_portofolio-3-tahun_siswa.md](./XII-S6-P16_portofolio-3-tahun_siswa.md)
 
-**Modul:** [XII-S6-P16_portofolio-3-tahun.md](../../../kelas-xii/semester-6/XII-S6-P16_portofolio-3-tahun.md)
+**Modul:** [XII-S6-P16_portofolio-3-tahun.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P16_portofolio-3-tahun.md)
 
-**Materi pendukung sumber:** [XII-S6-P16_portofolio-3-tahun.md](../../../materi-pendukung/kelas-xii/semester-6/XII-S6-P16_portofolio-3-tahun.md)
+**Materi pendukung sumber:** [XII-S6-P16_portofolio-3-tahun.md](../../../../materi-pendukung/base-2jp/kelas-xii/semester-6/XII-S6-P16_portofolio-3-tahun.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -28,7 +28,7 @@ Dari kumpulan file → **narasi** perjalanan X → XI → XII.
 | Menit | Fase | Aktivitas |
 |-------|------|-----------|
 | 0–10 | Opening | Contoh portofolio: artefak + capability + refleksi |
-| 10–25 | Concept | [Progress Card](../../../09-rubrik/09_Progress_Card.md) · evidence links |
+| 10–25 | Concept | [Progress Card](../../../../../09-rubrik/09_Progress_Card.md) · evidence links |
 | 25–45 | Practice | Kurasi: 2 project terbaik/tahun + 1 capstone |
 | 45–60 | Practice | Tulis 3 capability terkuat + 1 growth area |
 | 60–75 | Peer | Gallery walk — sticky feedback |
@@ -66,7 +66,7 @@ Siapkan template Notion/GitHub Pages/kertas — sesuaikan fasilitas sekolah.
 **Version:** 0.1 · **Audiens:** Guru MA — **RAHASIA GURU** (jangan dibagikan ke siswa)
 
 > **Panduan wajib:** [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md)  
-> **Progress Card:** [09_Progress_Card](../../../../09-rubrik/09_Progress_Card.md) · **Rubrik:** [09_Rubrik_Project](../../../../09-rubrik/09_Rubrik_Project.md)
+> **Progress Card:** [09_Progress_Card](../../../../../09-rubrik/09_Progress_Card.md) · **Rubrik:** [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md)
 
 ---
 
@@ -75,7 +75,7 @@ Siapkan template Notion/GitHub Pages/kertas — sesuaikan fasilitas sekolah.
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S6-P16 |
-| Modul pertemuan | [XII-S6-P16_portofolio-3-tahun.md](../../../kelas-xii/semester-6/XII-S6-P16_portofolio-3-tahun.md) |
+| Modul pertemuan | [XII-S6-P16_portofolio-3-tahun.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P16_portofolio-3-tahun.md) |
 | Semester | 6 · Pertemuan 16/18 |
 | Unit | XII6.8 |
 | Durasi referensi | 2 JP = 90 menit |
@@ -90,11 +90,11 @@ Siapkan template Notion/GitHub Pages/kertas — sesuaikan fasilitas sekolah.
 
 | # | Topik | Link |
 |---|-------|------|
-| 1 | **Wajib** — Progress Card X–XI–XII | → [09_Progress_Card](../../../../09-rubrik/09_Progress_Card.md) |
-| 2 | **Wajib** — Rubrik project (bukti capability) | → [09_Rubrik_Project](../../../../09-rubrik/09_Rubrik_Project.md) |
-| 3 | **Wajib** — Rubrik etika (capstone XII) | → [09_Rubrik_Etika_AI](../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
-| 4 | Capability framework CPLF | → [05_Capability_Framework_CPLF.md](../../../../05-silabus/05_Capability_Framework_CPLF.md) |
-| 5 | Enam aspek CPLF | → [09_Rubrik_Enam_Aspek](../../../../09-rubrik/09_Rubrik_Enam_Aspek.md) |
+| 1 | **Wajib** — Progress Card X–XI–XII | → [09_Progress_Card](../../../../../09-rubrik/09_Progress_Card.md) |
+| 2 | **Wajib** — Rubrik project (bukti capability) | → [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md) |
+| 3 | **Wajib** — Rubrik etika (capstone XII) | → [09_Rubrik_Etika_AI](../../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
+| 4 | Capability framework CPLF | → [05_Capability_Framework_CPLF.md](../../../../../05-silabus/05_Capability_Framework_CPLF.md) |
+| 5 | Enam aspek CPLF | → [09_Rubrik_Enam_Aspek](../../../../../09-rubrik/09_Rubrik_Enam_Aspek.md) |
 | 6 | GitHub Pages (opsional hosting) | → [GitHub Pages — Quickstart](https://docs.github.com/en/pages/quickstart) |
 | 7 | Notion public page (opsional) | → [Notion — Share pages](https://www.notion.so/help/share-your-work) |
 | 8 | Portfolio best practices (inspirasi) | → [MDN — Learn: Getting started with the web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web) |
@@ -208,7 +208,7 @@ Protokol 2 menit/stasi:
 ### Persiapan
 
 - [ ] Template portofolio (1 format) — link di LMS/papan
-- [ ] Progress Card blank atau digital — [09_Progress_Card](../../../../09-rubrik/09_Progress_Card.md)
+- [ ] Progress Card blank atau digital — [09_Progress_Card](../../../../../09-rubrik/09_Progress_Card.md)
 - [ ] Sticky notes / padlet untuk gallery walk
 - [ ] Daftar PRJ X/XI/XII — guru bantu siswa yang lupa link
 - [ ] Rubrik P14 narasi — salin ke portofolio jika sudah ada
@@ -309,11 +309,11 @@ Semua capability: Kokoh
 
 ## Rujukan
 
-- Modul: [XII-S6-P16](../../../kelas-xii/semester-6/XII-S6-P16_portofolio-3-tahun.md)
+- Modul: [XII-S6-P16](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P16_portofolio-3-tahun.md)
 - Sebelumnya: [P14 Presentasi](./XII-S6-P14_presentasi-nilai.md) · [P15 Bonus](./XII-S6-P15_bonus-agent-ringan.md) *(opsional)*
 - Lanjutan: [P17 Showcase Akhir](./XII-S6-P17_showcase-akhir.md)
-- Progress Card: [09_Progress_Card](../../../../09-rubrik/09_Progress_Card.md)
-- Rubrik: [09_Rubrik_Project](../../../../09-rubrik/09_Rubrik_Project.md) · [09_Rubrik_Etika_AI](../../../../09-rubrik/09_Rubrik_Etika_AI.md)
+- Progress Card: [09_Progress_Card](../../../../../09-rubrik/09_Progress_Card.md)
+- Rubrik: [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md) · [09_Rubrik_Etika_AI](../../../../../09-rubrik/09_Rubrik_Etika_AI.md)
 
 ---
 
@@ -337,7 +337,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -348,6 +348,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** Build iteratif — amanah waktu & kualitas kelompok.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [XII-S5-P13_project-s5-build-2_siswa.md](./XII-S5-P13_project-s5-build-2_siswa.md)
 
-**Modul:** [XII-S5-P13_project-s5-build-2.md](../../../kelas-xii/semester-5/XII-S5-P13_project-s5-build-2.md)
+**Modul:** [XII-S5-P13_project-s5-build-2.md](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P13_project-s5-build-2.md)
 
-**Materi pendukung sumber:** [XII-S5-P13_project-s5-build-2.md](../../../materi-pendukung/kelas-xii/semester-5/XII-S5-P13_project-s5-build-2.md)
+**Materi pendukung sumber:** [XII-S5-P13_project-s5-build-2.md](../../../../materi-pendukung/base-2jp/kelas-xii/semester-5/XII-S5-P13_project-s5-build-2.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -58,7 +58,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S5-P13 |
-| Modul pertemuan | [XII-S5-P13_project-s5-build-2.md](../../../kelas-xii/semester-5/XII-S5-P13_project-s5-build-2.md) |
+| Modul pertemuan | [XII-S5-P13_project-s5-build-2.md](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P13_project-s5-build-2.md) |
 | Semester | 5 · Pertemuan 13/18 |
 | Unit | XII5.8 |
 | Durasi referensi | 2 JP = 90 menit |
@@ -310,19 +310,19 @@ Baca **sebelum** pertemuan; di kelas parafrase — jangan baca URL.
 | 5 | Loss & metrics (intuitif) | → [MLCC — Training and Loss](https://developers.google.com/machine-learning/crash-course/descending-into-ml/training-and-loss) |
 | 6 | Memory / dispose tensor | → [Tensor disposal](https://www.tensorflow.org/js/guide/tensors_operations#memory) |
 | 7 | Grafik loss (opsional) | → [Chart.js — Line chart](https://www.chartjs.org/docs/latest/charts/line.html) |
-| 8 | Rubrik etika — preview E1 | → [09_Rubrik_Etika_AI](../../../../09-rubrik/09_Rubrik_Etika_AI.md) (batasan & kejujuran) |
+| 8 | Rubrik etika — preview E1 | → [09_Rubrik_Etika_AI](../../../../../09-rubrik/09_Rubrik_Etika_AI.md) (batasan & kejujuran) |
 
 ---
 
 ## Rujukan
 
-- Modul: [XII-S5-P13](../../../kelas-xii/semester-5/XII-S5-P13_project-s5-build-2.md)
+- Modul: [XII-S5-P13](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P13_project-s5-build-2.md)
 - Sebelumnya: [P12 Build 1](./XII-S5-P12_project-s5-build-1.md) · [P11 Kickoff](./XII-S5-P11_project-s5-kickoff.md)
 - Lanjutan: [P14 Demo + Batasan](./XII-S5-P14_project-s5-demo-batasan.md)
 - Konsep: [P08 Layer/Compile/Fit](./XII-S5-P08_layer-compile-fit.md) · [P10 Loss](./XII-S5-P10_loss-epoch-overfitting.md)
 - Panduan ML: [00_Panduan_Guru_ML_TFJS.md](../../00_Panduan_Guru_ML_TFJS.md)
-- Etika global: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
-- Rubrik: [09_Rubrik_Project](../../../../09-rubrik/09_Rubrik_Project.md)
+- Etika global: [00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Rubrik: [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md)
 
 ---
 
@@ -346,7 +346,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -357,6 +357,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** Data & model — keadilan dan dampak ke sesama.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

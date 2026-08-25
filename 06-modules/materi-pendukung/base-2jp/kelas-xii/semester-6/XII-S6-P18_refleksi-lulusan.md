@@ -3,8 +3,8 @@
 **Version:** 0.1 · **Audiens:** Guru MA — **RAHASIA GURU** (jangan dibagikan ke siswa)
 
 > **Pertemuan penutup 3 tahun CPLF.** Identitas > nilai.  
-> **Panduan wajib:** [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md)  
-> **Progress Card:** [09_Progress_Card](../../../../09-rubrik/09_Progress_Card.md)
+> **Panduan wajib:** [00_Panduan_Guru_CV_Etika.md](../../../00_Panduan_Guru_CV_Etika.md)  
+> **Progress Card:** [09_Progress_Card](../../../../../09-rubrik/09_Progress_Card.md)
 
 ---
 
@@ -13,7 +13,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S6-P18 |
-| Modul pertemuan | [XII-S6-P18_refleksi-lulusan.md](../../../kelas-xii/semester-6/XII-S6-P18_refleksi-lulusan.md) |
+| Modul pertemuan | [XII-S6-P18_refleksi-lulusan.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P18_refleksi-lulusan.md) |
 | Semester | 6 · Pertemuan 18/18 — **penutup kelas XII CPLF** |
 | Unit | XII6.8 |
 | Durasi referensi | 2 JP = 90 menit |
@@ -28,14 +28,14 @@
 
 | # | Topik | Link |
 |---|-------|------|
-| 1 | **Wajib** — Progress Card final | → [09_Progress_Card](../../../../09-rubrik/09_Progress_Card.md) |
-| 2 | **Wajib** — Rubrik etika (refleksi E1–E4) | → [09_Rubrik_Etika_AI](../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
-| 3 | Capability framework CPLF | → [05_Capability_Framework_CPLF.md](../../../../05-silabus/05_Capability_Framework_CPLF.md) |
-| 4 | Enam aspek — mental model CPLF | → [09_Rubrik_Enam_Aspek](../../../../09-rubrik/09_Rubrik_Enam_Aspek.md) |
+| 1 | **Wajib** — Progress Card final | → [09_Progress_Card](../../../../../09-rubrik/09_Progress_Card.md) |
+| 2 | **Wajib** — Rubrik etika (refleksi E1–E4) | → [09_Rubrik_Etika_AI](../../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
+| 3 | Capability framework CPLF | → [05_Capability_Framework_CPLF.md](../../../../../05-silabus/05_Capability_Framework_CPLF.md) |
+| 4 | Enam aspek — mental model CPLF | → [09_Rubrik_Enam_Aspek](../../../../../09-rubrik/09_Rubrik_Enam_Aspek.md) |
 | 5 | UNESCO — lifelong learning | → [UNESCO — Lifelong Learning](https://www.unesco.org/en/lifelong-learning) |
 | 6 | Google Responsible AI (prinsip bawa pulang) | → [Google AI — Responsible AI Practices](https://ai.google/responsibility/responsible-ai-practices/) |
 | 7 | Growth mindset (Dweck — ringkas) | → [Mindset Works — Research](https://www.mindsetworks.com/science/) |
-| 8 | Panduan CV & etika CPLF | → [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md) |
+| 8 | Panduan CV & etika CPLF | → [00_Panduan_Guru_CV_Etika.md](../../../00_Panduan_Guru_CV_Etika.md) |
 
 ---
 
@@ -172,7 +172,7 @@ Normalisasi: lulus CPLF ≠ tahu semua. **Pembelajar seumur hidup** = berani bel
 - [ ] Arsip MA — kotak/map atau folder digital shared guru
 - [ ] (Opsional) Sertifikat capability / ucapan kepala sekolah
 - [ ] Slide foto momen 3 tahun — ringan, tidak sentimental berlebihan
-- [ ] Baca [09_Progress_Card](../../../../09-rubrik/09_Progress_Card.md) — validasi final
+- [ ] Baca [09_Progress_Card](../../../../../09-rubrik/09_Progress_Card.md) — validasi final
 
 ### Skrip fasilitator
 
@@ -301,12 +301,12 @@ Guru — setelah kelas:
 
 ## Rujukan
 
-- Modul: [XII-S6-P18](../../../kelas-xii/semester-6/XII-S6-P18_refleksi-lulusan.md)
+- Modul: [XII-S6-P18](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P18_refleksi-lulusan.md)
 - Sebelumnya: [P17 Showcase Akhir](./XII-S6-P17_showcase-akhir.md) · [P16 Portofolio](./XII-S6-P16_portofolio-3-tahun.md)
-- Progress Card: [09_Progress_Card](../../../../09-rubrik/09_Progress_Card.md)
-- Rubrik etika: [09_Rubrik_Etika_AI](../../../../09-rubrik/09_Rubrik_Etika_AI.md)
-- Indeks CPLF: [XII-S6_Index](../../../kelas-xii/semester-6/XII-S6_Index.md)
-- Semester 5: [XII-S5_Index](../../../kelas-xii/semester-5/XII-S5_Index.md)
+- Progress Card: [09_Progress_Card](../../../../../09-rubrik/09_Progress_Card.md)
+- Rubrik etika: [09_Rubrik_Etika_AI](../../../../../09-rubrik/09_Rubrik_Etika_AI.md)
+- Indeks CPLF: [XII-S6_Index](../../../../base-2jp/kelas-xii/semester-6/XII-S6_Index.md)
+- Semester 5: [XII-S5_Index](../../../../base-2jp/kelas-xii/semester-5/XII-S5_Index.md)
 
 ---
 

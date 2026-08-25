@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [XII-S6-P04_mobilenet-teachable_siswa.md](./XII-S6-P04_mobilenet-teachable_siswa.md)
 
-**Modul:** [XII-S6-P04_mobilenet-teachable.md](../../../kelas-xii/semester-6/XII-S6-P04_mobilenet-teachable.md)
+**Modul:** [XII-S6-P04_mobilenet-teachable.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P04_mobilenet-teachable.md)
 
-**Materi pendukung sumber:** [XII-S6-P04_mobilenet-teachable.md](../../../materi-pendukung/kelas-xii/semester-6/XII-S6-P04_mobilenet-teachable.md)
+**Materi pendukung sumber:** [XII-S6-P04_mobilenet-teachable.md](../../../../materi-pendukung/base-2jp/kelas-xii/semester-6/XII-S6-P04_mobilenet-teachable.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -75,7 +75,7 @@ Alternatif: TensorFlow.js Hub / `@tensorflow-models/mobilenet` untuk prediksi Im
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S6-P04 |
-| Modul pertemuan | [XII-S6-P04_mobilenet-teachable.md](../../../kelas-xii/semester-6/XII-S6-P04_mobilenet-teachable.md) |
+| Modul pertemuan | [XII-S6-P04_mobilenet-teachable.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P04_mobilenet-teachable.md) |
 | Semester | 6 · Pertemuan 4/18 |
 | Unit | XII6.2 |
 | Durasi referensi | 2 JP = 90 menit |
@@ -406,10 +406,10 @@ tensor.dispose();
 
 ## Rujukan modul
 
-- Modul: [XII-S6-P04](../../../kelas-xii/semester-6/XII-S6-P04_mobilenet-teachable.md)
+- Modul: [XII-S6-P04](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P04_mobilenet-teachable.md)
 - Sebelumnya: [P03](./XII-S6-P03_transfer-learning-konsep.md)
 - Lanjutan: [P05 AI Fitur Web](./XII-S6-P05_ai-fitur-web.md)
-- Rubrik: [09_Rubrik_Etika_AI.md](../../../../09-rubrik/09_Rubrik_Etika_AI.md)
+- Rubrik: [09_Rubrik_Etika_AI.md](../../../../../09-rubrik/09_Rubrik_Etika_AI.md)
 
 ---
 ## C. BRG & jalur kelanjutan
@@ -418,7 +418,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -429,6 +429,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** Objek aman ke privasi — tidak foto wajah tanpa izin.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

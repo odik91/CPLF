@@ -9,7 +9,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XI-S4-P01 |
-| Modul pertemuan | [XI-S4-P01_sync-vs-async.md](../../../kelas-xi/semester-4/XI-S4-P01_sync-vs-async.md) |
+| Modul pertemuan | [XI-S4-P01_sync-vs-async.md](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P01_sync-vs-async.md) |
 | Unit | XI4.1 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CXI-T2 |
@@ -306,12 +306,12 @@ btnLoad.addEventListener("click", function () {
 
 ## Rujukan
 
-- Modul: [XI-S4-P01](../../../kelas-xi/semester-4/XI-S4-P01_sync-vs-async.md)
+- Modul: [XI-S4-P01](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P01_sync-vs-async.md)
 - Lanjut: [P02 Promise & async/await](./XI-S4-P02_promise-async-await.md)
 - Spiral S3 render: [P04 DOM Update](../semester-3/XI-S3-P04_dom-update-aman.md) · [P08 State](../semester-3/XI-S3-P08_state-aplikasi.md)
 - Tutup S3: [P18 Showcase](../semester-3/XI-S3-P18_showcase-refleksi-s3.md)
 - MM-09 · CXI-T2
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../00_Panduan_Etika_Penyampaian.md)
 
 ---
 

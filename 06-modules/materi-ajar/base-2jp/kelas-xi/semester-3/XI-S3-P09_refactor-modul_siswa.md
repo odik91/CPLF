@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [XI-S3-P09_refactor-modul.md](../../../kelas-xi/semester-3/XI-S3-P09_refactor-modul.md)
+**Modul acuan:** [XI-S3-P09_refactor-modul.md](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P09_refactor-modul.md)
 
 ---
 
@@ -166,7 +166,7 @@ function doEverything(x) {
 
 **Kait di kelas hari ini:** Refactor = teliti sebelum mengubah yang dipakai sesama.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 ## 10. Materi pendamping BRG
 

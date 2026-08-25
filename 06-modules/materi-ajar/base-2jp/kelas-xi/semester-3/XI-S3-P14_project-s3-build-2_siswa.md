@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [XI-S3-P14_project-s3-build-2.md](../../../kelas-xi/semester-3/XI-S3-P14_project-s3-build-2.md)
+**Modul acuan:** [XI-S3-P14_project-s3-build-2.md](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P14_project-s3-build-2.md)
 
 ---
 
@@ -143,7 +143,7 @@ function render() {
 
 **Kait di kelas hari ini:** Desain untuk pengguna lain — teliti sebelum rilis.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 
 ---

@@ -7,7 +7,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | X-S1-P13 |
-| Modul pertemuan | [X-S1-P13_error-debugging](../../../kelas-x/semester-1/X-S1-P13_error-debugging.md) |
+| Modul pertemuan | [X-S1-P13_error-debugging](../../../../base-2jp/kelas-x/semester-1/X-S1-P13_error-debugging.md) |
 | Unit | X1.7 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CX-T4, CX-C1 |
@@ -227,11 +227,11 @@ console.log(cekUsia(16));
 
 ## 9. Rujukan
 
-- Modul pertemuan: [X-S1-P13](../../../kelas-x/semester-1/X-S1-P13_error-debugging.md)
+- Modul pertemuan: [X-S1-P13](../../../../base-2jp/kelas-x/semester-1/X-S1-P13_error-debugging.md)
 - Silabus X1.7: [05_Silabus_Kelas_X](../../../05-silabus/05_Silabus_Kelas_X.md)
 - MM-05 (Error sebagai informasi)
-- Etika global: [00_Panduan_Etika_Penyampaian](../../00_Panduan_Etika_Penyampaian.md)
-- Recall dari: [P11 Kasir & Loop](../../../kelas-x/semester-1/X-S1-P11_kasir-loop.md), [P12 Function](../../../kelas-x/semester-1/X-S1-P12_function-loop-js.md)
+- Etika global: [00_Panduan_Etika_Penyampaian](../../../00_Panduan_Etika_Penyampaian.md)
+- Recall dari: [P11 Kasir & Loop](../../../../base-2jp/kelas-x/semester-1/X-S1-P11_kasir-loop.md), [P12 Function](../../../../base-2jp/kelas-x/semester-1/X-S1-P12_function-loop-js.md)
 
 ---
 

@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [X-S2-P07_form-validasi.md](../../../kelas-x/semester-2/X-S2-P07_form-validasi.md)
+**Modul acuan:** [X-S2-P07_form-validasi.md](../../../../base-2jp/kelas-x/semester-2/X-S2-P07_form-validasi.md)
 
 ---
 
@@ -152,7 +152,7 @@ Guru tegaskan: "Browser = satpam level 1. Minggu depan (P08) kita buat pesan err
 
 **Kait di kelas hari ini:** Web & kolaborasi — manfaatkan untuk sesama.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 
 ---

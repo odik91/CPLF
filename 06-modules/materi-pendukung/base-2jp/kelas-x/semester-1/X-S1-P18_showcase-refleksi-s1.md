@@ -7,7 +7,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | X-S1-P18 |
-| Modul pertemuan | [X-S1-P18_showcase-refleksi-s1](../../../kelas-x/semester-1/X-S1-P18_showcase-refleksi-s1.md) |
+| Modul pertemuan | [X-S1-P18_showcase-refleksi-s1](../../../../base-2jp/kelas-x/semester-1/X-S1-P18_showcase-refleksi-s1.md) |
 | Unit | X1.8 (penutup semester) |
 | Durasi referensi | 2 JP = 90 menit |
 | Rubrik | [Project](../../../09-rubrik/09_Rubrik_Project.md) · [Progress Card](../../../09-rubrik/09_Progress_Card.md) (draft) |
@@ -182,12 +182,12 @@ if (harta >= nisab && haul >= 1) {
 
 ## 9. Rujukan
 
-- Modul pertemuan: [X-S1-P18](../../../kelas-x/semester-1/X-S1-P18_showcase-refleksi-s1.md)
+- Modul pertemuan: [X-S1-P18](../../../../base-2jp/kelas-x/semester-1/X-S1-P18_showcase-refleksi-s1.md)
 - Rubrik project: [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md)
 - Progress Card: [09_Progress_Card](../../../09-rubrik/09_Progress_Card.md)
-- Indeks semester: [X-S1_Index](../../../kelas-x/semester-1/X-S1_Index.md)
+- Indeks semester: [X-S1_Index](../../../../base-2jp/kelas-x/semester-1/X-S1_Index.md)
 - Silabus X: [05_Silabus_Kelas_X](../../../05-silabus/05_Silabus_Kelas_X.md)
-- Etika: [00_Panduan_Etika_Penyampaian](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian](../../../00_Panduan_Etika_Penyampaian.md)
 
 ---
 

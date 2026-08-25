@@ -9,7 +9,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XI-S3-P16 |
-| Modul pertemuan | [XI-S3-P16_code-review-kualitas](../../../kelas-xi/semester-3/XI-S3-P16_code-review-kualitas.md) |
+| Modul pertemuan | [XI-S3-P16_code-review-kualitas](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P16_code-review-kualitas.md) |
 | Unit | XI3.8 |
 | Durasi referensi | 2 JP = 90 menit |
 | PRJ | Lanjut PRJ-XI-S3-* |
@@ -243,13 +243,13 @@ export function setStatus(id, status) {
 
 ## 9. Rujukan
 
-- Modul pertemuan: [XI-S3-P16](../../../kelas-xi/semester-3/XI-S3-P16_code-review-kualitas.md)
+- Modul pertemuan: [XI-S3-P16](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P16_code-review-kualitas.md)
 - Rubrik peer: [09_Rubrik_Peer_Review](../../../09-rubrik/09_Rubrik_Peer_Review.md)
 - Demo & feedback: [P15 materi pendukung](./XI-S3-P15_project-s3-demo-peer.md)
 - Review spiral next: [P17 materi pendukung](./XI-S3-P17_review-spiral-s3.md)
-- Pemisahan tanggung jawab: [XI-S3-P10](../../../kelas-xi/semester-3/XI-S3-P10_pemisahan-tanggung-jawab.md)
+- Pemisahan tanggung jawab: [XI-S3-P10](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P10_pemisahan-tanggung-jawab.md)
 - Rubrik project: [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md)
-- Etika: [00_Panduan_Etika_Penyampaian](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian](../../../00_Panduan_Etika_Penyampaian.md)
 
 ---
 

@@ -9,7 +9,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | X-S2-P12 |
-| Modul pertemuan | [X-S2-P12_project-s2-kickoff.md](../../../kelas-x/semester-2/X-S2-P12_project-s2-kickoff.md) |
+| Modul pertemuan | [X-S2-P12_project-s2-kickoff.md](../../../../base-2jp/kelas-x/semester-2/X-S2-P12_project-s2-kickoff.md) |
 | Unit | X2.7 |
 | Durasi referensi | 2 JP = 90 menit |
 | PRJ | [PRJ-X-S2-01 … 04](../../../08-project/08_Project_Bank_Index.md#kelas-x--semester-2-web-sebagai-ekspresi) |
@@ -222,14 +222,14 @@ Spesifikasi numerik PRJ-01 (zakat UI) — baca **spec**, bukan kode:
 
 ## Rujukan
 
-- Modul: [X-S2-P12](../../../kelas-x/semester-2/X-S2-P12_project-s2-kickoff.md)
+- Modul: [X-S2-P12](../../../../base-2jp/kelas-x/semester-2/X-S2-P12_project-s2-kickoff.md)
 - PRJ-01: [Kalkulator Zakat UI](../../../08-project/PRJ_X_S2_01_Zakat_UI.md)
 - PRJ-02: [Jadwal Kegiatan](../../../08-project/PRJ_X_S2_02_Jadwal_Kegiatan.md)
 - PRJ-03: [Absensi Mini](../../../08-project/PRJ_X_S2_03_Absensi_Mini.md)
 - PRJ-04: [Profil Ekskul](../../../08-project/PRJ_X_S2_04_Profil_Ekskul.md)
 - Rubrik: [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md)
 - Dry run: [P11 Sintesis](./X-S2-P11_sintesis-halaman-mini.md)
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../00_Panduan_Etika_Penyampaian.md)
 
 ---
 

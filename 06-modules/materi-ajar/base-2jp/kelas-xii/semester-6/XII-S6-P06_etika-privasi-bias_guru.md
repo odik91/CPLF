@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [XII-S6-P06_etika-privasi-bias_siswa.md](./XII-S6-P06_etika-privasi-bias_siswa.md)
 
-**Modul:** [XII-S6-P06_etika-privasi-bias.md](../../../kelas-xii/semester-6/XII-S6-P06_etika-privasi-bias.md)
+**Modul:** [XII-S6-P06_etika-privasi-bias.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P06_etika-privasi-bias.md)
 
-**Materi pendukung sumber:** [XII-S6-P06_etika-privasi-bias.md](../../../materi-pendukung/kelas-xii/semester-6/XII-S6-P06_etika-privasi-bias.md)
+**Materi pendukung sumber:** [XII-S6-P06_etika-privasi-bias.md](../../../../materi-pendukung/base-2jp/kelas-xii/semester-6/XII-S6-P06_etika-privasi-bias.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -34,7 +34,7 @@ Dari “teknologi netral” → **konsekuensi** solusi untuk manusia & nilai MA.
 | 5–20 | Experience | Studi kasus: absensi wajah vs QR — privasi & aurat |
 | 20–30 | Trap | “Yang penting jalan / akurat tinggi” |
 | 30–40 | Clarify | Consent · minimasi data · retention |
-| 40–50 | Concept | [Rubrik Etika AI](../../../09-rubrik/09_Rubrik_Etika_AI.md) E1–E4 ringkas |
+| 40–50 | Concept | [Rubrik Etika AI](../../../../../09-rubrik/09_Rubrik_Etika_AI.md) E1–E4 ringkas |
 | 50–70 | Practice | Template 1 halaman: Data · Akses · Risiko · Mitigasi |
 | 70–85 | Diskusi | Gotong royong & amanah data teman |
 | 85–90 | Exit | 1 keputusan etis untuk capstone |
@@ -81,7 +81,7 @@ Siapa akses · Risiko salah · Mitigasi · Alternatif lebih aman
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S6-P06 |
-| Modul pertemuan | [XII-S6-P06_etika-privasi-bias.md](../../../kelas-xii/semester-6/XII-S6-P06_etika-privasi-bias.md) |
+| Modul pertemuan | [XII-S6-P06_etika-privasi-bias.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P06_etika-privasi-bias.md) |
 | Semester | 6 · Pertemuan 6/18 |
 | Unit | XII6.4 |
 | Durasi referensi | 2 JP = 90 menit |
@@ -90,9 +90,9 @@ Siapa akses · Risiko salah · Mitigasi · Alternatif lebih aman
 | MM | MM-24, MM-04 |
 | Formatif | REA, COM + dimensi **E2** rubrik etika |
 | Prasyarat | [P05 AI Fitur Web](./XII-S6-P05_ai-fitur-web.md) |
-| **Rubrik wajib** | [09_Rubrik_Etika_AI.md](../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
+| **Rubrik wajib** | [09_Rubrik_Etika_AI.md](../../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
 | Panduan CV | [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md) |
-| Etika global | [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md) |
+| Etika global | [00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md) |
 | Ada live code? | **Tidak** — studi kasus + template etika (wajib sebelum capstone P08) |
 
 ---
@@ -101,14 +101,14 @@ Siapa akses · Risiko salah · Mitigasi · Alternatif lebih aman
 
 | # | Topik | Referensi |
 |---|-------|-----------|
-| 1 | **Wajib — CPLF** | → referensi: [09_Rubrik_Etika_AI.md](../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
+| 1 | **Wajib — CPLF** | → referensi: [09_Rubrik_Etika_AI.md](../../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
 | 2 | **Wajib** — Google Responsible AI Practices | → referensi: [Google AI — Responsible AI Practices](https://ai.google/responsibility/responsible-ai-practices/) |
 | 3 | **Wajib** — UNESCO AI Ethics (ringkas) | → referensi: [UNESCO AI Ethics Recommendation](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics) |
 | 4 | Privasi kamera & Permissions Policy | → referensi: [MDN — Permissions Policy](https://developer.mozilla.org/en-US/docs/Web/HTTP/Permissions_Policy) |
 | 5 | getUserMedia & consent UX | → referensi: [MDN — getUserMedia](https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getUserMedia) |
 | 6 | Fairness / bias overview | → referensi: [Google ML — Fairness](https://developers.google.com/machine-learning/crash-course/fairness/overview) |
 | 7 | MLCC — data privacy (konteks) | → referensi: [MLCC — Working with numerical data](https://developers.google.com/machine-learning/crash-course) *(framing data)* |
-| 8 | Rubrik project capstone | → referensi: [09_Rubrik_Project.md](../../../../09-rubrik/09_Rubrik_Project.md) |
+| 8 | Rubrik project capstone | → referensi: [09_Rubrik_Project.md](../../../../../09-rubrik/09_Rubrik_Project.md) |
 | 9 | Panduan CV CPLF | → [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md) |
 
 **Waktu baca minimum:** 60–90 menit (**rubrik E1–E4 penuh** + Responsible AI + UNESCO executive summary).
@@ -125,7 +125,7 @@ TEC tinggi + etika kosong = **gagal capaian XII** (CXII-C1). Modul capstone P08�
 
 ### Rubrik Etika CPLF — ringkasan guru (baca file lengkap)
 
-→ referensi: [09_Rubrik_Etika_AI.md](../../../../09-rubrik/09_Rubrik_Etika_AI.md)
+→ referensi: [09_Rubrik_Etika_AI.md](../../../../../09-rubrik/09_Rubrik_Etika_AI.md)
 
 | Dimensi | Fokus P06 | Level minimum capstone |
 |---------|-----------|------------------------|
@@ -224,7 +224,7 @@ Chain dari **P05** + spiral S6.
 | **No template jawaban etika** | Struktur 8 poin — siswa isi masalah **capstone mereka** |
 | **QR vs wajah — diskusi** | Facilitate — hormati sensitivitas MA |
 | **No copas ChatGPT etika** | Guru cek parafrase — dimensi E2 rubrik |
-| **Rubrik visible** | Proyeksikan/link [09_Rubrik_Etika_AI.md](../../../../09-rubrik/09_Rubrik_Etika_AI.md) — jelaskan E1–E4 |
+| **Rubrik visible** | Proyeksikan/link [09_Rubrik_Etika_AI.md](../../../../../09-rubrik/09_Rubrik_Etika_AI.md) — jelaskan E1–E4 |
 | **Wali/piket opsional** | 15 menit — legitimasi kebijakan sekolah |
 
 ---
@@ -254,7 +254,7 @@ Sticky: manfaat AI di MA (1) + risiko (1). Cluster di papan — tidak dinilai be
 
 **Counter:** Baca gate rubrik — E1=1 project dikembalikan. Akurasi tanpa etika = **tidak lulus CPLF XII**.
 
-→ referensi: [09_Rubrik_Etika_AI.md](../../../../09-rubrik/09_Rubrik_Etika_AI.md) — Gate Kelulusan Etika
+→ referensi: [09_Rubrik_Etika_AI.md](../../../../../09-rubrik/09_Rubrik_Etika_AI.md) — Gate Kelulusan Etika
 
 ### Concept E1–E4 (menit 40–50)
 
@@ -371,7 +371,7 @@ Presentasi: "Model kami 100% akurat, tidak perlu demo gagal."
 | Etika diisi ChatGPT generik | Minta spesifik ke project + data nyata |
 | "Wajah lebih keren" | QR vs wajah matrix — E2 |
 | Skip alternatif lebih aman | Poin 8 template wajib |
-| Guru tidak baca rubrik | Gate P08 gagal — baca [rubrik](../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
+| Guru tidak baca rubrik | Gate P08 gagal — baca [rubrik](../../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
 | Menakuti tanpa solusi | Pair dengan mitigasi P02/P05 |
 | Etika = 1 kalimat | 1 halaman minimum |
 
@@ -379,7 +379,7 @@ Presentasi: "Model kami 100% akurat, tidak perlu demo gagal."
 
 ## Checklist Exit Guru
 
-- [ ] [09_Rubrik_Etika_AI.md](../../../../09-rubrik/09_Rubrik_Etika_AI.md) dibaca & dijelaskan E1–E4
+- [ ] [09_Rubrik_Etika_AI.md](../../../../../09-rubrik/09_Rubrik_Etika_AI.md) dibaca & dijelaskan E1–E4
 - [ ] Studi kasus QR vs wajah difasilitasi — sensitif MA
 - [ ] Template etika 8 poin terkumpul (draft capstone)
 - [ ] Exit: 1 keputusan etis per siswa/tim
@@ -392,9 +392,9 @@ Presentasi: "Model kami 100% akurat, tidak perlu demo gagal."
 
 ## Rujukan modul
 
-- Modul: [XII-S6-P06](../../../kelas-xii/semester-6/XII-S6-P06_etika-privasi-bias.md)
-- **Rubrik:** [09_Rubrik_Etika_AI.md](../../../../09-rubrik/09_Rubrik_Etika_AI.md)
-- Rubrik project: [09_Rubrik_Project.md](../../../../09-rubrik/09_Rubrik_Project.md)
+- Modul: [XII-S6-P06](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P06_etika-privasi-bias.md)
+- **Rubrik:** [09_Rubrik_Etika_AI.md](../../../../../09-rubrik/09_Rubrik_Etika_AI.md)
+- Rubrik project: [09_Rubrik_Project.md](../../../../../09-rubrik/09_Rubrik_Project.md)
 - Sebelumnya: [P05](./XII-S6-P05_ai-fitur-web.md)
 - Lanjutan: [P07 AI Partner](./XII-S6-P07_ai-partner-klarifikasi.md) · [P08 Kickoff](./XII-S6-P08_project-nilai-kickoff.md)
 - Panduan: [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md)
@@ -417,7 +417,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -428,6 +428,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** Etika QR/wajah, bias, consent — gate capstone.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

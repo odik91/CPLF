@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [XI-S3-P10_pemisahan-tanggung-jawab_siswa.md](./XI-S3-P10_pemisahan-tanggung-jawab_siswa.md)
 
-**Modul:** [XI-S3-P10_pemisahan-tanggung-jawab.md](../../../kelas-xi/semester-3/XI-S3-P10_pemisahan-tanggung-jawab.md)
+**Modul:** [XI-S3-P10_pemisahan-tanggung-jawab.md](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P10_pemisahan-tanggung-jawab.md)
 
-**Materi pendukung sumber:** [XI-S3-P10_pemisahan-tanggung-jawab.md](../../../materi-pendukung/kelas-xi/semester-3/XI-S3-P10_pemisahan-tanggung-jawab.md)
+**Materi pendukung sumber:** [XI-S3-P10_pemisahan-tanggung-jawab.md](../../../../materi-pendukung/base-2jp/kelas-xi/semester-3/XI-S3-P10_pemisahan-tanggung-jawab.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -76,7 +76,7 @@ Standar minimum sebelum project S3 kickoff.
 | Field | Isi |
 |-------|-----|
 | Kode | XI-S3-P10 |
-| Modul pertemuan | [XI-S3-P10_pemisahan-tanggung-jawab.md](../../../kelas-xi/semester-3/XI-S3-P10_pemisahan-tanggung-jawab.md) |
+| Modul pertemuan | [XI-S3-P10_pemisahan-tanggung-jawab.md](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P10_pemisahan-tanggung-jawab.md) |
 | Unit | XI3.5 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CXI-T3 |
@@ -360,11 +360,11 @@ refs.btnAdd.addEventListener("click", function () {
 
 ## Rujukan
 
-- Modul: [XI-S3-P10](../../../kelas-xi/semester-3/XI-S3-P10_pemisahan-tanggung-jawab.md)
+- Modul: [XI-S3-P10](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P10_pemisahan-tanggung-jawab.md)
 - Prasyarat: [P09 Refactor Modul](./XI-S3-P09_refactor-modul.md)
 - Kickoff: [P12 Project S3](./XI-S3-P12_project-s3-kickoff.md)
 - PRJ pattern: [PRJ-XI-S3-02 Peminjaman](../../../08-project/PRJ_XI_S3_02_Peminjaman_Barang.md) (modul terpisah)
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 
@@ -387,7 +387,7 @@ refs.btnAdd.addEventListener("click", function () {
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -398,6 +398,6 @@ refs.btnAdd.addEventListener("click", function () {
 
 **Kait di kelas hari ini:** Desain untuk pengguna lain — teliti sebelum rilis.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

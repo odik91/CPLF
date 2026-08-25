@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [XI-S4-P13_project-s4-kickoff_siswa.md](./XI-S4-P13_project-s4-kickoff_siswa.md)
 
-**Modul:** [XI-S4-P13_project-s4-kickoff.md](../../../kelas-xi/semester-4/XI-S4-P13_project-s4-kickoff.md)
+**Modul:** [XI-S4-P13_project-s4-kickoff.md](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P13_project-s4-kickoff.md)
 
-**Materi pendukung sumber:** [XI-S4-P13_project-s4-kickoff.md](../../../materi-pendukung/kelas-xi/semester-4/XI-S4-P13_project-s4-kickoff.md)
+**Materi pendukung sumber:** [XI-S4-P13_project-s4-kickoff.md](../../../../materi-pendukung/base-2jp/kelas-xi/semester-4/XI-S4-P13_project-s4-kickoff.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -72,7 +72,7 @@ PRJ-04 Portal wajib multi-kontributor; lainnya fleksibel.
 | Field | Isi |
 |-------|-----|
 | Kode | XI-S4-P13 |
-| Modul pertemuan | [XI-S4-P13_project-s4-kickoff.md](../../../kelas-xi/semester-4/XI-S4-P13_project-s4-kickoff.md) |
+| Modul pertemuan | [XI-S4-P13_project-s4-kickoff.md](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P13_project-s4-kickoff.md) |
 | Unit | XI4.7 |
 | Durasi referensi | 2 JP = 90 menit |
 | PRJ | [PRJ-XI-S4-01 … 04](../../../08-project/08_Project_Bank_Index.md#kelas-xi--semester-4-data-async-kolaborasi) |
@@ -91,7 +91,7 @@ PRJ-04 Portal wajib multi-kontributor; lainnya fleksibel.
   - **PRJ-XI-S4-04** — Portal Pengumuman Kelas — **wajib tim 3–4**, modul terpisah + review/merge
 - **DoD:** lihat file PRJ masing-masing — guru paham checklist, **bukan** solusi kode.
 - **Deliverable kickoff:** repo bersama + RACI + ER/API plan + acceptance + issue/task per anggota + branch awal — **bukan** app jadi.
-- **Rubrik:** [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md) — kolaborasi + reasoning + demo P17.
+- **Rubrik:** [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md) — kolaborasi + reasoning + demo P17.
 - **Wajib S4:** integrasi API **atau** persistensi · Git branch · min 2 kontributor (PRJ-04 wajib multi-kontributor) · atribusi README · amanah data teman.
 - **Varian rotasi:** A/B/C per PRJ — antar kelas paralel beda varian.
 - **Mode:** tim 2–3 (kecuali sekolah wajib solo + peer reviewer eksternal — dokumentasikan kebijakan).
@@ -346,16 +346,16 @@ async function loadData() {
 
 ## Rujukan
 
-- Modul: [XI-S4-P13](../../../kelas-xi/semester-4/XI-S4-P13_project-s4-kickoff.md)
+- Modul: [XI-S4-P13](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P13_project-s4-kickoff.md)
 - PRJ-01: [Dashboard API](../../../08-project/PRJ_XI_S4_01_Dashboard_API.md)
 - PRJ-02: [Absensi Persistent](../../../08-project/PRJ_XI_S4_02_Absensi_Persistent.md)
 - PRJ-03: [Inventaris Perpus](../../../08-project/PRJ_XI_S4_03_Inventaris_Perpus.md)
 - PRJ-04: [Portal Pengumuman](../../../08-project/PRJ_XI_S4_04_Portal_Pengumuman.md)
-- Rubrik: [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md)
-- Git branch: [P12 Branch Kolaborasi](../../../kelas-xi/semester-4/XI-S4-P12_branch-kolaborasi.md)
-- Error/loading: [P08 Persistensi](../../../kelas-xi/semester-4/XI-S4-P08_persistensi-error-state.md)
-- ER: [P10 Skema ER](../../../kelas-xi/semester-4/XI-S4-P10_skema-er-mini.md)
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Rubrik: [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md)
+- Git branch: [P12 Branch Kolaborasi](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P12_branch-kolaborasi.md)
+- Error/loading: [P08 Persistensi](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P08_persistensi-error-state.md)
+- ER: [P10 Skema ER](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P10_skema-er-mini.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 
@@ -380,7 +380,7 @@ async function loadData() {
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -391,6 +391,6 @@ async function loadData() {
 
 **Kait di kelas hari ini:** Data & Git = amanah dan integritas.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

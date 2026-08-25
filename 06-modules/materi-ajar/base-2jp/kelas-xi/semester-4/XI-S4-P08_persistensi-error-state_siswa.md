@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [XI-S4-P08_persistensi-error-state.md](../../../kelas-xi/semester-4/XI-S4-P08_persistensi-error-state.md)
+**Modul acuan:** [XI-S4-P08_persistensi-error-state.md](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P08_persistensi-error-state.md)
 
 ---
 
@@ -200,7 +200,7 @@ setTimeout(function () {
 
 **Kait di kelas hari ini:** Data kelompok disimpan = amanah — backup & consent.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 
 ---

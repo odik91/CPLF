@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [XII-S5-P17_review-spiral-s5.md](../../../kelas-xii/semester-5/XII-S5-P17_review-spiral-s5.md)
+**Modul acuan:** [XII-S5-P17_review-spiral-s5.md](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P17_review-spiral-s5.md)
 
 ---
 
@@ -95,7 +95,7 @@ Sama: data · batasan · demo gagal · tidak overclaim
 Bedaa: input piksel · risiko privasi lebih tinggi
 ```
 
-Preview etika S6: wajah, consent, QR vs biometrik — link [09_Rubrik_Etika_AI E2](../../../../09-rubrik/09_Rubrik_Etika_AI.md).
+Preview etika S6: wajah, consent, QR vs biometrik — link [09_Rubrik_Etika_AI E2](../../../../../09-rubrik/09_Rubrik_Etika_AI.md).
 
 ---
 
@@ -152,7 +152,7 @@ acc: 1.0 (8 samples)
 
 **Kait di kelas hari ini:** Review/spiral — renungkan apa yang sudah dikuasai.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 
 ---

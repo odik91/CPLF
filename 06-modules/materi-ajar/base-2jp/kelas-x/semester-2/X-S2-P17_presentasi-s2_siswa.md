@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [X-S2-P17_presentasi-s2.md](../../../kelas-x/semester-2/X-S2-P17_presentasi-s2.md)
+**Modul acuan:** [X-S2-P17_presentasi-s2.md](../../../../base-2jp/kelas-x/semester-2/X-S2-P17_presentasi-s2.md)
 
 ---
 
@@ -41,7 +41,7 @@ _Lihat modul pertemuan._
 Jelaskan ke siswa — **bukan** angka:
 
 - Dinilai: clarity masalah, demo DoD, **reasoning** desain, iterasi, respons Q&A
-- Rubrik lengkap: [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md) — guru saja
+- Rubrik lengkap: [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md) — guru saja
 
 ### Presentasi bergiliran (5–60 menit)
 
@@ -130,7 +130,7 @@ document.getElementById("btn").addEventListener("click", () => {
 
 **Kait di kelas hari ini:** Review/spiral — renungkan apa yang sudah dikuasai.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 
 ---

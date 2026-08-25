@@ -7,7 +7,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | X-S1-P16 |
-| Modul pertemuan | [X-S1-P16_project-s1-build-1](../../../kelas-x/semester-1/X-S1-P16_project-s1-build-1.md) |
+| Modul pertemuan | [X-S1-P16_project-s1-build-1](../../../../base-2jp/kelas-x/semester-1/X-S1-P16_project-s1-build-1.md) |
 | Unit | X1.8 |
 | Durasi referensi | 2 JP = 90 menit |
 | PRJ | Lanjut PRJ-X-S1-* (pilihan P15) |
@@ -187,11 +187,11 @@ for (let i = 0; i <= antre.length; i++) {
 
 ## 9. Rujukan
 
-- Modul pertemuan: [X-S1-P16](../../../kelas-x/semester-1/X-S1-P16_project-s1-build-1.md)
+- Modul pertemuan: [X-S1-P16](../../../../base-2jp/kelas-x/semester-1/X-S1-P16_project-s1-build-1.md)
 - Panduan project: [00_Panduan_Pertemuan Kelas X](../../../kelas-x/00_Panduan_Pertemuan.md)
 - Debug protokol: [P13 materi pendukung](./X-S1-P13_error-debugging.md)
 - Rubrik: [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md)
-- Etika: [00_Panduan_Etika_Penyampaian](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian](../../../00_Panduan_Etika_Penyampaian.md)
 
 ---
 

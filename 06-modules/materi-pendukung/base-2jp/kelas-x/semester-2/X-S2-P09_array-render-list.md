@@ -9,7 +9,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | X-S2-P09 |
-| Modul pertemuan | [X-S2-P09_array-render-list.md](../../../kelas-x/semester-2/X-S2-P09_array-render-list.md) |
+| Modul pertemuan | [X-S2-P09_array-render-list.md](../../../../base-2jp/kelas-x/semester-2/X-S2-P09_array-render-list.md) |
 | Unit | X2.5 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CX-T3 |
@@ -275,11 +275,11 @@ for (let i = 0; i < items.length; i++) {
 
 ## Rujukan
 
-- Modul: [X-S2-P09](../../../kelas-x/semester-2/X-S2-P09_array-render-list.md)
+- Modul: [X-S2-P09](../../../../base-2jp/kelas-x/semester-2/X-S2-P09_array-render-list.md)
 - Recall S1: [P11 Kasir Loop](../semester-1/X-S1-P11_kasir-loop.md)
 - Sebelum: [P08 Validasi JS](./X-S2-P08_validasi-js-pesan.md)
 - Lanjut: [P10 Object CRUD](./X-S2-P10_object-state-crud.md)
-- MM-07 · Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- MM-07 · Etika: [00_Panduan_Etika_Penyampaian.md](../../../00_Panduan_Etika_Penyampaian.md)
 
 ---
 

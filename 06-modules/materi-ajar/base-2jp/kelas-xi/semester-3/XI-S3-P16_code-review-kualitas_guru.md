@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [XI-S3-P16_code-review-kualitas_siswa.md](./XI-S3-P16_code-review-kualitas_siswa.md)
 
-**Modul:** [XI-S3-P16_code-review-kualitas.md](../../../kelas-xi/semester-3/XI-S3-P16_code-review-kualitas.md)
+**Modul:** [XI-S3-P16_code-review-kualitas.md](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P16_code-review-kualitas.md)
 
-**Materi pendukung sumber:** [XI-S3-P16_code-review-kualitas.md](../../../materi-pendukung/kelas-xi/semester-3/XI-S3-P16_code-review-kualitas.md)
+**Materi pendukung sumber:** [XI-S3-P16_code-review-kualitas.md](../../../../materi-pendukung/base-2jp/kelas-xi/semester-3/XI-S3-P16_code-review-kualitas.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -32,7 +32,7 @@ Dari “yang penting jalan” → **kualitas** terbaca & maintainable.
 | 5–15 | Experience | Baca 2 snippet — mana yang kamu mau maintain? |
 | 15–25 | Concept | Rubrik review: nama · struktur · edge case · bukan gaya pribadi |
 | 25–35 | Clarify | Sandikan feedback (situasi–perilaku–dampak) |
-| 35–60 | Practice | Review project teman pakai [Rubrik Peer Review](../../../09-rubrik/09_Rubrik_Peer_Review.md) |
+| 35–60 | Practice | Review project teman pakai [Rubrik Peer Review](../../../../../09-rubrik/09_Rubrik_Peer_Review.md) |
 | 60–75 | Build | Implement 1 feedback wajib |
 | 75–90 | Reflect | Apa yang kamu ubah & why |
 
@@ -69,11 +69,11 @@ Nilai MA: santun · amanah · tidak menjatuhkan.
 | Field | Isi |
 |-------|-----|
 | Kode | XI-S3-P16 |
-| Modul pertemuan | [XI-S3-P16_code-review-kualitas](../../../kelas-xi/semester-3/XI-S3-P16_code-review-kualitas.md) |
+| Modul pertemuan | [XI-S3-P16_code-review-kualitas](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P16_code-review-kualitas.md) |
 | Unit | XI3.8 |
 | Durasi referensi | 2 JP = 90 menit |
 | PRJ | Lanjut PRJ-XI-S3-* |
-| Rubrik | [09_Rubrik_Peer_Review](../../../09-rubrik/09_Rubrik_Peer_Review.md) |
+| Rubrik | [09_Rubrik_Peer_Review](../../../../../09-rubrik/09_Rubrik_Peer_Review.md) |
 | Capability | COM, ITR (CXI-C1) |
 | Ada live code? | **Peer review protocol + baca kode — bukan solusi guru** |
 
@@ -84,7 +84,7 @@ Nilai MA: santun · amanah · tidak menjatuhkan.
 - **Transformasi hari ini:** dari "yang penting jalan" → **kualitas** terbaca & maintainable.
 - **Cognitive trap (modul):** asumsi review = cari salah / menghina → counter dengan model 1 komentar konstruktif guru.
 - **Timeline:** trap opening → baca 2 snippet → rubrik review → SPD feedback → practice review teman → implement 1 feedback → reflect.
-- **Rubrik peer:** [09_Rubrik_Peer_Review](../../../09-rubrik/09_Rubrik_Peer_Review.md) — 2 pujian spesifik + 2 saran dapat ditindak + pertanyaan klarifikasi opsional.
+- **Rubrik peer:** [09_Rubrik_Peer_Review](../../../../../09-rubrik/09_Rubrik_Peer_Review.md) — 2 pujian spesifik + 2 saran dapat ditindak + pertanyaan klarifikasi opsional.
 - **SPD feedback:** **S**ituasi–**P**erilaku–**D**ampak — bukan gaya pribadi ("kodenya jelek").
 - **Review fokus:** nama · struktur modul · edge case · readability — **bukan** preferensi warna/font.
 - **Implement 1 feedback wajib** — bukti before/after (commit/screenshot).
@@ -160,7 +160,7 @@ Guru facilitate — tidak reveal "jawaban benar" dulu; siswa argument REA.
 
 ### Concept — rubrik review (15–25 menit)
 
-Jelaskan [09_Rubrik_Peer_Review](../../../09-rubrik/09_Rubrik_Peer_Review.md):
+Jelaskan [09_Rubrik_Peer_Review](../../../../../09-rubrik/09_Rubrik_Peer_Review.md):
 
 | Aspek review S3 | Contoh observasi |
 |-----------------|------------------|
@@ -195,7 +195,7 @@ Bukti: screenshot/commit before/after.
 
 ### Persiapan
 
-- Rubrik peer 1 halaman di papan + link [09_Rubrik_Peer_Review](../../../09-rubrik/09_Rubrik_Peer_Review.md).
+- Rubrik peer 1 halaman di papan + link [09_Rubrik_Peer_Review](../../../../../09-rubrik/09_Rubrik_Peer_Review.md).
 - Worksheet kosong — **bukan** contoh terisi guru.
 - 2 snippet compare (maintainable vs spaghetti) — generic, bukan PRJ siswa.
 - Volunteer artefak untuk **model review** (izin siswa).
@@ -303,13 +303,13 @@ export function setStatus(id, status) {
 
 ## 9. Rujukan
 
-- Modul pertemuan: [XI-S3-P16](../../../kelas-xi/semester-3/XI-S3-P16_code-review-kualitas.md)
-- Rubrik peer: [09_Rubrik_Peer_Review](../../../09-rubrik/09_Rubrik_Peer_Review.md)
+- Modul pertemuan: [XI-S3-P16](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P16_code-review-kualitas.md)
+- Rubrik peer: [09_Rubrik_Peer_Review](../../../../../09-rubrik/09_Rubrik_Peer_Review.md)
 - Demo & feedback: [P15 materi pendukung](./XI-S3-P15_project-s3-demo-peer.md)
 - Review spiral next: [P17 materi pendukung](./XI-S3-P17_review-spiral-s3.md)
-- Pemisahan tanggung jawab: [XI-S3-P10](../../../kelas-xi/semester-3/XI-S3-P10_pemisahan-tanggung-jawab.md)
-- Rubrik project: [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md)
-- Etika: [00_Panduan_Etika_Penyampaian](../../00_Panduan_Etika_Penyampaian.md)
+- Pemisahan tanggung jawab: [XI-S3-P10](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P10_pemisahan-tanggung-jawab.md)
+- Rubrik project: [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md)
+- Etika: [00_Panduan_Etika_Penyampaian](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 
@@ -333,7 +333,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -344,6 +344,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** Peer review santun — bantu saudara, jangan mengejek.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

@@ -34,7 +34,7 @@ Dari project selesai → **bukti capability** + refleksi growth.
 
 ## Formatif / Sumatif
 
-[Rubrik Project](../../../09-rubrik/09_Rubrik_Project.md) — REA, ITR, COM, TEC
+[Rubrik Project](../../../../09-rubrik/09_Rubrik_Project.md) — REA, ITR, COM, TEC
 
 ---
 

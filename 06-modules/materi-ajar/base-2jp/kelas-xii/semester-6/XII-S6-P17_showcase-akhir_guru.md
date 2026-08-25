@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [XII-S6-P17_showcase-akhir_siswa.md](./XII-S6-P17_showcase-akhir_siswa.md)
 
-**Modul:** [XII-S6-P17_showcase-akhir.md](../../../kelas-xii/semester-6/XII-S6-P17_showcase-akhir.md)
+**Modul:** [XII-S6-P17_showcase-akhir.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P17_showcase-akhir.md)
 
-**Materi pendukung sumber:** [XII-S6-P17_showcase-akhir.md](../../../materi-pendukung/kelas-xii/semester-6/XII-S6-P17_showcase-akhir.md)
+**Materi pendukung sumber:** [XII-S6-P17_showcase-akhir.md](../../../../materi-pendukung/base-2jp/kelas-xii/semester-6/XII-S6-P17_showcase-akhir.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -63,7 +63,7 @@ Koordinasi dengan kepala sekolah · dokumentasi foto untuk arsip MA.
 **Version:** 0.1 · **Audiens:** Guru MA — **RAHASIA GURU** (jangan dibagikan ke siswa)
 
 > **Panduan wajib:** [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md)  
-> **Rubrik:** [09_Rubrik_Project](../../../../09-rubrik/09_Rubrik_Project.md) · [09_Rubrik_Etika_AI](../../../../09-rubrik/09_Rubrik_Etika_AI.md)
+> **Rubrik:** [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md) · [09_Rubrik_Etika_AI](../../../../../09-rubrik/09_Rubrik_Etika_AI.md)
 
 ---
 
@@ -72,7 +72,7 @@ Koordinasi dengan kepala sekolah · dokumentasi foto untuk arsip MA.
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S6-P17 |
-| Modul pertemuan | [XII-S6-P17_showcase-akhir.md](../../../kelas-xii/semester-6/XII-S6-P17_showcase-akhir.md) |
+| Modul pertemuan | [XII-S6-P17_showcase-akhir.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P17_showcase-akhir.md) |
 | Semester | 6 · Pertemuan 17/18 |
 | Unit | XII6.8 |
 | Durasi referensi | 2 JP = 90 menit |
@@ -87,9 +87,9 @@ Koordinasi dengan kepala sekolah · dokumentasi foto untuk arsip MA.
 
 | # | Topik | Link |
 |---|-------|------|
-| 1 | **Wajib** — Rubrik project | → [09_Rubrik_Project](../../../../09-rubrik/09_Rubrik_Project.md) |
-| 2 | **Wajib** — Rubrik etika (observasi booth) | → [09_Rubrik_Etika_AI](../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
-| 3 | Progress Card (penghargaan capability) | → [09_Progress_Card](../../../../09-rubrik/09_Progress_Card.md) |
+| 1 | **Wajib** — Rubrik project | → [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md) |
+| 2 | **Wajib** — Rubrik etika (observasi booth) | → [09_Rubrik_Etika_AI](../../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
+| 3 | Progress Card (penghargaan capability) | → [09_Progress_Card](../../../../../09-rubrik/09_Progress_Card.md) |
 | 4 | Google Responsible AI (poster etika) | → [Google AI — Responsible AI Practices](https://ai.google/responsibility/responsible-ai-practices/) |
 | 5 | UNESCO AI ethics | → [UNESCO AI Ethics Recommendation](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics) |
 | 6 | MDN — Permissions Policy (privasi demo) | → [MDN — Permissions Policy](https://developer.mozilla.org/en-US/docs/Web/HTTP/Permissions_Policy) |
@@ -307,11 +307,11 @@ Pengunjung (kelas X–XI):
 
 ## Rujukan
 
-- Modul: [XII-S6-P17](../../../kelas-xii/semester-6/XII-S6-P17_showcase-akhir.md)
+- Modul: [XII-S6-P17](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P17_showcase-akhir.md)
 - Sebelumnya: [P16 Portofolio 3 Tahun](./XII-S6-P16_portofolio-3-tahun.md)
 - Lanjutan: [P18 Refleksi Lulusan](./XII-S6-P18_refleksi-lulusan.md)
-- Rubrik: [09_Rubrik_Project](../../../../09-rubrik/09_Rubrik_Project.md) · [09_Rubrik_Etika_AI](../../../../09-rubrik/09_Rubrik_Etika_AI.md)
-- Progress Card: [09_Progress_Card](../../../../09-rubrik/09_Progress_Card.md)
+- Rubrik: [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md) · [09_Rubrik_Etika_AI](../../../../../09-rubrik/09_Rubrik_Etika_AI.md)
+- Progress Card: [09_Progress_Card](../../../../../09-rubrik/09_Progress_Card.md)
 
 ---
 
@@ -335,7 +335,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -346,6 +346,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** Showcase = accountability ke komunitas MA.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

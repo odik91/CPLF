@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [X-S2-P12_project-s2-kickoff.md](../../../kelas-x/semester-2/X-S2-P12_project-s2-kickoff.md)
+**Modul acuan:** [X-S2-P12_project-s2-kickoff.md](../../../../base-2jp/kelas-x/semester-2/X-S2-P12_project-s2-kickoff.md)
 
 ---
 
@@ -20,7 +20,7 @@ _Lihat modul pertemuan._
   - **PRJ-X-S2-04** — Profil Ekstrakurikuler
 - **DoD:** lihat file PRJ masing-masing — guru paham checklist, **bukan** solusi kode.
 - **Deliverable kickoff:** spec + acceptance + wireframe + struktur folder — **bukan** project jadi.
-- **Rubrik:** [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md) — penekanan COM/reasoning + demo **mengapa** desain (3 menit nanti P17).
+- **Rubrik:** [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md) — penekanan COM/reasoning + demo **mengapa** desain (3 menit nanti P17).
 - **Wajib S2:** HTML+CSS+JS terintegrasi · minimal 1 iterasi peer (P15).
 - **Varian rotasi:** kelas paralel beda PRJ/varian — anti copy antar kelas.
 
@@ -128,7 +128,7 @@ Spesifikasi numerik PRJ-01 (zakat UI) — baca **spec**, bukan kode:
 
 **Kait di kelas hari ini:** Web & kolaborasi — manfaatkan untuk sesama.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 
 ---

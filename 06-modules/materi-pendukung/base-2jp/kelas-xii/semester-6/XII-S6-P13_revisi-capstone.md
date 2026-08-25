@@ -2,8 +2,8 @@
 
 **Version:** 0.1 · **Audiens:** Guru MA — **RAHASIA GURU** (jangan dibagikan ke siswa)
 
-> **Panduan wajib:** [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md)  
-> **Rubrik:** [09_Rubrik_Project](../../../../09-rubrik/09_Rubrik_Project.md) · [09_Rubrik_Etika_AI](../../../../09-rubrik/09_Rubrik_Etika_AI.md)
+> **Panduan wajib:** [00_Panduan_Guru_CV_Etika.md](../../../00_Panduan_Guru_CV_Etika.md)  
+> **Rubrik:** [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md) · [09_Rubrik_Etika_AI](../../../../../09-rubrik/09_Rubrik_Etika_AI.md)
 
 ---
 
@@ -12,7 +12,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S6-P13 |
-| Modul pertemuan | [XII-S6-P13_revisi-capstone.md](../../../kelas-xii/semester-6/XII-S6-P13_revisi-capstone.md) |
+| Modul pertemuan | [XII-S6-P13_revisi-capstone.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P13_revisi-capstone.md) |
 | Semester | 6 · Pertemuan 13/18 |
 | Unit | XII6.6 |
 | Durasi referensi | 2 JP = 90 menit |
@@ -27,14 +27,14 @@
 
 | # | Topik | Link |
 |---|-------|------|
-| 1 | **Wajib** — Rubrik project (iterasi ITR) | → [09_Rubrik_Project](../../../../09-rubrik/09_Rubrik_Project.md) |
-| 2 | **Wajib** — Rubrik etika E1–E4 | → [09_Rubrik_Etika_AI](../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
-| 3 | **Wajib** — Rubrik peer review (sumber feedback P12) | → [09_Rubrik_Peer_Review](../../../../09-rubrik/09_Rubrik_Peer_Review.md) |
-| 4 | Enam aspek CPLF | → [09_Rubrik_Enam_Aspek](../../../../09-rubrik/09_Rubrik_Enam_Aspek.md) |
+| 1 | **Wajib** — Rubrik project (iterasi ITR) | → [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md) |
+| 2 | **Wajib** — Rubrik etika E1–E4 | → [09_Rubrik_Etika_AI](../../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
+| 3 | **Wajib** — Rubrik peer review (sumber feedback P12) | → [09_Rubrik_Peer_Review](../../../../../09-rubrik/09_Rubrik_Peer_Review.md) |
+| 4 | Enam aspek CPLF | → [09_Rubrik_Enam_Aspek](../../../../../09-rubrik/09_Rubrik_Enam_Aspek.md) |
 | 5 | Acceptance criteria / DoD | → [Google SRE — Blameless postmortem culture](https://sre.google/sre-book/postmortem-culture/) *(kultur iterasi tanpa malu)* |
 | 6 | Model cards (inspirasi batasan) | → [Model Cards — Google](https://modelcards.withgoogle.com/about) |
 | 7 | Teachable Machine export | → [TM — Export TensorFlow.js](https://github.com/googlecreativelab/teachablemachine-community/tree/master/libraries/image) |
-| 8 | Panduan CV & etika CPLF | → [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md) |
+| 8 | Panduan CV & etika CPLF | → [00_Panduan_Guru_CV_Etika.md](../../../00_Panduan_Guru_CV_Etika.md) |
 
 ---
 
@@ -149,7 +149,7 @@ Revisi P13 — [Nama tim]
 - [ ] Kumpulkan lembar reviewer P12 — guru scan finding etika per tim
 - [ ] Template changelog 3 baris di papan
 - [ ] Timer rehearsal 3 menit per tim
-- [ ] Baca: [09_Rubrik_Project](../../../../09-rubrik/09_Rubrik_Project.md) · [09_Rubrik_Etika_AI](../../../../09-rubrik/09_Rubrik_Etika_AI.md)
+- [ ] Baca: [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md) · [09_Rubrik_Etika_AI](../../../../../09-rubrik/09_Rubrik_Etika_AI.md)
 - [ ] Cek Git/contributions — flag tim dengan 0-commit member
 
 ### Skrip fasilitator (90 menit — selaras modul)
@@ -214,7 +214,7 @@ Reviewer: "Consent?"
 |--------------------|--------------|
 | Boleh presentasi P14? | **Tidak** — gate etika E2 belum closed |
 | Revisi minimum? | Notice consent + rencana hapus data / alternatif QR |
-| Rubrik terkait? | [09_Rubrik_Etika_AI](../../../../09-rubrik/09_Rubrik_Etika_AI.md) E2 ≥ 2 |
+| Rubrik terkait? | [09_Rubrik_Etika_AI](../../../../../09-rubrik/09_Rubrik_Etika_AI.md) E2 ≥ 2 |
 
 ---
 
@@ -251,11 +251,11 @@ Tim **mengetik versi sendiri** — arahkan:
 
 ## Rujukan
 
-- Modul: [XII-S6-P13](../../../kelas-xii/semester-6/XII-S6-P13_revisi-capstone.md)
-- Sebelumnya: [P12 Peer Review & Etika](./XII-S6-P12_peer-review-etika.md) *(jika ada)* · modul [P12](../../../kelas-xii/semester-6/XII-S6-P12_peer-review-etika.md)
+- Modul: [XII-S6-P13](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P13_revisi-capstone.md)
+- Sebelumnya: [P12 Peer Review & Etika](./XII-S6-P12_peer-review-etika.md) *(jika ada)* · modul [P12](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P12_peer-review-etika.md)
 - Lanjutan: [P14 Presentasi Nilai](./XII-S6-P14_presentasi-nilai.md)
-- Rubrik: [09_Rubrik_Project](../../../../09-rubrik/09_Rubrik_Project.md) · [09_Rubrik_Etika_AI](../../../../09-rubrik/09_Rubrik_Etika_AI.md)
-- Panduan: [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md)
+- Rubrik: [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md) · [09_Rubrik_Etika_AI](../../../../../09-rubrik/09_Rubrik_Etika_AI.md)
+- Panduan: [00_Panduan_Guru_CV_Etika.md](../../../00_Panduan_Guru_CV_Etika.md)
 
 ---
 

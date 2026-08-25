@@ -21,7 +21,7 @@ Dari “yang penting jalan” → **kualitas** terbaca & maintainable.
 | 5–15 | Experience | Baca 2 snippet — mana yang kamu mau maintain? |
 | 15–25 | Concept | Rubrik review: nama · struktur · edge case · bukan gaya pribadi |
 | 25–35 | Clarify | Sandikan feedback (situasi–perilaku–dampak) |
-| 35–60 | Practice | Review project teman pakai [Rubrik Peer Review](../../../09-rubrik/09_Rubrik_Peer_Review.md) |
+| 35–60 | Practice | Review project teman pakai [Rubrik Peer Review](../../../../09-rubrik/09_Rubrik_Peer_Review.md) |
 | 60–75 | Build | Implement 1 feedback wajib |
 | 75–90 | Reflect | Apa yang kamu ubah & why |
 

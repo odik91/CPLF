@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [XI-S3-P18_showcase-refleksi-s3_siswa.md](./XI-S3-P18_showcase-refleksi-s3_siswa.md)
 
-**Modul:** [XI-S3-P18_showcase-refleksi-s3.md](../../../kelas-xi/semester-3/XI-S3-P18_showcase-refleksi-s3.md)
+**Modul:** [XI-S3-P18_showcase-refleksi-s3.md](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P18_showcase-refleksi-s3.md)
 
-**Materi pendukung sumber:** [XI-S3-P18_showcase-refleksi-s3.md](../../../materi-pendukung/kelas-xi/semester-3/XI-S3-P18_showcase-refleksi-s3.md)
+**Materi pendukung sumber:** [XI-S3-P18_showcase-refleksi-s3.md](../../../../materi-pendukung/base-2jp/kelas-xi/semester-3/XI-S3-P18_showcase-refleksi-s3.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -45,7 +45,7 @@ Dari project selesai → **bukti capability** + refleksi growth.
 
 ## Formatif / Sumatif
 
-[Rubrik Project](../../../09-rubrik/09_Rubrik_Project.md) — REA, ITR, COM, TEC
+[Rubrik Project](../../../../../09-rubrik/09_Rubrik_Project.md) — REA, ITR, COM, TEC
 
 ---
 
@@ -67,10 +67,10 @@ Undang wali/OSIS opsional. Simpan link artefak untuk portofolio S4 P18.
 | Field | Isi |
 |-------|-----|
 | Kode | XI-S3-P18 |
-| Modul pertemuan | [XI-S3-P18_showcase-refleksi-s3](../../../kelas-xi/semester-3/XI-S3-P18_showcase-refleksi-s3.md) |
+| Modul pertemuan | [XI-S3-P18_showcase-refleksi-s3](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P18_showcase-refleksi-s3.md) |
 | Unit | XI3.8 |
 | Durasi referensi | 2 JP = 90 menit |
-| Rubrik | [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md) |
+| Rubrik | [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md) |
 | Capability | COM, REA, ITR, TEC |
 | Ada live code? | **Showcase & presentation coaching — bukan coding** |
 
@@ -94,7 +94,7 @@ Undang wali/OSIS opsional. Simpan link artefak untuk portofolio S4 P18.
 | 2–4 | Demo DoD — live browser |
 | 4–5 | Iterasi (before/after) + transfer S4 |
 
-- **Rubrik:** [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md) — REA, ITR, COM, TEC — guru isi, **bukan** ranking di depan kelas.
+- **Rubrik:** [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md) — REA, ITR, COM, TEC — guru isi, **bukan** ranking di depan kelas.
 - **Peer Q&A:** 2 pertanyaan bernalar + 1 apresiasi spesifik — bukan roast.
 - **Jurnal refleksi:** dari Kelas X ke XI S3 — **3 perubahan cara berpikir** (bukan daftar fitur).
 - **Undang wali/OSIS opsional** — simpan link artefak untuk portofolio S4 P18 (modul).
@@ -156,7 +156,7 @@ Undang wali/OSIS opsional. Simpan link artefak untuk portofolio S4 P18.
 Jelaskan ke siswa — **bukan** angka skor:
 
 - Dinilai: clarity masalah, demo DoD, **reasoning** IPO/state, iterasi peer, transfer, respons Q&A
-- Rubrik lengkap guru: [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md)
+- Rubrik lengkap guru: [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md)
 - Gate DoD: acceptance wajib ✅ sebelum skor penuh
 
 ### Showcase bergiliran (0–55 menit)
@@ -320,15 +320,15 @@ function updateItem(id, patch) {
 
 ## 9. Rujukan
 
-- Modul pertemuan: [XI-S3-P18](../../../kelas-xi/semester-3/XI-S3-P18_showcase-refleksi-s3.md)
-- Rubrik project: [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md)
-- Rubrik peer: [09_Rubrik_Peer_Review](../../../09-rubrik/09_Rubrik_Peer_Review.md)
+- Modul pertemuan: [XI-S3-P18](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P18_showcase-refleksi-s3.md)
+- Rubrik project: [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md)
+- Rubrik peer: [09_Rubrik_Peer_Review](../../../../../09-rubrik/09_Rubrik_Peer_Review.md)
 - Code review: [P16 materi pendukung](./XI-S3-P16_code-review-kualitas.md)
 - Review spiral: [P17 materi pendukung](./XI-S3-P17_review-spiral-s3.md)
 - PRJ bank: [08_Project_Bank_Index](../../../08-project/08_Project_Bank_Index.md#kelas-xi--semester-3-interaksi--struktur)
-- Indeks S3: [XI-S3_Index](../../../kelas-xi/semester-3/XI-S3_Index.md)
-- Showcase S2 (paralel): [X-S2-P17](../../kelas-x/semester-2/X-S2-P17_presentasi-s2.md)
-- Etika: [00_Panduan_Etika_Penyampaian](../../00_Panduan_Etika_Penyampaian.md)
+- Indeks S3: [XI-S3_Index](../../../../base-2jp/kelas-xi/semester-3/XI-S3_Index.md)
+- Showcase S2 (paralel): [X-S2-P17](../../../../base-2jp/kelas-x/semester-2/X-S2-P17_presentasi-s2.md)
+- Etika: [00_Panduan_Etika_Penyampaian](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 
@@ -354,7 +354,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -365,6 +365,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** Showcase/refleksi semester — syukur ilmu, bukan sombong.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

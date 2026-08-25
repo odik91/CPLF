@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [XII-S5-P07_tfjs-tensor-dasar_siswa.md](./XII-S5-P07_tfjs-tensor-dasar_siswa.md)
 
-**Modul:** [XII-S5-P07_tfjs-tensor-dasar.md](../../../kelas-xii/semester-5/XII-S5-P07_tfjs-tensor-dasar.md)
+**Modul:** [XII-S5-P07_tfjs-tensor-dasar.md](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P07_tfjs-tensor-dasar.md)
 
-**Materi pendukung sumber:** [XII-S5-P07_tfjs-tensor-dasar.md](../../../materi-pendukung/kelas-xii/semester-5/XII-S5-P07_tfjs-tensor-dasar.md)
+**Materi pendukung sumber:** [XII-S5-P07_tfjs-tensor-dasar.md](../../../../materi-pendukung/base-2jp/kelas-xii/semester-5/XII-S5-P07_tfjs-tensor-dasar.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -75,7 +75,7 @@ Live server wajib; offline: cache CDN sebelumnya.
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S5-P07 |
-| Modul pertemuan | [XII-S5-P07_tfjs-tensor-dasar.md](../../../kelas-xii/semester-5/XII-S5-P07_tfjs-tensor-dasar.md) |
+| Modul pertemuan | [XII-S5-P07_tfjs-tensor-dasar.md](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P07_tfjs-tensor-dasar.md) |
 | Unit | XII5.5 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CXII-T2 |
@@ -416,11 +416,11 @@ Siswa **mengetik versi sendiri** (bukan copy proyektor):
 
 ## Rujukan
 
-- Modul: [XII-S5-P07](../../../kelas-xii/semester-5/XII-S5-P07_tfjs-tensor-dasar.md)
+- Modul: [XII-S5-P07](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P07_tfjs-tensor-dasar.md)
 - Sebelumnya: [P06 Tensor dari Scalar](./XII-S5-P06_tensor-dari-scalar.md)
 - Lanjutan: [P08 Layer, Compile, Fit](./XII-S5-P08_layer-compile-fit.md)
 - Panduan ML: [00_Panduan_Guru_ML_TFJS.md](../../00_Panduan_Guru_ML_TFJS.md)
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 
@@ -443,7 +443,7 @@ Siswa **mengetik versi sendiri** (bukan copy proyektor):
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -454,6 +454,6 @@ Siswa **mengetik versi sendiri** (bukan copy proyektor):
 
 **Kait di kelas hari ini:** Data & model — keadilan dan dampak ke sesama.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

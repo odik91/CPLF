@@ -7,15 +7,15 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S5-P01 |
-| Modul pertemuan | [XII-S5-P01_ai-ml-dl-peta.md](../../../kelas-xii/semester-5/XII-S5-P01_ai-ml-dl-peta.md) |
+| Modul pertemuan | [XII-S5-P01_ai-ml-dl-peta.md](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P01_ai-ml-dl-peta.md) |
 | Semester | 5 · Pertemuan 1/18 |
 | Unit | XII5.1 |
 | Durasi referensi | 2 JP (90 menit) |
 | Capability | CXII-B1 |
 | CP | BK, AD |
 | MM | MM-03, MM-04 |
-| Panduan ML | [00_Panduan_Guru_ML_TFJS.md](../../00_Panduan_Guru_ML_TFJS.md) |
-| Etika global | [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md) |
+| Panduan ML | [00_Panduan_Guru_ML_TFJS.md](../../../00_Panduan_Guru_ML_TFJS.md) |
+| Etika global | [00_Panduan_Etika_Penyampaian.md](../../../00_Panduan_Etika_Penyampaian.md) |
 
 ---
 
@@ -309,6 +309,6 @@ LOOP: user klik → data baru → rekomendasi berubah
 
 ## Rujukan modul
 
-- Modul: [XII-S5-P01](../../../kelas-xii/semester-5/XII-S5-P01_ai-ml-dl-peta.md)
+- Modul: [XII-S5-P01](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P01_ai-ml-dl-peta.md)
 - Indeks S5: [XII-S5_Materi_Index](./XII-S5_Materi_Index.md)
-- Panduan: [00_Panduan_Guru_ML_TFJS.md](../../00_Panduan_Guru_ML_TFJS.md)
+- Panduan: [00_Panduan_Guru_ML_TFJS.md](../../../00_Panduan_Guru_ML_TFJS.md)

@@ -7,12 +7,12 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S5-P04 |
-| Modul pertemuan | [XII-S5-P04_vektor-jarak-kesamaan.md](../../../kelas-xii/semester-5/XII-S5-P04_vektor-jarak-kesamaan.md) |
+| Modul pertemuan | [XII-S5-P04_vektor-jarak-kesamaan.md](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P04_vektor-jarak-kesamaan.md) |
 | Semester | 5 · Pertemuan 4/18 |
 | Unit | XII5.3 |
 | Durasi referensi | 2 JP (90 menit) |
 | Capability | CXII-T1, CXII-B1 |
-| Etika global | [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md) |
+| Etika global | [00_Panduan_Etika_Penyampaian.md](../../../00_Panduan_Etika_Penyampaian.md) |
 
 ---
 
@@ -275,6 +275,6 @@ K=3 tetangga terdekat? P3, P5, P1 (0.10, 0.11, 0.12). Label P3,P5,P1 = `{A,A,B}`
 
 ## Rujukan modul
 
-- Modul: [XII-S5-P04](../../../kelas-xii/semester-5/XII-S5-P04_vektor-jarak-kesamaan.md)
+- Modul: [XII-S5-P04](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P04_vektor-jarak-kesamaan.md)
 - Sebelumnya: [XII-S5-P03](./XII-S5-P03_dataset-mini-bersih.md)
 - Berikutnya: [XII-S5-P05](./XII-S5-P05_statistik-outlier.md)

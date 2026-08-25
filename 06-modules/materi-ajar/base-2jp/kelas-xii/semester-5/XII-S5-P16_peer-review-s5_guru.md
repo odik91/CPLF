@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [XII-S5-P16_peer-review-s5_siswa.md](./XII-S5-P16_peer-review-s5_siswa.md)
 
-**Modul:** [XII-S5-P16_peer-review-s5.md](../../../kelas-xii/semester-5/XII-S5-P16_peer-review-s5.md)
+**Modul:** [XII-S5-P16_peer-review-s5.md](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P16_peer-review-s5.md)
 
-**Materi pendukung sumber:** [XII-S5-P16_peer-review-s5.md](../../../materi-pendukung/kelas-xii/semester-5/XII-S5-P16_peer-review-s5.md)
+**Materi pendukung sumber:** [XII-S5-P16_peer-review-s5.md](../../../../materi-pendukung/base-2jp/kelas-xii/semester-5/XII-S5-P16_peer-review-s5.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -22,7 +22,7 @@
 | Menit | Fase | Aktivitas |
 |-------|------|-----------|
 | 0–5 | Opening | Protokol review — fokus data & batasan |
-| 5–30 | Review | [Rubrik Peer Review](../../../09-rubrik/09_Rubrik_Peer_Review.md) |
+| 5–30 | Review | [Rubrik Peer Review](../../../../../09-rubrik/09_Rubrik_Peer_Review.md) |
 | 30–50 | Clarify | Diskusi 2 temuan kuat |
 | 50–75 | Build | 1 revisi wajib (data/model/UI/batasan) |
 | 75–90 | Exit | Changelog revisi |
@@ -42,7 +42,7 @@
 **Version:** 0.1 · **Audiens:** Guru MA — **RAHASIA GURU** (jangan dibagikan ke siswa)
 
 > **Panduan wajib:** [00_Panduan_Guru_ML_TFJS.md](../../00_Panduan_Guru_ML_TFJS.md)  
-> **Rubrik peer:** [09_Rubrik_Peer_Review](../../../../09-rubrik/09_Rubrik_Peer_Review.md)
+> **Rubrik peer:** [09_Rubrik_Peer_Review](../../../../../09-rubrik/09_Rubrik_Peer_Review.md)
 
 ---
 
@@ -51,7 +51,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S5-P16 |
-| Modul pertemuan | [XII-S5-P16_peer-review-s5.md](../../../kelas-xii/semester-5/XII-S5-P16_peer-review-s5.md) |
+| Modul pertemuan | [XII-S5-P16_peer-review-s5.md](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P16_peer-review-s5.md) |
 | Semester | 5 · Pertemuan 16/18 |
 | Unit | XII5.8 |
 | Durasi referensi | 2 JP = 90 menit |
@@ -169,7 +169,7 @@ Larangan:
 - [ ] Rotasi pasangan — hindari teman dekat yang "basah-basah"
 - [ ] Contoh project anonim (guru) — 1 batasan lemah untuk demo review
 - [ ] Template changelog 3 baris di papan
-- [ ] Baca: [09_Rubrik_Peer_Review](../../../../09-rubrik/09_Rubrik_Peer_Review.md)
+- [ ] Baca: [09_Rubrik_Peer_Review](../../../../../09-rubrik/09_Rubrik_Peer_Review.md)
 
 ### Skrip fasilitator
 
@@ -270,23 +270,23 @@ Revisi: perbaiki tampilan
 
 | # | Topik | Referensi |
 |---|-------|-----------|
-| 1 | Rubrik peer review CPLF | → [09_Rubrik_Peer_Review](../../../../09-rubrik/09_Rubrik_Peer_Review.md) |
-| 2 | Rubrik etika E1 | → [09_Rubrik_Etika_AI](../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
-| 3 | Rubrik project — iterasi | → [09_Rubrik_Project](../../../../09-rubrik/09_Rubrik_Project.md) |
-| 4 | Enam aspek CPLF | → [09_Rubrik_Enam_Aspek](../../../../09-rubrik/09_Rubrik_Enam_Aspek.md) |
+| 1 | Rubrik peer review CPLF | → [09_Rubrik_Peer_Review](../../../../../09-rubrik/09_Rubrik_Peer_Review.md) |
+| 2 | Rubrik etika E1 | → [09_Rubrik_Etika_AI](../../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
+| 3 | Rubrik project — iterasi | → [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md) |
+| 4 | Enam aspek CPLF | → [09_Rubrik_Enam_Aspek](../../../../../09-rubrik/09_Rubrik_Enam_Aspek.md) |
 | 5 | Feedback efektif (Google) | → [Google SRE — Postmortem culture](https://sre.google/sre-book/postmortem-culture/) *(kultur blameless)* |
 | 6 | ML model cards (inspirasi batasan) | → [Model Cards paper](https://modelcards.withgoogle.com/about) |
 | 7 | Panduan guru ML | → [00_Panduan_Guru_ML_TFJS.md](../../00_Panduan_Guru_ML_TFJS.md) |
-| 8 | Etika penyampaian | → [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md) |
+| 8 | Etika penyampaian | → [00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md) |
 
 ---
 
 ## Rujukan
 
-- Modul: [XII-S5-P16](../../../kelas-xii/semester-5/XII-S5-P16_peer-review-s5.md)
+- Modul: [XII-S5-P16](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P16_peer-review-s5.md)
 - Sebelumnya: [P14 Demo](./XII-S5-P14_project-s5-demo-batasan.md) · [P15 Metrik](./XII-S5-P15_membaca-metrik-model.md)
 - Lanjutan: [P17 Spiral](./XII-S5-P17_review-spiral-s5.md) · [P18 Showcase](./XII-S5-P18_showcase-refleksi-s5.md)
-- Rubrik: [09_Rubrik_Peer_Review](../../../../09-rubrik/09_Rubrik_Peer_Review.md)
+- Rubrik: [09_Rubrik_Peer_Review](../../../../../09-rubrik/09_Rubrik_Peer_Review.md)
 
 ---
 
@@ -308,7 +308,7 @@ Revisi: perbaiki tampilan
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -319,6 +319,6 @@ Revisi: perbaiki tampilan
 
 **Kait di kelas hari ini:** Peer review model — kritik metrik/asumsi, bukan mengejek teman.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

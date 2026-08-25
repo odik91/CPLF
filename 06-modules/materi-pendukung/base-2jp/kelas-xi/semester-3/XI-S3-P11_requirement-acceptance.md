@@ -9,7 +9,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XI-S3-P11 |
-| Modul pertemuan | [XI-S3-P11_requirement-acceptance.md](../../../kelas-xi/semester-3/XI-S3-P11_requirement-acceptance.md) |
+| Modul pertemuan | [XI-S3-P11_requirement-acceptance.md](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P11_requirement-acceptance.md) |
 | Unit | XI3.6 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CXI-K1 |
@@ -31,7 +31,7 @@
 
 **Spiral EXP_02:** brief "website OSIS keren" — hasil beda karena ambigu; sama seperti "gambar rumah" S1.
 
-**Spiral X-S1:** [P06](../../kelas-x/semester-1/X-S1-P06_gambar-rumah-requirement.md) requirement → [P07](../../kelas-x/semester-1/X-S1-P07_spesifikasi-acceptance.md) AC — hari ini **konteks aplikasi web S3**.
+**Spiral X-S1:** [P06](../../../../base-2jp/kelas-x/semester-1/X-S1-P06_gambar-rumah-requirement.md) requirement → [P07](../../../../base-2jp/kelas-x/semester-1/X-S1-P07_spesifikasi-acceptance.md) AC — hari ini **konteks aplikasi web S3**.
 
 **Output masuk folder project** — draft untuk P12 kickoff.
 
@@ -232,12 +232,12 @@ Given item status "dipinjam", When klik pinjam lagi, Then tombol disabled atau p
 
 ## Rujukan
 
-- Modul: [XI-S3-P11](../../../kelas-xi/semester-3/XI-S3-P11_requirement-acceptance.md)
+- Modul: [XI-S3-P11](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P11_requirement-acceptance.md)
 - EXP: [EXP_02 Gambar Rumah](../../../07-experience_library/EXP_02_Gambar_Rumah.md)
-- Spiral X: [X-S1-P07 Acceptance](../../kelas-x/semester-1/X-S1-P07_spesifikasi-acceptance.md)
+- Spiral X: [X-S1-P07 Acceptance](../../../../base-2jp/kelas-x/semester-1/X-S1-P07_spesifikasi-acceptance.md)
 - PRJ bank: [08_Project_Bank_Index — XI S3](../../../08-project/08_Project_Bank_Index.md#kelas-xi--semester-3-interaksi--struktur)
 - Lanjut: [P12 Kickoff](./XI-S3-P12_project-s3-kickoff.md)
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../00_Panduan_Etika_Penyampaian.md)
 
 ---
 

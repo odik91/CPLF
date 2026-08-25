@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [XII-S5-P08_layer-compile-fit.md](../../../kelas-xii/semester-5/XII-S5-P08_layer-compile-fit.md)
+**Modul acuan:** [XII-S5-P08_layer-compile-fit.md](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P08_layer-compile-fit.md)
 
 ---
 
@@ -268,7 +268,7 @@ model.predict(test);
 
 **Kait di kelas hari ini:** Train/fit jujur — metrik dari data val, bukan tipuan diri.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 ## 9. Materi pendamping BRG
 

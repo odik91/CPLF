@@ -7,13 +7,13 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S5-P05 |
-| Modul pertemuan | [XII-S5-P05_statistik-outlier.md](../../../kelas-xii/semester-5/XII-S5-P05_statistik-outlier.md) |
+| Modul pertemuan | [XII-S5-P05_statistik-outlier.md](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P05_statistik-outlier.md) |
 | Semester | 5 · Pertemuan 5/18 |
 | Unit | XII5.4 |
 | Durasi referensi | 2 JP (90 menit) |
 | Capability | CXII-T1 |
 | EXP | [EXP_09 TikTok Feed](../../../07-experience_library/EXP_09_TikTok_Feed.md) |
-| Etika global | [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md) |
+| Etika global | [00_Panduan_Etika_Penyampaian.md](../../../00_Panduan_Etika_Penyampaian.md) |
 
 ---
 
@@ -289,7 +289,7 @@ Prediksi: mean ≈ 72.4, median = 80.
 
 ## Rujukan modul
 
-- Modul: [XII-S5-P05](../../../kelas-xii/semester-5/XII-S5-P05_statistik-outlier.md)
+- Modul: [XII-S5-P05](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P05_statistik-outlier.md)
 - EXP: [EXP_09](../../../07-experience_library/EXP_09_TikTok_Feed.md)
 - Sebelumnya: [XII-S5-P04](./XII-S5-P04_vektor-jarak-kesamaan.md)
 - Berikutnya: [XII-S5-P06](./XII-S5-P06_tensor-dari-scalar.md)

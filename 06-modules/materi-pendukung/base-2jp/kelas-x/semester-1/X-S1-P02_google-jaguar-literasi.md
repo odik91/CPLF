@@ -7,13 +7,13 @@
 | Field | Isi |
 |-------|-----|
 | Kode | X-S1-P02 |
-| Modul pertemuan | [X-S1-P02_google-jaguar-literasi.md](../../../kelas-x/semester-1/X-S1-P02_google-jaguar-literasi.md) |
+| Modul pertemuan | [X-S1-P02_google-jaguar-literasi.md](../../../../base-2jp/kelas-x/semester-1/X-S1-P02_google-jaguar-literasi.md) |
 | Semester | 1 · Pertemuan 2/18 |
 | Unit | X1.1 |
 | Durasi referensi | 2 JP (90 menit) |
 | Capability | CX-B4, CX-B1 |
-| Experience | [EXP_03](../../../../07-experience_library/EXP_03_Google_Jaguar.md) · varian [Apple](../../../../07-experience_library/EXP_03_A_Google_Apple.md) / [MA](../../../../07-experience_library/EXP_03_B_Google_MA.md) |
-| Etika global | [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md) |
+| Experience | [EXP_03](../../../../../07-experience_library/EXP_03_Google_Jaguar.md) · varian [Apple](../../../../../07-experience_library/EXP_03_A_Google_Apple.md) / [MA](../../../../../07-experience_library/EXP_03_B_Google_MA.md) |
+| Etika global | [00_Panduan_Etika_Penyampaian.md](../../../00_Panduan_Etika_Penyampaian.md) |
 
 ---
 
@@ -202,8 +202,8 @@ SELESAI
 
 ## 9. Rujukan
 
-- Modul: [X-S1-P02](../../../kelas-x/semester-1/X-S1-P02_google-jaguar-literasi.md)
-- [EXP_03](../../../../07-experience_library/EXP_03_Google_Jaguar.md) · [EXP_03_A](../../../../07-experience_library/EXP_03_A_Google_Apple.md) · [EXP_03_B](../../../../07-experience_library/EXP_03_B_Google_MA.md)
+- Modul: [X-S1-P02](../../../../base-2jp/kelas-x/semester-1/X-S1-P02_google-jaguar-literasi.md)
+- [EXP_03](../../../../../07-experience_library/EXP_03_Google_Jaguar.md) · [EXP_03_A](../../../../../07-experience_library/EXP_03_A_Google_Apple.md) · [EXP_03_B](../../../../../07-experience_library/EXP_03_B_Google_MA.md)
 - MM: MM-16, MM-00
 - Rubrik: **REA**, **OBS**
 - Lanjutan: P03 ChatGPT klarifikasi

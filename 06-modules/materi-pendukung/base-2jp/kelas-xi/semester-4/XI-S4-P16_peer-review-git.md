@@ -9,7 +9,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XI-S4-P16 |
-| Modul pertemuan | [XI-S4-P16_peer-review-git.md](../../../kelas-xi/semester-4/XI-S4-P16_peer-review-git.md) |
+| Modul pertemuan | [XI-S4-P16_peer-review-git.md](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P16_peer-review-git.md) |
 | Unit | XI4.7 |
 | Durasi referensi | 2 JP = 90 menit |
 | PRJ | Lanjut PRJ-XI-S4-* |
@@ -268,14 +268,14 @@ const items = data.articles.slice(0, 5).map(a => ({
 
 ## 9. Rujukan
 
-- Modul pertemuan: [XI-S4-P16](../../../kelas-xi/semester-4/XI-S4-P16_peer-review-git.md)
+- Modul pertemuan: [XI-S4-P16](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P16_peer-review-git.md)
 - Rubrik peer: [09_Rubrik_Peer_Review](../../../09-rubrik/09_Rubrik_Peer_Review.md)
 - Build prep: [P15 materi pendukung](./XI-S4-P15_project-s4-build-2.md)
 - Presentasi next: [P17 materi pendukung](./XI-S4-P17_presentasi-retrospektif.md)
 - Code review S3 spiral: [XI-S3-P16 materi](../semester-3/XI-S3-P16_code-review-kualitas.md)
-- Git: [XI-S4-P11](../../../kelas-xi/semester-4/XI-S4-P11_git-dasar.md) · [P12](../../../kelas-xi/semester-4/XI-S4-P12_branch-kolaborasi.md)
+- Git: [XI-S4-P11](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P11_git-dasar.md) · [P12](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P12_branch-kolaborasi.md)
 - Rubrik project: [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md)
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../00_Panduan_Etika_Penyampaian.md)
 
 ---
 

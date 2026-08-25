@@ -7,13 +7,13 @@
 | Field | Isi |
 |-------|-----|
 | Kode | X-S1-P03 |
-| Modul pertemuan | [X-S1-P03_chatgpt-klarifikasi.md](../../../kelas-x/semester-1/X-S1-P03_chatgpt-klarifikasi.md) |
+| Modul pertemuan | [X-S1-P03_chatgpt-klarifikasi.md](../../../../base-2jp/kelas-x/semester-1/X-S1-P03_chatgpt-klarifikasi.md) |
 | Semester | 1 · Pertemuan 3/18 |
 | Unit | X1.1 |
 | Durasi referensi | 2 JP (90 menit) |
 | Capability | CX-B4 |
-| Experience | [EXP_10](../../../../07-experience_library/EXP_10_ChatGPT_Salah.md) |
-| Etika global | [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md) |
+| Experience | [EXP_10](../../../../../07-experience_library/EXP_10_ChatGPT_Salah.md) |
+| Etika global | [00_Panduan_Etika_Penyampaian.md](../../../00_Panduan_Etika_Penyampaian.md) |
 
 ---
 
@@ -201,8 +201,8 @@ HTML adalah bahasa pemrograman karena:
 
 ## 9. Rujukan
 
-- Modul: [X-S1-P03](../../../kelas-x/semester-1/X-S1-P03_chatgpt-klarifikasi.md)
-- [EXP_10](../../../../07-experience_library/EXP_10_ChatGPT_Salah.md)
+- Modul: [X-S1-P03](../../../../base-2jp/kelas-x/semester-1/X-S1-P03_chatgpt-klarifikasi.md)
+- [EXP_10](../../../../../07-experience_library/EXP_10_ChatGPT_Salah.md)
 - MM: MM-00, MM-22 (pengantar), MM-04 (validasi)
 - Rubrik: **REA** (wajib)
 - Lanjutan: P04 algoritma ROBI

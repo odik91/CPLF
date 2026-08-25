@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [XII-S6-P14_presentasi-nilai.md](../../../kelas-xii/semester-6/XII-S6-P14_presentasi-nilai.md)
+**Modul acuan:** [XII-S6-P14_presentasi-nilai.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P14_presentasi-nilai.md)
 
 ---
 
@@ -115,7 +115,7 @@ Contoh bank pertanyaan (pilih 2 — jangan mempermalukan):
 | 0–5 | Opening | Format: masalah · pengguna · demo · gagal · etika · transfer |
 | 5–55 | Presentasi | 5–6 menit/tim + 2 menit Q&A |
 | 55–70 | Panel | 2 pertanyaan etika dari guru/teman |
-| 70–85 | Rubrik | Self-assess + guru catat [Project](../../../09-rubrik/09_Rubrik_Project.md) + [Etika](../../../09-rubrik/09_Rubrik_Etika_AI.md) |
+| 70–85 | Rubrik | Self-assess + guru catat [Project](../../../../../09-rubrik/09_Rubrik_Project.md) + [Etika](../../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
 | 85–90 | Closing | Preview portofolio 3 tahun |
 
 ---
@@ -162,7 +162,7 @@ Contoh bank pertanyaan (pilih 2 — jangan mempermalukan):
 
 **Kait di kelas hari ini:** Presentasi jujur — tidak overclaim model/AI.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 
 ---

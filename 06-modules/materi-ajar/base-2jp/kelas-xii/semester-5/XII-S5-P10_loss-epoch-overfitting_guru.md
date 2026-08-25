@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [XII-S5-P10_loss-epoch-overfitting_siswa.md](./XII-S5-P10_loss-epoch-overfitting_siswa.md)
 
-**Modul:** [XII-S5-P10_loss-epoch-overfitting.md](../../../kelas-xii/semester-5/XII-S5-P10_loss-epoch-overfitting.md)
+**Modul:** [XII-S5-P10_loss-epoch-overfitting.md](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P10_loss-epoch-overfitting.md)
 
-**Materi pendukung sumber:** [XII-S5-P10_loss-epoch-overfitting.md](../../../materi-pendukung/kelas-xii/semester-5/XII-S5-P10_loss-epoch-overfitting.md)
+**Materi pendukung sumber:** [XII-S5-P10_loss-epoch-overfitting.md](../../../../materi-pendukung/base-2jp/kelas-xii/semester-5/XII-S5-P10_loss-epoch-overfitting.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -63,7 +63,7 @@ Visualisasi loss: console log atau chart.js sederhana.
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S5-P10 |
-| Modul pertemuan | [XII-S5-P10_loss-epoch-overfitting.md](../../../kelas-xii/semester-5/XII-S5-P10_loss-epoch-overfitting.md) |
+| Modul pertemuan | [XII-S5-P10_loss-epoch-overfitting.md](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P10_loss-epoch-overfitting.md) |
 | Unit | XII5.7 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CXII-B2 |
@@ -389,7 +389,7 @@ await model.fit(xs, ys, { epochs: 20, validationSplit: 0.2 });
 
 ## Rujukan
 
-- Modul: [XII-S5-P10](../../../kelas-xii/semester-5/XII-S5-P10_loss-epoch-overfitting.md)
+- Modul: [XII-S5-P10](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P10_loss-epoch-overfitting.md)
 - [P09](./XII-S5-P09_model-dense-mini.md) · [P15 Metrik](./XII-S5-P15_membaca-metrik-model.md) (lanjutan)
 - Panduan ML: [00_Panduan_Guru_ML_TFJS.md](../../00_Panduan_Guru_ML_TFJS.md)
 
@@ -413,7 +413,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -424,6 +424,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** Data & model — keadilan dan dampak ke sesama.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

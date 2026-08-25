@@ -7,7 +7,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S6-P05 |
-| Modul pertemuan | [XII-S6-P05_ai-fitur-web.md](../../../kelas-xii/semester-6/XII-S6-P05_ai-fitur-web.md) |
+| Modul pertemuan | [XII-S6-P05_ai-fitur-web.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P05_ai-fitur-web.md) |
 | Semester | 6 · Pertemuan 5/18 |
 | Unit | XII6.3 |
 | Durasi referensi | 2 JP = 90 menit |
@@ -15,7 +15,7 @@
 | MM | MM-23 |
 | Formatif | REA, COM |
 | Prasyarat | [P04 MobileNet & TM](./XII-S6-P04_mobilenet-teachable.md) |
-| Panduan CV | [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md) |
+| Panduan CV | [00_Panduan_Guru_CV_Etika.md](../../../00_Panduan_Guru_CV_Etika.md) |
 | Ada live code? | **Ya — wireframe → implementasi alur 4 layar + feature flag fallback** |
 
 ---
@@ -32,7 +32,7 @@
 | 6 | Accessible status messages | → referensi: [MDN — aria-live](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Guides/Live_regions) |
 | 7 | Feature flags (konsep) | → referensi: [Martin Fowler — Feature Toggles](https://martinfowler.com/articles/feature-toggles.html) |
 | 8 | Spiral XI — user flow / IPO | Modul XI internal CPLF (recall oral) |
-| 9 | Panduan CV CPLF | → [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md) |
+| 9 | Panduan CV CPLF | → [00_Panduan_Guru_CV_Etika.md](../../../00_Panduan_Guru_CV_Etika.md) |
 
 **Waktu baca minimum:** 45–60 menit (progressive enhancement + aria-live + skim feature toggle).
 
@@ -319,7 +319,7 @@ if (topProb < 0.6) {
 
 ## Rujukan modul
 
-- Modul: [XII-S6-P05](../../../kelas-xii/semester-6/XII-S6-P05_ai-fitur-web.md)
+- Modul: [XII-S6-P05](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P05_ai-fitur-web.md)
 - Sebelumnya: [P04](./XII-S6-P04_mobilenet-teachable.md)
 - Lanjutan: [P06 Etika](./XII-S6-P06_etika-privasi-bias.md)
-- Panduan: [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md)
+- Panduan: [00_Panduan_Guru_CV_Etika.md](../../../00_Panduan_Guru_CV_Etika.md)

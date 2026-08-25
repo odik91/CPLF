@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [XI-S3-P12_project-s3-kickoff.md](../../../kelas-xi/semester-3/XI-S3-P12_project-s3-kickoff.md)
+**Modul acuan:** [XI-S3-P12_project-s3-kickoff.md](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P12_project-s3-kickoff.md)
 
 ---
 
@@ -22,7 +22,7 @@ Dari latihan terpisah → **aplikasi multi-komponen** dengan DoD.
   - **PRJ-XI-S3-04** — Kuis Interaktif — navigasi soal + skor
 - **DoD:** lihat file PRJ masing-masing — guru paham checklist, **bukan** solusi kode.
 - **Deliverable kickoff:** blueprint + acceptance final + folder 3+ modul + state kosong + render placeholder — **bukan** app jadi.
-- **Rubrik:** [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md) — demo reasoning 2 menit + peer P15.
+- **Rubrik:** [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md) — demo reasoning 2 menit + peer P15.
 - **Wajib S3:** pola P10 (`state.js`, `render.js`, `handlers.js`) · spec dari P11 · minimal 2 AC target P13.
 - **Varian rotasi:** A/B/C per PRJ — antar kelas paralel beda varian.
 - **Mode:** individu atau pasangan — konsisten kebijakan sekolah.
@@ -89,7 +89,7 @@ Minimal 2 acceptance terpenuhi — contoh: "list tampil dari state" + "form tamb
 | Menit | Fase | Aktivitas |
 |-------|------|-----------|
 | 0–10 | Opening | Presentasi 4 PRJ + varian A/B/C rotasi |
-| 10–25 | Concept | DoD · [Rubrik Project](../../../09-rubrik/09_Rubrik_Project.md) · demo reasoning 2 menit |
+| 10–25 | Concept | DoD · [Rubrik Project](../../../../../09-rubrik/09_Rubrik_Project.md) · demo reasoning 2 menit |
 | 25–40 | Practice | Pilih PRJ + finalisasi blueprint + acceptance |
 | 40–55 | Clarify | Guru 1 putaran feedback per kelompok/individu |
 | 55–75 | Practice | Scaffold: struktur folder + state kosong + render placeholder |
@@ -126,7 +126,7 @@ Minimal 2 acceptance terpenuhi — contoh: "list tampil dari state" + "form tamb
 
 **Kait di kelas hari ini:** Desain untuk pengguna lain — teliti sebelum rilis.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 
 ---

@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [XI-S4-P18_portofolio-tahun-xi_siswa.md](./XI-S4-P18_portofolio-tahun-xi_siswa.md)
 
-**Modul:** [XI-S4-P18_portofolio-tahun-xi.md](../../../kelas-xi/semester-4/XI-S4-P18_portofolio-tahun-xi.md)
+**Modul:** [XI-S4-P18_portofolio-tahun-xi.md](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P18_portofolio-tahun-xi.md)
 
-**Materi pendukung sumber:** [XI-S4-P18_portofolio-tahun-xi.md](../../../materi-pendukung/kelas-xi/semester-4/XI-S4-P18_portofolio-tahun-xi.md)
+**Materi pendukung sumber:** [XI-S4-P18_portofolio-tahun-xi.md](../../../../materi-pendukung/base-2jp/kelas-xi/semester-4/XI-S4-P18_portofolio-tahun-xi.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -28,7 +28,7 @@ Dari kumpulan file → **portofolio** capability siap XII.
 | Menit | Fase | Aktivitas |
 |-------|------|-----------|
 | 0–10 | Opening | Contoh portofolio: project + reasoning + capability |
-| 10–30 | Concept | [Progress Card](../../../09-rubrik/09_Progress_Card.md) · evidence links |
+| 10–30 | Concept | [Progress Card](../../../../../09-rubrik/09_Progress_Card.md) · evidence links |
 | 30–60 | Practice | Susun portofolio (Notion/GitHub Pages/kertas): S3 + S4 |
 | 60–75 | Peer | Gallery walk — 1 feedback sticky |
 | 75–85 | Reflect | 3 capability CXI terkuat · 1 target XII |
@@ -69,10 +69,10 @@ Arsipkan untuk orang tua / rapor — opsional showcase lintas kelas.
 | Field | Isi |
 |-------|-----|
 | Kode | XI-S4-P18 |
-| Modul pertemuan | [XI-S4-P18_portofolio-tahun-xi.md](../../../kelas-xi/semester-4/XI-S4-P18_portofolio-tahun-xi.md) |
+| Modul pertemuan | [XI-S4-P18_portofolio-tahun-xi.md](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P18_portofolio-tahun-xi.md) |
 | Unit | XI4.8 |
 | Durasi referensi | 2 JP = 90 menit |
-| Rubrik | [09_Progress_Card](../../../09-rubrik/09_Progress_Card.md) |
+| Rubrik | [09_Progress_Card](../../../../../09-rubrik/09_Progress_Card.md) |
 | Capability | TRF, COM |
 | Ada live code? | **Susun portofolio + gallery walk — bukan coding project baru** |
 
@@ -160,7 +160,7 @@ Guru tunjuk **struktur section** (bukan copas isi):
 
 ### Concept — Progress Card (10–30 menit)
 
-Jelaskan [09_Progress_Card](../../../09-rubrik/09_Progress_Card.md):
+Jelaskan [09_Progress_Card](../../../../../09-rubrik/09_Progress_Card.md):
 
 | Status | Arti untuk guru |
 |--------|-----------------|
@@ -230,7 +230,7 @@ Individual:
 ### Persiapan
 
 - Template **struktur** portofolio di papan (bukan isi penuh).
-- Link [09_Progress_Card](../../../09-rubrik/09_Progress_Card.md) — siswa lihat format.
+- Link [09_Progress_Card](../../../../../09-rubrik/09_Progress_Card.md) — siswa lihat format.
 - Sticky notes gallery walk.
 - Daftar artefak S3 dari P18 S3 / showcase — siswa bawa link.
 - **Tidak** sesi coding project baru.
@@ -342,16 +342,16 @@ BUKU (id, judul) —< PEMINJAMAN (id, idBuku, peminjam, tanggal)
 
 ## 9. Rujukan
 
-- Modul pertemuan: [XI-S4-P18](../../../kelas-xi/semester-4/XI-S4-P18_portofolio-tahun-xi.md)
-- Progress Card: [09_Progress_Card](../../../09-rubrik/09_Progress_Card.md)
-- Rubrik project: [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md)
+- Modul pertemuan: [XI-S4-P18](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P18_portofolio-tahun-xi.md)
+- Progress Card: [09_Progress_Card](../../../../../09-rubrik/09_Progress_Card.md)
+- Rubrik project: [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md)
 - Presentasi S4: [P17 materi pendukung](./XI-S4-P17_presentasi-retrospektif.md)
 - Showcase S3: [XI-S3-P18 materi](../semester-3/XI-S3-P18_showcase-refleksi-s3.md)
 - PRJ bank S3: [08_Project_Bank_Index](../../../08-project/08_Project_Bank_Index.md#kelas-xi--semester-3-interaksi--struktur)
 - PRJ bank S4: [08_Project_Bank_Index](../../../08-project/08_Project_Bank_Index.md#kelas-xi--semester-4-data-async-kolaborasi)
 - Capability framework: [05_Capability_Framework_CPLF.md](../../../05-silabus/05_Capability_Framework_CPLF.md)
-- Indeks S4: [XI-S4_Index](../../../kelas-xi/semester-4/XI-S4_Index.md)
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Indeks S4: [XI-S4_Index](../../../../base-2jp/kelas-xi/semester-4/XI-S4_Index.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 
@@ -377,7 +377,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -388,6 +388,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** Showcase/refleksi semester — syukur ilmu, bukan sombong.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [XI-S3-P07_struktur-data-nested.md](../../../kelas-xi/semester-3/XI-S3-P07_struktur-data-nested.md)
+**Modul acuan:** [XI-S3-P07_struktur-data-nested.md](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P07_struktur-data-nested.md)
 
 ---
 
@@ -16,7 +16,7 @@ Dari variabel global bercecer → **skema data** array of object.
 
 | Konsep | Penjelasan guru |
 |--------|-----------------|
-| **Array of object** | Spiral [X-S2-P10](../../kelas-x/semester-2/X-S2-P10_object-state-crud.md) — hari ini **field bertingkat** |
+| **Array of object** | Spiral [X-S2-P10](../../../../base-2jp/kelas-x/semester-2/X-S2-P10_object-state-crud.md) — hari ini **field bertingkat** |
 | **Nested object** | `{ penulis: { nama, kelas } }` — akses `buku[i].penulis.nama` |
 | **Skema konsisten** | Semua record punya field sama — jangan campur `{ title }` dan `{ judul }` |
 | **ID unik** | EXP_07 spiral — nomor panggil = `id` digital; edit/hapus by id |
@@ -168,7 +168,7 @@ katalog.push({ id: 99, judul: "Baru", penulis: { nama: "C" }, status: "tersedia"
 
 **Kait di kelas hari ini:** Desain untuk pengguna lain — teliti sebelum rilis.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 
 ---

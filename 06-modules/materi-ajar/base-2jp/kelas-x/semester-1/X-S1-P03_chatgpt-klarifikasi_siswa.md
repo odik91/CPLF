@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [X-S1-P03_chatgpt-klarifikasi.md](../../../kelas-x/semester-1/X-S1-P03_chatgpt-klarifikasi.md)
+**Modul acuan:** [X-S1-P03_chatgpt-klarifikasi.md](../../../../base-2jp/kelas-x/semester-1/X-S1-P03_chatgpt-klarifikasi.md)
 
 **Bacaan pendamping (cerita):** [X-S1-P03_bacaan-mimi-robi.md](./X-S1-P03_bacaan-mimi-robi.md) · [PDF](./X-S1-P03_bacaan-mimi-robi.pdf)
 
@@ -144,7 +144,7 @@ HTML adalah bahasa pemrograman karena:
 
 **Kait di kelas hari ini:** AI partner, bukan pengganti berpikir — dengar lalu pilih yang paling baik.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 
 ---

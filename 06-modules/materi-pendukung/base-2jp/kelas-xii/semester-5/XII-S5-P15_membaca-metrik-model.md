@@ -2,7 +2,7 @@
 
 **Version:** 0.1 · **Audiens:** Guru MA — **RAHASIA GURU** (jangan dibagikan ke siswa)
 
-> **Panduan wajib:** [00_Panduan_Guru_ML_TFJS.md](../../00_Panduan_Guru_ML_TFJS.md)
+> **Panduan wajib:** [00_Panduan_Guru_ML_TFJS.md](../../../00_Panduan_Guru_ML_TFJS.md)
 
 ---
 
@@ -11,7 +11,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S5-P15 |
-| Modul pertemuan | [XII-S5-P15_membaca-metrik-model.md](../../../kelas-xii/semester-5/XII-S5-P15_membaca-metrik-model.md) |
+| Modul pertemuan | [XII-S5-P15_membaca-metrik-model.md](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P15_membaca-metrik-model.md) |
 | Semester | 5 · Pertemuan 15/18 |
 | Unit | XII5.7 |
 | Durasi referensi | 2 JP = 90 menit |
@@ -253,17 +253,17 @@ Epoch 10 / 10 — loss: 0.02 — acc: 1.00
 | 5 | Confusion matrix | → [MLCC — Confusion Matrix](https://developers.google.com/machine-learning/crash-course/classification/confusion-matrix) |
 | 6 | StatQuest — accuracy vs precision | → [StatQuest — Sensitivity and Specificity](https://www.youtube.com/watch?v=vP06aK5F8mM) |
 | 7 | TF.js metrics di compile | → [tf.LayersModel.compile](https://js.tensorflow.org/api/latest/#tf.LayersModel.compile) |
-| 8 | Rubrik etika E1 | → [09_Rubrik_Etika_AI](../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
+| 8 | Rubrik etika E1 | → [09_Rubrik_Etika_AI](../../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
 
 ---
 
 ## Rujukan
 
-- Modul: [XII-S5-P15](../../../kelas-xii/semester-5/XII-S5-P15_membaca-metrik-model.md)
+- Modul: [XII-S5-P15](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P15_membaca-metrik-model.md)
 - Prasyarat: [P10 Loss](./XII-S5-P10_loss-epoch-overfitting.md) · [P13 Build 2](./XII-S5-P13_project-s5-build-2.md)
 - Project: [P14 Batasan](./XII-S5-P14_project-s5-demo-batasan.md)
-- Panduan: [00_Panduan_Guru_ML_TFJS.md](../../00_Panduan_Guru_ML_TFJS.md)
-- Rubrik: [09_Rubrik_Etika_AI](../../../../09-rubrik/09_Rubrik_Etika_AI.md)
+- Panduan: [00_Panduan_Guru_ML_TFJS.md](../../../00_Panduan_Guru_ML_TFJS.md)
+- Rubrik: [09_Rubrik_Etika_AI](../../../../../09-rubrik/09_Rubrik_Etika_AI.md)
 
 ---
 

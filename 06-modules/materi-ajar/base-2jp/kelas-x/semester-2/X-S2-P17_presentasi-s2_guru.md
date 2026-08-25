@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [X-S2-P17_presentasi-s2_siswa.md](./X-S2-P17_presentasi-s2_siswa.md)
 
-**Modul:** [X-S2-P17_presentasi-s2.md](../../../kelas-x/semester-2/X-S2-P17_presentasi-s2.md)
+**Modul:** [X-S2-P17_presentasi-s2.md](../../../../base-2jp/kelas-x/semester-2/X-S2-P17_presentasi-s2.md)
 
-**Materi pendukung sumber:** [X-S2-P17_presentasi-s2.md](../../../materi-pendukung/kelas-x/semester-2/X-S2-P17_presentasi-s2.md)
+**Materi pendukung sumber:** [X-S2-P17_presentasi-s2.md](../../../../materi-pendukung/base-2jp/kelas-x/semester-2/X-S2-P17_presentasi-s2.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -63,10 +63,10 @@ Dokumentasi foto/video untuk arsip MA.
 | Field | Isi |
 |-------|-----|
 | Kode | X-S2-P17 |
-| Modul pertemuan | [X-S2-P17_presentasi-s2](../../../kelas-x/semester-2/X-S2-P17_presentasi-s2.md) |
+| Modul pertemuan | [X-S2-P17_presentasi-s2](../../../../base-2jp/kelas-x/semester-2/X-S2-P17_presentasi-s2.md) |
 | Unit | X2.7 |
 | Durasi referensi | 2 JP = 90 menit |
-| Rubrik | [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md) |
+| Rubrik | [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md) |
 | Capability | COM, REA, TEC |
 | Ada live code? | **Presentasi & coaching — bukan coding** |
 
@@ -151,7 +151,7 @@ Guru adalah **coach**, bukan co-author:
 Jelaskan ke siswa — **bukan** angka:
 
 - Dinilai: clarity masalah, demo DoD, **reasoning** desain, iterasi, respons Q&A
-- Rubrik lengkap: [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md) — guru saja
+- Rubrik lengkap: [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md) — guru saja
 
 ### Presentasi bergiliran (5–60 menit)
 
@@ -281,12 +281,12 @@ document.getElementById("btn").addEventListener("click", () => {
 
 ## 9. Rujukan
 
-- Modul pertemuan: [X-S2-P17](../../../kelas-x/semester-2/X-S2-P17_presentasi-s2.md)
-- Rubrik project: [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md)
+- Modul pertemuan: [X-S2-P17](../../../../base-2jp/kelas-x/semester-2/X-S2-P17_presentasi-s2.md)
+- Rubrik project: [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md)
 - Revisi: [P16 materi pendukung](./X-S2-P16_revisi-project.md)
 - Portofolio: [P18 materi pendukung](./X-S2-P18_portofolio-tahun-x.md)
 - Showcase S1 (paralel): [X-S1-P18](../semester-1/X-S1-P18_showcase-refleksi-s1.md)
-- Etika: [00_Panduan_Etika_Penyampaian](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 
@@ -310,7 +310,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -321,6 +321,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** Review/spiral — renungkan apa yang sudah dikuasai.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

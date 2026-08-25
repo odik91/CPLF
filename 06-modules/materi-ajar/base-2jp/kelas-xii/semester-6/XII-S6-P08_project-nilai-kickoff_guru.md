@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [XII-S6-P08_project-nilai-kickoff_siswa.md](./XII-S6-P08_project-nilai-kickoff_siswa.md)
 
-**Modul:** [XII-S6-P08_project-nilai-kickoff.md](../../../kelas-xii/semester-6/XII-S6-P08_project-nilai-kickoff.md)
+**Modul:** [XII-S6-P08_project-nilai-kickoff.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P08_project-nilai-kickoff.md)
 
-**Materi pendukung sumber:** [XII-S6-P08_project-nilai-kickoff.md](../../../materi-pendukung/kelas-xii/semester-6/XII-S6-P08_project-nilai-kickoff.md)
+**Materi pendukung sumber:** [XII-S6-P08_project-nilai-kickoff.md](../../../../materi-pendukung/base-2jp/kelas-xii/semester-6/XII-S6-P08_project-nilai-kickoff.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -29,7 +29,7 @@ Dari latihan AI → **capstone** dengan pengguna nyata & etika terintegrasi.
 | Menit | Fase | Aktivitas |
 |-------|------|-----------|
 | 0–10 | Opening | 4 PRJ nilai + varian · bonus agent **opsional** terpisah |
-| 10–25 | Concept | DoD capstone · [Rubrik Project](../../../09-rubrik/09_Rubrik_Project.md) · [Rubrik Etika](../../../09-rubrik/09_Rubrik_Etika_AI.md) |
+| 10–25 | Concept | DoD capstone · [Rubrik Project](../../../../../09-rubrik/09_Rubrik_Project.md) · [Rubrik Etika](../../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
 | 25–40 | Practice | Pilih PRJ · bentuk tim 2–4 · tentukan pengguna |
 | 40–55 | Wawancara | 3 pertanyaan ke pengguna (piket/wali/OSIS) — catat |
 | 55–75 | Practice | Spec + acceptance + dokumen etika draft + wireframe |
@@ -66,7 +66,7 @@ Tolak project tanpa pengguna abstrak (“masyarakat luas”). QR disarankan vs f
 
 **Version:** 0.1 · **Audiens:** Guru MA — **RAHASIA GURU** (jangan dibagikan ke siswa)
 
-> **Panduan wajib:** [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md) · [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+> **Panduan wajib:** [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md) · [00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 
@@ -75,7 +75,7 @@ Tolak project tanpa pengguna abstrak (“masyarakat luas”). QR disarankan vs f
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S6-P08 |
-| Modul pertemuan | [XII-S6-P08_project-nilai-kickoff.md](../../../kelas-xii/semester-6/XII-S6-P08_project-nilai-kickoff.md) |
+| Modul pertemuan | [XII-S6-P08_project-nilai-kickoff.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P08_project-nilai-kickoff.md) |
 | Semester | 6 · Pertemuan 8/18 |
 | Unit | XII6.6 |
 | Durasi referensi | 2 JP = 90 menit |
@@ -94,8 +94,8 @@ Tolak project tanpa pengguna abstrak (“masyarakat luas”). QR disarankan vs f
 | 2 | **Wajib** — PRJ-XII-S6-02 Gesture | → [PRJ_XII_S6_02_Gesture.md](../../../08-project/PRJ_XII_S6_02_Gesture.md) |
 | 3 | **Wajib** — PRJ-XII-S6-03 Klasifikasi Citra | → [PRJ_XII_S6_03_Klasifikasi_Citra.md](../../../08-project/PRJ_XII_S6_03_Klasifikasi_Citra.md) |
 | 4 | **Wajib** — PRJ-XII-S6-04 Asisten Madrasah | → [PRJ_XII_S6_04_Asisten_Madrasah.md](../../../08-project/PRJ_XII_S6_04_Asisten_Madrasah.md) |
-| 5 | **Wajib** — Rubrik Project | → [09_Rubrik_Project.md](../../../09-rubrik/09_Rubrik_Project.md) |
-| 6 | **Wajib** — Rubrik Etika AI | → [09_Rubrik_Etika_AI.md](../../../09-rubrik/09_Rubrik_Etika_AI.md) |
+| 5 | **Wajib** — Rubrik Project | → [09_Rubrik_Project.md](../../../../../09-rubrik/09_Rubrik_Project.md) |
+| 6 | **Wajib** — Rubrik Etika AI | → [09_Rubrik_Etika_AI.md](../../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
 | 7 | Project bank index S6 | → [08_Project_Bank_Index — XII S6](../../../08-project/08_Project_Bank_Index.md#kelas-xii--semester-6-nilai--etika) |
 | 8 | Teachable Machine | → [Teachable Machine](https://teachablemachine.withgoogle.com/) |
 | 9 | TM export TF.js | → [TM — Export formats](https://github.com/googlecreativelab/teachablemachine-community/tree/master/libraries/image) |
@@ -399,11 +399,11 @@ Siswa **wajib deliverable kickoff**:
 
 ## Rujukan
 
-- Modul: [XII-S6-P08](../../../kelas-xii/semester-6/XII-S6-P08_project-nilai-kickoff.md)
+- Modul: [XII-S6-P08](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P08_project-nilai-kickoff.md)
 - PRJ: [01](../../../08-project/PRJ_XII_S6_01_AI_Absensi.md) · [02](../../../08-project/PRJ_XII_S6_02_Gesture.md) · [03](../../../08-project/PRJ_XII_S6_03_Klasifikasi_Citra.md) · [04](../../../08-project/PRJ_XII_S6_04_Asisten_Madrasah.md)
 - Sebelumnya: [P07 AI Partner](./XII-S6-P07_ai-partner-klarifikasi.md)
 - Lanjutan: [P09 Build 1](./XII-S6-P09_project-nilai-build-1.md)
-- Rubrik: [Project](../../../09-rubrik/09_Rubrik_Project.md) · [Etika AI](../../../09-rubrik/09_Rubrik_Etika_AI.md)
+- Rubrik: [Project](../../../../../09-rubrik/09_Rubrik_Project.md) · [Etika AI](../../../../../09-rubrik/09_Rubrik_Etika_AI.md)
 
 ---
 
@@ -427,7 +427,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -438,6 +438,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** AI/CV moderat, jujur, dan manfaat komunitas MA.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

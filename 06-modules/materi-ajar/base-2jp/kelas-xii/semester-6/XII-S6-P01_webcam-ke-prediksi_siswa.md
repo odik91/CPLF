@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [XII-S6-P01_webcam-ke-prediksi.md](../../../kelas-xii/semester-6/XII-S6-P01_webcam-ke-prediksi.md)
+**Modul acuan:** [XII-S6-P01_webcam-ke-prediksi.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P01_webcam-ke-prediksi.md)
 
 ---
 
@@ -267,7 +267,7 @@ const t = tf.browser.fromPixels(video);
 
 **Kait di kelas hari ini:** Consent sebelum `getUserMedia` — hormati privasi.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 
 ---

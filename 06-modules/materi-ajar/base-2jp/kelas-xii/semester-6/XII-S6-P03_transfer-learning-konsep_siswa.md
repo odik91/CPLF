@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [XII-S6-P03_transfer-learning-konsep.md](../../../kelas-xii/semester-6/XII-S6-P03_transfer-learning-konsep.md)
+**Modul acuan:** [XII-S6-P03_transfer-learning-konsep.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P03_transfer-learning-konsep.md)
 
 ---
 
@@ -178,7 +178,7 @@ Dataset: 80 foto total, laptop Chromebook lab.
 
 **Kait di kelas hari ini:** AI/CV moderat, jujur, dan manfaat komunitas MA.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 
 ---

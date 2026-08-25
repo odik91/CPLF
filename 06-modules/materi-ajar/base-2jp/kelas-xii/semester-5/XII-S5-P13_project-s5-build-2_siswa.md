@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [XII-S5-P13_project-s5-build-2.md](../../../kelas-xii/semester-5/XII-S5-P13_project-s5-build-2.md)
+**Modul acuan:** [XII-S5-P13_project-s5-build-2.md](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P13_project-s5-build-2.md)
 
 ---
 
@@ -150,7 +150,7 @@ btn.onclick = () => {
 
 **Kait di kelas hari ini:** Data & model — keadilan dan dampak ke sesama.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 
 ---

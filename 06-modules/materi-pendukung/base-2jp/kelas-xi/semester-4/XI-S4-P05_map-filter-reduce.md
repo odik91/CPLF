@@ -9,7 +9,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XI-S4-P05 |
-| Modul pertemuan | [XI-S4-P05_map-filter-reduce.md](../../../kelas-xi/semester-4/XI-S4-P05_map-filter-reduce.md) |
+| Modul pertemuan | [XI-S4-P05_map-filter-reduce.md](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P05_map-filter-reduce.md) |
 | Unit | XI4.3 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CXI-B2, AD |
@@ -297,12 +297,12 @@ const out = raw
 
 ## Rujukan
 
-- Modul: [XI-S4-P05](../../../kelas-xi/semester-4/XI-S4-P05_map-filter-reduce.md)
+- Modul: [XI-S4-P05](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P05_map-filter-reduce.md)
 - EXP: [EXP_09 TikTok Feed](../../../07-experience_library/EXP_09_TikTok_Feed.md) · [EXP_09_A YouTube](../../../07-experience_library/EXP_09_A_YouTube_Autoplay.md)
 - Sebelum: [P04 Fetch](./XI-S4-P04_fetch-json.md)
 - Lanjut: [P06 Pipeline Data](./XI-S4-P06_pipeline-data.md)
 - Spiral render: [S3-P08](../semester-3/XI-S3-P08_state-aplikasi.md)
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../00_Panduan_Etika_Penyampaian.md)
 
 ---
 

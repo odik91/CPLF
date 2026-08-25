@@ -9,10 +9,10 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XI-S4-P14 |
-| Modul pertemuan | [XI-S4-P14_project-s4-build-1](../../../kelas-xi/semester-4/XI-S4-P14_project-s4-build-1.md) |
+| Modul pertemuan | [XI-S4-P14_project-s4-build-1](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P14_project-s4-build-1.md) |
 | Unit | XI4.7 |
 | Durasi referensi | 2 JP = 90 menit |
-| PRJ | Lanjut PRJ-XI-S4-* (pilihan [P13 kickoff](../../../kelas-xi/semester-4/XI-S4-P13_project-s4-kickoff.md)) |
+| PRJ | Lanjut PRJ-XI-S4-* (pilihan [P13 kickoff](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P13_project-s4-kickoff.md)) |
 | Capability | ITR, TEC |
 | Ada live code? | **Facilitator + pair debug Git — bukan build untuk siswa** |
 
@@ -229,14 +229,14 @@ function loadItems() {
 
 ## 9. Rujukan
 
-- Modul pertemuan: [XI-S4-P14](../../../kelas-xi/semester-4/XI-S4-P14_project-s4-build-1.md)
+- Modul pertemuan: [XI-S4-P14](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P14_project-s4-build-1.md)
 - Kickoff: [P13 materi pendukung](./XI-S4-P13_project-s4-kickoff.md)
 - PRJ bank: [08_Project_Bank_Index](../../../08-project/08_Project_Bank_Index.md#kelas-xi--semester-4-data-async-kolaborasi)
-- Fetch: [XI-S4-P04](../../../kelas-xi/semester-4/XI-S4-P04_fetch-json.md)
-- Persist/error: [XI-S4-P07](../../../kelas-xi/semester-4/XI-S4-P07_localstorage-crud.md) · [P08](../../../kelas-xi/semester-4/XI-S4-P08_persistensi-error-state.md)
-- Git: [XI-S4-P12](../../../kelas-xi/semester-4/XI-S4-P12_branch-kolaborasi.md)
+- Fetch: [XI-S4-P04](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P04_fetch-json.md)
+- Persist/error: [XI-S4-P07](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P07_localstorage-crud.md) · [P08](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P08_persistensi-error-state.md)
+- Git: [XI-S4-P12](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P12_branch-kolaborasi.md)
 - Rubrik: [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md)
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../00_Panduan_Etika_Penyampaian.md)
 
 ---
 

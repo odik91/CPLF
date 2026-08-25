@@ -2,8 +2,8 @@
 
 **Version:** 0.1 · **Audiens:** Guru MA — **RAHASIA GURU** (jangan dibagikan ke siswa)
 
-> **Panduan wajib:** [00_Panduan_Guru_ML_TFJS.md](../../00_Panduan_Guru_ML_TFJS.md)  
-> **Rubrik penilaian:** [09_Rubrik_Project](../../../../09-rubrik/09_Rubrik_Project.md) · [09_Rubrik_Etika_AI](../../../../09-rubrik/09_Rubrik_Etika_AI.md)
+> **Panduan wajib:** [00_Panduan_Guru_ML_TFJS.md](../../../00_Panduan_Guru_ML_TFJS.md)  
+> **Rubrik penilaian:** [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md) · [09_Rubrik_Etika_AI](../../../../../09-rubrik/09_Rubrik_Etika_AI.md)
 
 ---
 
@@ -12,12 +12,12 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S5-P18 |
-| Modul pertemuan | [XII-S5-P18_showcase-refleksi-s5.md](../../../kelas-xii/semester-5/XII-S5-P18_showcase-refleksi-s5.md) |
+| Modul pertemuan | [XII-S5-P18_showcase-refleksi-s5.md](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P18_showcase-refleksi-s5.md) |
 | Semester | 5 · Pertemuan 18/18 |
 | Unit | XII5.8 |
 | Durasi referensi | 2 JP = 90 menit |
 | PRJ | PRJ-XII-S5-* |
-| Formatif / Sumatif | [Rubrik Project](../../../../09-rubrik/09_Rubrik_Project.md) + Etika AI |
+| Formatif / Sumatif | [Rubrik Project](../../../../../09-rubrik/09_Rubrik_Project.md) + Etika AI |
 | Ada live code? | **Demo siswa** — penilaian proses + etika |
 
 ---
@@ -124,7 +124,7 @@ Guru parafrase — **tidak** sermon panjang.
 ### Closing S6 preview (80–90 menit)
 
 - Capstone citra/webcam — Teachable Machine atau TF.js transfer
-- Etika: consent, wajah, data siswa — [E2 Rubrik Etika](../../../../09-rubrik/09_Rubrik_Etika_AI.md)
+- Etika: consent, wajah, data siswa — [E2 Rubrik Etika](../../../../../09-rubrik/09_Rubrik_Etika_AI.md)
 - Portofolio: artefak S5 + changelog P16 masuk folder semester
 
 ---
@@ -137,7 +137,7 @@ Guru parafrase — **tidak** sermon panjang.
 - [ ] Timer proyektor + lembar rubrik guru per siswa
 - [ ] Checklist DoD: model · UI · batasan PDF · changelog peer
 - [ ] Backup offline jika demo gagal teknis — **tetap** harus tunjuk kasus gagal model (bukan cuma WiFi)
-- [ ] Baca: [09_Rubrik_Project](../../../../09-rubrik/09_Rubrik_Project.md) · [09_Rubrik_Etika_AI](../../../../09-rubrik/09_Rubrik_Etika_AI.md)
+- [ ] Baca: [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md) · [09_Rubrik_Etika_AI](../../../../../09-rubrik/09_Rubrik_Etika_AI.md)
 
 ### Skrip fasilitator
 
@@ -239,24 +239,24 @@ Saya belum paham rumus loss, tapi tahu kapan tidak boleh percaya angka akurasi.
 
 | # | Topik | Referensi |
 |---|-------|-----------|
-| 1 | Rubrik project CPLF | → [09_Rubrik_Project](../../../../09-rubrik/09_Rubrik_Project.md) |
-| 2 | Rubrik etika AI (E1 gate) | → [09_Rubrik_Etika_AI](../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
-| 3 | Enam aspek capability | → [09_Rubrik_Enam_Aspek](../../../../09-rubrik/09_Rubrik_Enam_Aspek.md) |
-| 4 | Assessment philosophy | → [09_Assessment_Philosophy](../../../../09-rubrik/09_Assessment_Philosophy.md) |
+| 1 | Rubrik project CPLF | → [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md) |
+| 2 | Rubrik etika AI (E1 gate) | → [09_Rubrik_Etika_AI](../../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
+| 3 | Enam aspek capability | → [09_Rubrik_Enam_Aspek](../../../../../09-rubrik/09_Rubrik_Enam_Aspek.md) |
+| 4 | Assessment philosophy | → [09_Assessment_Philosophy](../../../../../09-rubrik/09_Assessment_Philosophy.md) |
 | 5 | Model cards (komunikasi batasan) | → [Model Cards — Google](https://modelcards.withgoogle.com/about) |
 | 6 | MLCC — responsible use | → [ML Crash Course](https://developers.google.com/machine-learning/crash-course) |
 | 7 | Teachable Machine (S6 teaser) | → [Teachable Machine](https://teachablemachine.withgoogle.com/) |
-| 8 | Panduan guru ML | → [00_Panduan_Guru_ML_TFJS.md](../../00_Panduan_Guru_ML_TFJS.md) |
+| 8 | Panduan guru ML | → [00_Panduan_Guru_ML_TFJS.md](../../../00_Panduan_Guru_ML_TFJS.md) |
 
 ---
 
 ## Rujukan
 
-- Modul: [XII-S5-P18](../../../kelas-xii/semester-5/XII-S5-P18_showcase-refleksi-s5.md)
-- Indeks S5: [XII-S5_Index](../../../kelas-xii/semester-5/XII-S5_Index.md)
+- Modul: [XII-S5-P18](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P18_showcase-refleksi-s5.md)
+- Indeks S5: [XII-S5_Index](../../../../base-2jp/kelas-xii/semester-5/XII-S5_Index.md)
 - Project bank: [08_Project_Bank_Index](../../../../08-project/08_Project_Bank_Index.md)
 - Sebelumnya: [P17 Spiral](./XII-S5-P17_review-spiral-s5.md) · [P16 Peer Review](./XII-S5-P16_peer-review-s5.md)
-- Rubrik: [09_Rubrik_Project](../../../../09-rubrik/09_Rubrik_Project.md) · [09_Rubrik_Etika_AI](../../../../09-rubrik/09_Rubrik_Etika_AI.md)
+- Rubrik: [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md) · [09_Rubrik_Etika_AI](../../../../../09-rubrik/09_Rubrik_Etika_AI.md)
 
 ---
 

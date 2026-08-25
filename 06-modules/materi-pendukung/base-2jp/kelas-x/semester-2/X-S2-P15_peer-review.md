@@ -9,7 +9,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | X-S2-P15 |
-| Modul pertemuan | [X-S2-P15_peer-review](../../../kelas-x/semester-2/X-S2-P15_peer-review.md) |
+| Modul pertemuan | [X-S2-P15_peer-review](../../../../base-2jp/kelas-x/semester-2/X-S2-P15_peer-review.md) |
 | Unit | X2.7 |
 | Durasi referensi | 2 JP = 90 menit |
 | PRJ | Lanjut PRJ-X-S2-* |
@@ -233,12 +233,12 @@ function tambah(nama) {
 
 ## 9. Rujukan
 
-- Modul pertemuan: [X-S2-P15](../../../kelas-x/semester-2/X-S2-P15_peer-review.md)
+- Modul pertemuan: [X-S2-P15](../../../../base-2jp/kelas-x/semester-2/X-S2-P15_peer-review.md)
 - Rubrik peer: [09_Rubrik_Peer_Review](../../../09-rubrik/09_Rubrik_Peer_Review.md)
 - Build prep: [P14 materi pendukung](./X-S2-P14_project-s2-build-2.md)
 - Revisi lanjut: [P16 materi pendukung](./X-S2-P16_revisi-project.md)
 - Rubrik project: [09_Rubrik_Project](../../../09-rubrik/09_Rubrik_Project.md)
-- Etika: [00_Panduan_Etika_Penyampaian](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian](../../../00_Panduan_Etika_Penyampaian.md)
 
 ---
 

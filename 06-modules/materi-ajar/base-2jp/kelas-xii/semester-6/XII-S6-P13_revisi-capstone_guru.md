@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [XII-S6-P13_revisi-capstone_siswa.md](./XII-S6-P13_revisi-capstone_siswa.md)
 
-**Modul:** [XII-S6-P13_revisi-capstone.md](../../../kelas-xii/semester-6/XII-S6-P13_revisi-capstone.md)
+**Modul:** [XII-S6-P13_revisi-capstone.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P13_revisi-capstone.md)
 
-**Materi pendukung sumber:** [XII-S6-P13_revisi-capstone.md](../../../materi-pendukung/kelas-xii/semester-6/XII-S6-P13_revisi-capstone.md)
+**Materi pendukung sumber:** [XII-S6-P13_revisi-capstone.md](../../../../materi-pendukung/base-2jp/kelas-xii/semester-6/XII-S6-P13_revisi-capstone.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -64,7 +64,7 @@ Cek kontribusi tim — tidak ada anggota 0 commit.
 **Version:** 0.1 · **Audiens:** Guru MA — **RAHASIA GURU** (jangan dibagikan ke siswa)
 
 > **Panduan wajib:** [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md)  
-> **Rubrik:** [09_Rubrik_Project](../../../../09-rubrik/09_Rubrik_Project.md) · [09_Rubrik_Etika_AI](../../../../09-rubrik/09_Rubrik_Etika_AI.md)
+> **Rubrik:** [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md) · [09_Rubrik_Etika_AI](../../../../../09-rubrik/09_Rubrik_Etika_AI.md)
 
 ---
 
@@ -73,7 +73,7 @@ Cek kontribusi tim — tidak ada anggota 0 commit.
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S6-P13 |
-| Modul pertemuan | [XII-S6-P13_revisi-capstone.md](../../../kelas-xii/semester-6/XII-S6-P13_revisi-capstone.md) |
+| Modul pertemuan | [XII-S6-P13_revisi-capstone.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P13_revisi-capstone.md) |
 | Semester | 6 · Pertemuan 13/18 |
 | Unit | XII6.6 |
 | Durasi referensi | 2 JP = 90 menit |
@@ -88,10 +88,10 @@ Cek kontribusi tim — tidak ada anggota 0 commit.
 
 | # | Topik | Link |
 |---|-------|------|
-| 1 | **Wajib** — Rubrik project (iterasi ITR) | → [09_Rubrik_Project](../../../../09-rubrik/09_Rubrik_Project.md) |
-| 2 | **Wajib** — Rubrik etika E1–E4 | → [09_Rubrik_Etika_AI](../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
-| 3 | **Wajib** — Rubrik peer review (sumber feedback P12) | → [09_Rubrik_Peer_Review](../../../../09-rubrik/09_Rubrik_Peer_Review.md) |
-| 4 | Enam aspek CPLF | → [09_Rubrik_Enam_Aspek](../../../../09-rubrik/09_Rubrik_Enam_Aspek.md) |
+| 1 | **Wajib** — Rubrik project (iterasi ITR) | → [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md) |
+| 2 | **Wajib** — Rubrik etika E1–E4 | → [09_Rubrik_Etika_AI](../../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
+| 3 | **Wajib** — Rubrik peer review (sumber feedback P12) | → [09_Rubrik_Peer_Review](../../../../../09-rubrik/09_Rubrik_Peer_Review.md) |
+| 4 | Enam aspek CPLF | → [09_Rubrik_Enam_Aspek](../../../../../09-rubrik/09_Rubrik_Enam_Aspek.md) |
 | 5 | Acceptance criteria / DoD | → [Google SRE — Blameless postmortem culture](https://sre.google/sre-book/postmortem-culture/) *(kultur iterasi tanpa malu)* |
 | 6 | Model cards (inspirasi batasan) | → [Model Cards — Google](https://modelcards.withgoogle.com/about) |
 | 7 | Teachable Machine export | → [TM — Export TensorFlow.js](https://github.com/googlecreativelab/teachablemachine-community/tree/master/libraries/image) |
@@ -210,7 +210,7 @@ Revisi P13 — [Nama tim]
 - [ ] Kumpulkan lembar reviewer P12 — guru scan finding etika per tim
 - [ ] Template changelog 3 baris di papan
 - [ ] Timer rehearsal 3 menit per tim
-- [ ] Baca: [09_Rubrik_Project](../../../../09-rubrik/09_Rubrik_Project.md) · [09_Rubrik_Etika_AI](../../../../09-rubrik/09_Rubrik_Etika_AI.md)
+- [ ] Baca: [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md) · [09_Rubrik_Etika_AI](../../../../../09-rubrik/09_Rubrik_Etika_AI.md)
 - [ ] Cek Git/contributions — flag tim dengan 0-commit member
 
 ### Skrip fasilitator (90 menit — selaras modul)
@@ -275,7 +275,7 @@ Reviewer: "Consent?"
 |--------------------|--------------|
 | Boleh presentasi P14? | **Tidak** — gate etika E2 belum closed |
 | Revisi minimum? | Notice consent + rencana hapus data / alternatif QR |
-| Rubrik terkait? | [09_Rubrik_Etika_AI](../../../../09-rubrik/09_Rubrik_Etika_AI.md) E2 ≥ 2 |
+| Rubrik terkait? | [09_Rubrik_Etika_AI](../../../../../09-rubrik/09_Rubrik_Etika_AI.md) E2 ≥ 2 |
 
 ---
 
@@ -312,10 +312,10 @@ Tim **mengetik versi sendiri** — arahkan:
 
 ## Rujukan
 
-- Modul: [XII-S6-P13](../../../kelas-xii/semester-6/XII-S6-P13_revisi-capstone.md)
-- Sebelumnya: [P12 Peer Review & Etika](./XII-S6-P12_peer-review-etika.md) *(jika ada)* · modul [P12](../../../kelas-xii/semester-6/XII-S6-P12_peer-review-etika.md)
+- Modul: [XII-S6-P13](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P13_revisi-capstone.md)
+- Sebelumnya: [P12 Peer Review & Etika](./XII-S6-P12_peer-review-etika.md) *(jika ada)* · modul [P12](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P12_peer-review-etika.md)
 - Lanjutan: [P14 Presentasi Nilai](./XII-S6-P14_presentasi-nilai.md)
-- Rubrik: [09_Rubrik_Project](../../../../09-rubrik/09_Rubrik_Project.md) · [09_Rubrik_Etika_AI](../../../../09-rubrik/09_Rubrik_Etika_AI.md)
+- Rubrik: [09_Rubrik_Project](../../../../../09-rubrik/09_Rubrik_Project.md) · [09_Rubrik_Etika_AI](../../../../../09-rubrik/09_Rubrik_Etika_AI.md)
 - Panduan: [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md)
 
 ---
@@ -340,7 +340,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -351,6 +351,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** AI/CV moderat, jujur, dan manfaat komunitas MA.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

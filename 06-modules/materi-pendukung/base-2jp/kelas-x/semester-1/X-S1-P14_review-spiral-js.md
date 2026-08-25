@@ -7,7 +7,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | X-S1-P14 |
-| Modul pertemuan | [X-S1-P14_review-spiral-js](../../../kelas-x/semester-1/X-S1-P14_review-spiral-js.md) |
+| Modul pertemuan | [X-S1-P14_review-spiral-js](../../../../base-2jp/kelas-x/semester-1/X-S1-P14_review-spiral-js.md) |
 | Unit | X1.1–X1.7 (review integratif) |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CX-B*, CX-T* |
@@ -216,11 +216,11 @@ Guru hanya ucapkan: "Gabungkan logika slot + loop nama antre — minimal 8 baris
 
 ## 9. Rujukan
 
-- Modul pertemuan: [X-S1-P14](../../../kelas-x/semester-1/X-S1-P14_review-spiral-js.md)
-- Indeks S1: [X-S1_Index](../../../kelas-x/semester-1/X-S1_Index.md)
+- Modul pertemuan: [X-S1-P14](../../../../base-2jp/kelas-x/semester-1/X-S1-P14_review-spiral-js.md)
+- Indeks S1: [X-S1_Index](../../../../base-2jp/kelas-x/semester-1/X-S1_Index.md)
 - Project preview: [08_Project_Bank_Index](../../../08-project/08_Project_Bank_Index.md)
 - Rubrik COM: [09_Rubrik_Enam_Aspek](../../../09-rubrik/09_Rubrik_Enam_Aspek.md)
-- Etika: [00_Panduan_Etika_Penyampaian](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian](../../../00_Panduan_Etika_Penyampaian.md)
 
 ---
 

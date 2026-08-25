@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [XI-S3-P04_dom-update-aman_siswa.md](./XI-S3-P04_dom-update-aman_siswa.md)
 
-**Modul:** [XI-S3-P04_dom-update-aman.md](../../../kelas-xi/semester-3/XI-S3-P04_dom-update-aman.md)
+**Modul:** [XI-S3-P04_dom-update-aman.md](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P04_dom-update-aman.md)
 
-**Materi pendukung sumber:** [XI-S3-P04_dom-update-aman.md](../../../materi-pendukung/kelas-xi/semester-3/XI-S3-P04_dom-update-aman.md)
+**Materi pendukung sumber:** [XI-S3-P04_dom-update-aman.md](../../../../materi-pendukung/base-2jp/kelas-xi/semester-3/XI-S3-P04_dom-update-aman.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -71,7 +71,7 @@ Ini pola inti untuk semua project S3.
 | Field | Isi |
 |-------|-----|
 | Kode | XI-S3-P04 |
-| Modul pertemuan | [XI-S3-P04_dom-update-aman.md](../../../kelas-xi/semester-3/XI-S3-P04_dom-update-aman.md) |
+| Modul pertemuan | [XI-S3-P04_dom-update-aman.md](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P04_dom-update-aman.md) |
 | Unit | XI3.2 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CXI-T1 |
@@ -361,12 +361,12 @@ render();
 
 ## Rujukan
 
-- Modul: [XI-S3-P04](../../../kelas-xi/semester-3/XI-S3-P04_dom-update-aman.md)
+- Modul: [XI-S3-P04](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P04_dom-update-aman.md)
 - Sebelum: [P03 DOM Antarmuka](./XI-S3-P03_dom-antarmuka-hidup.md)
 - Lanjut: [P05 Event & User Flow](./XI-S3-P05_event-user-flow.md)
-- Spiral X: [X-S2-P10 Object CRUD](../../kelas-x/semester-2/X-S2-P10_object-state-crud.md) · [X-S2-P06 render](../../kelas-x/semester-2/X-S2-P06_event-interaksi.md)
+- Spiral X: [X-S2-P10 Object CRUD](../../../../base-2jp/kelas-x/semester-2/X-S2-P10_object-state-crud.md) · [X-S2-P06 render](../../../../base-2jp/kelas-x/semester-2/X-S2-P06_event-interaksi.md)
 - CXI-T1
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 
@@ -389,7 +389,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -400,6 +400,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** Desain untuk pengguna lain — teliti sebelum rilis.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

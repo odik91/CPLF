@@ -9,7 +9,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XI-S4-P06 |
-| Modul pertemuan | [XI-S4-P06_pipeline-data.md](../../../kelas-xi/semester-4/XI-S4-P06_pipeline-data.md) |
+| Modul pertemuan | [XI-S4-P06_pipeline-data.md](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P06_pipeline-data.md) |
 | Unit | XI4.3 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CXI-B2 |
@@ -359,12 +359,12 @@ render();
 
 ## Rujukan
 
-- Modul: [XI-S4-P06](../../../kelas-xi/semester-4/XI-S4-P06_pipeline-data.md)
+- Modul: [XI-S4-P06](../../../../base-2jp/kelas-xi/semester-4/XI-S4-P06_pipeline-data.md)
 - Sebelum: [P05 map/filter/reduce](./XI-S4-P05_map-filter-reduce.md) · [P04 Fetch](./XI-S4-P04_fetch-json.md)
 - Lanjut: [P07 localStorage CRUD](./XI-S4-P07_localstorage-crud.md)
 - PRJ hook: Dashboard S4 — pipeline reusable
 - Spiral: [S3-P09 Refactor](../semester-3/XI-S3-P09_refactor-modul.md) · [S3-P08 State](../semester-3/XI-S3-P08_state-aplikasi.md)
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../00_Panduan_Etika_Penyampaian.md)
 
 ---
 

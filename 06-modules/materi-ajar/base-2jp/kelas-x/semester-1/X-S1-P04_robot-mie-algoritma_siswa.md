@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [X-S1-P04_robot-mie-algoritma.md](../../../kelas-x/semester-1/X-S1-P04_robot-mie-algoritma.md)
+**Modul acuan:** [X-S1-P04_robot-mie-algoritma.md](../../../../base-2jp/kelas-x/semester-1/X-S1-P04_robot-mie-algoritma.md)
 
 **Bacaan pendamping (cerita):** [X-S1-P04_bacaan-mimi-robi.md](./X-S1-P04_bacaan-mimi-robi.md) · [PDF](./X-S1-P04_bacaan-mimi-robi.pdf)
 
@@ -143,7 +143,7 @@ ALGORITMA Masak_Mie
 
 **Kait di kelas hari ini:** Instruksi eksplisit & urutan = tadabbur algoritma.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 
 ---

@@ -2,7 +2,7 @@
 
 **Version:** 0.1 · **Audiens:** Guru MA — **RAHASIA GURU** (jangan dibagikan ke siswa)
 
-> **Panduan wajib:** [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md) · [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+> **Panduan wajib:** [00_Panduan_Guru_CV_Etika.md](../../../00_Panduan_Guru_CV_Etika.md) · [00_Panduan_Etika_Penyampaian.md](../../../00_Panduan_Etika_Penyampaian.md)
 
 ---
 
@@ -11,7 +11,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S6-P10 |
-| Modul pertemuan | [XII-S6-P10_project-nilai-build-2.md](../../../kelas-xii/semester-6/XII-S6-P10_project-nilai-build-2.md) |
+| Modul pertemuan | [XII-S6-P10_project-nilai-build-2.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P10_project-nilai-build-2.md) |
 | Semester | 6 · Pertemuan 10/18 |
 | Unit | XII6.6 |
 | Durasi referensi | 2 JP = 90 menit |
@@ -35,7 +35,7 @@
 | 7 | Loading UX (web.dev) | → [web.dev — Loading patterns](https://web.dev/patterns/web-vitals-patterns/) |
 | 8 | TF.js API | → [TF.js API Reference](https://js.tensorflow.org/api/latest/) |
 | 9 | Rubrik etika E1 preview | → [09_Rubrik_Etika_AI — E1](../../../09-rubrik/09_Rubrik_Etika_AI.md) |
-| 10 | Panduan CV S6 | → [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md) |
+| 10 | Panduan CV S6 | → [00_Panduan_Guru_CV_Etika.md](../../../00_Panduan_Guru_CV_Etika.md) |
 
 ---
 
@@ -280,7 +280,7 @@ Tim **wajib**:
 
 ## Rujukan
 
-- Modul: [XII-S6-P10](../../../kelas-xii/semester-6/XII-S6-P10_project-nilai-build-2.md)
+- Modul: [XII-S6-P10](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P10_project-nilai-build-2.md)
 - Sebelumnya: [P09 Build 1](./XII-S6-P09_project-nilai-build-1.md)
 - Lanjutan: [P11 Demo Gagal](./XII-S6-P11_project-nilai-build-3.md)
 - Rubrik: [Etika E1](../../../09-rubrik/09_Rubrik_Etika_AI.md)

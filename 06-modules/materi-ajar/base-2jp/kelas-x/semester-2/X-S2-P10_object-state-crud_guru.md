@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [X-S2-P10_object-state-crud_siswa.md](./X-S2-P10_object-state-crud_siswa.md)
 
-**Modul:** [X-S2-P10_object-state-crud.md](../../../kelas-x/semester-2/X-S2-P10_object-state-crud.md)
+**Modul:** [X-S2-P10_object-state-crud.md](../../../../base-2jp/kelas-x/semester-2/X-S2-P10_object-state-crud.md)
 
-**Materi pendukung sumber:** [X-S2-P10_object-state-crud.md](../../../materi-pendukung/kelas-x/semester-2/X-S2-P10_object-state-crud.md)
+**Materi pendukung sumber:** [X-S2-P10_object-state-crud.md](../../../../materi-pendukung/base-2jp/kelas-x/semester-2/X-S2-P10_object-state-crud.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -59,7 +59,7 @@ Dari “data dari mana?” → **state object** + operasi tambah/ubah/hapus.
 | Field | Isi |
 |-------|-----|
 | Kode | X-S2-P10 |
-| Modul pertemuan | [X-S2-P10_object-state-crud.md](../../../kelas-x/semester-2/X-S2-P10_object-state-crud.md) |
+| Modul pertemuan | [X-S2-P10_object-state-crud.md](../../../../base-2jp/kelas-x/semester-2/X-S2-P10_object-state-crud.md) |
 | Unit | X2.6 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CX-T2 |
@@ -356,12 +356,12 @@ if (todos[i].id === id) {
 
 ## Rujukan
 
-- Modul: [X-S2-P10](../../../kelas-x/semester-2/X-S2-P10_object-state-crud.md)
+- Modul: [X-S2-P10](../../../../base-2jp/kelas-x/semester-2/X-S2-P10_object-state-crud.md)
 - EXP: [EXP_07 Perpustakaan](../../../07-experience_library/EXP_07_Perpustakaan.md)
 - Recall S1: [P10 Variabel](../semester-1/X-S1-P10_variabel-data.md)
 - Sebelum: [P09 Array Render](./X-S2-P09_array-render-list.md)
 - Lanjut: [P11 Sintesis](./X-S2-P11_sintesis-halaman-mini.md)
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 
@@ -384,7 +384,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -395,6 +395,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** Web & kolaborasi — manfaatkan untuk sesama.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

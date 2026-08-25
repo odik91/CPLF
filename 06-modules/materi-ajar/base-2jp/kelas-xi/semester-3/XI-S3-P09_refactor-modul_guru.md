@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [XI-S3-P09_refactor-modul_siswa.md](./XI-S3-P09_refactor-modul_siswa.md)
 
-**Modul:** [XI-S3-P09_refactor-modul.md](../../../kelas-xi/semester-3/XI-S3-P09_refactor-modul.md)
+**Modul:** [XI-S3-P09_refactor-modul.md](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P09_refactor-modul.md)
 
-**Materi pendukung sumber:** [XI-S3-P09_refactor-modul.md](../../../materi-pendukung/kelas-xi/semester-3/XI-S3-P09_refactor-modul.md)
+**Materi pendukung sumber:** [XI-S3-P09_refactor-modul.md](../../../../materi-pendukung/base-2jp/kelas-xi/semester-3/XI-S3-P09_refactor-modul.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -72,7 +72,7 @@ Intro `export/import` jika browser support; fallback script order + namespace ob
 | Field | Isi |
 |-------|-----|
 | Kode | XI-S3-P09 |
-| Modul pertemuan | [XI-S3-P09_refactor-modul.md](../../../kelas-xi/semester-3/XI-S3-P09_refactor-modul.md) |
+| Modul pertemuan | [XI-S3-P09_refactor-modul.md](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P09_refactor-modul.md) |
 | Unit | XI3.5 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CXI-T3 |
@@ -326,11 +326,11 @@ function doEverything(x) {
 
 ## Rujukan
 
-- Modul: [XI-S3-P09](../../../kelas-xi/semester-3/XI-S3-P09_refactor-modul.md)
+- Modul: [XI-S3-P09](../../../../base-2jp/kelas-xi/semester-3/XI-S3-P09_refactor-modul.md)
 - Prasyarat: [P08 State Aplikasi](./XI-S3-P08_state-aplikasi.md)
 - Lanjut: [P10 Pemisahan Tanggung Jawab](./XI-S3-P10_pemisahan-tanggung-jawab.md)
 - MM-14
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 
@@ -353,7 +353,7 @@ function doEverything(x) {
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -364,6 +364,6 @@ function doEverything(x) {
 
 **Kait di kelas hari ini:** Refactor = teliti sebelum mengubah yang dipakai sesama.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

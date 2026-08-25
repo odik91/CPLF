@@ -9,7 +9,7 @@
 | Field | Isi |
 |-------|-----|
 | Kode | X-S2-P06 |
-| Modul pertemuan | [X-S2-P06_event-interaksi.md](../../../kelas-x/semester-2/X-S2-P06_event-interaksi.md) |
+| Modul pertemuan | [X-S2-P06_event-interaksi.md](../../../../base-2jp/kelas-x/semester-2/X-S2-P06_event-interaksi.md) |
 | Unit | X2.3 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CX-T3 |
@@ -312,12 +312,12 @@ Pilih **satu** + extension:
 
 ## Rujukan
 
-- Modul: [X-S2-P06](../../../kelas-x/semester-2/X-S2-P06_event-interaksi.md)
+- Modul: [X-S2-P06](../../../../base-2jp/kelas-x/semester-2/X-S2-P06_event-interaksi.md)
 - Sebelum: [P05 JS DOM](./X-S2-P05_js-dom-klik.md)
 - Lanjut: [P07 Form Validasi](./X-S2-P07_form-validasi.md)
 - Project preview: [08-project README](../../../../08-project/README.md)
 - CX-T3
-- Etika: [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian.md](../../../00_Panduan_Etika_Penyampaian.md)
 
 ---
 

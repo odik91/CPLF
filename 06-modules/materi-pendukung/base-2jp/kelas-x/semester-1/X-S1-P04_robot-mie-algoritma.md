@@ -7,13 +7,13 @@
 | Field | Isi |
 |-------|-----|
 | Kode | X-S1-P04 |
-| Modul pertemuan | [X-S1-P04_robot-mie-algoritma.md](../../../kelas-x/semester-1/X-S1-P04_robot-mie-algoritma.md) |
+| Modul pertemuan | [X-S1-P04_robot-mie-algoritma.md](../../../../base-2jp/kelas-x/semester-1/X-S1-P04_robot-mie-algoritma.md) |
 | Semester | 1 · Pertemuan 4/18 |
 | Unit | X1.2 |
 | Durasi referensi | 2 JP (90 menit) |
 | Capability | CX-B2, CX-T2 |
-| Experience | [EXP_01](../../../../07-experience_library/EXP_01_Robot_Mie.md) · varian [Teh](../../../../07-experience_library/EXP_01_A_Teh_Manis.md) / [Cuci](../../../../07-experience_library/EXP_01_B_Cuci_Baju.md) / [Ojek](../../../../07-experience_library/EXP_01_C_Pesan_Ojek.md) |
-| Etika global | [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md) |
+| Experience | [EXP_01](../../../../../07-experience_library/EXP_01_Robot_Mie.md) · varian [Teh](../../../../../07-experience_library/EXP_01_A_Teh_Manis.md) / [Cuci](../../../../../07-experience_library/EXP_01_B_Cuci_Baju.md) / [Ojek](../../../../../07-experience_library/EXP_01_C_Pesan_Ojek.md) |
+| Etika global | [00_Panduan_Etika_Penyampaian.md](../../../00_Panduan_Etika_Penyampaian.md) |
 
 ---
 
@@ -191,8 +191,8 @@ ALGORITMA Masak_Mie
 
 ## 9. Rujukan
 
-- Modul: [X-S1-P04](../../../kelas-x/semester-1/X-S1-P04_robot-mie-algoritma.md)
-- [EXP_01](../../../../07-experience_library/EXP_01_Robot_Mie.md) · [A Teh](../../../../07-experience_library/EXP_01_A_Teh_Manis.md) · [B Cuci](../../../../07-experience_library/EXP_01_B_Cuci_Baju.md) · [C Ojek](../../../../07-experience_library/EXP_01_C_Pesan_Ojek.md)
+- Modul: [X-S1-P04](../../../../base-2jp/kelas-x/semester-1/X-S1-P04_robot-mie-algoritma.md)
+- [EXP_01](../../../../../07-experience_library/EXP_01_Robot_Mie.md) · [A Teh](../../../../../07-experience_library/EXP_01_A_Teh_Manis.md) · [B Cuci](../../../../../07-experience_library/EXP_01_B_Cuci_Baju.md) · [C Ojek](../../../../../07-experience_library/EXP_01_C_Pesan_Ojek.md)
 - MM: MM-11, MM-12
 - Rubrik: **REA**, **OBS**
 - Lanjutan: P05 flowchart & pseudocode

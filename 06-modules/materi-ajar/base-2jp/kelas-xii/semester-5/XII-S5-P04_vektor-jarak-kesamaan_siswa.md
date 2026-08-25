@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [XII-S5-P04_vektor-jarak-kesamaan.md](../../../kelas-xii/semester-5/XII-S5-P04_vektor-jarak-kesamaan.md)
+**Modul acuan:** [XII-S5-P04_vektor-jarak-kesamaan.md](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P04_vektor-jarak-kesamaan.md)
 
 ---
 
@@ -193,7 +193,7 @@ K=3 tetangga terdekat? P3, P5, P1 (0.10, 0.11, 0.12). Label P3,P5,P1 = `{A,A,B}`
 
 **Kait di kelas hari ini:** Data & model — keadilan dan dampak ke sesama.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 
 ---

@@ -20,7 +20,7 @@ Dari produk jadi → **argumen** teknis + etika di depan pengguna/kelas.
 | 0–5 | Opening | Format: masalah · pengguna · demo · gagal · etika · transfer |
 | 5–55 | Presentasi | 5–6 menit/tim + 2 menit Q&A |
 | 55–70 | Panel | 2 pertanyaan etika dari guru/teman |
-| 70–85 | Rubrik | Self-assess + guru catat [Project](../../../09-rubrik/09_Rubrik_Project.md) + [Etika](../../../09-rubrik/09_Rubrik_Etika_AI.md) |
+| 70–85 | Rubrik | Self-assess + guru catat [Project](../../../../09-rubrik/09_Rubrik_Project.md) + [Etika](../../../../09-rubrik/09_Rubrik_Etika_AI.md) |
 | 85–90 | Closing | Preview portofolio 3 tahun |
 
 ---

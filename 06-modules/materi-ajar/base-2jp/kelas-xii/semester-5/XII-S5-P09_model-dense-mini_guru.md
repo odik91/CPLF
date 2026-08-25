@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [XII-S5-P09_model-dense-mini_siswa.md](./XII-S5-P09_model-dense-mini_siswa.md)
 
-**Modul:** [XII-S5-P09_model-dense-mini.md](../../../kelas-xii/semester-5/XII-S5-P09_model-dense-mini.md)
+**Modul:** [XII-S5-P09_model-dense-mini.md](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P09_model-dense-mini.md)
 
-**Materi pendukung sumber:** [XII-S5-P09_model-dense-mini.md](../../../materi-pendukung/kelas-xii/semester-5/XII-S5-P09_model-dense-mini.md)
+**Materi pendukung sumber:** [XII-S5-P09_model-dense-mini.md](../../../../materi-pendukung/base-2jp/kelas-xii/semester-5/XII-S5-P09_model-dense-mini.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -67,7 +67,7 @@ Normalisasi fitur — spiral P03/P04.
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S5-P09 |
-| Modul pertemuan | [XII-S5-P09_model-dense-mini.md](../../../kelas-xii/semester-5/XII-S5-P09_model-dense-mini.md) |
+| Modul pertemuan | [XII-S5-P09_model-dense-mini.md](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P09_model-dense-mini.md) |
 | Unit | XII5.6 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CXII-T2 |
@@ -409,7 +409,7 @@ model.add(tf.layers.dense({ units: 1, activation: 'sigmoid' }));
 
 ## Rujukan
 
-- Modul: [XII-S5-P09](../../../kelas-xii/semester-5/XII-S5-P09_model-dense-mini.md)
+- Modul: [XII-S5-P09](../../../../base-2jp/kelas-xii/semester-5/XII-S5-P09_model-dense-mini.md)
 - [P08](./XII-S5-P08_layer-compile-fit.md) · [P03 dataset](./XII-S5-P03_dataset-mini-bersih.md)
 - Lanjutan: [P10 Loss & Overfit](./XII-S5-P10_loss-epoch-overfitting.md)
 - PRJ nanti: [PRJ-XII-S5-01](../../../08-project/PRJ_XII_S5_01_Klasifikasi_Tabular.md)
@@ -434,7 +434,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -445,6 +445,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** Data & model — keadilan dan dampak ke sesama.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.

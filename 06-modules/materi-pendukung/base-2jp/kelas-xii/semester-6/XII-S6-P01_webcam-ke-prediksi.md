@@ -7,16 +7,16 @@
 | Field | Isi |
 |-------|-----|
 | Kode | XII-S6-P01 |
-| Modul pertemuan | [XII-S6-P01_webcam-ke-prediksi.md](../../../kelas-xii/semester-6/XII-S6-P01_webcam-ke-prediksi.md) |
+| Modul pertemuan | [XII-S6-P01_webcam-ke-prediksi.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P01_webcam-ke-prediksi.md) |
 | Semester | 6 · Pertemuan 1/18 |
 | Unit | XII6.1 |
 | Durasi referensi | 2 JP = 90 menit |
 | Capability | CXII-T3, CXII-B2 |
 | CP | AD, AP |
 | MM | MM-21 |
-| Panduan CV | [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md) |
-| Prasyarat ML | [00_Panduan_Guru_ML_TFJS.md](../../00_Panduan_Guru_ML_TFJS.md) (S5 selesai) |
-| Etika global | [00_Panduan_Etika_Penyampaian.md](../../00_Panduan_Etika_Penyampaian.md) |
+| Panduan CV | [00_Panduan_Guru_CV_Etika.md](../../../00_Panduan_Guru_CV_Etika.md) |
+| Prasyarat ML | [00_Panduan_Guru_ML_TFJS.md](../../../00_Panduan_Guru_ML_TFJS.md) (S5 selesai) |
+| Etika global | [00_Panduan_Etika_Penyampaian.md](../../../00_Panduan_Etika_Penyampaian.md) |
 | Ada live code? | **Ya — pipeline webcam → fromPixels → log shape (tanpa model penuh)** |
 
 ---
@@ -34,7 +34,7 @@ Baca minimal **90 menit** sebelum P01 — fokus izin kamera & pipeline frame, be
 | 5 | Memory & dispose tensor frame | → referensi: [TF.js — Tensor disposal](https://www.tensorflow.org/js/guide/tensors_operations#memory) |
 | 6 | Permissions Policy (konteks sekolah) | → referensi: [MDN — Permissions Policy](https://developer.mozilla.org/en-US/docs/Web/HTTP/Permissions_Policy) |
 | 7 | Setup CDN TF.js (recall S5) | → referensi: [Get started with TensorFlow.js](https://www.tensorflow.org/js/tutorials/getting_started) |
-| 8 | Panduan CV guru CPLF | → [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md) |
+| 8 | Panduan CV guru CPLF | → [00_Panduan_Guru_CV_Etika.md](../../../00_Panduan_Guru_CV_Etika.md) |
 
 **Waktu baca minimum guru non-ML:** 60–75 menit (MDN getUserMedia + fromPixels API + skim tutorial webcam TF.js).
 
@@ -391,7 +391,7 @@ const t = tf.browser.fromPixels(video);
 
 ## Rujukan modul
 
-- Modul: [XII-S6-P01](../../../kelas-xii/semester-6/XII-S6-P01_webcam-ke-prediksi.md)
+- Modul: [XII-S6-P01](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P01_webcam-ke-prediksi.md)
 - Indeks S6: [XII-S6_Materi_Index](./XII-S6_Materi_Index.md)
-- Panduan: [00_Panduan_Guru_CV_Etika.md](../../00_Panduan_Guru_CV_Etika.md)
+- Panduan: [00_Panduan_Guru_CV_Etika.md](../../../00_Panduan_Guru_CV_Etika.md)
 - Lanjutan: [P02 Kasus Gagal Model](./XII-S6-P02_kasus-gagal-model.md)

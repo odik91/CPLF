@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [XII-S6-P07_ai-partner-klarifikasi.md](../../../kelas-xii/semester-6/XII-S6-P07_ai-partner-klarifikasi.md)
+**Modul acuan:** [XII-S6-P07_ai-partner-klarifikasi.md](../../../../base-2jp/kelas-xii/semester-6/XII-S6-P07_ai-partner-klarifikasi.md)
 
 ---
 
@@ -192,7 +192,7 @@ const model = await tf.loadLayersModel(modelURL);
 
 **Kait di kelas hari ini:** Checklist verifikasi 3 langkah sebelum percaya AI.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 
 ---

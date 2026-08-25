@@ -2,7 +2,7 @@
 
 **Mapel:** Multimedia (Pemrograman Web) · **CPLF**
 
-**Modul acuan:** [X-S1-P14_review-spiral-js.md](../../../kelas-x/semester-1/X-S1-P14_review-spiral-js.md)
+**Modul acuan:** [X-S1-P14_review-spiral-js.md](../../../../base-2jp/kelas-x/semester-1/X-S1-P14_review-spiral-js.md)
 
 ---
 
@@ -151,7 +151,7 @@ Guru hanya ucapkan: "Gabungkan logika slot + loop nama antre — minimal 8 baris
 
 **Kait di kelas hari ini:** Bernalar & literasi digital sebagai ilmu bermanfaat.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 
 ---

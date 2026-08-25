@@ -2,9 +2,9 @@
 
 **Handout siswa (bagikan):** [X-S1-P17_project-s1-build-2_siswa.md](./X-S1-P17_project-s1-build-2_siswa.md)
 
-**Modul:** [X-S1-P17_project-s1-build-2.md](../../../kelas-x/semester-1/X-S1-P17_project-s1-build-2.md)
+**Modul:** [X-S1-P17_project-s1-build-2.md](../../../../base-2jp/kelas-x/semester-1/X-S1-P17_project-s1-build-2.md)
 
-**Materi pendukung sumber:** [X-S1-P17_project-s1-build-2.md](../../../materi-pendukung/kelas-x/semester-1/X-S1-P17_project-s1-build-2.md)
+**Materi pendukung sumber:** [X-S1-P17_project-s1-build-2.md](../../../../materi-pendukung/base-2jp/kelas-x/semester-1/X-S1-P17_project-s1-build-2.md)
 
 ---
 ## A. Modul pertemuan (referensi)
@@ -63,11 +63,11 @@ Pastikan semua punya bukti revisi (screenshot/commit/catatan).
 | Field | Isi |
 |-------|-----|
 | Kode | X-S1-P17 |
-| Modul pertemuan | [X-S1-P17_project-s1-build-2](../../../kelas-x/semester-1/X-S1-P17_project-s1-build-2.md) |
+| Modul pertemuan | [X-S1-P17_project-s1-build-2](../../../../base-2jp/kelas-x/semester-1/X-S1-P17_project-s1-build-2.md) |
 | Unit | X1.8 |
 | Durasi referensi | 2 JP = 90 menit |
 | PRJ | Lanjut PRJ-X-S1-* |
-| Rubrik | [Peer Review](../../../09-rubrik/09_Rubrik_Peer_Review.md) (pengantar) |
+| Rubrik | [Peer Review](../../../../../09-rubrik/09_Rubrik_Peer_Review.md) (pengantar) |
 | Capability | ITR, COM |
 | Ada live code? | **Facilitator + peer review — bukan solusi guru** |
 
@@ -250,11 +250,11 @@ masukAntre(10, 10);
 
 ## 9. Rujukan
 
-- Modul pertemuan: [X-S1-P17](../../../kelas-x/semester-1/X-S1-P17_project-s1-build-2.md)
-- Rubrik peer: [09_Rubrik_Peer_Review](../../../09-rubrik/09_Rubrik_Peer_Review.md)
+- Modul pertemuan: [X-S1-P17](../../../../base-2jp/kelas-x/semester-1/X-S1-P17_project-s1-build-2.md)
+- Rubrik peer: [09_Rubrik_Peer_Review](../../../../../09-rubrik/09_Rubrik_Peer_Review.md)
 - Build week 1: [P16 materi pendukung](./X-S1-P16_project-s1-build-1.md)
 - Showcase prep: [P18 materi pendukung](./X-S1-P18_showcase-refleksi-s1.md)
-- Etika: [00_Panduan_Etika_Penyampaian](../../00_Panduan_Etika_Penyampaian.md)
+- Etika: [00_Panduan_Etika_Penyampaian](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 
@@ -276,7 +276,7 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 ## D. Etika penyampaian
 - Live coding / modeling — siswa mengetik sendiri.
 - Jangan kirim solusi project penuh.
-- Lihat [../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
+- Lihat [../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md](../../../../materi-pendukung/00_Panduan_Etika_Penyampaian.md)
 
 ---
 ## E. KBC — dalil & tafsir ringkas
@@ -287,6 +287,6 @@ _Tidak ada BRG wajib untuk pertemuan ini._
 
 **Kait di kelas hari ini:** Review/spiral — renungkan apa yang sudah dikuasai.
 
-_Matriks lengkap: [Mapping KBC CPLF](../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
+_Matriks lengkap: [Mapping KBC CPLF](../../../../../05-silabus/05_Mapping_Kurikulum_Berbasis_Cinta.md) §6._
 
 **Catatan guru:** Sisipkan pada fase Clarify/Reflect; gunakan terjemahan resmi Kemenag. Hadits — sebut perawi & status sesuai kitab madrasah.
