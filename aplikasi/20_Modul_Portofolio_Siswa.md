@@ -146,4 +146,4 @@ Default visibilitas: `PRIVATE` sampai siswa X; `KELAS` disarankan saat showcase 
 - Profil siswa → [12_Modul_Profil_Siswa.md](./12_Modul_Profil_Siswa.md)
 - Project → [18_Modul_Penilaian_Project_Peer_Review.md](./18_Modul_Penilaian_Project_Peer_Review.md)
 - Progress card → [19_Modul_Progress_Card_Capability.md](./19_Modul_Progress_Card_Capability.md)
-- Modul P16/P17 → [06-modules/kelas-xii/semester-6](../06-modules/kelas-xii/semester-6/)
+- Modul P16/P17 → [06-modules/kelas-xii/semester-6](../06-modules/base-2jp/kelas-xii/semester-6/)

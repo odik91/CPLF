@@ -132,7 +132,7 @@ Orientation (Learning Compass)
 
 - [03_Framework_CPLF.md](./03_Framework_CPLF.md) — Learning Cycle revisi  
 - [02_Psikologi_Pembelajaran_CPLF.md](../02-psikologi/02_Psikologi_Pembelajaran_CPLF.md) — scaffolding  
-- [00_Panduan_Pertemuan.md](../06-modules/kelas-x/00_Panduan_Pertemuan.md) — blok waktu  
+- [00_Panduan_Pertemuan.md](../06-modules/base-2jp/kelas-x/00_Panduan_Pertemuan.md) — blok waktu  
 - Bacaan siswa P01: [X-S1-P01_bacaan-mimi-robi.md](../06-modules/materi-ajar/base-4jp/kelas-x/semester-1/X-S1-P01_bacaan-mimi-robi.md)
 - Indeks aktif: [base-4jp X-S1_Index](../06-modules/base-4jp/kelas-x/semester-1/X-S1_Index.md)
 

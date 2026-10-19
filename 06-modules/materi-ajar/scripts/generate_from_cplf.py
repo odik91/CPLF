@@ -62,13 +62,10 @@ def extract_field_table(md: str, field: str) -> str:
 
 
 def materi_pendukung_path(modul_path: Path) -> Path | None:
+    """Mirror modul path under materi-pendukung (base-2jp/... atau base-4jp/...)."""
     rel = modul_path.relative_to(MOD)
-    # kelas-x/semester-1/foo.md -> materi-pendukung/kelas-x/semester-1/foo.md
-    if rel.parts[0].startswith("kelas-"):
-        cand = MP / rel
-        if cand.exists():
-            return cand
-    return None
+    cand = MP / rel
+    return cand if cand.exists() else None
 
 
 def strip_guru_secrets(body: str) -> str:
@@ -94,10 +91,11 @@ def ups_to_repo(from_under_out: Path) -> str:
     return "/".join([".."] * n)
 
 def modul_path_to_rel(code: str) -> str | None:
-    for p in sorted(MOD.glob(f"kelas-*/**/{code}_*.md")):
-        if SKIP_GLOB.search(p.name):
-            continue
-        return p.relative_to(MOD).with_suffix("").as_posix()
+    for base in ("base-4jp", "base-2jp"):
+        for p in sorted((MOD / base).glob(f"kelas-*/**/{code}_*.md")):
+            if SKIP_GLOB.search(p.name):
+                continue
+            return p.relative_to(MOD).with_suffix("").as_posix()
     return None
 
 
@@ -535,41 +533,50 @@ def write_index(out_sem_dir: Path, sem_label: str) -> None:
 def write_master_index() -> None:
     lines = [
         "# Indeks Master Materi Ajar CPLF\n\n",
-        "Regenerasi: `python 06-modules/materi-ajar/scripts/generate_from_cplf.py`\n\n",
+        "Regenerasi (arsip 2JP): `python3 06-modules/materi-ajar/scripts/generate_from_cplf.py`  \n",
+        "**Jalur aktif mengajar:** `base-4jp` · **Arsip:** `base-2jp`\n\n",
+        "## Jalur aktif — base-4jp\n\n",
     ]
     for label, rel in (
-        ("Kelas X — Semester 1", "kelas-x/semester-1/00_Index_Materi_Ajar.md"),
-        ("Kelas X — Semester 2", "kelas-x/semester-2/00_Index_Materi_Ajar.md"),
-        ("Kelas XI — Semester 3", "kelas-xi/semester-3/00_Index_Materi_Ajar.md"),
-        ("Kelas XI — Semester 4", "kelas-xi/semester-4/00_Index_Materi_Ajar.md"),
-        ("Kelas XII — Semester 5", "kelas-xii/semester-5/00_Index_Materi_Ajar.md"),
-        ("Kelas XII — Semester 6", "kelas-xii/semester-6/00_Index_Materi_Ajar.md"),
-        ("Jalur BRG", "jalur-kelanjutan/00_Index_Materi_Ajar_BRG.md"),
+        ("Kelas X — Semester 1 (34P)", "base-4jp/kelas-x/semester-1/00_Index_Materi_Ajar.md"),
+        ("Kelas X — Semester 2 (stub)", "base-4jp/kelas-x/semester-2/00_Index_Materi_Ajar.md"),
     ):
-        p = OUT / rel
-        if p.exists():
+        if (OUT / rel).exists():
             lines.append(f"- **{label}** — [{rel}](./{rel})\n")
+    lines.append("\n## Arsip — base-2jp (18×2JP, freeze)\n\n")
+    for label, rel in (
+        ("Kelas X — Semester 1", "base-2jp/kelas-x/semester-1/00_Index_Materi_Ajar.md"),
+        ("Kelas X — Semester 2", "base-2jp/kelas-x/semester-2/00_Index_Materi_Ajar.md"),
+        ("Kelas XI — Semester 3", "base-2jp/kelas-xi/semester-3/00_Index_Materi_Ajar.md"),
+        ("Kelas XI — Semester 4", "base-2jp/kelas-xi/semester-4/00_Index_Materi_Ajar.md"),
+        ("Kelas XII — Semester 5", "base-2jp/kelas-xii/semester-5/00_Index_Materi_Ajar.md"),
+        ("Kelas XII — Semester 6", "base-2jp/kelas-xii/semester-6/00_Index_Materi_Ajar.md"),
+    ):
+        if (OUT / rel).exists():
+            lines.append(f"- **{label}** — [{rel}](./{rel})\n")
+    lines += [
+        "\n## Jalur BRG\n\n",
+        "- [jalur-kelanjutan/00_Index_Materi_Ajar_BRG.md](./jalur-kelanjutan/00_Index_Materi_Ajar_BRG.md)\n",
+    ]
     (OUT / "00_Index_Master_Materi_Ajar.md").write_text("".join(lines), encoding="utf-8")
 
 
 def main() -> None:
-    for modul_path in sorted(MOD.glob("kelas-*/**/*.md")):
+    # Arsip 2JP saja — base-4jp diedit manual (handout khusus 4JP).
+    for modul_path in sorted((MOD / "base-2jp").glob("kelas-*/**/*.md")):
         if modul_path.parts[-1].startswith("00_"):
-            continue
-        if "materi-pendukung" in modul_path.parts or "materi-ajar" in modul_path.parts:
             continue
         generate_modul(modul_path)
 
     for brg_path in sorted(BRG_SRC.glob("BRG-*.md")):
         generate_brg(brg_path)
 
-    for sem in sorted((OUT / "kelas-x").glob("semester-*")) if (OUT / "kelas-x").exists() else []:
-        write_index(sem, sem.name)
-    for kelas in ("kelas-xi", "kelas-xii"):
-        p = OUT / kelas
-        if p.exists():
-            for sem in sorted(p.glob("semester-*")):
-                write_index(sem, f"{kelas}/{sem.name}")
+    for kelas in ("kelas-x", "kelas-xi", "kelas-xii"):
+        base = OUT / "base-2jp" / kelas
+        if not base.exists():
+            continue
+        for sem in sorted(base.glob("semester-*")):
+            write_index(sem, f"base-2jp · {kelas}/{sem.name}")
 
     brg_out = OUT / "jalur-kelanjutan"
     if brg_out.exists():

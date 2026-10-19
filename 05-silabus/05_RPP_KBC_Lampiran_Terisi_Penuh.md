@@ -2,10 +2,10 @@
 
 **Version:** 0.3 (Draft)  
 **Template:** [05_RPP_KBC_Template_CPLF.md](./05_RPP_KBC_Template_CPLF.md) (Blok A–G)  
-**Modul CPLF:** [06-modules](../06-modules/kelas-x/)  
+**Modul CPLF:** [06-modules](../06-modules/base-2jp/kelas-x/)  
 **Dalil usulan:** [05_Mapping_Kurikulum_Berbasis_Cinta.md §6](./05_Mapping_Kurikulum_Berbasis_Cinta.md#6-titik-kait-materi-cplf--usulan-dalil-al-quran--sunnah) — verifikasi tim agama.
 
-> **108 RPP per pertemuan (Blok A–G + E′ Kemenag):** [rpp-kbc/README.md](./rpp-kbc/README.md) — dokumen ini = **20 pertemuan flagship** dengan narasi lebih dalam (kickoff, peer, etika, showcase).
+> **RPP per pertemuan (Blok A–G + E′ Kemenag):** [rpp-kbc/README.md](./rpp-kbc/README.md) (`base-4jp` aktif + `base-2jp` arsip) — dokumen ini = **20 pertemuan flagship** dengan narasi lebih dalam (kickoff, peer, etika, showcase).
 
 ---
 
@@ -48,7 +48,7 @@ RPP lain (S5-P08 + BRG-08, fetch, dll.): [05_RPP_KBC_Lampiran_Flagship_dan_Jalur
 | Kelas / Sem | X / Semester 1 |
 | Kode CPLF | X-S1-P15 |
 | JP | 2 × 45 = 90 menit |
-| Modul acuan | [X-S1-P15](../06-modules/kelas-x/semester-1/X-S1-P15_project-s1-kickoff.md) |
+| Modul acuan | [X-S1-P15](../06-modules/base-2jp/kelas-x/semester-1/X-S1-P15_project-s1-kickoff.md) |
 
 ### Blok B
 
@@ -100,7 +100,7 @@ Rubrik formatif COM/REA · tidak nilai akhir project hari ini.
 
 ### Blok A
 
-| Kode | X-S2-P12 · 2 JP · [modul](../06-modules/kelas-x/semester-2/X-S2-P12_project-s2-kickoff.md) |
+| Kode | X-S2-P12 · 2 JP · [modul](../06-modules/base-2jp/kelas-x/semester-2/X-S2-P12_project-s2-kickoff.md) |
 
 ### Blok B
 
@@ -135,7 +135,7 @@ Rubrik formatif COM/REA · tidak nilai akhir project hari ini.
 
 ### Blok A
 
-| Kode | XI-S3-P12 · 2 JP · [modul](../06-modules/kelas-xi/semester-3/XI-S3-P12_project-s3-kickoff.md) |
+| Kode | XI-S3-P12 · 2 JP · [modul](../06-modules/base-2jp/kelas-xi/semester-3/XI-S3-P12_project-s3-kickoff.md) |
 
 ### Blok B
 
@@ -166,7 +166,7 @@ Ikuti timeline modul (0–90) — scaffold state + render placeholder.
 
 ### Blok A
 
-| Kode | XI-S4-P13 · 2 JP · [modul](../06-modules/kelas-xi/semester-4/XI-S4-P13_project-s4-kickoff.md) |
+| Kode | XI-S4-P13 · 2 JP · [modul](../06-modules/base-2jp/kelas-xi/semester-4/XI-S4-P13_project-s4-kickoff.md) |
 
 ### Blok B
 
@@ -200,7 +200,7 @@ Ikuti timeline modul (0–90) — scaffold state + render placeholder.
 
 ### Blok A
 
-| Kode | XII-S5-P11 · 2 JP · [modul](../06-modules/kelas-xii/semester-5/XII-S5-P11_project-s5-kickoff.md) |
+| Kode | XII-S5-P11 · 2 JP · [modul](../06-modules/base-2jp/kelas-xii/semester-5/XII-S5-P11_project-s5-kickoff.md) |
 
 ### Blok B
 
@@ -233,7 +233,7 @@ Timeline modul + ingat **BRG-08** sebelum build `fit` berat (P12–P14)
 
 ### Blok A
 
-| Kode | X-S2-P15 · 2 JP · [modul](../06-modules/kelas-x/semester-2/X-S2-P15_peer-review.md) |
+| Kode | X-S2-P15 · 2 JP · [modul](../06-modules/base-2jp/kelas-x/semester-2/X-S2-P15_peer-review.md) |
 
 ### Blok B
 
@@ -266,7 +266,7 @@ Pola peer dipakai lagi S4/S5 — persiapan kolaborasi profesional.
 
 ### Blok A
 
-| Kode | XI-S4-P16 · 2 JP · [modul](../06-modules/kelas-xi/semester-4/XI-S4-P16_peer-review-git.md) |
+| Kode | XI-S4-P16 · 2 JP · [modul](../06-modules/base-2jp/kelas-xi/semester-4/XI-S4-P16_peer-review-git.md) |
 
 ### Blok B
 
@@ -297,7 +297,7 @@ Pola peer dipakai lagi S4/S5 — persiapan kolaborasi profesional.
 
 ### Blok A
 
-| Kode | XII-S5-P16 · 2 JP · [modul](../06-modules/kelas-xii/semester-5/XII-S5-P16_peer-review-s5.md) |
+| Kode | XII-S5-P16 · 2 JP · [modul](../06-modules/base-2jp/kelas-xii/semester-5/XII-S5-P16_peer-review-s5.md) |
 
 ### Blok B
 
@@ -332,7 +332,7 @@ Menuju S6 capstone — etika P06 wajib setelah project S5 stabil.
 | Kode | XII-S6-P06 |
 | Kelas / Sem | XII / Semester 6 |
 | JP | 2 × 45 = 90 menit |
-| Modul | [XII-S6-P06](../06-modules/kelas-xii/semester-6/XII-S6-P06_etika-privasi-bias.md) |
+| Modul | [XII-S6-P06](../06-modules/base-2jp/kelas-xii/semester-6/XII-S6-P06_etika-privasi-bias.md) |
 | **Gate** | **Wajib sebelum capstone P08–P14** |
 
 ### Blok B
@@ -386,7 +386,7 @@ Formatif · dimensi E2 minimum level 2 sebelum build capstone · gate E1=1 → p
 
 ### Blok A
 
-| Kode | X-S1-P18 · 2 JP · [modul](../06-modules/kelas-x/semester-1/X-S1-P18_showcase-refleksi-s1.md) |
+| Kode | X-S1-P18 · 2 JP · [modul](../06-modules/base-2jp/kelas-x/semester-1/X-S1-P18_showcase-refleksi-s1.md) |
 
 ### Blok B
 
@@ -418,7 +418,7 @@ Gate menuju S2 web — jika lemah flowchart, remedial sebelum S2-P01.
 
 ### Blok A
 
-| Kode | XII-S6-P18 · 2 JP · [modul](../06-modules/kelas-xii/semester-6/XII-S6-P18_refleksi-lulusan.md) |
+| Kode | XII-S6-P18 · 2 JP · [modul](../06-modules/base-2jp/kelas-xii/semester-6/XII-S6-P18_refleksi-lulusan.md) |
 | Konteks | **Pertemuan 18/18 — penutup CPLF** |
 
 ### Blok B
@@ -465,7 +465,7 @@ Progress Card final · bukan ujian TEC · dokumentasi arsip madrasah.
 
 ### Blok A
 
-| Kode | X-S2-P18 · 2 JP · [modul](../06-modules/kelas-x/semester-2/X-S2-P18_portofolio-tahun-x.md) |
+| Kode | X-S2-P18 · 2 JP · [modul](../06-modules/base-2jp/kelas-x/semester-2/X-S2-P18_portofolio-tahun-x.md) |
 | Unit | X2.8 — penutup **tahun X** |
 
 ### Blok B
@@ -507,7 +507,7 @@ Progress Card + narasi — arsip CPLF; hindari nilai ranking kecepatan.
 
 ### Blok A
 
-| Kode | XI-S3-P15 · 2 JP · [modul](../06-modules/kelas-xi/semester-3/XI-S3-P15_project-s3-demo-peer.md) |
+| Kode | XI-S3-P15 · 2 JP · [modul](../06-modules/base-2jp/kelas-xi/semester-3/XI-S3-P15_project-s3-demo-peer.md) |
 
 ### Blok B
 
@@ -539,7 +539,7 @@ Jembatan ke **P16 code review** formal · BRG-03 setelah P10.
 
 ### Blok A
 
-| Kode | XI-S3-P16 · 2 JP · [modul](../06-modules/kelas-xi/semester-3/XI-S3-P16_code-review-kualitas.md) |
+| Kode | XI-S3-P16 · 2 JP · [modul](../06-modules/base-2jp/kelas-xi/semester-3/XI-S3-P16_code-review-kualitas.md) |
 
 ### Blok B
 
@@ -574,7 +574,7 @@ Pola sama dengan X-S2-P15 / XI-S4-P16 — persiapan **Git review** S4.
 
 ### Blok A
 
-| Kode | XI-S3-P18 · 2 JP · [modul](../06-modules/kelas-xi/semester-3/XI-S3-P18_showcase-refleksi-s3.md) |
+| Kode | XI-S3-P18 · 2 JP · [modul](../06-modules/base-2jp/kelas-xi/semester-3/XI-S3-P18_showcase-refleksi-s3.md) |
 
 ### Blok B
 
@@ -605,7 +605,7 @@ Pola sama dengan X-S2-P15 / XI-S4-P16 — persiapan **Git review** S4.
 
 ### Blok A
 
-| Kode | XI-S4-P18 · 2 JP · [modul](../06-modules/kelas-xi/semester-4/XI-S4-P18_portofolio-tahun-xi.md) |
+| Kode | XI-S4-P18 · 2 JP · [modul](../06-modules/base-2jp/kelas-xi/semester-4/XI-S4-P18_portofolio-tahun-xi.md) |
 | Unit | XI4.8 — penutup **tahun XI** |
 
 ### Blok B
@@ -640,7 +640,7 @@ Pola sama dengan X-S2-P15 / XI-S4-P16 — persiapan **Git review** S4.
 
 ### Blok A
 
-| Kode | XII-S5-P18 · 2 JP · [modul](../06-modules/kelas-xii/semester-5/XII-S5-P18_showcase-refleksi-s5.md) |
+| Kode | XII-S5-P18 · 2 JP · [modul](../06-modules/base-2jp/kelas-xii/semester-5/XII-S5-P18_showcase-refleksi-s5.md) |
 
 ### Blok B
 
@@ -675,7 +675,7 @@ Pola sama dengan X-S2-P15 / XI-S4-P16 — persiapan **Git review** S4.
 
 ### Blok A
 
-| Kode | X-S2-P17 · 2 JP · [modul](../06-modules/kelas-x/semester-2/X-S2-P17_presentasi-s2.md) |
+| Kode | X-S2-P17 · 2 JP · [modul](../06-modules/base-2jp/kelas-x/semester-2/X-S2-P17_presentasi-s2.md) |
 
 ### Blok B
 
@@ -706,7 +706,7 @@ Lanjut §12 portofolio tahun X.
 
 ### Blok A
 
-| Kode | XI-S4-P17 · 2 JP · [modul](../06-modules/kelas-xi/semester-4/XI-S4-P17_presentasi-retrospektif.md) |
+| Kode | XI-S4-P17 · 2 JP · [modul](../06-modules/base-2jp/kelas-xi/semester-4/XI-S4-P17_presentasi-retrospektif.md) |
 
 ### Blok B
 
@@ -737,7 +737,7 @@ Preview §16 portofolio XI · XII ML.
 
 ### Blok A
 
-| Kode | XII-S6-P17 · 2 JP · [modul](../06-modules/kelas-xii/semester-6/XII-S6-P17_showcase-akhir.md) |
+| Kode | XII-S6-P17 · 2 JP · [modul](../06-modules/base-2jp/kelas-xii/semester-6/XII-S6-P17_showcase-akhir.md) |
 
 ### Blok B
 

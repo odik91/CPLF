@@ -24,8 +24,8 @@ Urutan **P01 → P04 → P13** disarankan. Jika semester sudah berjalan, P13 bis
 
 | | |
 |-|-|
-| **Modul** | [X-S1-P01_masalah-sebelum-solusi.md](../../06-modules/kelas-x/semester-1/X-S1-P01_masalah-sebelum-solusi.md) |
-| **Materi guru** | [X-S1-P01_materi](../../06-modules/materi-pendukung/kelas-x/semester-1/X-S1-P01_masalah-sebelum-solusi.md) |
+| **Modul** | [X-S1-P01_masalah-sebelum-solusi.md](../../06-modules/base-2jp/kelas-x/semester-1/X-S1-P01_masalah-sebelum-solusi.md) |
+| **Materi guru** | [X-S1-P01_materi](../../06-modules/materi-pendukung/base-2jp/kelas-x/semester-1/X-S1-P01_masalah-sebelum-solusi.md) |
 | **EXP/PRJ** | — |
 | **Live code?** | Tidak / minimal |
 
@@ -45,8 +45,8 @@ Urutan **P01 → P04 → P13** disarankan. Jika semester sudah berjalan, P13 bis
 
 | | |
 |-|-|
-| **Modul** | [X-S1-P04_robot-mie-algoritma.md](../../06-modules/kelas-x/semester-1/X-S1-P04_robot-mie-algoritma.md) |
-| **Materi guru** | [X-S1-P04_materi](../../06-modules/materi-pendukung/kelas-x/semester-1/X-S1-P04_robot-mie-algoritma.md) |
+| **Modul** | [X-S1-P04_robot-mie-algoritma.md](../../06-modules/base-2jp/kelas-x/semester-1/X-S1-P04_robot-mie-algoritma.md) |
+| **Materi guru** | [X-S1-P04_materi](../../06-modules/materi-pendukung/base-2jp/kelas-x/semester-1/X-S1-P04_robot-mie-algoritma.md) |
 | **Experience** | [EXP_01](../../07-experience_library/EXP_01_A_Teh_Manis.md) (varian robot mie) |
 | **Live code?** | Opsional akhir (pseudocode → JS ringan) |
 
@@ -66,8 +66,8 @@ Urutan **P01 → P04 → P13** disarankan. Jika semester sudah berjalan, P13 bis
 
 | | |
 |-|-|
-| **Modul** | [X-S1-P13_error-debugging.md](../../06-modules/kelas-x/semester-1/X-S1-P13_error-debugging.md) |
-| **Materi guru** | [X-S1-P13_materi](../../06-modules/materi-pendukung/kelas-x/semester-1/X-S1-P13_error-debugging.md) |
+| **Modul** | [X-S1-P13_error-debugging.md](../../06-modules/base-2jp/kelas-x/semester-1/X-S1-P13_error-debugging.md) |
+| **Materi guru** | [X-S1-P13_materi](../../06-modules/materi-pendukung/base-2jp/kelas-x/semester-1/X-S1-P13_error-debugging.md) |
 | **EXP/PRJ** | — |
 | **Prasyarat ideal** | Sudah sentuh JS (P08–P12); jika belum, guru demo error di console |
 

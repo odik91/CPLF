@@ -40,9 +40,9 @@ KELAS_LABEL = {
 
 @dataclass(frozen=True)
 class Track:
-    """Jalur modul → output RPP (base-4jp aktif, base-2jp arsip, legacy tanpa prefix)."""
+    """Jalur modul → output RPP (base-4jp aktif · base-2jp arsip)."""
 
-    name: str  # "" | "base-4jp" | "base-2jp"
+    name: str  # "base-4jp" | "base-2jp"
     mod_root: Path
     out_root: Path
 
@@ -50,7 +50,6 @@ class Track:
 TRACKS: tuple[Track, ...] = (
     Track("base-4jp", MOD / "base-4jp", OUT / "base-4jp"),
     Track("base-2jp", MOD / "base-2jp", OUT / "base-2jp"),
-    Track("", MOD, OUT),
 )
 
 
@@ -328,15 +327,8 @@ def build_rpp(modul_path: Path, track: Track) -> str:
 
 
 def iter_modul_files(track: Track) -> list[Path]:
-    if track.name:
-        pattern = "kelas-*/**/*.md"
-        root = track.mod_root
-    else:
-        pattern = "kelas-*/**/*.md"
-        root = track.mod_root
-
     files: list[Path] = []
-    for modul_path in sorted(root.glob(pattern)):
+    for modul_path in sorted(track.mod_root.glob("kelas-*/**/*.md")):
         if modul_path.parts[-1].startswith("00_"):
             continue
         if "materi-pendukung" in modul_path.parts or "materi-ajar" in modul_path.parts:
@@ -377,7 +369,7 @@ def write_indexes_for_root(out_root: Path, label_prefix: str) -> None:
 def write_master_index(count: int) -> None:
     master = [
         "# Indeks Master RPP KBC (per pertemuan)\n\n",
-        "Regenerasi: `python 05-silabus/rpp-kbc/scripts/generate_rpp_kbc.py`\n\n",
+        "Regenerasi: `python3 05-silabus/rpp-kbc/scripts/generate_rpp_kbc.py`\n\n",
         f"**Total:** {count} RPP · Template: [05_RPP_KBC_Template_CPLF.md](../05_RPP_KBC_Template_CPLF.md)\n\n",
         "### base-4jp (aktif · 4 JP)\n\n",
     ]
@@ -388,13 +380,7 @@ def write_master_index(count: int) -> None:
                 master.append(
                     f"- [base-4jp {kelas} semester {sem}](./base-4jp/{kelas}/semester-{sem}/00_Index_RPP_KBC.md)\n"
                 )
-    master.append("\n### Legacy / XI–XII (2 JP per pertemuan)\n\n")
-    for kelas in ("kelas-x", "kelas-xi", "kelas-xii"):
-        for sem in range(1, 7):
-            idx = OUT / kelas / f"semester-{sem}" / "00_Index_RPP_KBC.md"
-            if idx.exists():
-                master.append(f"- [{kelas} semester {sem}](./{kelas}/semester-{sem}/00_Index_RPP_KBC.md)\n")
-    master.append("\n### base-2jp (arsip)\n\n")
+    master.append("\n### base-2jp (arsip · 2 JP)\n\n")
     for kelas in ("kelas-x", "kelas-xi", "kelas-xii"):
         for sem in range(1, 7):
             idx = OUT / "base-2jp" / kelas / f"semester-{sem}" / "00_Index_RPP_KBC.md"
@@ -421,7 +407,6 @@ def main() -> None:
 
     write_indexes_for_root(OUT / "base-4jp", "base-4jp · ")
     write_indexes_for_root(OUT / "base-2jp", "base-2jp · ")
-    write_indexes_for_root(OUT, "")
     write_master_index(count)
     print(f"Generated {count} RPP files under {OUT.relative_to(ROOT)}")
 

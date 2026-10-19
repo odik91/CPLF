@@ -9,7 +9,7 @@
 1. Salin **Blok A** ke RPP sekolah (Dapodik / format KMA).  
 2. Isi **Blok B** dari modul CPLF (kode pertemuan).  
 3. Isi **Blok C–D** dari matriks §6 mapping KBC (dalil disetujui tim agama).  
-4. **Semua pertemuan:** gunakan folder **[rpp-kbc/](./rpp-kbc/README.md)** (108 RPP generate otomatis). Lampiran flagship §1–§20 tetap untuk narasi lebih dalam.
+4. **Semua pertemuan:** gunakan folder **[rpp-kbc/](./rpp-kbc/README.md)** (`base-4jp` aktif + `base-2jp` arsip, generate otomatis). Lampiran flagship §1–§20 tetap untuk narasi lebih dalam.
 
 ---
 
@@ -77,7 +77,7 @@
 | … | Reflect + Transfer | | | **Refleksi + bukti sikap** |
 | … | Exit | | | |
 
-*(Salin baris menit dari file modul `06-modules/kelas-*/semester-*`.)*
+*(Salin baris menit dari file modul `06-modules/base-4jp|base-2jp/kelas-*/semester-*`.)*
 
 ---
 
@@ -111,7 +111,7 @@
 | B | LD · CXII-C1 · Trap: “etika = halaman kosong di akhir” → etika = desain awal |
 | C | Panca: **Sesama** + **Allah** · Indikator: ramah anak, SEL · Tema: amanah data, consent |
 | D | QS An-Nisa 4:58 · QS An-Nur 24:27–29 · HR amanat (verifikasi tim agama) · Refleksi: “1 keputusan etis untuk capstone” · Bukti: template etika 1 halaman |
-| E | Timeline: [XII-S6-P06](../06-modules/kelas-xii/semester-6/XII-S6-P06_etika-privasi-bias.md) — dalil di **Clarify** (consent) & **Reflect** (gotong royong) |
+| E | Timeline: [XII-S6-P06](../06-modules/base-2jp/kelas-xii/semester-6/XII-S6-P06_etika-privasi-bias.md) — dalil di **Clarify** (consent) & **Reflect** (gotong royong) |
 | F | REA, COM + dimensi E2 rubrik etika |
 
 ---
@@ -138,18 +138,18 @@ Gunakan template penuh untuk baris di bawah; pertemuan lain cukup **Blok C–D r
 | Kelas | Kode | Fokus KBC | Modul CPLF | Dalil (usulan — §6 mapping) |
 |-------|------|-----------|------------|------------------------------|
 | X | EXP_10 / spiral | Tabayyun, AI partner | [EXP_10](../07-experience_library/EXP_10_ChatGPT_Salah.md) | QS 17:36 · 39:18 |
-| X | X-S1-P02 | Literasi digital | [materi pendukung](../06-modules/materi-pendukung/kelas-x/semester-1/X-S1-P02_google-jagar-literasi.md) | QS 17:36 · 49:6 |
-| X | X-S1-P15 | Amanah belajar | [kickoff S1](../06-modules/materi-pendukung/kelas-x/semester-1/X-S1-P15_project-s1-kickoff.md) | QS 4:58 · 83:1–3 |
-| X | X-S2-P02 | Ihsan / sesama | [X-S2-P02](../06-modules/kelas-x/semester-2/X-S2-P02_html-semantik-ma.md) | QS 16:90 |
-| X | X-S2-P15 | Gotong royong | [X-S2-P15](../06-modules/kelas-x/semester-2/X-S2-P15_peer-review.md) | QS 49:10 · HR mukmin satu tubuh |
-| X | X-S1-P18 | Refleksi / syukur | [showcase S1](../06-modules/kelas-x/semester-1/X-S1-P18_showcase-refleksi-s1.md) | QS Ali Imran 3:190–191 |
-| XI | XI-S4-P11 | Amanah jejak kerja | [Git dasar](../06-modules/kelas-xi/semester-4/XI-S4-P11_git-dasar.md) | QS 4:58 |
-| XI | XI-S4-P16 | Kejujuran atribusi | [peer + Git](../06-modules/materi-pendukung/kelas-xi/semester-4/XI-S4-P16_peer-review-git.md) | QS 5:2 · 49:12 |
-| XI | XI-S4-P13 | Kickoff + amanah data | [kickoff S4](../06-modules/materi-pendukung/kelas-xi/semester-4/XI-S4-P13_project-s4-kickoff.md) | QS 4:58 |
-| XII | XII-S5-P02 | Adil / bias data | [dataset ML](../06-modules/materi-pendukung/kelas-xii/semester-5/XII-S5-P02_data-bahan-bakar-ml.md) | QS 4:135 · 5:8 |
-| XII | XII-S6-P06 | **Etika wajib** | [P06](../06-modules/kelas-xii/semester-6/XII-S6-P06_etika-privasi-bias.md) | QS 4:58 · 24:27–29 |
-| XII | XII-S6-P07 | Verifikasi AI | [AI partner](../06-modules/materi-pendukung/kelas-xii/semester-6/XII-S6-P07_ai-partner-klarifikasi.md) | QS 17:36 |
-| XII | XII-S6-P18 | Ilmu & identitas | [refleksi lulusan](../06-modules/kelas-xii/semester-6/XII-S6-P18_refleksi-lulusan.md) | QS 20:114 · 58:11 |
+| X | X-S1-P02 | Literasi digital | [materi pendukung](../06-modules/materi-pendukung/base-2jp/kelas-x/semester-1/X-S1-P02_google-jaguar-literasi.md) | QS 17:36 · 49:6 |
+| X | X-S1-P15 | Amanah belajar | [kickoff S1](../06-modules/materi-pendukung/base-2jp/kelas-x/semester-1/X-S1-P15_project-s1-kickoff.md) | QS 4:58 · 83:1–3 |
+| X | X-S2-P02 | Ihsan / sesama | [X-S2-P02](../06-modules/base-2jp/kelas-x/semester-2/X-S2-P02_html-semantik-ma.md) | QS 16:90 |
+| X | X-S2-P15 | Gotong royong | [X-S2-P15](../06-modules/base-2jp/kelas-x/semester-2/X-S2-P15_peer-review.md) | QS 49:10 · HR mukmin satu tubuh |
+| X | X-S1-P18 | Refleksi / syukur | [showcase S1](../06-modules/base-2jp/kelas-x/semester-1/X-S1-P18_showcase-refleksi-s1.md) | QS Ali Imran 3:190–191 |
+| XI | XI-S4-P11 | Amanah jejak kerja | [Git dasar](../06-modules/base-2jp/kelas-xi/semester-4/XI-S4-P11_git-dasar.md) | QS 4:58 |
+| XI | XI-S4-P16 | Kejujuran atribusi | [peer + Git](../06-modules/materi-pendukung/base-2jp/kelas-xi/semester-4/XI-S4-P16_peer-review-git.md) | QS 5:2 · 49:12 |
+| XI | XI-S4-P13 | Kickoff + amanah data | [kickoff S4](../06-modules/materi-pendukung/base-2jp/kelas-xi/semester-4/XI-S4-P13_project-s4-kickoff.md) | QS 4:58 |
+| XII | XII-S5-P02 | Adil / bias data | [dataset ML](../06-modules/materi-pendukung/base-2jp/kelas-xii/semester-5/XII-S5-P02_data-bahan-bakar-ml.md) | QS 4:135 · 5:8 |
+| XII | XII-S6-P06 | **Etika wajib** | [P06](../06-modules/base-2jp/kelas-xii/semester-6/XII-S6-P06_etika-privasi-bias.md) | QS 4:58 · 24:27–29 |
+| XII | XII-S6-P07 | Verifikasi AI | [AI partner](../06-modules/materi-pendukung/base-2jp/kelas-xii/semester-6/XII-S6-P07_ai-partner-klarifikasi.md) | QS 17:36 |
+| XII | XII-S6-P18 | Ilmu & identitas | [refleksi lulusan](../06-modules/base-2jp/kelas-xii/semester-6/XII-S6-P18_refleksi-lulusan.md) | QS 20:114 · 58:11 |
 | XII | PRJ-S6-04 | Jujur, tidak mengarang | [Asisten MA](../08-project/PRJ_XII_S6_04_Asisten_Madrasah.md) | QS 33:70 |
 
 **Kickoff project** (X S1/S2, XI S3/S4): salin baris X-S1-P15 / XI-S4-P13 — tema **amanah** + log klarifikasi AI.
@@ -170,7 +170,7 @@ Gunakan template penuh untuk baris di bawah; pertemuan lain cukup **Blok C–D r
 
 - [05_Mapping_Kurikulum_Berbasis_Cinta.md](./05_Mapping_Kurikulum_Berbasis_Cinta.md)
 - [05_Mapping_Kurikulum_Merdeka.md](./05_Mapping_Kurikulum_Merdeka.md)
-- [00_Panduan_Pertemuan](../06-modules/kelas-x/00_Panduan_Pertemuan.md)
+- [00_Panduan_Pertemuan](../06-modules/base-2jp/kelas-x/00_Panduan_Pertemuan.md)
 - Panduan KBC Kemenag: [PDF resmi](https://cdn.kemenag.go.id/storage/archives/panduan-kurikulum-berbasis-cinta.pdf)
 
 ## Catatan versi

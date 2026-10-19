@@ -112,9 +112,9 @@ Jika jam pelajaran sempit: prioritaskan XII5.1–5.2, 5.6 singkat, lalu XII6.2�
 
 **36 pertemuan × 2 JP (90 menit)** per semester:
 
-- [Semester 5](../06-modules/kelas-xii/semester-5/XII-S5_Index.md) · P01–P18 (data, ML, TF.js)  
-- [Semester 6](../06-modules/kelas-xii/semester-6/XII-S6_Index.md) · P01–P18 (CV, transfer, capstone, etika)  
-- [Panduan JP & blok waktu](../06-modules/kelas-xii/00_Panduan_Pertemuan.md)
+- [Semester 5](../06-modules/base-2jp/kelas-xii/semester-5/XII-S5_Index.md) · P01–P18 (data, ML, TF.js)  
+- [Semester 6](../06-modules/base-2jp/kelas-xii/semester-6/XII-S6_Index.md) · P01–P18 (CV, transfer, capstone, etika)  
+- [Panduan JP & blok waktu](../06-modules/base-2jp/kelas-xii/00_Panduan_Pertemuan.md)
 
 ## Catatan Versi
 

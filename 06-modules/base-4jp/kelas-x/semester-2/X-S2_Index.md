@@ -140,7 +140,7 @@ Pola: `X-S2-Pxx_<slug>.md` di folder ini. Slug usulan:
 
 ## Prinsip pengayaan (wajib)
 
-1. Jangan menyentuh isi `base-2jp` / `06-modules/kelas-x/semester-2` untuk “menyamakan”.  
+1. Jangan menyentuh isi `base-2jp` untuk “menyamakan”.  
 2. Jangan mengulang kurikulum HTML/CSS S1 sebagai “S2 P01–P04”.  
 3. Tiap pertemuan 4JP: ada praktik terkait.  
 4. State S2 = **memori**. Persistensi → S4.

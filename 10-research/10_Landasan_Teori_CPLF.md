@@ -510,7 +510,7 @@ Setelah membaca landasan teori, implementator lanjut ke:
 
 1. [03_Framework_CPLF.md](../03-framework/03_Framework_CPLF.md) — operasional guru  
 2. [05_Capability_Framework_CPLF.md](../05-silabus/05_Capability_Framework_CPLF.md) — kontrak capaian  
-3. [06-modules/kelas-x/](../06-modules/kelas-x/) — modul pertemuan  
+3. [06-modules/kelas-x/](../06-modules/base-2jp/kelas-x/) — modul pertemuan  
 4. [09_Rubrik_Index.md](../09-rubrik/09_Rubrik_Index.md) — penilaian  
 
 ---

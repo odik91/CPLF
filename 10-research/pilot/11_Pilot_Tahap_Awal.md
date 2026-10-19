@@ -56,9 +56,9 @@ Dokumentasi CPLF v0.1 sudah lengkap di kertas (108 modul + 108 materi guru + lan
 
 | P | Mengapa dipilih | Uji komponen CPLF |
 |---|-----------------|-------------------|
-| [P01](../../06-modules/kelas-x/semester-1/X-S1-P01_masalah-sebelum-solusi.md) | Entry tanpa sintaks berat | Identity, problem framing |
-| [P04](../../06-modules/kelas-x/semester-1/X-S1-P04_robot-mie-algoritma.md) | Cognitive Trap klasik | Experience → Concept (EXP_01) |
-| [P13](../../06-modules/kelas-x/semester-1/X-S1-P13_error-debugging.md) | Setelah ada sedikit JS | Error culture, debug |
+| [P01](../../06-modules/base-2jp/kelas-x/semester-1/X-S1-P01_masalah-sebelum-solusi.md) | Entry tanpa sintaks berat | Identity, problem framing |
+| [P04](../../06-modules/base-2jp/kelas-x/semester-1/X-S1-P04_robot-mie-algoritma.md) | Cognitive Trap klasik | Experience → Concept (EXP_01) |
+| [P13](../../06-modules/base-2jp/kelas-x/semester-1/X-S1-P13_error-debugging.md) | Setelah ada sedikit JS | Error culture, debug |
 
 **Alternatif** jika kelas sudah lewat S1: gunakan 3 pertemuan paralel dari semester aktif — pastikan tetap ada **trap + clarify + practice**.
 
@@ -103,7 +103,7 @@ Jika gagal → ulangi 1 pertemuan dengan penyesuaian (pendekkan practice, perkua
 
 ### Fase 3 — Semester / tahun ajaran (setelah Fase 1–2 OK)
 
-Lanjutkan indeks semester penuh ([X-S1_Index](../../06-modules/kelas-x/semester-1/X-S1_Index.md) dst.).
+Lanjutkan indeks semester penuh ([X-S1 2JP arsip](../../06-modules/base-2jp/kelas-x/semester-1/X-S1_Index.md) · [X-S1 4JP aktif](../../06-modules/base-4jp/kelas-x/semester-1/X-S1_Index.md)).
 
 Project minggu P15–P18 **wajib** di pilot semester — CPLF tanpa project = incomplete test.
 

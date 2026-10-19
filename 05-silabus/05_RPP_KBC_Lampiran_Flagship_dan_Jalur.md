@@ -94,7 +94,7 @@ QS Al-Isra 17:36 · HR (verify) tentang memastikan berita — kait verifikasi su
 
 ### Blok E
 
-Ikuti modul [XI-S4-P04](../06-modules/kelas-xi/semester-4/XI-S4-P04_fetch-json.md) + **15 menit closing**: guru demo Express [BRG-04](../06-modules/materi-pendukung/jalur-kelanjutan/BRG-04_HTTP_Fetch_ke_Express.md) — siswa gambar diagram request/response.
+Ikuti modul [XI-S4-P04](../06-modules/base-2jp/kelas-xi/semester-4/XI-S4-P04_fetch-json.md) + **15 menit closing**: guru demo Express [BRG-04](../06-modules/materi-pendukung/jalur-kelanjutan/BRG-04_HTTP_Fetch_ke_Express.md) — siswa gambar diagram request/response.
 
 ### Blok G
 
@@ -113,7 +113,7 @@ Ikuti modul [XI-S4-P04](../06-modules/kelas-xi/semester-4/XI-S4-P04_fetch-json.m
 |------|-----|
 | C | Sesama + Allah · consent · amanah |
 | D | QS An-Nisa 4:58 · An-Nur 24:27–29 |
-| E | [XII-S6-P06](../06-modules/kelas-xii/semester-6/XII-S6-P06_etika-privasi-bias.md) penuh |
+| E | [XII-S6-P06](../06-modules/base-2jp/kelas-xii/semester-6/XII-S6-P06_etika-privasi-bias.md) penuh |
 | G | Capstone wajib template etika sebelum P08 build |
 
 ---

@@ -90,11 +90,17 @@ DOM mendalam, async/fetch, database, TensorFlow.js — itu Kelas XI–XII (spira
 
 ## Modul pertemuan (implementasi)
 
-**36 pertemuan × 2 JP (90 menit)** — timeline menit-per-menit:
+**Jalur aktif — base-4jp:** **34 pertemuan × 4 JP (180 menit)** per semester:
 
-- [Semester 1](../06-modules/kelas-x/semester-1/X-S1_Index.md) · P01–P18  
-- [Semester 2](../06-modules/kelas-x/semester-2/X-S2_Index.md) · P01–P18  
-- [Panduan JP & blok waktu](../06-modules/kelas-x/00_Panduan_Pertemuan.md) (1 JP = 45 menit, Kurikulum Merdeka SMA/MA)
+- [S1 4JP](../06-modules/base-4jp/kelas-x/semester-1/X-S1_Index.md) · P01–P34  
+- [S2 4JP (rencana)](../06-modules/base-4jp/kelas-x/semester-2/X-S2_Index.md)  
+- [Panduan 4JP](../06-modules/base-4jp/kelas-x/00_Panduan_Pertemuan_4JP.md)
+
+**Arsip — base-2jp:** 18 pertemuan × 2 JP (90 menit) per semester:
+
+- [S1 2JP](../06-modules/base-2jp/kelas-x/semester-1/X-S1_Index.md) · P01–P18  
+- [S2 2JP](../06-modules/base-2jp/kelas-x/semester-2/X-S2_Index.md) · P01–P18  
+- [Panduan 2JP](../06-modules/base-2jp/kelas-x/00_Panduan_Pertemuan.md)
 
 ## Catatan Versi
 

@@ -85,7 +85,7 @@ model Tema {
 | Sumber | Field yang diambil |
 |--------|-------------------|
 | `06-modules/kelas-*/semester-*/X-S1-P*.md` | judul, urutan, unit silabus |
-| `05-silabus/rpp-kbc/kelas-*/semester-*/X-S1-P*_RPP_KBC.md` | capabilityCodes, aspekFormatifFokus |
+| `05-silabus/rpp-kbc/base-4jp|base-2jp/kelas-*/semester-*/X-S1-P*_RPP_KBC.md` | capabilityCodes, aspekFormatifFokus |
 | `08-project/08_Project_Bank_Index.md` | prjCodes untuk pertemuan project |
 
 ### 4.2 Script Seed

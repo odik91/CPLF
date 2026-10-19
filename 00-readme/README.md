@@ -28,9 +28,9 @@ CPLF adalah framework pembelajaran untuk menumbuhkan **problem solver**, bukan p
 | Menulis modul ajar | [00_Template_Modul](../06-modules/00_Template_Modul_CPLF.md) |
 | **Materi pendukung guru** | [materi-pendukung](../06-modules/materi-pendukung/README.md) (etika live coding · pengetahuan) |
 | **Materi ajar (siswa + guru lengkap)** | [materi-ajar](../06-modules/materi-ajar/README.md) · 108+8 BRG · `scripts/generate_from_cplf.py` |
-| **Modul pertemuan Kelas X** | [kelas-x](../06-modules/kelas-x/README.md) (36 × 2 JP) |
-| **Modul pertemuan Kelas XI** | [kelas-xi](../06-modules/kelas-xi/README.md) (36 × 2 JP) |
-| **Modul pertemuan Kelas XII** | [kelas-xii](../06-modules/kelas-xii/README.md) (36 × 2 JP) |
+| **Modul pertemuan Kelas X** | [kelas-x](../06-modules/base-2jp/kelas-x/README.md) (36 × 2 JP) |
+| **Modul pertemuan Kelas XI** | [kelas-xi](../06-modules/base-2jp/kelas-xi/README.md) (36 × 2 JP) |
+| **Modul pertemuan Kelas XII** | [kelas-xii](../06-modules/base-2jp/kelas-xii/README.md) (36 × 2 JP) |
 | Experience / Project / Rubrik | [07](../07-experience_library/) · [08](../08-project/) · [09](../09-rubrik/) |
 | **Landasan teori (jurnal)** | [10-research](../10-research/10_Landasan_Teori_CPLF.md) — Bab 1–5 |
 | **Pilot tahap awal** | [10-research/pilot](../10-research/pilot/11_Pilot_Tahap_Awal.md) |
@@ -99,7 +99,7 @@ Research → Review → Freeze → File .md → Implementasi kelas
 - [Experience](../07-experience_library/07_Experience_Library_Index.md) · [Project](../08-project/08_Project_Bank_Index.md) · [Rubrik](../09-rubrik/09_Rubrik_Index.md)
 
 **Belum divalidasi empiris:** proposal penelitian formal *on hold*; jalankan [pilot tahap awal](../10-research/pilot/) dulu.  
-**Modul pertemuan:** [kelas-x](../06-modules/kelas-x/) · [kelas-xi](../06-modules/kelas-xi/) · [kelas-xii](../06-modules/kelas-xii/) — 108 pertemuan.  
+**Modul pertemuan:** [kelas-x](../06-modules/base-2jp/kelas-x/) · [kelas-xi](../06-modules/base-2jp/kelas-xi/) · [kelas-xii](../06-modules/base-2jp/kelas-xii/) — 108 pertemuan.  
 **Materi pendukung guru:** [materi-pendukung](../06-modules/materi-pendukung/) — **108/108 lengkap** (X · XI · XII) + [panduan ML](../06-modules/materi-pendukung/00_Panduan_Guru_ML_TFJS.md) & [CV/etika](../06-modules/materi-pendukung/00_Panduan_Guru_CV_Etika.md) + **[jalur kelanjutan BRG](../06-modules/materi-pendukung/jalur-kelanjutan/)** (ML gate, React, Express).
 
 ## Untuk kepala sekolah / koordinator kurikulum

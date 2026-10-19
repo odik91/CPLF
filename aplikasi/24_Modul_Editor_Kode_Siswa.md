@@ -283,4 +283,4 @@ Worker scoring (dok 10) jalankan test case via subprocess sandbox — **bukan** 
 
 - Materi block editor → [07_Modul_Materi_Pembelajaran.md](./07_Modul_Materi_Pembelajaran.md)
 - Background worker → [10_Modul_Background_Processing_Ujian.md](./10_Modul_Background_Processing_Ujian.md)
-- Modul P13 debugging → [06-modules/kelas-x/semester-1/X-S1-P13_error-debugging.md](../06-modules/kelas-x/semester-1/X-S1-P13_error-debugging.md)
+- Modul P13 debugging (arsip 2JP) → [06-modules/base-2jp/.../X-S1-P13_error-debugging.md](../06-modules/base-2jp/kelas-x/semester-1/X-S1-P13_error-debugging.md) · aktif 4JP: [P20 debugging-vanilla](../06-modules/base-4jp/kelas-x/semester-1/X-S1-P20_debugging-vanilla.md)

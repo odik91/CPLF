@@ -116,9 +116,9 @@ Training model ML, TensorFlow.js mendalam — pengantar konseptual boleh singkat
 
 **36 pertemuan × 2 JP (90 menit)** — timeline menit-per-menit:
 
-- [Semester 3](../06-modules/kelas-xi/semester-3/XI-S3_Index.md) · P01–P18  
-- [Semester 4](../06-modules/kelas-xi/semester-4/XI-S4_Index.md) · P01–P18  
-- [Panduan JP & blok waktu](../06-modules/kelas-xi/00_Panduan_Pertemuan.md)
+- [Semester 3](../06-modules/base-2jp/kelas-xi/semester-3/XI-S3_Index.md) · P01–P18  
+- [Semester 4](../06-modules/base-2jp/kelas-xi/semester-4/XI-S4_Index.md) · P01–P18  
+- [Panduan JP & blok waktu](../06-modules/base-2jp/kelas-xi/00_Panduan_Pertemuan.md)
 
 ## Catatan Versi
 
