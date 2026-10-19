@@ -6,7 +6,7 @@
 
 | Jalur | Path | Pertemuan | Durasi/P | Catatan |
 |-------|------|-----------|----------|---------|
-| **4JP (aktif)** | [base-4jp](../base-4jp/README.md) | S1: **34** · S2: 34 (rencana) | **4 JP (180')** | Pengayaan: 2+2 teori/praktik |
+| **4JP (aktif)** | [base-4jp](../base-4jp/README.md) | S1: **34** · S2: **32** | **4 JP (180')** | Pengayaan: 2+2 teori/praktik |
 | **2JP (arsip)** | [base-2jp](../base-2jp/README.md) | S1+S2: 18×2 | 2 JP (90') | Freeze — **jangan diubah** |
 
 ## Pintu cepat
