@@ -9,7 +9,7 @@ Dipakai saat fokus mengajar / project lain: buka file semester, bukan mengarang 
 | Semester | Kelas | Tema 4JP | Indeks | Materi ajar | Status |
 |---|---|---|---|---|---|
 | **S1** | X | Bernalar + static page (HTML/CSS/JS dasar) | [X-S1_Index](./kelas-x/semester-1/X-S1_Index.md) | [00_Index_Materi_Ajar](../materi-ajar/base-4jp/kelas-x/semester-1/00_Index_Materi_Ajar.md) | **Isi penuh P01–P34** |
-| **S2** | X | Halaman hidup — advance DOM, event, state UI | [X-S2_Index](./kelas-x/semester-2/X-S2_Index.md) | [00_Index_Materi_Ajar](../materi-ajar/base-4jp/kelas-x/semester-2/00_Index_Materi_Ajar.md) (stub) | **Terencana 32P** |
+| **S2** | X | Halaman hidup — advance DOM, event, state UI | [X-S2_Index](./kelas-x/semester-2/X-S2_Index.md) | [00_Index_Materi_Ajar](../materi-ajar/base-4jp/kelas-x/semester-2/00_Index_Materi_Ajar.md) | **32P · P01 isi penuh** |
 | **S3** | XI | SPA ringan / multi-view · arsitektur front | [XI-S3_Index](./kelas-xi/semester-3/XI-S3_Index.md) | Stub di indeks semester | **Terencana** |
 | **S4** | XI | Data, async, spiral BE: lokal → masalah → DB | [XI-S4_Index](./kelas-xi/semester-4/XI-S4_Index.md) | Stub di indeks semester | **Terencana** · arah BE: [00_Spiral_BE](./kelas-xi/00_Spiral_BE_Lokal_ke_DB.md) |
 | **S5** | XII | Data, konsep ML, TF.js dasar | [XII-S5_Index](./kelas-xii/semester-5/XII-S5_Index.md) | Stub di indeks semester | **Terencana** |
