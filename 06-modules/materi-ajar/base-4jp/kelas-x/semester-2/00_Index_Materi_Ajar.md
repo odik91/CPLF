@@ -2,7 +2,7 @@
 
 **Status:** Stub. Modul guru/siswa/bacaan **belum** ditulis.
 
-Rencana 34 pertemuan (blok): [X-S2_Index](../../../base-4jp/kelas-x/semester-2/X-S2_Index.md)
+Rencana **32** pertemuan (blok): [X-S2_Index](../../../base-4jp/kelas-x/semester-2/X-S2_Index.md)
 
 Peta 3 tahun: [00_Index_Journey_S1-S6](../../../base-4jp/00_Index_Journey_S1-S6.md)
 

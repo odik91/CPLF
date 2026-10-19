@@ -2,7 +2,7 @@
 
 **Tema:** SPA ringan / **multi-view** · arsitektur front (modul, SoC)  
 **Prasyarat:** S2 4JP (DOM, event, list, state di memori)  
-**Pertemuan:** **34** × **4 JP** · pola sama S1  
+**Pertemuan:** **32** × **4 JP** (target · sama S2) · detail blok disesuaikan saat penulisan  
 **Arsip 2JP:** [XI-S3 18×2JP](../../../kelas-xi/semester-3/XI-S3_Index.md) — **jangan disalin sebagai silabus 4JP** (DOM dasar sudah di S2).  
 **Peta:** [S1–S6](../../00_Index_Journey_S1-S6.md) · [Panduan 4JP](../../kelas-x/00_Panduan_Pertemuan_4JP.md)
 

@@ -146,7 +146,7 @@ Siswa dapat:
 
 Materi ajar: [00_Index_Materi_Ajar](../../../materi-ajar/base-4jp/kelas-x/semester-1/00_Index_Materi_Ajar.md) · RPP KBC: [00_Index_RPP_KBC](../../../../05-silabus/rpp-kbc/base-4jp/kelas-x/semester-1/00_Index_RPP_KBC.md)
 
-**Lanjut:** [S2 — halaman hidup (34 P terencana)](../semester-2/X-S2_Index.md) · [Peta S1–S6](../../00_Index_Journey_S1-S6.md)
+**Lanjut:** [S2 — halaman hidup (32 P terencana)](../semester-2/X-S2_Index.md) · [Peta S1–S6](../../00_Index_Journey_S1-S6.md)
 
 ---
 

@@ -2,7 +2,7 @@
 
 **Tema:** Data, async, kolaborasi · **spiral BE:** lokal → masalah → DB sungguhan  
 **Prasyarat:** S3 4JP (multi-view, state, SoC)  
-**Pertemuan:** **34** × **4 JP**  
+**Pertemuan:** **32** × **4 JP** (target · sama S2) · detail blok disesuaikan saat penulisan  
 **Arsip 2JP:** [XI-S4 18×2JP](../../../kelas-xi/semester-4/XI-S4_Index.md)  
 **Spiral BE (wajib dibaca sebelum menulis modul Blok 3):** [00_Spiral_BE_Lokal_ke_DB.md](../00_Spiral_BE_Lokal_ke_DB.md)  
 **Peta:** [S1–S6](../../00_Index_Journey_S1-S6.md)

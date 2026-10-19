@@ -2,7 +2,7 @@
 
 **Tema:** Data sebagai bahan ML · konsep ML · TensorFlow.js dasar (browser)  
 **Prasyarat:** S4 4JP (data, async, framing)  
-**Pertemuan:** **34** × **4 JP**  
+**Pertemuan:** **32** × **4 JP** (target · sama S2) · detail blok disesuaikan saat penulisan  
 **Arsip 2JP:** [XII-S5 18×2JP](../../../kelas-xii/semester-5/XII-S5_Index.md)  
 **Peta:** [S1–S6](../../00_Index_Journey_S1-S6.md)
 

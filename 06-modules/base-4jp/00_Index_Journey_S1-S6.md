@@ -1,6 +1,6 @@
 # Peta Journey Base 4JP — S1–S6
 
-**Status:** Indeks terencana · **S1 isi penuh** · **S2–S6: blok + 34 P, modul belum ditulis**  
+**Status:** Indeks terencana · **S1 isi penuh (34P)** · **S2: 32P terencana** · **S3–S6: target 32P, detail saat penulisan**  
 **Jalur:** `base-4jp` saja — **jangan** menyamakan dengan freeze `base-2jp`.  
 **Keputusan:** [00_Evaluasi_Roadmap_4JP.md](./00_Evaluasi_Roadmap_4JP.md)
 
@@ -9,7 +9,7 @@ Dipakai saat fokus mengajar / project lain: buka file semester, bukan mengarang 
 | Semester | Kelas | Tema 4JP | Indeks | Materi ajar | Status |
 |---|---|---|---|---|---|
 | **S1** | X | Bernalar + static page (HTML/CSS/JS dasar) | [X-S1_Index](./kelas-x/semester-1/X-S1_Index.md) | [00_Index_Materi_Ajar](../materi-ajar/base-4jp/kelas-x/semester-1/00_Index_Materi_Ajar.md) | **Isi penuh P01–P34** |
-| **S2** | X | Halaman hidup — advance DOM, event, state UI | [X-S2_Index](./kelas-x/semester-2/X-S2_Index.md) | [00_Index_Materi_Ajar](../materi-ajar/base-4jp/kelas-x/semester-2/00_Index_Materi_Ajar.md) (stub) | **Terencana** |
+| **S2** | X | Halaman hidup — advance DOM, event, state UI | [X-S2_Index](./kelas-x/semester-2/X-S2_Index.md) | [00_Index_Materi_Ajar](../materi-ajar/base-4jp/kelas-x/semester-2/00_Index_Materi_Ajar.md) (stub) | **Terencana 32P** |
 | **S3** | XI | SPA ringan / multi-view · arsitektur front | [XI-S3_Index](./kelas-xi/semester-3/XI-S3_Index.md) | Stub di indeks semester | **Terencana** |
 | **S4** | XI | Data, async, spiral BE: lokal → masalah → DB | [XI-S4_Index](./kelas-xi/semester-4/XI-S4_Index.md) | Stub di indeks semester | **Terencana** · arah BE: [00_Spiral_BE](./kelas-xi/00_Spiral_BE_Lokal_ke_DB.md) |
 | **S5** | XII | Data, konsep ML, TF.js dasar | [XII-S5_Index](./kelas-xii/semester-5/XII-S5_Index.md) | Stub di indeks semester | **Terencana** |
@@ -20,10 +20,12 @@ Arsip 2JP (18×2JP, **jangan diubah**): [kelas-x S2](../kelas-x/semester-2/X-S2_
 ## Pola tiap semester (terkunci)
 
 ```text
-34 pertemuan × 4 JP (180') · ~2 JP teori + ~2 JP praktik
-4 blok ≈ S1: fondasi → keterampilan → sintesis → project (P23–P34)
+S1 historis: 34 × 4 JP · S2+: 32 × 4 JP (180') · ~2 JP teori + ~2 JP praktik
+4 blok ≈ fondasi → keterampilan → sintesis → project
+  S1 project: P23–P34 · S2 project: P21–P32 (12 slot)
 Bloom C1–C6 + kolom Bloom di timeline · guru mandiri
 Skill folder = latihan/lembar, bukan project baru (kecuali kickoff)
+Kalender: satu fokus/pertemuan — jangan kejar 2 materi sekaligus
 ```
 
 ## Geser media (jangan salah jalur)

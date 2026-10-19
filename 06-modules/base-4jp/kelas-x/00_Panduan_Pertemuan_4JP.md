@@ -11,8 +11,8 @@
 | 1 JP | 45 menit |
 | 1 pertemuan base-4jp | **4 JP = 180 menit** |
 | 1 minggu | **2 pertemuan** |
-| Semester 1 | **34 pertemuan** |
-| Semester 2–6 (rencana) | **34 pertemuan** masing-masing · lihat [Peta S1–S6](../00_Index_Journey_S1-S6.md) |
+| Semester 1 | **34 pertemuan** (historis · sudah diisi) |
+| Semester 2+ (rencana) | **32 pertemuan** · kalender realistis · lihat [Peta S1–S6](../00_Index_Journey_S1-S6.md) |
 
 Fondasi capaian kognitif: [00_Taksonomi_Bloom_CPLF_4JP.md](./00_Taksonomi_Bloom_CPLF_4JP.md)
 

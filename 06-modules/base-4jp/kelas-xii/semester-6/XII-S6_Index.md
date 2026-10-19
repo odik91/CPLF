@@ -2,7 +2,7 @@
 
 **Tema:** Computer vision ringan · transfer learning · nilai & etika · capstone  
 **Prasyarat:** S5 4JP (data, tfjs mini, batasan)  
-**Pertemuan:** **34** × **4 JP**  
+**Pertemuan:** **32** × **4 JP** (target · sama S2) · detail blok disesuaikan saat penulisan  
 **Arsip 2JP:** [XII-S6 18×2JP](../../../kelas-xii/semester-6/XII-S6_Index.md)  
 **Peta:** [S1–S6](../../00_Index_Journey_S1-S6.md)
 

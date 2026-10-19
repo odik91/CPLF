@@ -11,9 +11,15 @@
 |---|-----------|-----|
 | 1 | **BE** | Mulai **lokal** (localStorage/JSON) → saat lokal tidak layak, pindah **DB sungguhan** sebagai *solusi atas masalah* (filosofi P01: masalah sebelum solusi) |
 | 2 | **Geser media X** | **S1:** JS dasar + HTML + CSS → **static page** · **S2:** advance DOM |
-| 3 | **Jumlah** | **34 pertemuan** × **4 JP** (180') · 2 pertemuan/minggu |
+| 3 | **Jumlah** | S1: **34** × 4 JP (historis) · **S2+:** **32** × 4 JP (180') — kalender realistis (kegiatan/libur) |
 | 4 | **Pola pertemuan** | ~**2 JP teori** + ~**2 JP praktik terkait** · bridging digabung |
 | 5 | **Pemisahan** | `base-2jp` = arsip 18×2JP · `base-4jp` = pengayaan (lebih dalam, bukan ganti filosofi) |
+
+### Amend (2026-10-19)
+
+| # | Keputusan | Isi |
+|---|-----------|-----|
+| 3b | **Jumlah S2+** | **32** pertemuan/semester — buffer kegiatan & libur; hindari “kejar 2 materi/pertemuan”. S1 tetap 34 (sudah diisi). Project tetap **12** slot (S2: P21–P32). |
 
 ---
 
@@ -34,7 +40,8 @@ Pengayaan 4JP didokumentasikan di folder ini.
 ```text
 1 pertemuan = 4 JP = 180 menit
 1 minggu    = 2 pertemuan = 8 JP
-S1          = 34 pertemuan (±17 minggu efektif)
+S1          = 34 pertemuan (historis · sudah diisi)
+S2+         = 32 pertemuan (±16 minggu efektif · buffer kegiatan/libur)
 ```
 
 Pola default:
@@ -50,7 +57,7 @@ Orientation/Compass
 
 ## Peta journey pengayaan (base-4jp)
 
-Indeks operasional (34 P per semester): [00_Index_Journey_S1-S6.md](./00_Index_Journey_S1-S6.md)
+Indeks operasional: [00_Index_Journey_S1-S6.md](./00_Index_Journey_S1-S6.md) · S1=34P · S2+=32P
 
 | Semester | Fokus pengayaan | Media | Indeks 4JP |
 |----------|-----------------|-------|------------|

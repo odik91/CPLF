@@ -10,7 +10,8 @@
 |------|-------|
 | 1 pertemuan | **4 JP = 180 menit** |
 | 1 minggu | **2 pertemuan = 8 JP** |
-| Semester 1 | **34 pertemuan** |
+| Semester 1 | **34 pertemuan** (historis) |
+| Semester 2+ | **32 pertemuan** (kalender realistis) |
 | Pola isi | **~2 JP teori + ~2 JP praktik terkait** |
 | Bridging | Digabung dalam pertemuan yang sama |
 
@@ -29,7 +30,7 @@ Fondasi: [Learning Compass](../../03-framework/03_Learning_Compass_CPLF.md) · [
 - [Peta journey S1–S6](./00_Index_Journey_S1-S6.md) ← **buka ini dulu** jika lama tidak menulis materi
 - [Evaluasi & keputusan](./00_Evaluasi_Roadmap_4JP.md)
 - [S1 — isi penuh](./kelas-x/semester-1/X-S1_Index.md)
-- [S2 — 34 P terencana](./kelas-x/semester-2/X-S2_Index.md)
+- [S2 — 32 P terencana](./kelas-x/semester-2/X-S2_Index.md)
 - [S3 XI — terencana](./kelas-xi/semester-3/XI-S3_Index.md)
 - [S4 XI — terencana + spiral BE](./kelas-xi/semester-4/XI-S4_Index.md)
 - [S5 XII — terencana](./kelas-xii/semester-5/XII-S5_Index.md)
