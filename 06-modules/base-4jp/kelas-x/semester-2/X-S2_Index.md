@@ -102,16 +102,23 @@ Irama sama S1 (12 pertemuan project) agar guru tidak lupa proses. Isi teknis: **
 
 | Rentang | Status |
 |---------|--------|
-| P01–P32 | **Terencana di indeks ini** · modul/guru/siswa/bacaan **belum** |
-| Materi ajar | Stub: [00_Index_Materi_Ajar](../../../materi-ajar/base-4jp/kelas-x/semester-2/00_Index_Materi_Ajar.md) |
+| P01 | **Isi penuh** (modul + guru/siswa/bacaan/pendukung + skill-js) · sketch bacaan menyusul |
+| P02–P32 | **Terencana** · modul belum |
+| Materi ajar | [00_Index_Materi_Ajar](../../../materi-ajar/base-4jp/kelas-x/semester-2/00_Index_Materi_Ajar.md) |
 
-### Nama file modul (saat ditulis nanti)
+### File modul
+
+| P | Modul |
+|---|-------|
+| 01 | [P01](./X-S2-P01_recall-dom-query.md) |
+
+### Nama file modul (lanjutan)
 
 Pola: `X-S2-Pxx_<slug>.md` di folder ini. Slug usulan:
 
 | P | Slug |
 |---|------|
-| 01 | `recall-dom-query` |
+| 01 | `recall-dom-query` *(sudah)* |
 | 02 | `dom-update-aman` |
 | 03 | `event-klik` |
 | 04 | `event-input` |
