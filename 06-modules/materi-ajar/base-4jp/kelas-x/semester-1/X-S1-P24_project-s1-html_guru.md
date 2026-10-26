@@ -1,7 +1,8 @@
 # Materi Ajar Guru — X-S1-P24
 ## Project S1: Build HTML sesuai Spek (4JP)
 
-> File guru lengkap. Jangan dibagikan apa adanya.
+> File guru lengkap. Jangan dibagikan apa adanya.  
+> Naskah yang dibaca di kelas (layar, papan, ucapan, contoh kantin): [X-S1-P24-P32_naskah-presentasi-guru.md](./X-S1-P24-P32_naskah-presentasi-guru.md) · bagian **P24**.
 
 ## Metadata & batas
 

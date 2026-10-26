@@ -1,7 +1,8 @@
 # Materi Ajar Guru — X-S1-P27
 ## Project S1: JS Fitur 2 / Polish Logika (4JP)
 
-> File guru lengkap. Jangan dibagikan apa adanya.
+> File guru lengkap. Jangan dibagikan apa adanya.  
+> Naskah yang dibaca di kelas: [X-S1-P24-P32_naskah-presentasi-guru.md](./X-S1-P24-P32_naskah-presentasi-guru.md) · bagian **P27**.
 
 ## A. Modul ringkas di kelas
 

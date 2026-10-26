@@ -20,6 +20,8 @@ Setiap `*_guru.md` harus **mandiri dipakai mengajar**, pola P01:
 | CSS skill + contoh file | [00_Bacaan_Panduan_CSS.md](./00_Bacaan_Panduan_CSS.md) · folder [skill-css/](./skill-css/) | **Setelah skill HTML / P07** · **sebaiknya sebelum atau saat P08** |
 | JS latihan vanilla | folder [skill-js/](./skill-js/) | **Mulai P13** · Node.js atau Console browser · komentar hanya definisi/panduan |
 
+Naskah presentasi proyek P24–P32 (ucapan, layar, contoh kantin): [X-S1-P24-P32_naskah-presentasi-guru.md](./X-S1-P24-P32_naskah-presentasi-guru.md).
+
 | P | File |
 |---|------|
 | 01 | [guru](./X-S1-P01_masalah-sebelum-solusi_guru.md) · [siswa](./X-S1-P01_masalah-sebelum-solusi_siswa.md) · [bacaan](./X-S1-P01_bacaan-mimi-robi.md) |

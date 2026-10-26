@@ -1,7 +1,8 @@
 # Materi Ajar Guru — X-S1-P29
 ## Project S1: Peer Review berdasar Spek (4JP)
 
-> File guru lengkap. Jangan dibagikan apa adanya.
+> File guru lengkap. Jangan dibagikan apa adanya.  
+> Naskah yang dibaca di kelas: [X-S1-P24-P32_naskah-presentasi-guru.md](./X-S1-P24-P32_naskah-presentasi-guru.md) · bagian **P29**.
 
 ## A. Modul ringkas di kelas
 

@@ -1,7 +1,8 @@
 # Materi Ajar Guru — X-S1-P30
 ## Project S1: Revisi Prioritas (4JP)
 
-> File guru lengkap. Jangan dibagikan apa adanya.
+> File guru lengkap. Jangan dibagikan apa adanya.  
+> Naskah yang dibaca di kelas: [X-S1-P24-P32_naskah-presentasi-guru.md](./X-S1-P24-P32_naskah-presentasi-guru.md) · bagian **P30**.
 
 ## A. Modul ringkas di kelas
 

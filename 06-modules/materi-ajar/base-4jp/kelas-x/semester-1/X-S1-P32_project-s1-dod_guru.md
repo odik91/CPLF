@@ -1,7 +1,8 @@
 # Materi Ajar Guru — X-S1-P32
 ## Project S1: Uji Final DoD (4JP)
 
-> File guru lengkap. Jangan dibagikan apa adanya.
+> File guru lengkap. Jangan dibagikan apa adanya.  
+> Naskah yang dibaca di kelas: [X-S1-P24-P32_naskah-presentasi-guru.md](./X-S1-P24-P32_naskah-presentasi-guru.md) · bagian **P32**.
 
 ## A. Modul ringkas di kelas
 
