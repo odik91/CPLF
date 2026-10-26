@@ -3,7 +3,8 @@
 
 > File guru lengkap. Jangan dibagikan apa adanya.  
 > Naskah yang dibaca di kelas: [X-S1-P24-P32_naskah-presentasi-guru.md](./X-S1-P24-P32_naskah-presentasi-guru.md) · bagian **P23**.  
-> Demo spek (jangan dijadikan pekerjaan siswa): [contoh-spek-kantin.md](./skill-js/p23-project-kickoff/contoh-spek-kantin.md). Siswa mengisi `spek.md` di salinan folder, lalu menghapus file demo itu.
+> Referensi siswa (mereka simpan, bukan mereka kumpulkan): [contoh-spek-lengkap.md](./skill-js/p23-project-kickoff/contoh-spek-lengkap.md).  
+> Versi ringkas brief B untuk diproyeksikan: [contoh-spek-kantin.md](./skill-js/p23-project-kickoff/contoh-spek-kantin.md).
 
 ## Metadata & batas
 

@@ -4,7 +4,8 @@
 
 **Modul:** [X-S1-P23_project-s1-kickoff.md](../../../../base-4jp/kelas-x/semester-1/X-S1-P23_project-s1-kickoff.md)  
 **Bacaan:** [X-S1-P23_bacaan-mimi-robi.md](./X-S1-P23_bacaan-mimi-robi.md)  
-**Kerangka:** [skill-js/p23-project-kickoff/](./skill-js/p23-project-kickoff/)
+**Kerangka:** [skill-js/p23-project-kickoff/](./skill-js/p23-project-kickoff/)  
+**Referensi spek terisi:** [contoh-spek-lengkap.md](./skill-js/p23-project-kickoff/contoh-spek-lengkap.md) — buka ini kalau suatu bagian belum jelas. Jangan dikumpulkan.
 
 ## Tujuan
 
@@ -37,8 +38,8 @@ Jangan menulis spek kedua di handout ini. Handout hanya pengingat.
 
 1. Salin [p23-project-kickoff](./skill-js/p23-project-kickoff/).  
 2. Ganti nama folder, misalnya `project-s1-kegiatan`.  
-3. Hapus `contoh-spek-kantin.md` dari salinanmu.  
-4. Isi `spek.md`.  
+3. Simpan `contoh-spek-lengkap.md`. Baca spek brief-mu di sana sebelum bertanya.  
+4. Isi `spek.md` dengan kalimatmu.  
 5. Samakan teks awal dan label tombol di `index.html` dengan spek. Jangan menambah tombol kedua.  
 6. Biarkan `style.css` / `script.js` seperti kerangka — isi penuh di P25–P27.
 
@@ -55,7 +56,7 @@ Rencana P24–P32 sudah ada di `spek.md`. Isi kalimat AC-mu; jangan membuat renc
 
 - [ ] `spek.md` terisi (masalah, jalur A/B, AC 5–7 berupa kalimat)  
 - [ ] `id` di HTML sama dengan tabel alamat  
-- [ ] `contoh-spek-kantin.md` tidak ada di folder salinan  
+- [ ] Kalimat AC milik brief sendiri (lihat contoh hanya sebagai bentuk)  
 - [ ] CSS/JS fitur belum diselesaikan  
 - [ ] Belum mengklaim “project selesai”
 

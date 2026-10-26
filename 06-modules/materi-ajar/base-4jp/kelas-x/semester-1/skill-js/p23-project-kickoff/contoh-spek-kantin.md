@@ -1,10 +1,10 @@
-# DEMO GURU — Spek kantin (brief B)
+# Contoh singkat — Spek kantin (brief B, jalur A)
 
-Jangan dikumpulkan. Jangan disalin jika brief-mu A atau C.  
-Setelah menyalin folder kickoff, **hapus file ini** dari salinanmu.  
-Pola tabelnya yang ditiru. Kalimat mie hanya untuk demo ini.
+Simpan file ini. Jangan dikumpulkan sebagai pekerjaanmu.  
+Penjelasan tiap bagian, brief A, brief C, dan jalur B ada di [contoh-spek-lengkap.md](./contoh-spek-lengkap.md).  
+Kalimat mie hanya untuk brief B. Brief A dan C memakai fakta mereka sendiri, polanya sama.
 
-File ini adalah kontrak yang sama dengan halaman contoh P24–P27 dan demo uji P28.
+Kontrak di bawah ini sama dengan halaman contoh P24–P27.
 
 ## Identitas
 

@@ -222,7 +222,7 @@ Yang gagal uji: kembalikan, minta kalimat sebelum/sesudah. 8 menit.
 
 ### 95–120 · Setup + I do
 
-Siswa menyalin folder `p23-project-kickoff`, mengganti nama, **menghapus `contoh-spek-kantin.md` dari salinan**. Anda tetap membuka file itu di komputer guru.
+Siswa menyalin folder `p23-project-kickoff` dan mengganti nama. `contoh-spek-lengkap.md` tetap di salinan sebagai referensi. Yang diisi dan dikumpulkan adalah `spek.md` mereka.
 
 I do pada template kosong, isi hanya tiga sel sambil bersuara, lalu buka demo lengkap:
 

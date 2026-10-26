@@ -4,7 +4,7 @@ Ini satu-satunya kontrak. Jangan menulis spek kedua di kertas lain.
 Kalimat yang kamu isi di AC 5–7 itulah yang nanti muncul di halaman.  
 Empat alamat di tabel bawah dikunci hari ini. Setelah pulang, `id` tidak diganti.
 
-Hapus `contoh-spek-kantin.md` dari folder salinanmu. File itu demo guru (brief kantin).
+Kalau suatu bagian belum jelas, buka [contoh-spek-lengkap.md](./contoh-spek-lengkap.md). File itu referensi. Yang dikumpulkan tetap `spek.md` ini, dengan kalimatmu sendiri.
 
 ## Identitas
 
@@ -76,7 +76,7 @@ Salin kalimat persis. Jangan menulis “berubah” atau “menarik”.
 | 5 | Perilaku | Sebelum klik apa pun, `#pesan` berisi: “…” | Buka halaman, jangan klik |
 | 6 | Perilaku | Setelah klik `#tombolUtama` satu kali, `#pesan` berisi: “…” | Klik sekali, baca |
 | 7 | Perilaku | **Jalur A:** setelah klik `#tombolCadangan`, `#sorotanCadangan` berisi: “…”. **Jalur B:** klik kedua pada `#tombolUtama`, `#pesan` berisi: “…”. | Klik, baca elemen yang disebut |
-| 8 | Perilaku | Setelah AC 7, klik `#tombolUtama` lagi. `#pesan` tetap berisi kalimat AC 6. | Regresi |
+| 8 | Perilaku | **Jalur A:** setelah AC 7, klik `#tombolUtama` lagi. `#pesan` tetap berisi kalimat AC 6. **Jalur B:** muat ulang halaman, klik pertama lagi menghasilkan kalimat AC 6, klik kedua menghasilkan kalimat AC 7. | Regresi |
 | 9 | Sopan | `<html lang="id">`. Label tombol sama dengan tabel alamat. Saat Tab, tombol yang aktif terlihat. | Tab, baca label |
 
 AC 4 dikerjakan di P25. AC 5–6 di P26. AC 7–8 di P27. AC 9 di P31. Hari ini cukup **menulis** kalimatnya.
@@ -113,5 +113,5 @@ Selesai berarti lima bidang ini. AC di atas adalah buktinya. Bidang yang belum l
 - [ ] Kalimat AC 6 sudah utuh (bukan kata “berubah”)
 - [ ] Label tombol di tabel = yang tertulis di `index.html`
 - [ ] `id` di tabel = `id` di `index.html`
-- [ ] `contoh-spek-kantin.md` sudah dihapus dari folder ini
+- [ ] Kalimat di AC 5–7 milik brief-ku, bukan salinan mie jika brief-ku bukan B
 - [ ] CSS dan JS fitur belum diselesaikan
