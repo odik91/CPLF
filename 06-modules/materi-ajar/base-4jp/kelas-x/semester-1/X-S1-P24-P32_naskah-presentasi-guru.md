@@ -1,4 +1,4 @@
-# Naskah Presentasi Guru — Project S1 (P24–P32)
+# Naskah Presentasi Guru — Project S1 (P23–P32)
 
 > File guru. Jangan dibagikan apa adanya.  
 > Checklist, asesmen, dan batas tiap pertemuan tetap di `X-S1-P2x_*_guru.md`.  
@@ -38,7 +38,7 @@ Satu artefak, dari P23 sampai P33. P24–P32 tidak membuat project baru.
 
 | P | Peran hari itu (bahasa kelas) | Padanan kebiasaan kerja | Folder contoh yang diproyeksi | Yang lahir di folder siswa |
 |---|---|---|---|---|
-| 23 | Janji tertulis | Tiket: masalah, batas, cara uji | `p23-project-kickoff/` | `spek.md` + kerangka |
+| **23** | Kontrak: masalah, AC, `id`, DoD | Tiket yang tidak boleh bergeser | `p23-project-kickoff/` | `spek.md` terisi + kerangka |
 | **24** | Dinding: struktur terbaca tanpa cat | Implement struktur | `p24-html-struktur/` | `index.html` terisi |
 | **25** | Jarak dan lebar agar janji kebaca | Implement tampilan | `p25-css-keterbacaan/` | `style.css` |
 | **26** | Satu klik menepati satu janji | Implement perilaku 1 | `p26-js-fitur1/` | listener fitur 1 |
@@ -89,7 +89,7 @@ Cerita yang Anda pegang di kepala supaya sembilan pertemuan terasa satu proyek.
 | `#sorotanCadangan` | teks cadangan | sorotan teks lain |
 | “Mie Sehat tersedia.” | kalimat dari spek A | kalimat dari spek C |
 
-`id` siswa mengikuti **spek mereka**, bukan wajib `tombolUtama`. Kalau spek mereka memakai nama itu sejak P23, pertahankan. Mengganti `id` di tengah jalan memutus HTML dan JS.
+Empat `id` dikunci di P23 lewat kerangka: `pesan`, `tombolUtama`, `sorotanCadangan`, dan (jalur A) `tombolCadangan`. Nama `section` kedua dan ketiga boleh mengikuti isi, lalu dikunci juga. Mengganti `id` JS setelah P23 memutus HTML dan JS.
 
 ---
 
@@ -112,11 +112,177 @@ Cerita yang Anda pegang di kepala supaya sembilan pertemuan terasa satu proyek.
 
 ---
 
-## Sebelum blok ini dimulai (sekali, di P24)
+## Sebelum blok ini dimulai (sekali, di P23)
 
-Ucapkan di menit pertama P24, lalu cukup diingatkan satu kalimat di pertemuan berikutnya.
+Ucapkan di menit pertama P23, lalu cukup diingatkan satu kalimat di pertemuan berikutnya.
 
 > “Dari hari ini sampai P32 kita tidak membuat website baru. Kita menepati `spek.md` yang kalian tulis di P23. Contoh di layar adalah kantin. Kantin itu milik guru, untuk dilihat. Pekerjaan kalian ada di folder project sendiri. Kalau brief kalian kegiatan kelas atau panduan siswa baru, jangan menyalin mie dan es teh.”
+
+---
+
+# P23 — Kontrak sebelum membangun
+
+**180 menit · pertemuan 23/34 · pembuka Blok 4**  
+**Kerangka yang disalin siswa:** [skill-js/p23-project-kickoff/](./skill-js/p23-project-kickoff/)  
+**Demo yang Anda proyeksikan:** [contoh-spek-kantin.md](./skill-js/p23-project-kickoff/contoh-spek-kantin.md)  
+**Yang siswa isi:** `spek.md` di folder salinan mereka  
+**Handout:** [X-S1-P23_project-s1-kickoff_siswa.md](./X-S1-P23_project-s1-kickoff_siswa.md)
+
+Hari ini tidak menghasilkan halaman jadi. Yang dihasilkan adalah kontrak yang akan dicentang di P28 dan ditutup di P32: masalah, pengguna, section, empat `id`, kalimat sebelum/sesudah klik, daftar yang tidak dikerjakan, dan lima bidang Definition of Done.
+
+`contoh-spek-kantin.md` memakai kalimat yang sama dengan HTML P24, listener P26–P27, dan spek uji P28. Jangan diganti “sekalian” di tengah demo, supaya rantai contoh tidak pindah janji.
+
+### Persiapan
+
+- Papan: tiga brief A/B/C. Rotasi antar kelas paralel supaya tidak saling salin.
+- Proyektor: `spek.md` kosong (template) dan, nanti, `contoh-spek-kantin.md`.
+- `index.html` kerangka terbuka di editor, belum dihias.
+- Timer kasar: pilih brief 15' · tulis AC 40' · salin folder 30' · umpan balik 20'.
+- Stempel: maksimal dua klik. Jalur A = dua tombol. Jalur B = satu tombol, dua kalimat.
+
+### 0–10 · Orientation
+
+**Papan:** `P23 kontrak · P24 dinding · P26 klik 1 · P27 klik 2 · P32 lima bidang`
+
+> “Blok 4 bukan tag baru. Ini satu halaman yang kalian janjikan hari ini, lalu kalian tepati sampai garis akhir. Hari ini tidak mewarnai dan tidak memasang klik. Hari ini mengunci kalimat yang nanti harus muncul. Kalau kalimatnya ‘keren’, tidak ada orang yang bisa mencentang lulus.”
+
+**Siswa:** tulis di buku, satu kata: siapa pengguna yang mereka bayangkan. Belum memilih brief.
+
+### 10–30 · Scaffold tiga brief
+
+Bacakan tabel brief. Untuk masing-masing, dua pertanyaan:
+
+> “Penggunanya siapa? Kalau halaman ini tidak ada, mereka gagal mengetahui apa?”
+
+| Brief | Pengguna | Gagal mengetahui |
+|---|---|---|
+| A kegiatan | Pengunjung / orang tua | Tiga kegiatan kelas |
+| B kantin | Siswa saat istirahat | Menu dan status hari ini |
+| C siswa baru | Siswa baru | Info madrasah yang tercecer |
+
+> “Artefaknya satu file HTML, satu CSS, satu JS. Bukan aplikasi. Bukan banyak halaman. Dua klik paling banyak.”
+
+**Papan — dua jalur, gambar sebelum mereka memilih:**
+
+```text
+Jalur A: tombol 1 mengubah #pesan. Tombol 2 mengubah #sorotanCadangan.
+Jalur B: tombol 1 saja. Klik pertama kalimat A. Klik kedua kalimat B.
+```
+
+### 30–50 · Pilih dan potong
+
+Siswa menulis brief di sudut buku. Lalu daftar “tidak dikerjakan”, minimal empat butir yang sudah tercetak di `spek.md` plus satu butir milik mereka.
+
+Kartu merah yang Anda sebut keras jika muncul: form yang terkirim, halaman kedua, library, tombol ketiga, animasi sebagai syarat, menyalin latihan P22 lalu mengganti judul.
+
+**We do 5 menit:** satu siswa menyebut fitur “live chat ke kantin”. Kelas menaruhnya di daftar tidak dikerjakan. “Itu janji di luar semester ini.”
+
+### 50–65 · Trap
+
+Tulis di papan AC buruk:
+
+> “UI-nya keren dan modern.”
+
+Ubah bersama menjadi tiga baris yang bisa dicentang. Pakai bentuk AC 5–6, kalimat kantin hanya sebagai contoh bentuk:
+
+> “Sebelum klik, `#pesan` berisi: Belum dicek. Klik tombol untuk status menu utama.”  
+> “Setelah klik `#tombolUtama`, `#pesan` berisi: Mie Sehat tersedia.”  
+> “Ada 3 section, masing-masing punya h2.”
+
+> “Kata ‘berubah’, ‘menarik’, dan ‘lengkap’ tidak lulus. Yang lulus adalah kalimat utuh yang bisa dibaca orang lain di layar.”
+
+### 65–85 · Concept
+
+**Layar:** gulir `spek.md` template. Berhenti di empat bagian, jangan membacakan seluruh file:
+
+1. Masalah + pengguna  
+2. Tabel alamat (`pesan`, `tombolUtama`, `sorotanCadangan`, `tombolCadangan`)  
+3. Tabel AC 1–9, tiap baris punya bidang: Struktur, Keterbacaan, Perilaku, Sopan  
+4. Tabel DoD lima bidang — “ini garis akhir P32. AC adalah buktinya. Hari ini kalian menulis buktinya, belum mengerjakannya.”
+
+**Papan:**
+
+| Bidang P32 | Ditulis hari ini | Dikerjakan |
+|---|---|---|
+| Spek | masalah, pengguna, brief | dikunci hari ini |
+| Struktur | AC 1–3, `id` | P24 |
+| Keterbacaan | AC 4 | P25 |
+| Perilaku | AC 5–8, kalimat persis | P26–P27 |
+| Sopan | AC 9, label tombol | P31 |
+
+> “Definition of Done artinya: selesai bukan karena kalian merasa selesai. Selesai karena lima bidang ini lulus, atau yang gagal tetap tertulis. Menghapus AC supaya kelihatan lulus tidak menghitung.”
+
+### 85–95 · Practice mini
+
+Berpasangan. Tukar dua kalimat AC. Pertanyaan wajib:
+
+> “Bisakah aku menguji ini tanpa bertanya maksudmu?”
+
+Yang gagal uji: kembalikan, minta kalimat sebelum/sesudah. 8 menit.
+
+### 95–120 · Setup + I do
+
+Siswa menyalin folder `p23-project-kickoff`, mengganti nama, **menghapus `contoh-spek-kantin.md` dari salinan**. Anda tetap membuka file itu di komputer guru.
+
+I do pada template kosong, isi hanya tiga sel sambil bersuara, lalu buka demo lengkap:
+
+> “Brief B. Pengguna: siswa kelas X saat istirahat. Masalah: menu tidak ada di satu tempat. AC 6 saya tulis utuh: Setelah klik `#tombolUtama`, `#pesan` berisi Mie Sehat tersedia. Titik. Bukan ‘status berubah’.”
+
+Buka `contoh-spek-kantin.md`. Tunjuk bahwa AC 6 demo = kalimat yang akan dipakai `textContent` di P26, dan AC 8 = klik tombol utama lagi setelah fitur 2.
+
+Tunjuk `index.html` kerangka: `id="pesan"`, `id="tombolUtama"`, `id="sorotanCadangan"` sudah ada. Tombol kedua belum ada. “Jalur A menambahkan tombol itu di P27, dengan `id` yang sudah kalian tulis hari ini.”
+
+`script.js`: “Hanya log. Jangan diisi kalimat AC hari ini.”
+
+### 120–150 · Practice
+
+Siswa mengisi `spek.md` sendiri dan menyamakan teks awal plus label tombol di `index.html`.
+
+**Keliling, urutan ini:**
+
+1. “Penggunanya siapa, dalam satu napas?”
+2. “Bacakan AC 6. Apakah itu kalimat utuh?”
+3. “Jalur A atau B? Tunjuk yang kamu coret.”
+4. “`id` di HTML sama dengan tabel?”
+
+**Kalau macet di kalimat:** “Sebelum diklik, pengguna membaca apa? Sesudah diklik, satu fakta apa yang mereka dapat?” Jangan Anda yang mengarang faktanya.  
+**Kalau menyalin mie ke brief A atau C:** “Tutup file demo. Pola tabelnya sudah di spekmu. Kalimatnya dari kegiatanmu atau dari panduan siswa baru.”  
+**Kalau mulai mengisi CSS:** “AC 4 sudah tertulis. Pengerjaannya P25.”
+
+### 150–165 · Umpan balik
+
+Dua menit per siswa, atau sampel 6 siswa jika kelas besar. Hanya dua jenis komentar:
+
+- “AC nomor … belum berupa kalimat yang bisa dicentang.”
+- “Ini masuk daftar tidak dikerjakan.” (fitur ketiga, library, halaman lain)
+
+Jangan membahas warna.
+
+### 165–180 · Reflect
+
+**Exit, dikumpulkan dari spek (boleh foto bagian atas + AC 6):**
+
+1. Brief  
+2. Masalah satu kalimat  
+3. Jalur A atau B, plus kalimat AC 6  
+4. Satu butir di daftar tidak dikerjakan  
+
+> “Besok kalian memasang dinding: section dan kalimat yang sudah ada di spek ini. `id` tidak pindah. CSS tetap kasar. Klik tetap belum.”
+
+### Kalimat brief A dan C (kalau kelas tidak memilih kantin)
+
+Jangan proyeksikan mie sebagai jawaban mereka. Tawarkan bentuk ini, mereka yang mengisi fakta:
+
+| Sel | Brief A | Brief C |
+|---|---|---|
+| `h1` | Tiga kegiatan kelas … | Panduan siswa baru … |
+| AC 5 `#pesan` | Status kegiatan belum dibuka. | Pesan untuk siswa baru belum dibuka. |
+| AC 6 setelah klik | Kegiatan pekan ini: … | Langkah pertama: lapor ke piket. |
+| AC 7 jalur A | Teks cadangan: jadwal berubah hari Jumat. | Sorotan: bawa fotokopi rapor saat daftar ulang. |
+| Tombol 1 | Cek kegiatan | Tampilkan pesan |
+| Tombol 2 | Lihat catatan | Sorot info |
+
+`id` tetap `pesan`, `tombolUtama`, `sorotanCadangan`, `tombolCadangan`.
 
 ---
 

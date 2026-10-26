@@ -22,7 +22,7 @@ P04/P12 = spek/AC. P22 = mini spiral. P23 = project yang lebih luas tetapi masih
 
 ## Etika
 
-Jangan membagikan “project contoh jadi” sebagai kunci. Kerangka boleh; isi milik siswa.
+Jangan membagikan “project contoh jadi” sebagai kunci. Kerangka boleh; isi milik siswa. `contoh-spek-kantin.md` hanya diproyeksikan saat I do, lalu siswa menghapusnya dari salinan folder.
 
 ## Checklist exit
 

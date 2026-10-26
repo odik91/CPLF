@@ -8,7 +8,7 @@
 
 ## Tujuan
 
-Menetapkan **masalah, spek, AC, dan folder project** sebelum membangun. Hari ini **bukan** hari halaman jadi.
+Mengunci **satu kontrak** di `spek.md`: masalah, pengguna, section, `id`, kalimat AC, dan lima bidang DoD. Kontrak itu yang diuji sampai P32. Hari ini **bukan** hari halaman jadi.
 
 ## Pilih satu brief
 
@@ -18,48 +18,31 @@ Menetapkan **masalah, spek, AC, dan folder project** sebelum membangun. Hari ini
 | **B** Info kantin | Menu/status tidak di satu tempat | Status menu · (opsional) ganti sorotan |
 | **C** Panduan siswa baru | Info madrasah tercecer | Pesan untuk siswa baru · (opsional) sorot teks |
 
-## Spek (5–8 poin)
+## Yang wajib terisi di `spek.md`
 
-1. …  
-2. …  
-3. …  
-4. …  
-5. …  
-6. …  
+Jangan menulis spek kedua di handout ini. Handout hanya pengingat.
 
-## AC (≥6, bisa dicentang)
+- [ ] Brief A / B / C  
+- [ ] Masalah + pengguna  
+- [ ] 2–3 section beserta teks `h2`  
+- [ ] Jalur A (dua klik) atau B (satu klik, dua kalimat) — yang lain dicoret  
+- [ ] Teks awal `#pesan`, kalimat setelah klik, label tombol  
+- [ ] AC 5, 6, dan 7 berupa kalimat utuh, bukan “keren” / “berubah”  
+- [ ] Daftar yang tidak dikerjakan  
+- [ ] Lima bidang DoD masih utuh (jangan dihapus)
 
-| No | AC | Cara uji |
-|---|---|---|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
-| 6 | | |
-
-## Bukan S1 / bukan hari ini
-
-- …  
-- …  
-- …
+`id` yang dikunci: `pesan`, `tombolUtama`, `sorotanCadangan`, `tombolCadangan` (jalur A).
 
 ## Setup folder
 
 1. Salin [p23-project-kickoff](./skill-js/p23-project-kickoff/).  
-2. Ganti nama folder, misalnya `project-s1-kantin`.  
-3. Isi `spek.md`.  
-4. Lengkapi landmark di `index.html` (judul + 2–3 `section` + `id` rencana).  
-5. Biarkan `style.css` / `script.js` hampir kosong — isi penuh di P25–P27.
+2. Ganti nama folder, misalnya `project-s1-kegiatan`.  
+3. Hapus `contoh-spek-kantin.md` dari salinanmu.  
+4. Isi `spek.md`.  
+5. Samakan teks awal dan label tombol di `index.html` dengan spek. Jangan menambah tombol kedua.  
+6. Biarkan `style.css` / `script.js` seperti kerangka — isi penuh di P25–P27.
 
-## Rencana build
-
-| Pertemuan | Rencana satu baris |
-|---|---|
-| P24 HTML | |
-| P25 CSS | |
-| P26 JS fitur 1 | |
-| P27 JS fitur 2 | |
+Rencana P24–P32 sudah ada di `spek.md`. Isi kalimat AC-mu; jangan membuat rencana kedua.
 
 ## Trap
 
@@ -70,11 +53,10 @@ Menetapkan **masalah, spek, AC, dan folder project** sebelum membangun. Hari ini
 
 ## Kriteria penerimaan hari ini
 
-- [ ] Brief dipilih  
-- [ ] Spek 5–8 poin  
-- [ ] ≥6 AC  
-- [ ] Folder + skeleton  
-- [ ] Rencana P24–P27  
+- [ ] `spek.md` terisi (masalah, jalur A/B, AC 5–7 berupa kalimat)  
+- [ ] `id` di HTML sama dengan tabel alamat  
+- [ ] `contoh-spek-kantin.md` tidak ada di folder salinan  
+- [ ] CSS/JS fitur belum diselesaikan  
 - [ ] Belum mengklaim “project selesai”
 
 ## Exit

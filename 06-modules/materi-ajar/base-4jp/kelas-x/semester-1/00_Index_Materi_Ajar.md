@@ -20,7 +20,7 @@ Setiap `*_guru.md` harus **mandiri dipakai mengajar**, pola P01:
 | CSS skill + contoh file | [00_Bacaan_Panduan_CSS.md](./00_Bacaan_Panduan_CSS.md) · folder [skill-css/](./skill-css/) | **Setelah skill HTML / P07** · **sebaiknya sebelum atau saat P08** |
 | JS latihan vanilla | folder [skill-js/](./skill-js/) | **Mulai P13** · Node.js atau Console browser · komentar hanya definisi/panduan |
 
-Naskah presentasi proyek P24–P32 (ucapan, layar, contoh kantin): [X-S1-P24-P32_naskah-presentasi-guru.md](./X-S1-P24-P32_naskah-presentasi-guru.md).
+Naskah presentasi proyek P23–P32 (ucapan, layar, kontrak kickoff, contoh kantin): [X-S1-P24-P32_naskah-presentasi-guru.md](./X-S1-P24-P32_naskah-presentasi-guru.md).
 
 | P | File |
 |---|------|
@@ -46,7 +46,7 @@ Naskah presentasi proyek P24–P32 (ucapan, layar, contoh kantin): [X-S1-P24-P32
 | 20 | [guru](./X-S1-P20_debugging-vanilla_guru.md) · [siswa](./X-S1-P20_debugging-vanilla_siswa.md) · [bacaan](./X-S1-P20_bacaan-mimi-robi.md) · [bug](./skill-js/p20-debug-bug.js) · [solusi](./skill-js/p20-debug-solusi.js) |
 | 21 | [guru](./X-S1-P21_dom-event-pertama_guru.md) · [siswa](./X-S1-P21_dom-event-pertama_siswa.md) · [bacaan](./X-S1-P21_bacaan-mimi-robi.md) · [latihan](./skill-js/p21-dom-event/) |
 | 22 | [guru](./X-S1-P22_integrasi-review-spiral_guru.md) · [siswa](./X-S1-P22_integrasi-review-spiral_siswa.md) · [bacaan](./X-S1-P22_bacaan-mimi-robi.md) · [latihan](./skill-js/p22-integrasi-mini/) |
-| 23 | [guru](./X-S1-P23_project-s1-kickoff_guru.md) · [siswa](./X-S1-P23_project-s1-kickoff_siswa.md) · [bacaan](./X-S1-P23_bacaan-mimi-robi.md) · [kerangka](./skill-js/p23-project-kickoff/) |
+| 23 | [guru](./X-S1-P23_project-s1-kickoff_guru.md) · [siswa](./X-S1-P23_project-s1-kickoff_siswa.md) · [bacaan](./X-S1-P23_bacaan-mimi-robi.md) · [kerangka](./skill-js/p23-project-kickoff/) · [demo spek kantin](./skill-js/p23-project-kickoff/contoh-spek-kantin.md) |
 | 24 | [guru](./X-S1-P24_project-s1-html_guru.md) · [siswa](./X-S1-P24_project-s1-html_siswa.md) · [bacaan](./X-S1-P24_bacaan-mimi-robi.md) · [contoh](./skill-js/p24-html-struktur/) |
 | 25 | [guru](./X-S1-P25_project-s1-css_guru.md) · [siswa](./X-S1-P25_project-s1-css_siswa.md) · [bacaan](./X-S1-P25_bacaan-mimi-robi.md) · [contoh](./skill-js/p25-css-keterbacaan/) |
 | 26 | [guru](./X-S1-P26_project-s1-js-fitur1_guru.md) · [siswa](./X-S1-P26_project-s1-js-fitur1_siswa.md) · [bacaan](./X-S1-P26_bacaan-mimi-robi.md) · [contoh](./skill-js/p26-js-fitur1/) |

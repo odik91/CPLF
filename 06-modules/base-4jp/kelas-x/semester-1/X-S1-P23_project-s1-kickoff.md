@@ -70,7 +70,7 @@ Guru paralel: rotasi A/B/C antar kelas agar tidak saling salin.
 | **Kickoff** | Menetapkan masalah, batas, dan bukti lulus sebelum membangun |
 | **Spek** | Apa yang harus ada (struktur, tampilan, perilaku) |
 | **AC** | Syarat lulus yang bisa diuji tanpa debat selera |
-| **DoD mini** | Spek + AC + kerangka siap untuk P24 |
+| **DoD** | Lima bidang yang ditulis di `spek.md` hari ini (spek, struktur, keterbacaan, perilaku, sopan) dan diuji di P32. Hari ini yang diserahkan: spek terisi + kerangka, bukan halaman jadi |
 | **Kerangka** | Folder dan file kosong/berisi landmark, bukan isi lengkap |
 
 ## Setup folder

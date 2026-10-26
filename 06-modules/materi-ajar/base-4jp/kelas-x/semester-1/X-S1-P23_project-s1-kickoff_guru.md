@@ -1,7 +1,9 @@
 # Materi Ajar Guru — X-S1-P23
 ## Project S1 Kickoff (4JP) · pembuka Blok 4
 
-> File guru lengkap. Jangan dibagikan apa adanya.
+> File guru lengkap. Jangan dibagikan apa adanya.  
+> Naskah yang dibaca di kelas: [X-S1-P24-P32_naskah-presentasi-guru.md](./X-S1-P24-P32_naskah-presentasi-guru.md) · bagian **P23**.  
+> Demo spek (jangan dijadikan pekerjaan siswa): [contoh-spek-kantin.md](./skill-js/p23-project-kickoff/contoh-spek-kantin.md). Siswa mengisi `spek.md` di salinan folder, lalu menghapus file demo itu.
 
 ## Metadata & batas
 
