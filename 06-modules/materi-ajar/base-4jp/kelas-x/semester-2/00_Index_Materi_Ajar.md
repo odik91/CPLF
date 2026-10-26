@@ -14,5 +14,6 @@ Rujukan: [00_Taksonomi_Bloom_CPLF_4JP](../../../../base-4jp/kelas-x/00_Taksonomi
 | P | File |
 |---|------|
 | 01 | [guru](./X-S2-P01_recall-dom-query_guru.md) · [siswa](./X-S2-P01_recall-dom-query_siswa.md) · [bacaan](./X-S2-P01_bacaan-mimi-robi.md) · [latihan](./skill-js/p01-recall-dom-query/) |
+| 02 | [guru](./X-S2-P02_dom-update-aman_guru.md) · [siswa](./X-S2-P02_dom-update-aman_siswa.md) · [bacaan](./X-S2-P02_bacaan-mimi-robi.md) · [latihan](./skill-js/p02-dom-update-aman/) |
 
-P02–P32: belum.
+P03–P32: belum.
