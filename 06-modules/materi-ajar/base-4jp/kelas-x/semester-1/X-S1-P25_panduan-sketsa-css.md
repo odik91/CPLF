@@ -21,18 +21,7 @@ Urutan tempel di `style.css`: sketsa 1, lalu 2, 3, 4, 5, 6. Flex dan gambar di b
 
 Keinginan: isi halaman tidak melebar seisi monitor. Di layar lebar, kolom duduk di tengah. Di layar sempit, kolom ikut menyempit dan tidak terpotong.
 
-```text
-layar lebar                              layar sempit
-+----------------------------------+     +------------------+
-|                                  |     | +--------------+ |
-|   +--------------------------+   |     | | header       | |
-|   | header                   |   |     | | main         | |
-|   | main                     |   |     | | footer       | |
-|   +--------------------------+   |     | +--------------+ |
-|                                  |     +------------------+
-+----------------------------------+
-  berhenti di 40rem, di tengah         ikut lebar layar
-```
+![Layar lebar: kolom header, main, dan footer di tengah. Layar sempit: kolom yang sama ikut lebar jendela.](./assets/p25-sketsa/p25-sketsa-01-kolom-tengah.jpg)
 
 `margin: 0 auto` menarik elemen ke tengah hanya kalau lebarnya lebih kecil dari layar. `max-width` yang menghentikan pelebaran. `width: 100%` membuat kolom memakai layar saat jendela lebih sempit dari 40rem.
 
@@ -54,17 +43,7 @@ Terapkan di `header`, `main`, dan `footer` sekaligus, supaya tiga bagian itu sat
 
 Keinginan: ada udara antara tepi kolom dan huruf. Tepi jendela browser tidak menambah jarak liar.
 
-```text
-jendela
-+------------------------------+
-| (margin body = 0, menempel)  |
-|  +------------------------+  |
-|  | padding                |  |
-|  |   huruf di sini        |  |
-|  |                        |  |
-|  +------------------------+  |
-+------------------------------+
-```
+![Padding adalah ruang kosong di dalam tepi. Line-height adalah jarak antar dua baris huruf. Margin body bernilai 0.](./assets/p25-sketsa/p25-sketsa-02-padding.jpg)
 
 ```css
 body {
@@ -87,17 +66,7 @@ footer {
 
 Keinginan: setelah satu bagian selesai, ada celah sebelum judul bagian berikutnya.
 
-```text
-+------------------------+
-| h2  Sorotan            |
-| paragraf               |
-+------------------------+
-          celah
-+------------------------+
-| h2  Menu               |
-| daftar                 |
-+------------------------+
-```
+![Dua section, Sorotan dan Menu, dengan celah kosong di antaranya.](./assets/p25-sketsa/p25-sketsa-03-celah-section.jpg)
 
 ```css
 section {
@@ -113,11 +82,7 @@ Terapkan di `section`.
 
 Keinginan: mata langsung menemukan `h1`, lalu `h2`, baru paragraf.
 
-```text
-INFO MENU HARI INI          ← h1, paling besar
-  Sorotan                   ← h2, sedang
-  Belum dicek. ...          ← p, tetap ukuran biasa
-```
+![h1 paling besar, h2 sedang, paragraf tetap ukuran biasa.](./assets/p25-sketsa/p25-sketsa-04-ukuran-judul.jpg)
 
 ```css
 h1 {
@@ -139,12 +104,7 @@ Terapkan di `h1` dan `h2`. Paragraf tidak perlu diperkecil.
 
 Keinginan: huruf gelap di bidang terang. Ganti kedua warna sekaligus kalau kamu ingin suasana lain. Jangan hanya mengganti salah satu sampai huruf menjadi pucat.
 
-```text
-+------------------------+
-| latar terang           |
-|  teks gelap            |
-+------------------------+
-```
+![Teks gelap mudah dibaca di latar terang. Teks pucat di latar yang sama sulit dibaca.](./assets/p25-sketsa/p25-sketsa-05-kontras.jpg)
 
 ```css
 body {
@@ -162,13 +122,7 @@ Terapkan di `body`, digabung dengan `margin` dan `line-height` dari sketsa 2. `f
 
 Keinginan: tombol bukan kalimat polos. Ada ruang di dalam kotak, ada garis tepi, kursor berubah saat diarahkan.
 
-```text
-paragraf status
-
-+------------------+
-| Cek status menu  |
-+------------------+
-```
+![Kalimat polos bukan tombol. Kotak bergaris dengan tulisan Cek status menu terlihat bisa diklik.](./assets/p25-sketsa/p25-sketsa-06-tombol.jpg)
 
 ```css
 button {
@@ -190,23 +144,7 @@ P09 sudah memakai flex untuk menu `nav`: anak-anak sejajar, ada celah, dan turun
 
 Kerjakan sketsa ini hanya jika halamanmu sudah punya `ul` di dalam `section`. Jangan menambah section baru demi flex. Jangan menaruh `display: flex` di `body`.
 
-```text
-layar lebar
-+------------+  +------------+  +------------+
-| Bakti      |  | Lomba      |  | Kerja      |
-| sosial     |  | cerdas     |  | bakti      |
-+------------+  +------------+  +------------+
-
-layar sempit
-+------------+  +------------+
-| Bakti      |  | Lomba      |
-| sosial     |  | cerdas     |
-+------------+  +------------+
-+------------+
-| Kerja      |
-| bakti      |
-+------------+
-```
+![Layar lebar: tiga kartu kegiatan sejajar. Layar sempit: kartu ketiga turun ke baris baru.](./assets/p25-sketsa/p25-sketsa-07-flex-daftar.jpg)
 
 ```css
 section ul {
@@ -234,18 +172,7 @@ Kalau spekmu tidak punya daftar, lewati sketsa ini. AC keterbacaan tetap bisa lu
 
 Satu gambar di dalam section yang sudah ada. Gambar menyempit bersama kolom, tidak mendorong halaman melebihi `max-width`.
 
-```text
-kolom
-+------------------------+
-| h2                     |
-| +--------------------+ |
-| |                    | |
-| |      gambar        | |
-| |                    | |
-| +--------------------+ |
-| paragraf               |
-+------------------------+
-```
+![Satu gambar di dalam kolom, lebarnya mengikuti kolom, dengan kalimat di bawahnya.](./assets/p25-sketsa/p25-sketsa-08-gambar-kolom.jpg)
 
 Di HTML, di dalam section yang sudah kamu tulis di P24:
 
