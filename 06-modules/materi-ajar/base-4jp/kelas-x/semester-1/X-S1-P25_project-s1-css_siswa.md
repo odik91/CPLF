@@ -5,6 +5,7 @@
 **Modul:** [X-S1-P25_project-s1-css.md](../../../../base-4jp/kelas-x/semester-1/X-S1-P25_project-s1-css.md)  
 **Bacaan:** [X-S1-P25_bacaan-mimi-robi.md](./X-S1-P25_bacaan-mimi-robi.md)  
 **Panduan CSS:** [00_Bacaan_Panduan_CSS.md](./00_Bacaan_Panduan_CSS.md)  
+**Sketsa siap tempel:** [X-S1-P25_panduan-sketsa-css.md](./X-S1-P25_panduan-sketsa-css.md) — buka ini kalau kamu ingin melihat bentuknya sebelum bertanya. Sketsa 1–6 menepati AC. Flex dan gambar adalah eksplorasi.  
 **Contoh pola:** [skill-js/p25-css-keterbacaan/](./skill-js/p25-css-keterbacaan/)
 
 Kerjakan di **folder projectmu** (`style.css`). Jangan menimpa HTML P24 kecuali typo.

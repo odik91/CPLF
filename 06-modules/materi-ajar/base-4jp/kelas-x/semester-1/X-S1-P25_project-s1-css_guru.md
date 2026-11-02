@@ -12,6 +12,7 @@
 | Fokus | `max-width` · spacing · hierarki · kontras · CSS terpisah |
 | Dilarang | Bongkar HTML · JS fitur · framework · lomba palet |
 | Handout | [X-S1-P25_project-s1-css_siswa.md](./X-S1-P25_project-s1-css_siswa.md) |
+| Sketsa siswa | [X-S1-P25_panduan-sketsa-css.md](./X-S1-P25_panduan-sketsa-css.md) — minimum AC = sketsa 1–6. Flex daftar dan satu `img` = eksplorasi, bukan syarat lulus |
 | Bacaan | [X-S1-P25_bacaan-mimi-robi.md](./X-S1-P25_bacaan-mimi-robi.md) |
 | Contoh | [skill-js/p25-css-keterbacaan/](./skill-js/p25-css-keterbacaan/) |
 
